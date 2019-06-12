@@ -1,0 +1,68 @@
+{
+  "quotes": {
+    "AAPL": {
+      "graph": {
+        "someKey": "someValue"
+      },
+      "companyInfo": {
+        "symbol": "AAPL",
+        "companyName": "Apple Inc.",
+        "exchange": "NASDAQ",
+        "description": "Apple Inc is an American multinational technology company. It designs.....",
+        "link": "www.apple.com",
+        "topPeers": [
+          "MSFT",
+          "NOK",
+          "IBM",
+          "BBRY",
+          "HPQ"
+        ]
+      },
+      "companyKeyStats": {
+        "previousClose": 158.73,
+        "dayRange": {
+          "min": 153.25,
+          "max": 154.80
+        },
+        "volume": 20567140,
+        "marketCap": 760334287200,
+        "peRatio": 16.86,
+        "Open": 154.00,
+        "fiftyTwoWeekRange": {
+          "min": 93.63,
+          "max": 159.65
+        },
+        "totalAverageVolume": 29623234,
+        "earningsPerShare": "2.1",
+        "dividendAndYield": 1.73
+      },
+      "companyLatestNews": [
+        {
+          "newsTitle": "Some news article title",
+          "timePublished": "1hr ago",
+          "publishingSite": "WSJ"
+        },
+        {
+          "newsTitle": "Some news article title",
+          "timePublished": "1hr ago",
+          "publishingSite": "WSJ"
+        },
+        {
+          "newsTitle": "Some news article title",
+          "timePublished": "1hr ago",
+          "publishingSite": "WSJ"
+        },
+        {
+          "newsTitle": "Some news article title",
+          "timePublished": "1hr ago",
+          "publishingSite": "WSJ"
+        },
+        {
+          "newsTitle": "Some news article title",
+          "timePublished": "1hr ago",
+          "publishingSite": "WSJ"
+        }
+      ]
+    }
+  }
+}
