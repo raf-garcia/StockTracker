@@ -4,22 +4,28 @@ import './css/index.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 
-// function tests
+// ~~~~~~~~~~~~~~~~~~~~~ TESTING ONLY START
+
+// import { fetchCompanyNews } from './actions/quotes_action';
 import {
-  fetchCompanyQuote,
-  fetchMarketNews,
-  fetchCompanyEPS,
-  fetchDividendYield,
+  fetchCompanyNews,
   fetchCompanyInformation,
-  batchInfo
+  fetchCompanyEPS,
+  fetchDividendYield
 } from './api/iex_api_util';
 
-window.fetchCompanyQuote = fetchCompanyQuote;
-window.fetchMarketNews = fetchMarketNews;
+
+// action tests
+// window.fetchCompanyNews = fetchCompanyNews;
+
+// API call(s) tests
 window.fetchCompanyEPS = fetchCompanyEPS;
-window.fetchDividendYield = fetchDividendYield;
+window.fetchCompanyNews = fetchCompanyNews;
 window.fetchCompanyInformation = fetchCompanyInformation;
-window.batchInfo = batchInfo;
+window.fetchDividendYield = fetchDividendYield;
+
+// ~~~~~~~~~~~~~~~~~~~~~ TESTING ONLY END
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
