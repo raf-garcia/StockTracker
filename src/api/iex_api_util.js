@@ -12,7 +12,7 @@ const quoteFilters = [
   "symbol",
   "companyName",
   "open",
-  "close",
+  "previousClose",
   "high",
   "low",
   "latestPrice",
@@ -21,7 +21,9 @@ const quoteFilters = [
   "marketCap",
   "peRatio",
   "week52High",
-  "week52Low"
+  "week52Low",
+  "change",
+  "changePercent"
 ].join(',')
 
 const statsFilters = [
