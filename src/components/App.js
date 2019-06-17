@@ -6,6 +6,7 @@ import configureStore from '../store/store';
 
 import SearchInputContainer from './header/searchInputContainer';
 import TabIndex from './tab/tabIndex';
+import DisplayIndex from './display/displayIndex';
 
 // All endpoints are prefixed with: https://api.iextrading.com/1.0 /stock/aapl/price
 
@@ -19,6 +20,7 @@ function App() {
       <div>
         <h1>Adaptive</h1>
         <SearchInputContainer />
+        <DisplayIndex />
         <TabIndex />
       </div>
     </Provider>
