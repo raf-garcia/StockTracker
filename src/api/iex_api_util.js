@@ -1,6 +1,14 @@
 const API_KEY = `pk_4c9d7e256ac94209b05b3ec930d3dd60`;
-const filterResults = [
-  // from Quote
+
+// filters
+const newsFilters = [
+  "datetime",
+  "headline",
+  "url",
+  "source"
+].join(',')
+
+const quoteFilters = [
   "symbol",
   "companyName",
   "open",
@@ -12,31 +20,39 @@ const filterResults = [
   "avgTotalVolume",
   "marketCap",
   "peRatio",
+  "week52High",
+  "week52Low"
+].join(',')
 
-  // News
-  "datetime"
-];
+const statsFilters = [
+  "dividendYield"
+].join(',');
+
+const companyInfoFilters = [
+  "description",
+  "exchange",
+  "sector",
+  "website"
+].join(',')
 
 // Company Information
 export const fetchCompanyInformation = async (symbol) => {
   try {
-    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/company/?token=${API_KEY}`)
+    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/company/?filter=${companyInfoFilters}&token=${API_KEY}`)
     let json = await response.json();
-    console.log(json);
+    return json;
   }
   catch(e) {
-    console.log("Error", e);
+    console.log("Error", e);  
   }
 }
 
 // key stats
 export const fetchCompanyQuote =  async (symbol) => {
-  // let attributes = "close,high,low,latestVolume,marketCap,peRatio,open,week52high,week52low,avgTotalVolume";
-  
   try {
-    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/quote/?token=${API_KEY}`);
+    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/quote/?filter=${quoteFilters}&token=${API_KEY}`);
     let json = await response.json();
-    console.log(json);
+    return json;
   }
   catch(e) {
     console.log("Error: ", e);
@@ -47,7 +63,7 @@ export const fetchCompanyEPS = async (symbol) => {
   try {
     let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/earnings/1/actualEPS/?token=${API_KEY}`);
     let json = await response.json();
-    console.log(json);
+    return json;
   }
   catch(e) {
     console.log("Error: ", e);
@@ -56,10 +72,9 @@ export const fetchCompanyEPS = async (symbol) => {
 
 export const fetchDividendYield = async (symbol) => {
   try {
-    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/stats/dividendYield&token=${API_KEY}`);
-    debugger
+    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/stats/?filter=${statsFilters}&token=${API_KEY}`);
     let json = await response.json();
-    console.log(json);
+    return json;
   }
   catch(e) {
     console.log("Error", e);
@@ -67,42 +82,25 @@ export const fetchDividendYield = async (symbol) => {
 }
 
 // news
-export const fetchMarketNews = async (symbol) => {
+export const fetchCompanyNews = async (symbol) => {
   try {
-    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/news/last/5/?token=${API_KEY}`);
+    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/news/last/5/?filter=${newsFilters}&token=${API_KEY}`);
     let json = await response.json();
-    console.log(json);
+    return json;
+  }
+  catch(e) {
+    console.log("Error", e);
+  }
+}
+
+// peers
+export const fetchTopPeers = async (symbol) => {
+  try {
+    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/peers/?token=${API_KEY}`);
+    let json = await response.json();
+    return json;
   }
   catch(e) {
     console.log("Error: ", e);
   }
 }
-
-// batch info
-export const batchInfo = async (symbol) => {
-  try {
-    let response = await fetch(`https://cloud.iexapis.com/stable/stock/${symbol}/batch?types=quote,news,stats&filter=dividendYield&last=5&token=${API_KEY}`);
-    let json = await response.json();
-    console.log(json);
-  }
-  catch(e) {
-    console.log("Error: ", e);
-  }
-}
-
-// company overview
-
-// quote
-// Key Stats to filter
-/* 
-close (previous close)
-high, low (Day Range)
-latestVolume (volume)
-marketCap (Market Cap)
-peRatio (P/E Ratio)
-open (Open)
-week52High, week52Low (52 week range)
-avgTotalVolume (Total Avg. Volume)
-*/
-
-// 
