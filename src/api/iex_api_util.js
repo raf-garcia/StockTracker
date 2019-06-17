@@ -32,7 +32,9 @@ const companyInfoFilters = [
   "description",
   "exchange",
   "sector",
-  "website"
+  "website",
+  "symbol",
+  "companyName"
 ].join(',')
 
 // Company Information
