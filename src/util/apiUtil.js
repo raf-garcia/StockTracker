@@ -21,7 +21,9 @@ export const quoteFilters = [
   "marketCap",
   "peRatio",
   "week52High",
-  "week52Low"
+  "week52Low",
+  "change",
+  "changePercent"
 ].join(',')
 
 export const statsFilters = [
