@@ -4,22 +4,10 @@ import './css/index.css';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 
-// function tests
-import {
-  fetchCompanyQuote,
-  fetchMarketNews,
-  fetchCompanyEPS,
-  fetchDividendYield,
-  fetchCompanyInformation,
-  batchInfo
-} from './api/iex_api_util';
+// ~~~~~~~~~~~~~~~~~~~~~ TESTING ONLY START
 
-window.fetchCompanyQuote = fetchCompanyQuote;
-window.fetchMarketNews = fetchMarketNews;
-window.fetchCompanyEPS = fetchCompanyEPS;
-window.fetchDividendYield = fetchDividendYield;
-window.fetchCompanyInformation = fetchCompanyInformation;
-window.batchInfo = batchInfo;
+// ~~~~~~~~~~~~~~~~~~~~~ TESTING ONLY END
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

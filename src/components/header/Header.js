@@ -1,12 +1,11 @@
 import React from 'react';
-import Search from './search/Search'
+import SearchInputContainer from './searchInputContainer';
 
 
 const header = () => {
     return (
         <div>
-            <h1>Adaptive Stock Tracker</h1>
-            <Search />
+            <SearchInputContainer />
         </div>
     );
 };
