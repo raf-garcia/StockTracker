@@ -11,8 +11,8 @@ const _defaultState = {
   "companyInfo": {},
   "companyNews": [],
   "companyStats": {
-    "actualEPS": 0,
-    "dividendYield": 0
+    "actualEPS": null,
+    "dividendYield": null
   },
   "topPeers": []
 };

@@ -2,13 +2,14 @@ import {connect} from 'react-redux';
 import Header from './header';
 
 const mapStateToProps = state => {
-    let percentChange = String((state.quotes.companyStats.changePercent*100).toFixed(2))+"%";
+    const {companyStats, companyInfo} = state.quotes;
+    
     return {
-        exchange: state.quotes.companyInfo.exchange,
-        sector: state.quotes.companyInfo.sector,
-        latestPrice: state.quotes.companyStats.latestPrice,
-        change: state.quotes.companyStats.change,
-        changePercent: percentChange
+        exchange: companyInfo.exchange,
+        sector: companyInfo.sector,
+        latestPrice: companyStats.latestPrice,
+        change: companyStats.change,
+        changePercent: companyStats.changePercent
     };
 };
 
