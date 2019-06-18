@@ -1,13 +1,12 @@
 import React from 'react';
 
 const formatNewsTimeAgo = (timePublished) => {
-  let timeAgo = Math.floor(timePublished / 1000 / 60); // seconds
+  let timeAgo = Math.floor(timePublished / 1000 / 60);
 
-  if (timeAgo < 60) { // minutes
+  if (timeAgo < 60) {
     return timeAgo + 'min ago';
-  } else { // hours
+  } else {
     timeAgo = Math.floor(timeAgo / 60);
-    debugger
     return timeAgo === 1 ? timeAgo + 'hr ago' : timeAgo + 'hrs ago';
   }
 }
