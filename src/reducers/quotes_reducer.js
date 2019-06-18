@@ -5,7 +5,7 @@ import {
   RECEIVE_COMPANY_EPS,
   RECEIVE_DIVIDENDYIELD,
   RECEIVE_TOP_PEERS,
-} from '../actions/quotes_action';
+} from '../constants/actionTypes';
 
 const _defaultState = {
   "companyInfo": {},

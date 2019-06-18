@@ -4,7 +4,7 @@ import SearchInputContainer from './searchInputContainer';
 const header = (props) => {
     let priceOutput;
     let companyTags;
-    if (typeof props.change != "undefined"){
+    // if (typeof props.change != "undefined"){
         priceOutput = 
         <div>
             <span>latestPrice: {props.latestPrice} </span>
@@ -16,7 +16,8 @@ const header = (props) => {
             <div>
                 <span>exchange: {props.exchange}</span> <span>sector: {props.sector}</span>
             </div>
-    }
+    // }
+    console.log(props);
     return (
         <div>
             <SearchInputContainer />
