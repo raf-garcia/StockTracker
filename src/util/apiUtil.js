@@ -1,4 +1,4 @@
-export const API_KEY = `pk_4c9d7e256ac94209b05b3ec930d3dd60`;
+export const API_KEY = `pk_ba92a28c3cfe4e9fad64f233a281ec05`;
 
 // filters
 export const newsFilters = [
@@ -21,7 +21,9 @@ export const quoteFilters = [
   "marketCap",
   "peRatio",
   "week52High",
-  "week52Low"
+  "week52Low",
+  "change",
+  "changePercent"
 ].join(',')
 
 export const statsFilters = [
