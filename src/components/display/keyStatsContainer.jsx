@@ -6,7 +6,7 @@ const mapStateToProps = (state) => {
 
     return {
         companyStats: [
-            {value: companyStats.previousClose,
+            {value: companyStats.close,
             name: "Previous Close"},    
             {name: "Day Range",
             value: {high: companyStats.high,
