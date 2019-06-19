@@ -28,11 +28,11 @@ export default class SearchInput extends Component {
     fetchCompanyNews(body);
     fetchTopPeers(body);
     fetchChartDataDay(body);
-    fetchChartData(body, "5D");
-    fetchChartData(body, "1M");
-    fetchChartData(body, "1Y");
-    fetchChartData(body, "5Y");
-    fetchChartData(body, "MAX");
+    // fetchChartData(body, "5D");
+    // fetchChartData(body, "1M");
+    // fetchChartData(body, "1Y");
+    // fetchChartData(body, "5Y");
+    // fetchChartData(body, "MAX");
   }
 
   update(field) {
