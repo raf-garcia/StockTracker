@@ -17,7 +17,6 @@ const header = (props) => {
                 <span>exchange: {props.exchange}</span> <span>sector: {props.sector}</span>
             </div>
     // }
-    console.log(props);
     return (
         <div>
             <SearchInputContainer />
