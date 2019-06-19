@@ -1,13 +1,8 @@
 import React from 'react';
 import {AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer} from 'recharts';
-import {chartDayData} from './sampleChartData'
+// import {chartDayData} from './sampleChartData'
 
-const chart = (props) => {
-
-    const data = [];
-    for(let i = 0; i < chartDayData.length; i++){
-        data[i] = {name: chartDayData[i].minute, price: chartDayData[i].average};
-    }
+const chart = ({data}) => {
 
     return (
       <ResponsiveContainer width="70%" aspect={0.9} minWidth={360} maxHeight={800}>
