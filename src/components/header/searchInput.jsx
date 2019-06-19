@@ -16,7 +16,7 @@ export default class SearchInput extends Component {
       fetchCompanyNews,
       fetchTopPeers,
       fetchChartDataDay,
-      fetchChartData
+      // fetchChartData
     } = this.props;
     const { body } = this.state;
     e.preventDefault();
@@ -28,6 +28,8 @@ export default class SearchInput extends Component {
     fetchCompanyNews(body);
     fetchTopPeers(body);
     fetchChartDataDay(body);
+
+    // @TODO (Rafael): Uncomment to include fetch actions for chart data
     // fetchChartData(body, "5D");
     // fetchChartData(body, "1M");
     // fetchChartData(body, "1Y");
