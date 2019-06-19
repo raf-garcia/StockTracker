@@ -1,0 +1,129 @@
+{
+  "quotes": {
+    "companyInfo": {
+      "symbol": "AAPL",
+      "companyName": "Apple Inc.",
+      "exchange": "NASDAQ",
+      "description": "Apple Inc is an American multinational technology company. It designs.....",
+      "link": "www.apple.com"
+    },
+    "companyKeyStats": {
+      "previousClose": 158.73,
+      "low": 153.25,
+      "high": 154.80,
+      "volume": 20567140,
+      "marketCap": 760334287200,
+      "peRatio": 16.86,
+      "Open": 154.00,
+      "week52Low": 93.63,
+      "week52High": 159.65,
+      "totalAverageVolume": 29623234,
+      "earningsPerShare": "2.1",
+      "dividendAndYield": 1.73
+    },
+    "companyLatestNews": [
+      {
+        "newsTitle": "Some news article title",
+        "timePublished": "1hr ago",
+        "publishingSite": "WSJ"
+      },
+      {
+        "newsTitle": "Some news article title",
+        "timePublished": "1hr ago",
+        "publishingSite": "WSJ"
+      },
+      {
+        "newsTitle": "Some news article title",
+        "timePublished": "1hr ago",
+        "publishingSite": "WSJ"
+      },
+      {
+        "newsTitle": "Some news article title",
+        "timePublished": "1hr ago",
+        "publishingSite": "WSJ"
+      },
+      {
+        "newsTitle": "Some news article title",
+        "timePublished": "1hr ago",
+        "publishingSite": "WSJ"
+      }
+    ],
+    "topPeers": [
+      "MSFT",
+      "NOK",
+      "IBM",
+      "BBRY",
+      "HPQ"
+    ],
+    "chartData": [
+      {
+        "date": "2019-05-15",
+        "open": 186.27,
+        "close": 190.92,
+        "high": 191.75,
+        "low": 186.02,
+        "volume": 26544718,
+        "uOpen": 186.27,
+        "uClose": 190.92,
+        "uHigh": 191.75,
+        "uLow": 186.02,
+        "uVolume": 26544718,
+        "change": 0,
+        "changePercent": 0,
+        "label": "May 15",
+        "changeOverTime": 0
+      },
+      {
+        "date": "2019-05-16",
+        "open": 189.91,
+        "close": 190.08,
+        "high": 192.46,
+        "low": 188.84,
+        "volume": 33031364,
+        "uOpen": 189.91,
+        "uClose": 190.08,
+        "uHigh": 192.46,
+        "uLow": 188.84,
+        "uVolume": 33031364,
+        "change": -0.84,
+        "changePercent": -0.44,
+        "label": "May 16",
+        "changeOverTime": -0.0044
+      },
+      {
+        "date": "2019-05-17",
+        "open": 186.93,
+        "close": 189,
+        "high": 190.9,
+        "low": 186.76,
+        "volume": 32879090,
+        "uOpen": 186.93,
+        "uClose": 189,
+        "uHigh": 190.9,
+        "uLow": 186.76,
+        "uVolume": 32879090,
+        "change": -1.08,
+        "changePercent": -0.5682,
+        "label": "May 17",
+        "changeOverTime": -0.010057
+      },
+      {
+        "date": "2019-05-20",
+        "open": 183.52,
+        "close": 183.09,
+        "high": 184.34,
+        "low": 180.28,
+        "volume": 38612290,
+        "uOpen": 183.52,
+        "uClose": 183.09,
+        "uHigh": 184.34,
+        "uLow": 180.28,
+        "uVolume": 38612290,
+        "change": -5.91,
+        "changePercent": -3.127,
+        "label": "May 20",
+        "changeOverTime": -0.041012
+      }
+    ]
+  }
+}
