@@ -10,7 +10,6 @@ const api = ({ dispatch }) => next => action => {
     .then(response => response.json())
     .then(data => dispatch(success(data, timeFrame)))
     .catch(e => console.log("Error: ", e))
-
 };
 
 export default api;

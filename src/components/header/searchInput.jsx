@@ -42,7 +42,6 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    // debugger
     return (
       <form onSubmit={ this.handleSubmit }>
         <input type="text" value={ this.state.body } onChange={ this.update('body') }/>

@@ -58,7 +58,6 @@ const quotesReducer = (state = _defaultState, action) => {
       return newState  
       
     case RECEIVE_CHART_DATA:
-      debugger
       newChartData = Object.assign({}, state.chartData, { [action.timeFrame]: action.chartData });
       newState = Object.assign({}, state, {"chartData": newChartData});
       return newState;

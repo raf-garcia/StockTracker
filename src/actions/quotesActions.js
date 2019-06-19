@@ -43,7 +43,6 @@ const receiveChartDataDay = chartData => ({
 });
 
 const receiveChartData = (chartData, timeFrame) => {
-  debugger
   return {
     type: actions.RECEIVE_CHART_DATA,
     chartData,
@@ -108,7 +107,6 @@ export const fetchChartDataDay = symbol => ({
 });
 
 export const fetchChartData = (symbol, timeFrame) => {
-  debugger
   return {
     type: actions.API,
     payload: {
