@@ -4,13 +4,12 @@ export const addCommasToNumber = (number) => {
 
     if (isNaN(number)) return NaN;
 
-    if(typeof number == 'number')
+    if (typeof number == 'number')
         number = String(number);
     
-    if(number > 1000){
-        
+    if (number > 1000) {
         //get decimal part of number
-        if((Number(number) * 10) % 10) decimal = "."+number.split('.')[1];
+        if ((Number(number) * 10) % 10) decimal = "."+number.split('.')[1];
         
         number = number.split('.')[0];
     
@@ -25,7 +24,7 @@ export const addCommasToNumber = (number) => {
 }
 
 export const changeToPercent = (number) => {
-    if(isNaN(number)) return NaN;
+    if (isNaN(number)) return NaN;
 
     number = (number*100).toFixed(2);
     return String(number)+"%";
