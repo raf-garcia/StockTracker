@@ -37,6 +37,20 @@ const receiveTopPeers = topPeers => ({
   topPeers
 });
 
+const receiveChartDataDay = chartData => ({
+  type: actions.RECEIVE_CHART_DATA_DAY,
+  chartData
+});
+
+const receiveChartData = (chartData, timeFrame) => {
+  debugger
+  return {
+    type: actions.RECEIVE_CHART_DATA,
+    chartData,
+    timeFrame
+  };
+};
+
 export const fetchCompanyInformation = symbol => ({
   type: actions.API,
   payload: {
@@ -84,3 +98,23 @@ export const fetchTopPeers = symbol => ({
     success: receiveTopPeers
   }
 });
+
+export const fetchChartDataDay = symbol => ({
+  type: actions.API,
+  payload: {
+    url: `https://cloud.iexapis.com/stable/stock/${symbol}/chart/1d/?token=${API_KEY}`,
+    success: receiveChartDataDay
+  }
+});
+
+export const fetchChartData = (symbol, timeFrame) => {
+  debugger
+  return {
+    type: actions.API,
+    payload: {
+      url: `https://cloud.iexapis.com/stable/stock/${symbol}/chart/${timeFrame}/?token=${API_KEY}`,
+      success: (chartData, timeFrame) => receiveChartData(chartData, timeFrame),
+      timeFrame
+    }
+  };
+}
