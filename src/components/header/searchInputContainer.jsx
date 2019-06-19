@@ -7,7 +7,9 @@ import {
   fetchCompanyEPS,
   fetchDividendYield,
   fetchCompanyNews,
-  fetchTopPeers
+  fetchTopPeers,
+  fetchChartDataDay,
+  fetchChartData
 } from '../../actions/quotesActions';
 
 const mapDispatchToProps = dispatch => {
@@ -18,6 +20,8 @@ const mapDispatchToProps = dispatch => {
     fetchDividendYield: (symbol) => dispatch(fetchDividendYield(symbol)),
     fetchCompanyNews: (symbol) => dispatch(fetchCompanyNews(symbol)),
     fetchTopPeers: (symbol) => dispatch(fetchTopPeers(symbol)),
+    fetchChartDataDay: (symbol) => dispatch(fetchChartDataDay(symbol)),
+    fetchChartData: (symbol, timeFrame) => dispatch(fetchChartData(symbol, timeFrame))
   };
 };
 

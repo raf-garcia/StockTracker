@@ -14,7 +14,9 @@ export default class SearchInput extends Component {
       fetchCompanyEPS,
       fetchDividendYield,
       fetchCompanyNews,
-      fetchTopPeers
+      fetchTopPeers,
+      fetchChartDataDay,
+      fetchChartData
     } = this.props;
     const { body } = this.state;
     e.preventDefault();
@@ -25,6 +27,12 @@ export default class SearchInput extends Component {
     fetchDividendYield(body);
     fetchCompanyNews(body);
     fetchTopPeers(body);
+    fetchChartDataDay(body);
+    fetchChartData(body, "5D");
+    fetchChartData(body, "1M");
+    fetchChartData(body, "1Y");
+    fetchChartData(body, "5Y");
+    fetchChartData(body, "MAX");
   }
 
   update(field) {
@@ -34,7 +42,6 @@ export default class SearchInput extends Component {
   }
 
   render() {
-    // debugger
     return (
       <form onSubmit={ this.handleSubmit }>
         <input type="text" value={ this.state.body } onChange={ this.update('body') }/>

@@ -5,6 +5,8 @@ import {
   RECEIVE_COMPANY_EPS,
   RECEIVE_DIVIDENDYIELD,
   RECEIVE_TOP_PEERS,
+  RECEIVE_CHART_DATA_DAY,
+  RECEIVE_CHART_DATA
 } from '../constants/actionTypes';
 
 const _defaultState = {
@@ -14,12 +16,19 @@ const _defaultState = {
     "actualEPS": null,
     "dividendYield": null
   },
-  "topPeers": []
+  "topPeers": [],
+  "chartData": {
+    "5D": [],
+    "1M": [],
+    "5Y": [],
+    "MAX": []
+  },
+  "chartDataDay": []
 };
 
 const quotesReducer = (state = _defaultState, action) => {
   
-  let newState, newCompanyStats;
+  let newState, newCompanyStats, newChartData;
   switch(action.type) {
     case RECEIVE_COMPANY_INFO:
       newState = Object.assign({}, state, { "companyInfo": action.companyInfo });
@@ -47,6 +56,15 @@ const quotesReducer = (state = _defaultState, action) => {
     case RECEIVE_TOP_PEERS:
       newState = Object.assign({}, state, { "topPeers": action.topPeers });
       return newState  
+      
+    case RECEIVE_CHART_DATA:
+      newChartData = Object.assign({}, state.chartData, { [action.timeFrame]: action.chartData });
+      newState = Object.assign({}, state, {"chartData": newChartData});
+      return newState;
+
+    case RECEIVE_CHART_DATA_DAY:
+      newState = Object.assign({}, state, { "chartDataDay": action.chartData });
+      return newState; 
       
     default:
       return state;
