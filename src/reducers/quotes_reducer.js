@@ -1,15 +1,15 @@
 import { 
-  RECEIVE_COMPANY_INFO,
-  RECEIVE_COMPANY_NEWS,
-  RECEIVE_COMPANY_STATS,
-  RECEIVE_COMPANY_EPS,
-  RECEIVE_DIVIDENDYIELD,
-  RECEIVE_TOP_PEERS,
-  RECEIVE_CHART_DATA_DAY,
-  RECEIVE_CHART_DATA
+  SET_COMPANY_INFO,
+  SET_COMPANY_NEWS,
+  SET_COMPANY_STATS,
+  SET_COMPANY_EPS,
+  SET_DIVIDENDYIELD,
+  SET_TOP_PEERS,
+  SET_CHART_DATA_DAY,
+  SET_CHART_DATA
 } from '../constants/actionTypes';
 
-const _defaultState = {
+const defaultState = {
   "companyInfo": {},
   "companyNews": [],
   "companyStats": {
@@ -18,7 +18,7 @@ const _defaultState = {
   },
   "topPeers": [],
   "chartData": {
-    "5D": [],
+    "5DM": [],
     "1M": [],
     "5Y": [],
     "MAX": []
@@ -26,43 +26,43 @@ const _defaultState = {
   "chartDataDay": []
 };
 
-const quotesReducer = (state = _defaultState, action) => {
+const quotesReducer = (state = defaultState, action) => {
   
   let newState, newCompanyStats, newChartData;
   switch(action.type) {
-    case RECEIVE_COMPANY_INFO:
+    case SET_COMPANY_INFO:
       newState = Object.assign({}, state, { "companyInfo": action.companyInfo });
       return newState;
       
-    case RECEIVE_COMPANY_NEWS:
+    case SET_COMPANY_NEWS:
       newState = Object.assign({}, state, { "companyNews": action.companyNews });
       return newState;
 
-    case RECEIVE_COMPANY_STATS:
+    case SET_COMPANY_STATS:
       newCompanyStats = Object.assign({}, state.companyStats, action.companyStats);
       newState = Object.assign({}, state, { "companyStats": newCompanyStats });
       return newState;
       
-    case RECEIVE_DIVIDENDYIELD:
+    case SET_DIVIDENDYIELD:
       newCompanyStats = Object.assign({}, state.companyStats, { "dividendYield": action.dividendYield })
       newState = Object.assign({}, state, { "companyStats": newCompanyStats });
       return newState;
       
-    case RECEIVE_COMPANY_EPS:
+    case SET_COMPANY_EPS:
       newCompanyStats = Object.assign({}, state.companyStats, { "actualEPS": action.earningsPerShare });
       newState = Object.assign({}, state, { "companyStats": newCompanyStats });
       return newState;
 
-    case RECEIVE_TOP_PEERS:
+    case SET_TOP_PEERS:
       newState = Object.assign({}, state, { "topPeers": action.topPeers });
       return newState  
       
-    case RECEIVE_CHART_DATA:
+    case SET_CHART_DATA:
       newChartData = Object.assign({}, state.chartData, { [action.timeFrame]: action.chartData });
       newState = Object.assign({}, state, {"chartData": newChartData});
       return newState;
 
-    case RECEIVE_CHART_DATA_DAY:
+    case SET_CHART_DATA_DAY:
       newState = Object.assign({}, state, { "chartDataDay": action.chartData });
       return newState; 
       
