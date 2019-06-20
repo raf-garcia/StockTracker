@@ -1,25 +1,15 @@
 import React from 'react';
 import SearchInputContainer from './searchInputContainer';
+import PriceOutput from './priceOutput';
+import CompanyTags from './companyTags';
 
-const header = (props) => {
-    let priceOutput;
-    let companyTags;
-        priceOutput = 
-        <div>
-            <span>latestPrice: {props.latestPrice} </span>
-            <span>change: {props.change} </span>
-            <span>changePercent: {props.changePercent}</span>
-        </div>
+const header = ({latestPrice, change, changePercent, exchange, sector}) => {
 
-        companyTags = 
-            <div>
-                <span>exchange: {props.exchange}</span> <span>sector: {props.sector}</span>
-            </div>
     return (
         <div>
             <SearchInputContainer />
-            {priceOutput}
-            {companyTags}
+            <PriceOutput change={change} latestPrice={latestPrice} changePercent={changePercent}/>
+            <CompanyTags exchange={exchange} sector={sector}/>
         </div>        
     );
 }
