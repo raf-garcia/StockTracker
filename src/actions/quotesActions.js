@@ -7,112 +7,69 @@ import {
   companyInfoFilters
 } from '../util/apiUtil';
 
-const receiveCompanyInfo = companyInfo => ({
-  type: actions.RECEIVE_COMPANY_INFO,
+const setCompanyInfo = companyInfo => ({
+  type: actions.SET_COMPANY_INFO,
   companyInfo
 });
 
-const receiveCompanyNews = companyNews => ({
-  type: actions.RECEIVE_COMPANY_NEWS,
+const setCompanyNews = companyNews => ({
+  type: actions.SET_COMPANY_NEWS,
   companyNews
 });
 
-const receiveCompanyStats = companyStats => ({
-  type: actions.RECEIVE_COMPANY_STATS,
+const setCompanyStats = companyStats => ({
+  type: actions.SET_COMPANY_STATS,
   companyStats
 })
 
-const receiveCompanyEPS = earningsPerShare => ({
-  type: actions.RECEIVE_COMPANY_EPS,
+const setCompanyEPS = earningsPerShare => ({
+  type: actions.SET_COMPANY_EPS,
   earningsPerShare
 });
 
-const receiveDividendYield = ({ dividendYield }) => ({
-  type: actions.RECEIVE_DIVIDENDYIELD,
+const setDividendYield = ({ dividendYield }) => ({
+  type: actions.SET_DIVIDENDYIELD,
   dividendYield
 });
 
-const receiveTopPeers = topPeers => ({
-  type: actions.RECEIVE_TOP_PEERS,
+const setTopPeers = topPeers => ({
+  type: actions.SET_TOP_PEERS,
   topPeers
 });
 
-const receiveChartDataDay = chartData => ({
-  type: actions.RECEIVE_CHART_DATA_DAY,
+const setChartDataDay = chartData => ({
+  type: actions.SET_CHART_DATA_DAY,
   chartData
 });
 
-const receiveChartData = (chartData, timeFrame) => {
+const setChartData = (chartData, timeFrame) => {
+  debugger
   return {
-    type: actions.RECEIVE_CHART_DATA,
+    type: actions.SET_CHART_DATA,
     chartData,
     timeFrame
   };
 };
 
-export const fetchCompanyInformation = symbol => ({
+const makeUrl = (service, symbol, params) => `https://cloud.iexapis.com/stable/stock/${symbol}/${service}/?token=${API_KEY}&${params}`;
+const createAction = (service, symbol, success, params = '') => ({
   type: actions.API,
   payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/company/?filter=${companyInfoFilters}&token=${API_KEY}`,
-    success: receiveCompanyInfo
+    url: makeUrl(service, symbol, params),
+    success
   }
 });
 
-export const fetchCompanyQuote = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/quote/?filter=${quoteFilters}&token=${API_KEY}`,
-    success: receiveCompanyStats
-  }
-});
+export const fetchCompanyInformation = symbol => createAction('company', symbol, setCompanyInfo, companyInfoFilters);
+export const fetchCompanyQuote = symbol => createAction('quote', symbol, setCompanyStats, quoteFilters);
+export const fetchCompanyEPS = symbol => createAction('earnings/1/actualEPS', symbol, setCompanyEPS);
+export const fetchDividendYield = symbol => createAction('stats', symbol, setDividendYield, statsFilters);
+export const fetchCompanyNews = symbol => createAction('news/last/5', symbol, setCompanyNews, newsFilters);
+export const fetchTopPeers = symbol => createAction('peers', symbol, setTopPeers);
+export const fetchChartDataDay = symbol => createAction('chart/1d', symbol, setChartDataDay);
+export const fetchChartData = (symbol, timeFrame) => createAction(`chart/${timeFrame}`, symbol, (chartData) => setChartData(chartData, timeFrame));
 
-export const fetchCompanyEPS = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/earnings/1/actualEPS/?token=${API_KEY}`,
-    success: receiveCompanyEPS
-  }
+export const searchAction = symbol => ({
+  type: actions.SEARCH,
+  symbol
 });
-
-export const fetchDividendYield = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/stats/?filter=${statsFilters}&token=${API_KEY}`,
-    success: receiveDividendYield
-  }
-});
-
-export const fetchCompanyNews = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/news/last/5/?filter=${newsFilters}&token=${API_KEY}`,
-    success: receiveCompanyNews
-  }
-});
-
-export const fetchTopPeers = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/peers/?token=${API_KEY}`,
-    success: receiveTopPeers
-  }
-});
-
-export const fetchChartDataDay = symbol => ({
-  type: actions.API,
-  payload: {
-    url: `https://cloud.iexapis.com/stable/stock/${symbol}/chart/1d/?token=${API_KEY}`,
-    success: receiveChartDataDay
-  }
-});
-
-export const fetchChartData = (symbol, timeFrame) => {
-  return {
-    type: actions.API,
-    payload: {
-      url: `https://cloud.iexapis.com/stable/stock/${symbol}/chart/${timeFrame}/?token=${API_KEY}`,
-      success: (chartData, timeFrame) => receiveChartData(chartData, timeFrame),
-      timeFrame
-    }
-  };
-}
