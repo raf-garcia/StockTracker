@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchInputContainer from './searchInputContainer';
+import SearchInputContainer from '../search/searchInputContainer';
 import PriceOutput from './priceOutput';
 import CompanyTags from './companyTags';
 
