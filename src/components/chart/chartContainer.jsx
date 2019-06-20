@@ -6,4 +6,4 @@ const mapStateToProps = ({ quotes }) => ({
     data: selectChartDataDay(quotes.chartDataDay)
 })
 
-export default connect(mapStateToProps)(Chart);
+export default connect(mapStateToProps, null)(Chart);

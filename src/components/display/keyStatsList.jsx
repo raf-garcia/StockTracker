@@ -1,15 +1,15 @@
 import React from 'react';
-import KeyStatElement from './keyStatElement';
+import KeyStatsItem from './keyStatsItem';
 
-const keyStats = ({ companyStats }) => {
+const KeyStatsList = ({ companyStats }) => {
     return (
         <div>
             <h2>Key Stats</h2>
             <ul>
-                {companyStats.map((apiData, index) => {
+                {companyStats.map((apiData) => {
                     const { name, value } = apiData;
                     return (
-                      <KeyStatElement key={index} name={name} value={value} /> 
+                      <KeyStatsItem key={name} name={name} value={value} /> 
                     );
                 })}
             </ul>
@@ -17,4 +17,4 @@ const keyStats = ({ companyStats }) => {
     );
 }
 
-export default keyStats;
+export default KeyStatsList;
