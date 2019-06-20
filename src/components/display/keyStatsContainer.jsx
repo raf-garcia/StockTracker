@@ -56,4 +56,4 @@ const mapStateToProps = (state) => {
     };
 }
 
-export default connect(mapStateToProps)(KeyStatsList);
+export default connect(mapStateToProps, null)(KeyStatsList);
