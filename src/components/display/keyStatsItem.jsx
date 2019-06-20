@@ -1,7 +1,7 @@
 import React from 'react';
 import {addCommasToNumber } from '../../util/numberFormatter';
 
-const keyStatElement = ({name, value}) => {
+const KeyStatsItem = ({name, value}) => {
     if (!isNaN(value)){
         value = addCommasToNumber(value);
     }
@@ -12,4 +12,4 @@ const keyStatElement = ({name, value}) => {
     return <li><span>{name}</span> <span>{value}</span></li>
 }
 
-export default keyStatElement;
+export default KeyStatsItem;

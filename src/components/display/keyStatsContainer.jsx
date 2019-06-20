@@ -1,5 +1,5 @@
 import {connect} from 'react-redux';
-import KeyStats from './keyStats';
+import KeyStatsList from './keyStatsList';
 
 const mapStateToProps = (state) => {
     const {companyStats} = state.quotes;
@@ -56,4 +56,4 @@ const mapStateToProps = (state) => {
     };
 }
 
-export default connect(mapStateToProps)(KeyStats);
+export default connect(mapStateToProps)(KeyStatsList);
