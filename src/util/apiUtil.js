@@ -1,15 +1,15 @@
-export const API_KEY = `pk_3aebc3bb23f24294a66f3aafec75f87e`;
+export const API_KEY = `pk_d9c33c645c414554a5b0c9fde8708e4c`;
 
 // filters
 export const newsFilters = [
-  "datetime",
+  "filter=datetime",
   "headline",
   "url",
   "source"
 ].join(',')
 
 export const quoteFilters = [
-  "symbol",
+  "filter=symbol",
   "companyName",
   "open",
   "close",
@@ -27,11 +27,11 @@ export const quoteFilters = [
 ].join(',')
 
 export const statsFilters = [
-  "dividendYield"
+  "filter=dividendYield"
 ].join(',');
 
 export const companyInfoFilters = [
-  "description",
+  "filter=description",
   "exchange",
   "sector",
   "website",
