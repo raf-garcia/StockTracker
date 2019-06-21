@@ -7,6 +7,7 @@ const header = ({latestPrice, change, changePercent, exchange, sector}) => {
 
     return (
         <div>
+            <h1>Adaptive</h1>
             <SearchInputContainer />
             <PriceOutput change={change} latestPrice={latestPrice} changePercent={changePercent}/>
             <CompanyTags exchange={exchange} sector={sector}/>
