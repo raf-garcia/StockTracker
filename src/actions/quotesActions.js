@@ -42,14 +42,11 @@ const setChartDataDay = chartData => ({
   chartData
 });
 
-const setChartData = (chartData, timeFrame) => {
-  debugger
-  return {
+const setChartData = (chartData, timeFrame) => ({
     type: actions.SET_CHART_DATA,
     chartData,
     timeFrame
-  };
-};
+});
 
 const makeUrl = (service, symbol, params) => `https://cloud.iexapis.com/stable/stock/${symbol}/${service}/?token=${API_KEY}&${params}`;
 const createAction = (service, symbol, success, params = '') => ({
