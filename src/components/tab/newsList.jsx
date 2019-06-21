@@ -4,7 +4,7 @@ import NewsListItem from './newsListItem';
 const NewsList = ({ newsList }) => {
   return (
     <div>
-      <h4>Latest News</h4>
+      <h2>Latest News</h2>
       <ul>
         {newsList.map((news, idx) => (
           <NewsListItem key={idx} news={news} />
