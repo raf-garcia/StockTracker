@@ -20,8 +20,7 @@ export default class SearchInput extends Component {
   render() {
     return (
       <form onSubmit={ this.handleSubmit }>
-        <input type="text" value={ this.state.body } onChange={ this.update }/>
-        <button onClick={ this.handleSubmit }>Search</button>
+        <input type="text" value={ this.state.body } onChange={ this.update } placeholder="Search"/>
       </form>
     );
   }
