@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  /* COLOR VARIABLES */
+  --color-primary: #1d3c62;
+  --color-secondary: #102238;
+  --color-white: #f4f6f9;
+
+  box-sizing: border-box;
+  background-image: linear-gradient(
+    to bottom right,
+    var(--color-primary),
+    var(--color-secondary)
+  );
+  background-repeat: no-repeat;
+  color: var(--color-white);
+  font-family: 'Lato', sans-serif;
+}

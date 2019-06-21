@@ -2,7 +2,7 @@ import React from 'react';
 import ChartContainer from '../chart/chartContainer';
 import KeyStatsContainer from './keyStatsContainer';
 
-const displayIndex = () => {
+const GraphStatsWrapper = () => {
     return(
         <div>
             <ChartContainer />
@@ -11,4 +11,4 @@ const displayIndex = () => {
     );
 }
 
-export default displayIndex;
+export default GraphStatsWrapper;
