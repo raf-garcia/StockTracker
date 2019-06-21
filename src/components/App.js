@@ -11,9 +11,7 @@ const store = configureStore();
 function App() {
   return (
     <Provider store={store}>
-      <div>
         <HeaderContainer />
-      </div>
       <div>
         <GraphStatsWrapper />
         <TabIndex />
