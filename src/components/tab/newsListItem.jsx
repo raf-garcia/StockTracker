@@ -16,7 +16,11 @@ const NewsListItem = ({ news }) => {
   let timeAgo = formatNewsTimeAgo(Date.now() - datetime);
 
   return (
-    <li><a href={url}>{headline}</a> {timeAgo} - {source}</li>
+    <li>
+      <a href={url} className="section-news__list-link">{headline}
+        <span className="section-news__list-timestamp">{timeAgo} - {source}</span>
+      </a>
+    </li>
   );
 };
 

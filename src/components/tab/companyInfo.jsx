@@ -5,7 +5,7 @@ const CompanyInfo = ({ companyInfo }) => {
 
   return (
     <div>
-      <h2>Company Overview</h2>
+      <h2 className="heading-section">Company Overview</h2>
       <h2>{companyName} ({symbol})</h2>
       <span><a href={website}>{website}</a></span>
       <p>{description}</p>

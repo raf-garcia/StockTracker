@@ -7,7 +7,7 @@ import TopPeers from './topPeers';
 
 const TabIndex = ({ newsList, companyInfo, topPeers }) => {
   return (
-    <div>
+    <div className="tab">
       <NewsList newsList={newsList}/>
       <CompanyInfo companyInfo={companyInfo}/>
       <TopPeers topPeers={topPeers}/>
