@@ -2,19 +2,23 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
-}
 
-html {
-  height: 100%;
-  width: 100%;
-}
-
-body {
   /* COLOR VARIABLES */
   --color-primary: #1d3c62;
   --color-secondary: #102238;
   --color-white: #f4f6f9;
+  --color-light-grey: #8e939f;
+  --color-heading-primary: #5193fd;
+  --color-hover-primary: #ffb828;
+}
 
+html {
+  height: auto;
+  width: auto;
+  font-size: 100%;
+}
+
+body {
   box-sizing: border-box;
   background-image: linear-gradient(
     to bottom right,
@@ -24,4 +28,70 @@ body {
   background-repeat: no-repeat;
   color: var(--color-white);
   font-family: 'Lato', sans-serif;
+}
+
+#root {
+  overflow-y: auto;
+}
+
+/* General heading style */
+.heading-section {
+  text-transform: uppercase;
+  color: var(--color-heading-primary);
+  font-size: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-heading-primary);
+  margin-bottom: 5px;
+}
+
+/* Graph and Key Stats Style */
+.section-graph-stats {
+  display: inline-block;
+  margin-right: 2rem;
+  width: 40rem;
+}
+
+.section-keyStats__list-item {
+  display: flex;
+  justify-content: space-between; 
+  margin: 0.7rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--color-light-grey)
+}
+
+.section-keyStats__list-item--label {
+  font-weight: 100;
+}
+
+/* Latest News, Company Overview, Top Peers style */
+.tab {
+  display: inline-block;
+  width: 40rem;
+}
+
+/* News Styles */
+.section-news__list ul {
+  list-style: none;
+}
+
+.section-news__list ul li {
+  width: 100%;
+  margin: 5px;
+  border: 1px var(--color-white);
+}
+
+.section-news__list-link {
+  text-decoration: none;
+  color: var(--color-white);
+}
+
+.section-news__list-link:hover {
+  color: var(--color-hover-primary);
+}
+
+.section-news__list-timestamp {
+  display: block;
+  color: var(--color-light-grey);
+  font-size: 0.8rem;
+  font-weight: 300;
 }

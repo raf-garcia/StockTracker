@@ -4,7 +4,7 @@ import KeyStatsContainer from './keyStatsContainer';
 
 const GraphStatsWrapper = () => {
     return(
-        <div>
+        <div className="section-graph-stats">
             <ChartContainer />
             <KeyStatsContainer />
         </div>

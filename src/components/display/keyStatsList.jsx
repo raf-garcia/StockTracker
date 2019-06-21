@@ -3,9 +3,9 @@ import KeyStatsItem from './keyStatsItem';
 
 const KeyStatsList = ({ companyStats }) => {
     return (
-        <div>
-            <h2>Key Stats</h2>
-            <ul>
+        <div className="section-keyStats">
+            <h2 className="heading-section">Key Stats</h2>
+            <ul className="section-keyStats__list">
                 {companyStats.map((apiData) => {
                     const { name, value } = apiData;
                     return (
