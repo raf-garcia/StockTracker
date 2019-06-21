@@ -1,4 +1,4 @@
-export const API_KEY = `pk_d9c33c645c414554a5b0c9fde8708e4c`;
+export const API_KEY = `pk_0bbf1b94db064842bf5b5cff2c235185`;
 
 // filters
 export const newsFilters = [

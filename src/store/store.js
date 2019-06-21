@@ -1,6 +1,6 @@
 import { createStore, applyMiddleware } from 'redux';
 import { composeWithDevTools } from 'redux-devtools-extension';
-import rootReducer from '../reducers/root_reducer';
+import rootReducer from '../reducers/rootReducer';
 import log from '../middleware/log';
 import api from '../middleware/api';
 
