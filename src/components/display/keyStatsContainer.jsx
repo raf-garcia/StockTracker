@@ -8,4 +8,4 @@ const mapStateToProps = ({quotes}) => {
     return selectCompanyStats(companyStats);
 }
 
-export default connect(mapStateToProps)(KeyStatsList);
+export default connect(mapStateToProps, null)(KeyStatsList);
