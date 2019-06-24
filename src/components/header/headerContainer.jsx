@@ -10,7 +10,8 @@ const mapStateToProps = state => {
         sector: companyInfo.sector,
         latestPrice: companyStats.latestPrice,
         change: companyStats.change,
-        changePercent: changeToPercent(companyStats.changePercent)
+        changePercent: changeToPercent(companyStats.changePercent),
+        lastUpdate: state.lastUpdate
     };
 };
 

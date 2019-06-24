@@ -10,6 +10,9 @@ import {
   fetchChartData
 } from '../actions/quotesActions';
 
+import setUpdateTime from '../actions/updateTimeAction'
+import {getDate} from '../util/currentDate'
+
 const api = ({ dispatch }) => next => action => {
   if (action.type === actions.SEARCH) {
     const { symbol } = action;
@@ -25,6 +28,7 @@ const api = ({ dispatch }) => next => action => {
     dispatch(fetchChartData(symbol, "1Y"));
     dispatch(fetchChartData(symbol, "5Y"));
     dispatch(fetchChartData(symbol, "MAX"));
+    dispatch(setUpdateTime(getDate()));
   }
 
   if (action.type !== actions.API) {

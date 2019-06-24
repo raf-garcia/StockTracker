@@ -3,12 +3,12 @@ import CompanyTags from './companyTags';
 import MarketStatus from './marketStatus';
 
 
-const HeaderTagsLayout = ({exchange, sector}) => {
+const HeaderTagsLayout = ({exchange, sector, lastUpdate}) => {
 
     return (
        <div className="header-bottom">
            <CompanyTags exchange={exchange} sector={sector}/>
-           <MarketStatus />
+           <MarketStatus lastUpdate={lastUpdate}/>
        </div>
         
     );
