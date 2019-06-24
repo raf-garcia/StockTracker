@@ -13,7 +13,7 @@ const companyStatsReducer = (state = defaultState, action) => {
   switch(action.type) {
     case SET_COMPANY_STATS:
       return Object.assign({}, state, action.companyStats);
-
+      
     case SET_COMPANY_EPS:
       return Object.assign({}, state, { "actualEPS": action.earningsPerShare});
       
