@@ -6,6 +6,7 @@
     --color-red: #cc2a34;
     --font-size-large: 1.75rem;
     --color-dimmed: #6989af;
+    --tags-color: #476088;
 }
 
 .header-wrapper{
@@ -43,7 +44,7 @@
     justify-content: space-between;
     border-bottom:solid var(--color-dimmed) 3px;
     padding-bottom:0.5rem;
-    margin-bottom:0.5rem;
+    margin-bottom:1.25rem;
 }
 
 .header__price--change{
@@ -70,4 +71,17 @@
 .header__search-layout input::placeholder{
     color: #6989af;
     
+}
+
+/*HEADER BOTTOM*/
+.header-bottom{
+    border:solid lime 4px;
+    display: flex;
+    justify-content: space-between;
+}
+.company-tags span{
+    display: inline-block;
+    background-color: var(--tags-color);
+    margin-right: 1rem;
+    padding: 0.25rem 1rem;
 }
