@@ -75,7 +75,6 @@
 
 /*HEADER BOTTOM*/
 .header-bottom{
-    border:solid lime 4px;
     display: flex;
     justify-content: space-between;
 }

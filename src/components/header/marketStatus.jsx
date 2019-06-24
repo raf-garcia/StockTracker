@@ -1,11 +1,13 @@
 import React from 'react';
+import {getDate} from '../../util/currentDate';
 
 const MarketStatus = () => {
+
     return (
-        <>
-            <span>Real-Time Price as of [insert date here]</span>
+        <div>
+            <span>Real-Time Price as of {getDate()}</span>
             <span>[image] Market [Status]</span>
-        </>
+        </div>
     );
 }
 
