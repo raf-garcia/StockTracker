@@ -19,6 +19,8 @@ html {
 }
 
 body {
+  height:100%;
+  border:solid purple 9px;
   box-sizing: border-box;
   background-image: linear-gradient(
     to bottom right,
@@ -34,8 +36,8 @@ body {
 .section-data {
   display: flex;
   justify-content: space-between;
-  height: 100%;
   width: 100%;
+  padding-top:1.5rem;
 }
 
 /* section heading style */
@@ -51,7 +53,7 @@ body {
 /* Graph and Key Stats Style */
 .section-graph-stats {
   margin-right: 5rem;
-  height: 100vh;
+  height:100%;
   width: 70vw;
 }
 
@@ -79,14 +81,13 @@ body {
 /* Latest News, Company Overview, Top Peers style */
 .tab {
   flex-flow: column;
-  height: 100%;
   width: 30vw;
 }
 
 /* News Styles */
 .section-news__list {
   height: 70%;
-  margin: 1rem 0 1.5rem 0;
+  margin-bottom: 1.5rem;
 }
 
 .section-news__list ul {
