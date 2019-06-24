@@ -6,7 +6,7 @@ export const selectChartDataDay = (chartDataDay) => {
 
 export const selectCompanyStats = (companyData) => {
   return {
-    companyStats: [
+    companyStatsLeft: [
         {
             value: companyData.close,
             name: "Previous Close"
@@ -29,7 +29,9 @@ export const selectCompanyStats = (companyData) => {
         {
             value: companyData.peRatio,
             name: "P/E Ratio"
-        },
+        }
+    ],
+    companyStatsRight: [
         {
             value: companyData.open,
             name: "Open"
