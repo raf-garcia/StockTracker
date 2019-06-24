@@ -1,7 +1,7 @@
 import {changeToPercent } from './numberFormatter';
 
 export const selectChartDataDay = (chartDataDay) => {
-  return chartDataDay.filter(data => data.average).map(data => ({ name: data.minute, price: data.average }));
+  return chartDataDay.filter(data => data.average).map(data => ({ name: data.label, price: data.average }));
 };
 
 export const selectCompanyStats = (companyData) => {
@@ -58,3 +58,7 @@ export const selectCompanyStats = (companyData) => {
     ]
 };
 }
+
+const dateFormatter = date => date.split('-')[1] + "-" + date.split('-')[2];
+
+export const selectChartDataFiveDay = array => array.filter(data => data.average).map(data => ({ name: dateFormatter(data.date), price: data.average })).reverse();
