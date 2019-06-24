@@ -1,18 +1,29 @@
 import React from 'react';
 import KeyStatsItem from './keyStatsItem';
 
-const KeyStatsList = ({ companyStats }) => {
+const KeyStatsList = ({ companyStatsLeft, companyStatsRight }) => {
     return (
         <div className="section-keyStats">
             <h2 className="heading-section">Key Stats</h2>
-            <ul className="section-keyStats__list">
-                {companyStats.map((apiData) => {
-                    const { name, value } = apiData;
-                    return (
-                      <KeyStatsItem key={name} name={name} value={value} /> 
-                    );
-                })}
-            </ul>
+            <div className="section-keyStats__list">
+                <ul>
+                    {companyStatsLeft.map((apiData) => {
+                        const { name, value } = apiData;
+                        return (
+                            <KeyStatsItem key={name} name={name} value={value} />
+                        );
+                    })}
+                </ul>
+
+                <ul>
+                    {companyStatsRight.map((apiData) => {
+                        const { name, value } = apiData;
+                        return (
+                            <KeyStatsItem key={name} name={name} value={value} />
+                        );
+                    })}
+                </ul>
+            </div>
         </div>
     );
 }
