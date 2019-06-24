@@ -2,10 +2,10 @@ import React from 'react';
 
 const TopPeers = ({ topPeers }) => {
   return (
-    <div>
+    <div className="section-topPeers">
       <h2 className="heading-section">Top Peers</h2>
       {topPeers.map((peer, idx) => (
-        <span key={idx}>{peer} </span>
+        <span className='section-topPeers__peer' key={idx}>{peer} </span>
       ))}
     </div>
   );
