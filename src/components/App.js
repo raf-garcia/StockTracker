@@ -5,14 +5,16 @@ import HeaderContainer from './header/headerContainer';
 import GraphStatsWrapper from './display/graphStatsWrapper';
 import TabIndex from './tab/tabIndex';
 import '../css/App.css';
+import { setSampleState } from '../sampleState';
 
-const store = configureStore();
+const store = configureStore(setSampleState());
+window.store = store;
 
 function App() {
   return (
     <Provider store={store}>
         <HeaderContainer />
-      <div>
+      <div className="section-data">
         <GraphStatsWrapper />
         <TabIndex />
       </div>
