@@ -2,7 +2,7 @@ import React from 'react'
 
 const CompanyTags = ({exchange, sector}) =>{
     return(
-        <div>
+        <div className='company-tags'>
             <span>exchange: {exchange}</span>
             {' '}
             <span>sector: {sector}</span>

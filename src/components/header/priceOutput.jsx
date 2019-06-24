@@ -3,9 +3,13 @@ import React from 'react';
 const PriceOutput = ({latestPrice, change, changePercent}) => {
     return (
     <>
-        <span>latestPrice: {latestPrice} </span>
-        <span>change: {change} </span>
-        <span>changePercent: {changePercent}</span>
+        <div className="header__price">
+            <span>{latestPrice}</span>
+            <div className="header__price--change">
+                <span>{change}</span>
+                <span>{changePercent}</span>
+            </div>
+        </div>
     </>
     );
 }

@@ -1,18 +1,18 @@
 import React from 'react';
-import SearchInputContainer from '../search/searchInputContainer';
-import PriceOutput from './priceOutput';
-import CompanyTags from './companyTags';
-import { AdaptiveLogo } from './adaptiveLogo';
+import HeaderTagsLayout from './headerTagsLayout';
+import LogoTabsLayout from './logoTabsLayout';
+import SearchPriceLayout from './searchPriceLayout';
+
+import './header.css'
 
 const header = ({latestPrice, change, changePercent, exchange, sector}) => {
 
     return (
-        <div>
-            <AdaptiveLogo />
-            <SearchInputContainer />
-            <PriceOutput change={change} latestPrice={latestPrice} changePercent={changePercent}/>
-            <CompanyTags exchange={exchange} sector={sector}/>
-        </div>        
+        <div className="header-wrapper">
+            <LogoTabsLayout/>
+            <SearchPriceLayout/>
+            <HeaderTagsLayout exchange={exchange} sector={sector}/>
+        </div>
     );
 }
 
