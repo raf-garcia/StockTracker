@@ -10,7 +10,7 @@ const header = ({latestPrice, change, changePercent, exchange, sector}) => {
     return (
         <div className="header-wrapper">
             <LogoTabsLayout/>
-            <SearchPriceLayout/>
+            <SearchPriceLayout latestPrice={latestPrice} change={change} changePercent={changePercent}/>
             <HeaderTagsLayout exchange={exchange} sector={sector}/>
         </div>
     );
