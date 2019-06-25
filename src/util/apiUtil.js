@@ -1,4 +1,4 @@
-export const API_KEY = `pk_e479d73242d545a2af4d509d722ce4ec`;
+export const API_KEY = `pk_ab51846bce904c91983be92734acee97`;
 
 // filters
 export const newsFilters = [
@@ -38,3 +38,11 @@ export const companyInfoFilters = [
   "symbol",
   "companyName"
 ].join(',')
+
+export const chartDataFilters = [
+  "filter=date",
+  "minute",
+  "label",
+  "close",
+  "average"
+].join(',');

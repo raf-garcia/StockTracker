@@ -1,7 +1,7 @@
 import React, { useCallback, useState } from 'react';
 import SearchListContainer from '../searchList/searchListContainer';
 
-export const SearchInput = ({ searchAction }) => {
+const SearchInput = ({ searchAction }) => {
   const [searchText, setSearchText] = useState('');
 
   const handleSubmit = useCallback(event => {

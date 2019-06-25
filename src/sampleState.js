@@ -9035,6 +9035,31958 @@ export const setSampleState = () => ({
         "changeOverTime": -0.0008144714482507854,
         "marketChangeOverTime": -0.00030180327456554045
       }
-    ]
+    ],
+
+    chartData: {
+      "fiveDay": [
+        {
+          "date": "2019-06-24",
+          "minute": "09:30",
+          "label": "09:30 AM",
+          "high": 199.13,
+          "low": 198.26,
+          "average": 198.802,
+          "volume": 4615,
+          "notional": 917470.73,
+          "numberOfTrades": 64,
+          "marketHigh": 199.28,
+          "marketLow": 198.17,
+          "marketAverage": 198.634,
+          "marketVolume": 406173,
+          "marketNotional": 80679918.2124,
+          "marketNumberOfTrades": 884,
+          "open": 198.605,
+          "close": 198.95,
+          "marketOpen": 198.54,
+          "marketClose": 198.9
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "09:40",
+          "label": "09:40 AM",
+          "high": 199.96,
+          "low": 199.79,
+          "average": 199.855,
+          "volume": 1363,
+          "notional": 272402.255,
+          "numberOfTrades": 16,
+          "marketHigh": 200,
+          "marketLow": 199.79,
+          "marketAverage": 199.917,
+          "marketVolume": 64685,
+          "marketNotional": 12931655.1783,
+          "marketNumberOfTrades": 336,
+          "open": 199.91,
+          "close": 199.96,
+          "marketOpen": 199.91,
+          "marketClose": 199.91
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "09:50",
+          "label": "09:50 AM",
+          "high": 199.81,
+          "low": 199.7,
+          "average": 199.746,
+          "volume": 1043,
+          "notional": 208335.34,
+          "numberOfTrades": 12,
+          "marketHigh": 199.83,
+          "marketLow": 199.66,
+          "marketAverage": 199.765,
+          "marketVolume": 42147,
+          "marketNotional": 8419488.8712,
+          "marketNumberOfTrades": 209,
+          "open": 199.8,
+          "close": 199.74,
+          "marketOpen": 199.75,
+          "marketClose": 199.725
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:00",
+          "label": "10 AM",
+          "high": 199.78,
+          "low": 199.6,
+          "average": 199.701,
+          "volume": 1444,
+          "notional": 288368.1,
+          "numberOfTrades": 15,
+          "marketHigh": 199.78,
+          "marketLow": 199.55,
+          "marketAverage": 199.693,
+          "marketVolume": 40542,
+          "marketNotional": 8095939.3155,
+          "marketNumberOfTrades": 271,
+          "open": 199.62,
+          "close": 199.67,
+          "marketOpen": 199.64,
+          "marketClose": 199.675
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:10",
+          "label": "10:10 AM",
+          "high": 200.07,
+          "low": 199.94,
+          "average": 200.01,
+          "volume": 1553,
+          "notional": 310615.92,
+          "numberOfTrades": 19,
+          "marketHigh": 200.07,
+          "marketLow": 199.94,
+          "marketAverage": 200.01,
+          "marketVolume": 28275,
+          "marketNotional": 5655274.987,
+          "marketNumberOfTrades": 183,
+          "open": 200.06,
+          "close": 199.95,
+          "marketOpen": 199.995,
+          "marketClose": 199.94
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:20",
+          "label": "10:20 AM",
+          "high": 199.82,
+          "low": 199.77,
+          "average": 199.795,
+          "volume": 713,
+          "notional": 142454.07,
+          "numberOfTrades": 9,
+          "marketHigh": 199.84,
+          "marketLow": 199.74,
+          "marketAverage": 199.786,
+          "marketVolume": 24549,
+          "marketNotional": 4904553.7069,
+          "marketNumberOfTrades": 121,
+          "open": 199.82,
+          "close": 199.78,
+          "marketOpen": 199.83,
+          "marketClose": 199.77
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:30",
+          "label": "10:30 AM",
+          "high": 199.62,
+          "low": 199.42,
+          "average": 199.547,
+          "volume": 1404,
+          "notional": 280163.82,
+          "numberOfTrades": 15,
+          "marketHigh": 199.63,
+          "marketLow": 199.41,
+          "marketAverage": 199.528,
+          "marketVolume": 55272,
+          "marketNotional": 11028329.2267,
+          "marketNumberOfTrades": 289,
+          "open": 199.585,
+          "close": 199.42,
+          "marketOpen": 199.54,
+          "marketClose": 199.42
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:40",
+          "label": "10:40 AM",
+          "high": 199.58,
+          "low": 199.45,
+          "average": 199.511,
+          "volume": 330,
+          "notional": 65838.56,
+          "numberOfTrades": 7,
+          "marketHigh": 199.68,
+          "marketLow": 199.366,
+          "marketAverage": 199.503,
+          "marketVolume": 37480,
+          "marketNotional": 7477384.2426,
+          "marketNumberOfTrades": 213,
+          "open": 199.58,
+          "close": 199.45,
+          "marketOpen": 199.63,
+          "marketClose": 199.41
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "10:50",
+          "label": "10:50 AM",
+          "high": 199.81,
+          "low": 199.745,
+          "average": 199.777,
+          "volume": 1405,
+          "notional": 280686.725,
+          "numberOfTrades": 13,
+          "marketHigh": 199.81,
+          "marketLow": 199.72,
+          "marketAverage": 199.775,
+          "marketVolume": 28618,
+          "marketNotional": 5717150.7157,
+          "marketNumberOfTrades": 170,
+          "open": 199.745,
+          "close": 199.81,
+          "marketOpen": 199.745,
+          "marketClose": 199.804
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:00",
+          "label": "11 AM",
+          "high": 199.83,
+          "low": 199.74,
+          "average": 199.792,
+          "volume": 1300,
+          "notional": 259729.03,
+          "numberOfTrades": 15,
+          "marketHigh": 199.84,
+          "marketLow": 199.74,
+          "marketAverage": 199.798,
+          "marketVolume": 22643,
+          "marketNotional": 4524026.554,
+          "marketNumberOfTrades": 150,
+          "open": 199.83,
+          "close": 199.82,
+          "marketOpen": 199.775,
+          "marketClose": 199.82
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:10",
+          "label": "11:10 AM",
+          "high": 199.74,
+          "low": 199.7,
+          "average": 199.727,
+          "volume": 994,
+          "notional": 198528.525,
+          "numberOfTrades": 10,
+          "marketHigh": 199.75,
+          "marketLow": 199.7,
+          "marketAverage": 199.725,
+          "marketVolume": 15261,
+          "marketNotional": 3047996.125,
+          "marketNumberOfTrades": 116,
+          "open": 199.73,
+          "close": 199.74,
+          "marketOpen": 199.73,
+          "marketClose": 199.73
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:20",
+          "label": "11:20 AM",
+          "high": 199.53,
+          "low": 199.47,
+          "average": 199.496,
+          "volume": 3281,
+          "notional": 654546.33,
+          "numberOfTrades": 21,
+          "marketHigh": 199.545,
+          "marketLow": 199.44,
+          "marketAverage": 199.489,
+          "marketVolume": 39981,
+          "marketNotional": 7975759.6443,
+          "marketNumberOfTrades": 228,
+          "open": 199.53,
+          "close": 199.5,
+          "marketOpen": 199.54,
+          "marketClose": 199.475
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:30",
+          "label": "11:30 AM",
+          "high": 199.5,
+          "low": 199.38,
+          "average": 199.425,
+          "volume": 705,
+          "notional": 140594.5,
+          "numberOfTrades": 8,
+          "marketHigh": 199.493,
+          "marketLow": 199.365,
+          "marketAverage": 199.44,
+          "marketVolume": 27183,
+          "marketNotional": 5421377.96,
+          "marketNumberOfTrades": 141,
+          "open": 199.5,
+          "close": 199.38,
+          "marketOpen": 199.484,
+          "marketClose": 199.39
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:40",
+          "label": "11:40 AM",
+          "high": 199.51,
+          "low": 199.46,
+          "average": 199.477,
+          "volume": 542,
+          "notional": 108116.58,
+          "numberOfTrades": 6,
+          "marketHigh": 199.52,
+          "marketLow": 199.46,
+          "marketAverage": 199.49,
+          "marketVolume": 8176,
+          "marketNotional": 1631035.1196,
+          "marketNumberOfTrades": 68,
+          "open": 199.51,
+          "close": 199.47,
+          "marketOpen": 199.49,
+          "marketClose": 199.465
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "11:50",
+          "label": "11:50 AM",
+          "high": 199.495,
+          "low": 199.47,
+          "average": 199.47,
+          "volume": 210,
+          "notional": 41888.775,
+          "numberOfTrades": 4,
+          "marketHigh": 199.5,
+          "marketLow": 199.44,
+          "marketAverage": 199.475,
+          "marketVolume": 20120,
+          "marketNotional": 4013440.2474,
+          "marketNumberOfTrades": 128,
+          "open": 199.495,
+          "close": 199.47,
+          "marketOpen": 199.48,
+          "marketClose": 199.46
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:00",
+          "label": "12 PM",
+          "high": 199.56,
+          "low": 199.5,
+          "average": 199.542,
+          "volume": 1271,
+          "notional": 253618.54,
+          "numberOfTrades": 12,
+          "marketHigh": 199.56,
+          "marketLow": 199.495,
+          "marketAverage": 199.543,
+          "marketVolume": 28768,
+          "marketNotional": 5740454.4985,
+          "marketNumberOfTrades": 139,
+          "open": 199.5,
+          "close": 199.53,
+          "marketOpen": 199.5,
+          "marketClose": 199.531
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:10",
+          "label": "12:10 PM",
+          "high": 199.37,
+          "low": 199.3,
+          "average": 199.329,
+          "volume": 918,
+          "notional": 182984.56,
+          "numberOfTrades": 11,
+          "marketHigh": 199.374,
+          "marketLow": 199.29,
+          "marketAverage": 199.328,
+          "marketVolume": 15103,
+          "marketNotional": 3010445.7611,
+          "marketNumberOfTrades": 101,
+          "open": 199.32,
+          "close": 199.31,
+          "marketOpen": 199.32,
+          "marketClose": 199.31
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:20",
+          "label": "12:20 PM",
+          "high": 199.27,
+          "low": 199.22,
+          "average": 199.243,
+          "volume": 1100,
+          "notional": 219167,
+          "numberOfTrades": 9,
+          "marketHigh": 199.27,
+          "marketLow": 199.21,
+          "marketAverage": 199.245,
+          "marketVolume": 17383,
+          "marketNotional": 3463481.9787,
+          "marketNumberOfTrades": 102,
+          "open": 199.26,
+          "close": 199.25,
+          "marketOpen": 199.26,
+          "marketClose": 199.25
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:30",
+          "label": "12:30 PM",
+          "high": 199.105,
+          "low": 199.05,
+          "average": 199.078,
+          "volume": 2145,
+          "notional": 427021.9,
+          "numberOfTrades": 21,
+          "marketHigh": 199.11,
+          "marketLow": 199.05,
+          "marketAverage": 199.077,
+          "marketVolume": 12869,
+          "marketNotional": 2561919.3075,
+          "marketNumberOfTrades": 93,
+          "open": 199.075,
+          "close": 199.1,
+          "marketOpen": 199.054,
+          "marketClose": 199.1
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:40",
+          "label": "12:40 PM",
+          "high": 199.145,
+          "low": 199.08,
+          "average": 199.103,
+          "volume": 1051,
+          "notional": 209257.64,
+          "numberOfTrades": 13,
+          "marketHigh": 199.15,
+          "marketLow": 199.08,
+          "marketAverage": 199.101,
+          "marketVolume": 17524,
+          "marketNotional": 3489038.776,
+          "marketNumberOfTrades": 80,
+          "open": 199.14,
+          "close": 199.1,
+          "marketOpen": 199.14,
+          "marketClose": 199.1
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "12:50",
+          "label": "12:50 PM",
+          "high": 199.14,
+          "low": 199.1,
+          "average": 199.123,
+          "volume": 516,
+          "notional": 102747.7,
+          "numberOfTrades": 6,
+          "marketHigh": 199.16,
+          "marketLow": 199.09,
+          "marketAverage": 199.131,
+          "marketVolume": 11120,
+          "marketNotional": 2214335.9665,
+          "marketNumberOfTrades": 74,
+          "open": 199.14,
+          "close": 199.13,
+          "marketOpen": 199.11,
+          "marketClose": 199.13
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "13:00",
+          "label": "1 PM",
+          "high": 199.19,
+          "low": 199.15,
+          "average": 199.174,
+          "volume": 1032,
+          "notional": 205548.09,
+          "numberOfTrades": 14,
+          "marketHigh": 199.2,
+          "marketLow": 199.141,
+          "marketAverage": 199.166,
+          "marketVolume": 14707,
+          "marketNotional": 2929141.2644,
+          "marketNumberOfTrades": 101,
+          "open": 199.18,
+          "close": 199.16,
+          "marketOpen": 199.18,
+          "marketClose": 199.16
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "13:10",
+          "label": "1:10 PM",
+          "high": 199.25,
+          "low": 199.15,
+          "average": 199.2,
+          "volume": 1426,
+          "notional": 284059.815,
+          "numberOfTrades": 18,
+          "marketHigh": null,
+          "marketLow": null,
+          "marketAverage": null,
+          "marketVolume": 0,
+          "marketNotional": 0,
+          "marketNumberOfTrades": 0,
+          "open": 199.165,
+          "close": 199.225,
+          "marketOpen": null,
+          "marketClose": null
+        },
+        {
+          "date": "2019-06-24",
+          "minute": "13:20",
+          "label": "1:20 PM",
+          "high": 199.33,
+          "low": 199.3,
+          "average": 199.321,
+          "volume": 832,
+          "notional": 165835.31,
+          "numberOfTrades": 12,
+          "marketHigh": null,
+          "marketLow": null,
+          "marketAverage": null,
+          "marketVolume": 0,
+          "marketNotional": 0,
+          "marketNumberOfTrades": 0,
+          "open": 199.32,
+          "close": 199.3,
+          "marketOpen": null,
+          "marketClose": null
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "09:30",
+          "label": "09:30 AM",
+          "high": 199.08,
+          "low": 198.69,
+          "average": 198.902,
+          "volume": 4404,
+          "notional": 875964.215,
+          "numberOfTrades": 54,
+          "marketHigh": 199.26,
+          "marketLow": 198.53,
+          "marketAverage": 198.805,
+          "marketVolume": 4644886,
+          "marketNotional": 923427702.6918,
+          "marketNumberOfTrades": 1000,
+          "open": 198.69,
+          "close": 198.7,
+          "marketOpen": 198.8,
+          "marketClose": 198.7
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "09:40",
+          "label": "09:40 AM",
+          "high": 198.94,
+          "low": 198.59,
+          "average": 198.693,
+          "volume": 1828,
+          "notional": 363210.39,
+          "numberOfTrades": 26,
+          "marketHigh": 198.95,
+          "marketLow": 198.58,
+          "marketAverage": 198.718,
+          "marketVolume": 48943,
+          "marketNotional": 9725838.3327,
+          "marketNumberOfTrades": 273,
+          "open": 198.635,
+          "close": 198.82,
+          "marketOpen": 198.63,
+          "marketClose": 198.78
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "09:50",
+          "label": "09:50 AM",
+          "high": 198.73,
+          "low": 198.59,
+          "average": 198.659,
+          "volume": 2910,
+          "notional": 578097.3,
+          "numberOfTrades": 26,
+          "marketHigh": 198.75,
+          "marketLow": 198.56,
+          "marketAverage": 198.663,
+          "marketVolume": 83128,
+          "marketNotional": 16514469.3425,
+          "marketNumberOfTrades": 547,
+          "open": 198.725,
+          "close": 198.63,
+          "marketOpen": 198.67,
+          "marketClose": 198.635
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:00",
+          "label": "10 AM",
+          "high": 199.18,
+          "low": 199.105,
+          "average": 199.14,
+          "volume": 815,
+          "notional": 162299.21,
+          "numberOfTrades": 10,
+          "marketHigh": 199.195,
+          "marketLow": 199.03,
+          "marketAverage": 199.136,
+          "marketVolume": 21221,
+          "marketNotional": 4225861.9082,
+          "marketNumberOfTrades": 137,
+          "open": 199.11,
+          "close": 199.14,
+          "marketOpen": 199.05,
+          "marketClose": 199.18
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:10",
+          "label": "10:10 AM",
+          "high": 199.73,
+          "low": 199.69,
+          "average": 199.711,
+          "volume": 863,
+          "notional": 172350.87,
+          "numberOfTrades": 11,
+          "marketHigh": 199.76,
+          "marketLow": 199.67,
+          "marketAverage": 199.722,
+          "marketVolume": 31974,
+          "marketNotional": 6385917.5208,
+          "marketNumberOfTrades": 192,
+          "open": 199.71,
+          "close": 199.69,
+          "marketOpen": 199.71,
+          "marketClose": 199.67
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:20",
+          "label": "10:20 AM",
+          "high": 199.69,
+          "low": 199.61,
+          "average": 199.657,
+          "volume": 1227,
+          "notional": 244979.09,
+          "numberOfTrades": 16,
+          "marketHigh": 199.71,
+          "marketLow": 199.59,
+          "marketAverage": 199.663,
+          "marketVolume": 48697,
+          "marketNotional": 9723003.2526,
+          "marketNumberOfTrades": 203,
+          "open": 199.61,
+          "close": 199.68,
+          "marketOpen": 199.59,
+          "marketClose": 199.67
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:30",
+          "label": "10:30 AM",
+          "high": 199.86,
+          "low": 199.77,
+          "average": 199.815,
+          "volume": 962,
+          "notional": 192222.52,
+          "numberOfTrades": 13,
+          "marketHigh": 199.88,
+          "marketLow": 199.75,
+          "marketAverage": 199.816,
+          "marketVolume": 38018,
+          "marketNotional": 7596593.985,
+          "marketNumberOfTrades": 230,
+          "open": 199.77,
+          "close": 199.79,
+          "marketOpen": 199.79,
+          "marketClose": 199.79
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:40",
+          "label": "10:40 AM",
+          "high": 199.97,
+          "low": 199.91,
+          "average": 199.942,
+          "volume": 3377,
+          "notional": 675203.79,
+          "numberOfTrades": 27,
+          "marketHigh": 199.97,
+          "marketLow": 199.88,
+          "marketAverage": 199.933,
+          "marketVolume": 52584,
+          "marketNotional": 10513283.9505,
+          "marketNumberOfTrades": 296,
+          "open": 199.94,
+          "close": 199.92,
+          "marketOpen": 199.9,
+          "marketClose": 199.92
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "10:50",
+          "label": "10:50 AM",
+          "high": 200,
+          "low": 199.9,
+          "average": 199.95,
+          "volume": 1277,
+          "notional": 255335.96,
+          "numberOfTrades": 17,
+          "marketHigh": 200,
+          "marketLow": 199.89,
+          "marketAverage": 199.955,
+          "marketVolume": 45156,
+          "marketNotional": 9029171.9548,
+          "marketNumberOfTrades": 225,
+          "open": 199.93,
+          "close": 199.95,
+          "marketOpen": 199.96,
+          "marketClose": 199.948
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:00",
+          "label": "11 AM",
+          "high": 200.1,
+          "low": 199.9,
+          "average": 200.048,
+          "volume": 3920,
+          "notional": 784188.015,
+          "numberOfTrades": 37,
+          "marketHigh": 200.12,
+          "marketLow": 199.87,
+          "marketAverage": 200.025,
+          "marketVolume": 60768,
+          "marketNotional": 12155115.0751,
+          "marketNumberOfTrades": 344,
+          "open": 199.9,
+          "close": 200.05,
+          "marketOpen": 199.9,
+          "marketClose": 200.045
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:10",
+          "label": "11:10 AM",
+          "high": 200.49,
+          "low": 200.42,
+          "average": 200.444,
+          "volume": 3874,
+          "notional": 776518.86,
+          "numberOfTrades": 38,
+          "marketHigh": 200.5,
+          "marketLow": 200.41,
+          "marketAverage": 200.447,
+          "marketVolume": 44348,
+          "marketNotional": 8889449.4356,
+          "marketNumberOfTrades": 254,
+          "open": 200.44,
+          "close": 200.42,
+          "marketOpen": 200.44,
+          "marketClose": 200.42
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:20",
+          "label": "11:20 AM",
+          "high": 200.29,
+          "low": 200.22,
+          "average": 200.271,
+          "volume": 975,
+          "notional": 195263.9,
+          "numberOfTrades": 11,
+          "marketHigh": 200.31,
+          "marketLow": 200.22,
+          "marketAverage": 200.262,
+          "marketVolume": 26067,
+          "marketNotional": 5220234.1713,
+          "marketNumberOfTrades": 155,
+          "open": 200.27,
+          "close": 200.29,
+          "marketOpen": 200.264,
+          "marketClose": 200.28
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:30",
+          "label": "11:30 AM",
+          "high": 200.3,
+          "low": 200.185,
+          "average": 200.242,
+          "volume": 519,
+          "notional": 103925.665,
+          "numberOfTrades": 8,
+          "marketHigh": 200.31,
+          "marketLow": 200.15,
+          "marketAverage": 200.204,
+          "marketVolume": 46211,
+          "marketNotional": 9251617.5568,
+          "marketNumberOfTrades": 185,
+          "open": 200.2,
+          "close": 200.185,
+          "marketOpen": 200.243,
+          "marketClose": 200.18
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:40",
+          "label": "11:40 AM",
+          "high": 200.25,
+          "low": 200.16,
+          "average": 200.202,
+          "volume": 3661,
+          "notional": 732940.76,
+          "numberOfTrades": 6,
+          "marketHigh": 200.26,
+          "marketLow": 200.13,
+          "marketAverage": 200.204,
+          "marketVolume": 28004,
+          "marketNotional": 5606516.4033,
+          "marketNumberOfTrades": 132,
+          "open": 200.2,
+          "close": 200.18,
+          "marketOpen": 200.147,
+          "marketClose": 200.18
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "11:50",
+          "label": "11:50 AM",
+          "high": 200.07,
+          "low": 199.95,
+          "average": 199.997,
+          "volume": 1334,
+          "notional": 266796.22,
+          "numberOfTrades": 15,
+          "marketHigh": 200.08,
+          "marketLow": 199.93,
+          "marketAverage": 199.998,
+          "marketVolume": 30684,
+          "marketNotional": 6136753.9664,
+          "marketNumberOfTrades": 193,
+          "open": 200.02,
+          "close": 199.95,
+          "marketOpen": 199.95,
+          "marketClose": 199.95
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:00",
+          "label": "12 PM",
+          "high": 200.01,
+          "low": 199.9,
+          "average": 199.97,
+          "volume": 1554,
+          "notional": 310752.97,
+          "numberOfTrades": 17,
+          "marketHigh": 200.02,
+          "marketLow": 199.89,
+          "marketAverage": 199.969,
+          "marketVolume": 35797,
+          "marketNotional": 7158290.9791,
+          "marketNumberOfTrades": 217,
+          "open": 199.9,
+          "close": 200.01,
+          "marketOpen": 199.92,
+          "marketClose": 200.01
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:10",
+          "label": "12:10 PM",
+          "high": 199.87,
+          "low": 199.78,
+          "average": 199.809,
+          "volume": 685,
+          "notional": 136869.12,
+          "numberOfTrades": 9,
+          "marketHigh": 199.89,
+          "marketLow": 199.78,
+          "marketAverage": 199.83,
+          "marketVolume": 27059,
+          "marketNotional": 5407200.9738,
+          "marketNumberOfTrades": 178,
+          "open": 199.85,
+          "close": 199.79,
+          "marketOpen": 199.88,
+          "marketClose": 199.79
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:20",
+          "label": "12:20 PM",
+          "high": 199.75,
+          "low": 199.68,
+          "average": 199.715,
+          "volume": 477,
+          "notional": 95264.2,
+          "numberOfTrades": 12,
+          "marketHigh": 199.77,
+          "marketLow": 199.65,
+          "marketAverage": 199.716,
+          "marketVolume": 22864,
+          "marketNotional": 4566306.6926,
+          "marketNumberOfTrades": 112,
+          "open": 199.74,
+          "close": 199.69,
+          "marketOpen": 199.65,
+          "marketClose": 199.7
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:30",
+          "label": "12:30 PM",
+          "high": 199.9,
+          "low": 199.82,
+          "average": 199.871,
+          "volume": 542,
+          "notional": 108330.14,
+          "numberOfTrades": 8,
+          "marketHigh": 199.9,
+          "marketLow": 199.82,
+          "marketAverage": 199.867,
+          "marketVolume": 17162,
+          "marketNotional": 3430121.8123,
+          "marketNumberOfTrades": 122,
+          "open": 199.86,
+          "close": 199.82,
+          "marketOpen": 199.9,
+          "marketClose": 199.874
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:40",
+          "label": "12:40 PM",
+          "high": 199.93,
+          "low": 199.91,
+          "average": 199.917,
+          "volume": 608,
+          "notional": 121549.83,
+          "numberOfTrades": 10,
+          "marketHigh": 199.936,
+          "marketLow": 199.9,
+          "marketAverage": 199.917,
+          "marketVolume": 12980,
+          "marketNotional": 2594918.2233,
+          "marketNumberOfTrades": 88,
+          "open": 199.92,
+          "close": 199.92,
+          "marketOpen": 199.92,
+          "marketClose": 199.9
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "12:50",
+          "label": "12:50 PM",
+          "high": 200.35,
+          "low": 200.27,
+          "average": 200.309,
+          "volume": 2612,
+          "notional": 523208.41,
+          "numberOfTrades": 30,
+          "marketHigh": 200.35,
+          "marketLow": 200.26,
+          "marketAverage": 200.303,
+          "marketVolume": 52963,
+          "marketNotional": 10608627.4224,
+          "marketNumberOfTrades": 245,
+          "open": 200.3,
+          "close": 200.35,
+          "marketOpen": 200.31,
+          "marketClose": 200.33
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:00",
+          "label": "1 PM",
+          "high": 200.41,
+          "low": 200.34,
+          "average": 200.373,
+          "volume": 900,
+          "notional": 180335.5,
+          "numberOfTrades": 9,
+          "marketHigh": 200.42,
+          "marketLow": 200.34,
+          "marketAverage": 200.382,
+          "marketVolume": 14461,
+          "marketNotional": 2897720.888,
+          "marketNumberOfTrades": 102,
+          "open": 200.37,
+          "close": 200.41,
+          "marketOpen": 200.407,
+          "marketClose": 200.4
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:10",
+          "label": "1:10 PM",
+          "high": 200.715,
+          "low": 200.68,
+          "average": 200.687,
+          "volume": 212,
+          "notional": 42545.58,
+          "numberOfTrades": 3,
+          "marketHigh": 200.74,
+          "marketLow": 200.663,
+          "marketAverage": 200.697,
+          "marketVolume": 13710,
+          "marketNotional": 2751561.3866,
+          "marketNumberOfTrades": 78,
+          "open": 200.715,
+          "close": 200.68,
+          "marketOpen": 200.727,
+          "marketClose": 200.69
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:20",
+          "label": "1:20 PM",
+          "high": 200.67,
+          "low": 200.64,
+          "average": 200.655,
+          "volume": 529,
+          "notional": 106146.43,
+          "numberOfTrades": 6,
+          "marketHigh": 200.67,
+          "marketLow": 200.62,
+          "marketAverage": 200.645,
+          "marketVolume": 10632,
+          "marketNotional": 2133259.4485,
+          "marketNumberOfTrades": 78,
+          "open": 200.64,
+          "close": 200.67,
+          "marketOpen": 200.63,
+          "marketClose": 200.662
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:30",
+          "label": "1:30 PM",
+          "high": 200.61,
+          "low": 200.56,
+          "average": 200.584,
+          "volume": 1724,
+          "notional": 345807.25,
+          "numberOfTrades": 18,
+          "marketHigh": 200.61,
+          "marketLow": 200.55,
+          "marketAverage": 200.579,
+          "marketVolume": 38581,
+          "marketNotional": 7738536.7736,
+          "marketNumberOfTrades": 137,
+          "open": 200.6,
+          "close": 200.57,
+          "marketOpen": 200.59,
+          "marketClose": 200.6
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:40",
+          "label": "1:40 PM",
+          "high": 200.48,
+          "low": 200.42,
+          "average": 200.435,
+          "volume": 137,
+          "notional": 27459.6,
+          "numberOfTrades": 4,
+          "marketHigh": 200.49,
+          "marketLow": 200.42,
+          "marketAverage": 200.461,
+          "marketVolume": 12903,
+          "marketNotional": 2586544.2275,
+          "marketNumberOfTrades": 71,
+          "open": 200.48,
+          "close": 200.42,
+          "marketOpen": 200.47,
+          "marketClose": 200.44
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "13:50",
+          "label": "1:50 PM",
+          "high": 200.28,
+          "low": 200.26,
+          "average": 200.273,
+          "volume": 300,
+          "notional": 60082,
+          "numberOfTrades": 3,
+          "marketHigh": 200.3,
+          "marketLow": 200.24,
+          "marketAverage": 200.277,
+          "marketVolume": 11872,
+          "marketNotional": 2377692.0836,
+          "marketNumberOfTrades": 67,
+          "open": 200.28,
+          "close": 200.28,
+          "marketOpen": 200.3,
+          "marketClose": 200.28
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:00",
+          "label": "2 PM",
+          "high": 200.58,
+          "low": 200.44,
+          "average": 200.528,
+          "volume": 1069,
+          "notional": 214364.37,
+          "numberOfTrades": 15,
+          "marketHigh": 200.61,
+          "marketLow": 200.42,
+          "marketAverage": 200.522,
+          "marketVolume": 43652,
+          "marketNotional": 8753205.0176,
+          "marketNumberOfTrades": 283,
+          "open": 200.47,
+          "close": 200.55,
+          "marketOpen": 200.47,
+          "marketClose": 200.549
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:10",
+          "label": "2:10 PM",
+          "high": 200.285,
+          "low": 200.23,
+          "average": 200.251,
+          "volume": 548,
+          "notional": 109737.855,
+          "numberOfTrades": 11,
+          "marketHigh": 200.29,
+          "marketLow": 200.23,
+          "marketAverage": 200.258,
+          "marketVolume": 23585,
+          "marketNotional": 4723098.2029,
+          "marketNumberOfTrades": 102,
+          "open": 200.285,
+          "close": 200.24,
+          "marketOpen": 200.28,
+          "marketClose": 200.242
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:20",
+          "label": "2:20 PM",
+          "high": 200.08,
+          "low": 199.98,
+          "average": 200.021,
+          "volume": 739,
+          "notional": 147815.68,
+          "numberOfTrades": 7,
+          "marketHigh": 200.08,
+          "marketLow": 199.97,
+          "marketAverage": 200.019,
+          "marketVolume": 31158,
+          "marketNotional": 6232183.5182,
+          "marketNumberOfTrades": 178,
+          "open": 200,
+          "close": 200.08,
+          "marketOpen": 200.047,
+          "marketClose": 200.06
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:30",
+          "label": "2:30 PM",
+          "high": 200.025,
+          "low": 200,
+          "average": 200.023,
+          "volume": 364,
+          "notional": 72808.26,
+          "numberOfTrades": 5,
+          "marketHigh": 200.05,
+          "marketLow": 200.01,
+          "marketAverage": 200.025,
+          "marketVolume": 18255,
+          "marketNotional": 3651453.3028,
+          "marketNumberOfTrades": 120,
+          "open": 200.025,
+          "close": 200.02,
+          "marketOpen": 200.04,
+          "marketClose": 200.01
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:40",
+          "label": "2:40 PM",
+          "high": 199.93,
+          "low": 199.88,
+          "average": 199.905,
+          "volume": 523,
+          "notional": 104550.39,
+          "numberOfTrades": 6,
+          "marketHigh": 199.94,
+          "marketLow": 199.87,
+          "marketAverage": 199.902,
+          "marketVolume": 15103,
+          "marketNotional": 3019123.9757,
+          "marketNumberOfTrades": 122,
+          "open": 199.88,
+          "close": 199.92,
+          "marketOpen": 199.89,
+          "marketClose": 199.926
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "14:50",
+          "label": "2:50 PM",
+          "high": 200.07,
+          "low": 199.99,
+          "average": 200.033,
+          "volume": 1652,
+          "notional": 330455.04,
+          "numberOfTrades": 17,
+          "marketHigh": 200.07,
+          "marketLow": 199.99,
+          "marketAverage": 200.035,
+          "marketVolume": 18416,
+          "marketNotional": 3683836.1496,
+          "marketNumberOfTrades": 146,
+          "open": 200.03,
+          "close": 199.99,
+          "marketOpen": 200.03,
+          "marketClose": 200.05
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:00",
+          "label": "3 PM",
+          "high": 199.95,
+          "low": 199.9,
+          "average": 199.918,
+          "volume": 1413,
+          "notional": 282484.675,
+          "numberOfTrades": 17,
+          "marketHigh": 199.96,
+          "marketLow": 199.899,
+          "marketAverage": 199.925,
+          "marketVolume": 24509,
+          "marketNotional": 4899960.3003,
+          "marketNumberOfTrades": 199,
+          "open": 199.91,
+          "close": 199.935,
+          "marketOpen": 199.9,
+          "marketClose": 199.93
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:10",
+          "label": "3:10 PM",
+          "high": 200.055,
+          "low": 199.99,
+          "average": 200.03,
+          "volume": 605,
+          "notional": 121018.15,
+          "numberOfTrades": 7,
+          "marketHigh": 200.06,
+          "marketLow": 199.99,
+          "marketAverage": 200.035,
+          "marketVolume": 23926,
+          "marketNotional": 4786040.9722,
+          "marketNumberOfTrades": 150,
+          "open": 200.045,
+          "close": 199.99,
+          "marketOpen": 200.031,
+          "marketClose": 199.99
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:20",
+          "label": "3:20 PM",
+          "high": 200.03,
+          "low": 200,
+          "average": 200.008,
+          "volume": 510,
+          "notional": 102004.2,
+          "numberOfTrades": 6,
+          "marketHigh": 200.04,
+          "marketLow": 199.98,
+          "marketAverage": 200.007,
+          "marketVolume": 19720,
+          "marketNotional": 3944140.6526,
+          "marketNumberOfTrades": 133,
+          "open": 200.02,
+          "close": 200,
+          "marketOpen": 200.04,
+          "marketClose": 199.98
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:30",
+          "label": "3:30 PM",
+          "high": 199.86,
+          "low": 199.74,
+          "average": 199.8,
+          "volume": 2649,
+          "notional": 529271.39,
+          "numberOfTrades": 29,
+          "marketHigh": 199.86,
+          "marketLow": 199.74,
+          "marketAverage": 199.808,
+          "marketVolume": 63858,
+          "marketNotional": 12759359.4105,
+          "marketNumberOfTrades": 382,
+          "open": 199.74,
+          "close": 199.76,
+          "marketOpen": 199.74,
+          "marketClose": 199.75
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:40",
+          "label": "3:40 PM",
+          "high": 199.89,
+          "low": 199.795,
+          "average": 199.839,
+          "volume": 2188,
+          "notional": 437248.41,
+          "numberOfTrades": 19,
+          "marketHigh": 199.89,
+          "marketLow": 199.785,
+          "marketAverage": 199.845,
+          "marketVolume": 49174,
+          "marketNotional": 9827172.8175,
+          "marketNumberOfTrades": 308,
+          "open": 199.795,
+          "close": 199.875,
+          "marketOpen": 199.79,
+          "marketClose": 199.89
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:50",
+          "label": "3:50 PM",
+          "high": 199.8,
+          "low": 199.63,
+          "average": 199.706,
+          "volume": 3036,
+          "notional": 606307,
+          "numberOfTrades": 35,
+          "marketHigh": 199.8,
+          "marketLow": 199.6,
+          "marketAverage": 199.69,
+          "marketVolume": 85561,
+          "marketNotional": 17085687.0328,
+          "marketNumberOfTrades": 489,
+          "open": 199.745,
+          "close": 199.76,
+          "marketOpen": 199.755,
+          "marketClose": 199.755
+        },
+        {
+          "date": "2019-06-21",
+          "minute": "15:59",
+          "label": "3:59 PM",
+          "high": 198.82,
+          "low": 198.65,
+          "average": 198.74,
+          "volume": 17166,
+          "notional": 3411572.33,
+          "numberOfTrades": 172,
+          "marketHigh": 198.83,
+          "marketLow": 198.63,
+          "marketAverage": 198.745,
+          "marketVolume": 561917,
+          "marketNotional": 111678516.7375,
+          "marketNumberOfTrades": 2938,
+          "open": 198.81,
+          "close": 198.8,
+          "marketOpen": 198.82,
+          "marketClose": 198.8
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "09:30",
+          "label": "09:30 AM",
+          "high": 200.525,
+          "low": 200.255,
+          "average": 200.414,
+          "volume": 27880,
+          "notional": 5587537.1,
+          "numberOfTrades": 154,
+          "marketHigh": 200.55,
+          "marketLow": 200.22,
+          "marketAverage": 200.287,
+          "marketVolume": 552840,
+          "marketNotional": 110726449.8134,
+          "marketNumberOfTrades": 1092,
+          "open": 200.295,
+          "close": 200.34,
+          "marketOpen": 200.37,
+          "marketClose": 200.35
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "09:40",
+          "label": "09:40 AM",
+          "high": 199.92,
+          "low": 199.675,
+          "average": 199.782,
+          "volume": 2381,
+          "notional": 475681.88,
+          "numberOfTrades": 26,
+          "marketHigh": 199.98,
+          "marketLow": 199.66,
+          "marketAverage": 199.804,
+          "marketVolume": 76132,
+          "marketNotional": 15211493.816,
+          "marketNumberOfTrades": 450,
+          "open": 199.74,
+          "close": 199.74,
+          "marketOpen": 199.74,
+          "marketClose": 199.731
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "09:50",
+          "label": "09:50 AM",
+          "high": 199.84,
+          "low": 199.6,
+          "average": 199.746,
+          "volume": 1453,
+          "notional": 290230.655,
+          "numberOfTrades": 19,
+          "marketHigh": 199.855,
+          "marketLow": 199.6,
+          "marketAverage": 199.76,
+          "marketVolume": 56067,
+          "marketNotional": 11199954.4791,
+          "marketNumberOfTrades": 291,
+          "open": 199.6,
+          "close": 199.84,
+          "marketOpen": 199.6,
+          "marketClose": 199.855
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:00",
+          "label": "10 AM",
+          "high": 199.83,
+          "low": 199.62,
+          "average": 199.727,
+          "volume": 4463,
+          "notional": 891383.89,
+          "numberOfTrades": 48,
+          "marketHigh": 199.84,
+          "marketLow": 199.57,
+          "marketAverage": 199.73,
+          "marketVolume": 47923,
+          "marketNotional": 9571655.7898,
+          "marketNumberOfTrades": 330,
+          "open": 199.705,
+          "close": 199.81,
+          "marketOpen": 199.71,
+          "marketClose": 199.78
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:10",
+          "label": "10:10 AM",
+          "high": 199.42,
+          "low": 199.17,
+          "average": 199.268,
+          "volume": 7211,
+          "notional": 1436921.51,
+          "numberOfTrades": 56,
+          "marketHigh": 199.491,
+          "marketLow": 199.17,
+          "marketAverage": 199.276,
+          "marketVolume": 128888,
+          "marketNotional": 25684258.115,
+          "marketNumberOfTrades": 628,
+          "open": 199.42,
+          "close": 199.26,
+          "marketOpen": 199.428,
+          "marketClose": 199.26
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:20",
+          "label": "10:20 AM",
+          "high": 199.1,
+          "low": 198.86,
+          "average": 199.026,
+          "volume": 7664,
+          "notional": 1525333.18,
+          "numberOfTrades": 81,
+          "marketHigh": 199.11,
+          "marketLow": 198.85,
+          "marketAverage": 198.998,
+          "marketVolume": 114228,
+          "marketNotional": 22731182.4662,
+          "marketNumberOfTrades": 592,
+          "open": 199.09,
+          "close": 198.88,
+          "marketOpen": 199.1,
+          "marketClose": 198.86
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:30",
+          "label": "10:30 AM",
+          "high": 198.83,
+          "low": 198.76,
+          "average": 198.805,
+          "volume": 1764,
+          "notional": 350692.66,
+          "numberOfTrades": 14,
+          "marketHigh": 198.86,
+          "marketLow": 198.75,
+          "marketAverage": 198.816,
+          "marketVolume": 31637,
+          "marketNotional": 6289934.0344,
+          "marketNumberOfTrades": 193,
+          "open": 198.76,
+          "close": 198.82,
+          "marketOpen": 198.75,
+          "marketClose": 198.81
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:40",
+          "label": "10:40 AM",
+          "high": 198.67,
+          "low": 198.53,
+          "average": 198.591,
+          "volume": 2436,
+          "notional": 483767.52,
+          "numberOfTrades": 26,
+          "marketHigh": 198.69,
+          "marketLow": 198.53,
+          "marketAverage": 198.605,
+          "marketVolume": 46736,
+          "marketNotional": 9282008.4058,
+          "marketNumberOfTrades": 302,
+          "open": 198.55,
+          "close": 198.59,
+          "marketOpen": 198.56,
+          "marketClose": 198.56
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "10:50",
+          "label": "10:50 AM",
+          "high": 199.06,
+          "low": 198.86,
+          "average": 198.951,
+          "volume": 1959,
+          "notional": 389745.11,
+          "numberOfTrades": 22,
+          "marketHigh": 199.06,
+          "marketLow": 198.85,
+          "marketAverage": 198.944,
+          "marketVolume": 65618,
+          "marketNotional": 13054326.3392,
+          "marketNumberOfTrades": 320,
+          "open": 198.91,
+          "close": 199.06,
+          "marketOpen": 198.95,
+          "marketClose": 199.06
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:00",
+          "label": "11 AM",
+          "high": 199.12,
+          "low": 198.94,
+          "average": 199.047,
+          "volume": 2008,
+          "notional": 399685.48,
+          "numberOfTrades": 25,
+          "marketHigh": 199.13,
+          "marketLow": 198.841,
+          "marketAverage": 199.043,
+          "marketVolume": 37333,
+          "marketNotional": 7430858.6581,
+          "marketNumberOfTrades": 250,
+          "open": 198.94,
+          "close": 199.1,
+          "marketOpen": 198.87,
+          "marketClose": 199.085
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:10",
+          "label": "11:10 AM",
+          "high": 199.3,
+          "low": 199.24,
+          "average": 199.261,
+          "volume": 152,
+          "notional": 30287.61,
+          "numberOfTrades": 5,
+          "marketHigh": 199.355,
+          "marketLow": 199.219,
+          "marketAverage": 199.27,
+          "marketVolume": 22853,
+          "marketNotional": 4553930.291,
+          "marketNumberOfTrades": 134,
+          "open": 199.3,
+          "close": 199.24,
+          "marketOpen": 199.31,
+          "marketClose": 199.26
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:20",
+          "label": "11:20 AM",
+          "high": 198.85,
+          "low": 198.65,
+          "average": 198.75,
+          "volume": 1251,
+          "notional": 248636.175,
+          "numberOfTrades": 16,
+          "marketHigh": 198.87,
+          "marketLow": 198.65,
+          "marketAverage": 198.766,
+          "marketVolume": 35140,
+          "marketNotional": 6984649.3598,
+          "marketNumberOfTrades": 207,
+          "open": 198.695,
+          "close": 198.77,
+          "marketOpen": 198.694,
+          "marketClose": 198.78
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:30",
+          "label": "11:30 AM",
+          "high": 198.87,
+          "low": 198.74,
+          "average": 198.809,
+          "volume": 1488,
+          "notional": 295827.62,
+          "numberOfTrades": 16,
+          "marketHigh": 198.885,
+          "marketLow": 198.73,
+          "marketAverage": 198.812,
+          "marketVolume": 32950,
+          "marketNotional": 6550849.8878,
+          "marketNumberOfTrades": 159,
+          "open": 198.74,
+          "close": 198.86,
+          "marketOpen": 198.79,
+          "marketClose": 198.838
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:40",
+          "label": "11:40 AM",
+          "high": 199,
+          "low": 198.94,
+          "average": 198.976,
+          "volume": 790,
+          "notional": 157191.2,
+          "numberOfTrades": 8,
+          "marketHigh": 199.01,
+          "marketLow": 198.93,
+          "marketAverage": 198.982,
+          "marketVolume": 29053,
+          "marketNotional": 5781018.1659,
+          "marketNumberOfTrades": 180,
+          "open": 198.99,
+          "close": 198.94,
+          "marketOpen": 198.95,
+          "marketClose": 198.95
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "11:50",
+          "label": "11:50 AM",
+          "high": 199.16,
+          "low": 199.12,
+          "average": 199.143,
+          "volume": 1404,
+          "notional": 279596.44,
+          "numberOfTrades": 15,
+          "marketHigh": 199.16,
+          "marketLow": 199.11,
+          "marketAverage": 199.138,
+          "marketVolume": 17817,
+          "marketNotional": 3548049.883,
+          "marketNumberOfTrades": 146,
+          "open": 199.15,
+          "close": 199.12,
+          "marketOpen": 199.145,
+          "marketClose": 199.13
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:00",
+          "label": "12 PM",
+          "high": 199.175,
+          "low": 199.17,
+          "average": 199.173,
+          "volume": 200,
+          "notional": 39834.5,
+          "numberOfTrades": 2,
+          "marketHigh": 199.202,
+          "marketLow": 199.13,
+          "marketAverage": 199.168,
+          "marketVolume": 11137,
+          "marketNotional": 2218135.8939,
+          "marketNumberOfTrades": 79,
+          "open": 199.175,
+          "close": 199.17,
+          "marketOpen": 199.15,
+          "marketClose": 199.14
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:10",
+          "label": "12:10 PM",
+          "high": 198.99,
+          "low": 198.63,
+          "average": 198.775,
+          "volume": 1539,
+          "notional": 305915.08,
+          "numberOfTrades": 18,
+          "marketHigh": 199.02,
+          "marketLow": 198.63,
+          "marketAverage": 198.799,
+          "marketVolume": 58325,
+          "marketNotional": 11594950.8572,
+          "marketNumberOfTrades": 430,
+          "open": 198.99,
+          "close": 198.71,
+          "marketOpen": 199.02,
+          "marketClose": 198.782
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:20",
+          "label": "12:20 PM",
+          "high": 198.37,
+          "low": 198.18,
+          "average": 198.256,
+          "volume": 1593,
+          "notional": 315821.18,
+          "numberOfTrades": 25,
+          "marketHigh": 198.4,
+          "marketLow": 198.13,
+          "marketAverage": 198.257,
+          "marketVolume": 61749,
+          "marketNotional": 12242148.5851,
+          "marketNumberOfTrades": 379,
+          "open": 198.18,
+          "close": 198.37,
+          "marketOpen": 198.217,
+          "marketClose": 198.351
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:30",
+          "label": "12:30 PM",
+          "high": 198.83,
+          "low": 198.755,
+          "average": 198.784,
+          "volume": 2129,
+          "notional": 423210.215,
+          "numberOfTrades": 27,
+          "marketHigh": 198.83,
+          "marketLow": 198.75,
+          "marketAverage": 198.781,
+          "marketVolume": 25065,
+          "marketNotional": 4982454.5758,
+          "marketNumberOfTrades": 162,
+          "open": 198.76,
+          "close": 198.805,
+          "marketOpen": 198.825,
+          "marketClose": 198.805
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:40",
+          "label": "12:40 PM",
+          "high": 198.85,
+          "low": 198.83,
+          "average": 198.838,
+          "volume": 410,
+          "notional": 81523.4,
+          "numberOfTrades": 5,
+          "marketHigh": 198.89,
+          "marketLow": 198.8,
+          "marketAverage": 198.849,
+          "marketVolume": 15317,
+          "marketNotional": 3045766.6862,
+          "marketNumberOfTrades": 104,
+          "open": 198.83,
+          "close": 198.83,
+          "marketOpen": 198.84,
+          "marketClose": 198.82
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "12:50",
+          "label": "12:50 PM",
+          "high": 199.13,
+          "low": 198.96,
+          "average": 199.046,
+          "volume": 765,
+          "notional": 152270.28,
+          "numberOfTrades": 11,
+          "marketHigh": 199.14,
+          "marketLow": 198.97,
+          "marketAverage": 199.082,
+          "marketVolume": 41342,
+          "marketNotional": 8230465.0878,
+          "marketNumberOfTrades": 136,
+          "open": 199.09,
+          "close": 198.98,
+          "marketOpen": 199.07,
+          "marketClose": 198.99
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:00",
+          "label": "1 PM",
+          "high": 199.18,
+          "low": 199.12,
+          "average": 199.156,
+          "volume": 840,
+          "notional": 167291.2,
+          "numberOfTrades": 10,
+          "marketHigh": 199.18,
+          "marketLow": 199.08,
+          "marketAverage": 199.14,
+          "marketVolume": 24968,
+          "marketNotional": 4972122.055,
+          "marketNumberOfTrades": 87,
+          "open": 199.12,
+          "close": 199.18,
+          "marketOpen": 199.08,
+          "marketClose": 199.17
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:10",
+          "label": "1:10 PM",
+          "high": 199.155,
+          "low": 199.05,
+          "average": 199.101,
+          "volume": 257,
+          "notional": 51168.995,
+          "numberOfTrades": 5,
+          "marketHigh": 199.17,
+          "marketLow": 199.05,
+          "marketAverage": 199.11,
+          "marketVolume": 12311,
+          "marketNotional": 2451243.12,
+          "marketNumberOfTrades": 85,
+          "open": 199.14,
+          "close": 199.05,
+          "marketOpen": 199.17,
+          "marketClose": 199.05
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:20",
+          "label": "1:20 PM",
+          "high": 199.26,
+          "low": 199.21,
+          "average": 199.242,
+          "volume": 813,
+          "notional": 161983.78,
+          "numberOfTrades": 13,
+          "marketHigh": 199.26,
+          "marketLow": 199.186,
+          "marketAverage": 199.241,
+          "marketVolume": 27149,
+          "marketNotional": 5409203.093,
+          "marketNumberOfTrades": 124,
+          "open": 199.25,
+          "close": 199.22,
+          "marketOpen": 199.245,
+          "marketClose": 199.22
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:30",
+          "label": "1:30 PM",
+          "high": 199.49,
+          "low": 199.39,
+          "average": 199.434,
+          "volume": 507,
+          "notional": 101113.28,
+          "numberOfTrades": 7,
+          "marketHigh": 199.52,
+          "marketLow": 199.39,
+          "marketAverage": 199.467,
+          "marketVolume": 26989,
+          "marketNotional": 5383422.5436,
+          "marketNumberOfTrades": 169,
+          "open": 199.39,
+          "close": 199.49,
+          "marketOpen": 199.39,
+          "marketClose": 199.51
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:40",
+          "label": "1:40 PM",
+          "high": 199.24,
+          "low": 199.19,
+          "average": 199.23,
+          "volume": 382,
+          "notional": 76105.78,
+          "numberOfTrades": 6,
+          "marketHigh": 199.27,
+          "marketLow": 199.174,
+          "marketAverage": 199.215,
+          "marketVolume": 14781,
+          "marketNotional": 2944603.0051,
+          "marketNumberOfTrades": 77,
+          "open": 199.24,
+          "close": 199.22,
+          "marketOpen": 199.25,
+          "marketClose": 199.22
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "13:50",
+          "label": "1:50 PM",
+          "high": 199.17,
+          "low": 199.13,
+          "average": 199.15,
+          "volume": 411,
+          "notional": 81850.79,
+          "numberOfTrades": 5,
+          "marketHigh": 199.2,
+          "marketLow": 199.137,
+          "marketAverage": 199.172,
+          "marketVolume": 13831,
+          "marketNotional": 2754749.8458,
+          "marketNumberOfTrades": 77,
+          "open": 199.17,
+          "close": 199.13,
+          "marketOpen": 199.14,
+          "marketClose": 199.137
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:00",
+          "label": "2 PM",
+          "high": 199.16,
+          "low": 199.045,
+          "average": 199.115,
+          "volume": 1503,
+          "notional": 299269.47,
+          "numberOfTrades": 14,
+          "marketHigh": 199.18,
+          "marketLow": 199.02,
+          "marketAverage": 199.078,
+          "marketVolume": 40286,
+          "marketNotional": 8020049.4528,
+          "marketNumberOfTrades": 215,
+          "open": 199.12,
+          "close": 199.16,
+          "marketOpen": 199.13,
+          "marketClose": 199.17
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:10",
+          "label": "2:10 PM",
+          "high": 199.47,
+          "low": 199.38,
+          "average": 199.428,
+          "volume": 602,
+          "notional": 120055.94,
+          "numberOfTrades": 7,
+          "marketHigh": 199.474,
+          "marketLow": 199.378,
+          "marketAverage": 199.42,
+          "marketVolume": 21671,
+          "marketNotional": 4321636.7254,
+          "marketNumberOfTrades": 114,
+          "open": 199.47,
+          "close": 199.38,
+          "marketOpen": 199.47,
+          "marketClose": 199.425
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:20",
+          "label": "2:20 PM",
+          "high": 199.46,
+          "low": 199.38,
+          "average": 199.418,
+          "volume": 1026,
+          "notional": 204603.26,
+          "numberOfTrades": 12,
+          "marketHigh": 199.47,
+          "marketLow": 199.38,
+          "marketAverage": 199.425,
+          "marketVolume": 22621,
+          "marketNotional": 4511196.769,
+          "marketNumberOfTrades": 163,
+          "open": 199.41,
+          "close": 199.42,
+          "marketOpen": 199.46,
+          "marketClose": 199.43
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:30",
+          "label": "2:30 PM",
+          "high": 199.31,
+          "low": 199.24,
+          "average": 199.276,
+          "volume": 500,
+          "notional": 99638,
+          "numberOfTrades": 5,
+          "marketHigh": 199.347,
+          "marketLow": 199.24,
+          "marketAverage": 199.301,
+          "marketVolume": 24020,
+          "marketNotional": 4787208.2618,
+          "marketNumberOfTrades": 172,
+          "open": 199.31,
+          "close": 199.24,
+          "marketOpen": 199.347,
+          "marketClose": 199.24
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:40",
+          "label": "2:40 PM",
+          "high": 199.28,
+          "low": 199.27,
+          "average": 199.278,
+          "volume": 237,
+          "notional": 47228.99,
+          "numberOfTrades": 3,
+          "marketHigh": 199.28,
+          "marketLow": 199.24,
+          "marketAverage": 199.261,
+          "marketVolume": 13892,
+          "marketNotional": 2768135.585,
+          "marketNumberOfTrades": 94,
+          "open": 199.28,
+          "close": 199.28,
+          "marketOpen": 199.271,
+          "marketClose": 199.26
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "14:50",
+          "label": "2:50 PM",
+          "high": 199.47,
+          "low": 199.41,
+          "average": 199.451,
+          "volume": 2200,
+          "notional": 438793,
+          "numberOfTrades": 14,
+          "marketHigh": 199.47,
+          "marketLow": 199.39,
+          "marketAverage": 199.441,
+          "marketVolume": 41785,
+          "marketNotional": 8333661.2066,
+          "marketNumberOfTrades": 193,
+          "open": 199.41,
+          "close": 199.46,
+          "marketOpen": 199.42,
+          "marketClose": 199.4
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:00",
+          "label": "3 PM",
+          "high": 199.43,
+          "low": 199.31,
+          "average": 199.383,
+          "volume": 924,
+          "notional": 184229.56,
+          "numberOfTrades": 11,
+          "marketHigh": 199.47,
+          "marketLow": 199.3,
+          "marketAverage": 199.395,
+          "marketVolume": 24578,
+          "marketNotional": 4900723.7074,
+          "marketNumberOfTrades": 181,
+          "open": 199.43,
+          "close": 199.31,
+          "marketOpen": 199.45,
+          "marketClose": 199.32
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:10",
+          "label": "3:10 PM",
+          "high": 199.21,
+          "low": 199.1,
+          "average": 199.165,
+          "volume": 1765,
+          "notional": 351525.78,
+          "numberOfTrades": 27,
+          "marketHigh": 199.23,
+          "marketLow": 199.09,
+          "marketAverage": 199.153,
+          "marketVolume": 37383,
+          "marketNotional": 7444935.9978,
+          "marketNumberOfTrades": 225,
+          "open": 199.175,
+          "close": 199.175,
+          "marketOpen": 199.18,
+          "marketClose": 199.23
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:20",
+          "label": "3:20 PM",
+          "high": 199.4,
+          "low": 199.35,
+          "average": 199.381,
+          "volume": 1665,
+          "notional": 331969.78,
+          "numberOfTrades": 21,
+          "marketHigh": 199.41,
+          "marketLow": 199.31,
+          "marketAverage": 199.374,
+          "marketVolume": 24446,
+          "marketNotional": 4873898.7783,
+          "marketNumberOfTrades": 137,
+          "open": 199.35,
+          "close": 199.4,
+          "marketOpen": 199.31,
+          "marketClose": 199.405
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:30",
+          "label": "3:30 PM",
+          "high": 199.61,
+          "low": 199.5,
+          "average": 199.575,
+          "volume": 832,
+          "notional": 166046.73,
+          "numberOfTrades": 13,
+          "marketHigh": 199.625,
+          "marketLow": 199.5,
+          "marketAverage": 199.583,
+          "marketVolume": 30805,
+          "marketNotional": 6148149.1055,
+          "marketNumberOfTrades": 194,
+          "open": 199.5,
+          "close": 199.61,
+          "marketOpen": 199.52,
+          "marketClose": 199.611
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:40",
+          "label": "3:40 PM",
+          "high": 199.64,
+          "low": 199.6,
+          "average": 199.615,
+          "volume": 1100,
+          "notional": 219576.5,
+          "numberOfTrades": 11,
+          "marketHigh": 199.65,
+          "marketLow": 199.58,
+          "marketAverage": 199.615,
+          "marketVolume": 38391,
+          "marketNotional": 7663414.0977,
+          "marketNumberOfTrades": 228,
+          "open": 199.605,
+          "close": 199.6,
+          "marketOpen": 199.6,
+          "marketClose": 199.6
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:50",
+          "label": "3:50 PM",
+          "high": 199.74,
+          "low": 199.59,
+          "average": 199.696,
+          "volume": 3173,
+          "notional": 633634.46,
+          "numberOfTrades": 37,
+          "marketHigh": 199.76,
+          "marketLow": 199.59,
+          "marketAverage": 199.687,
+          "marketVolume": 103761,
+          "marketNotional": 20719692.1959,
+          "marketNumberOfTrades": 676,
+          "open": 199.59,
+          "close": 199.69,
+          "marketOpen": 199.625,
+          "marketClose": 199.69
+        },
+        {
+          "date": "2019-06-20",
+          "minute": "15:59",
+          "label": "3:59 PM",
+          "high": 199.7,
+          "low": 199.38,
+          "average": 199.623,
+          "volume": 9352,
+          "notional": 1866871.99,
+          "numberOfTrades": 105,
+          "marketHigh": 199.71,
+          "marketLow": 199.37,
+          "marketAverage": 199.593,
+          "marketVolume": 488884,
+          "marketNotional": 97577867.765,
+          "marketNumberOfTrades": 2419,
+          "open": 199.62,
+          "close": 199.38,
+          "marketOpen": 199.62,
+          "marketClose": 199.379
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "09:30",
+          "label": "09:30 AM",
+          "high": 199.605,
+          "low": 198.85,
+          "average": 199.318,
+          "volume": 7539,
+          "notional": 1502661.06,
+          "numberOfTrades": 61,
+          "marketHigh": 199.69,
+          "marketLow": 198.85,
+          "marketAverage": 199.495,
+          "marketVolume": 535296,
+          "marketNotional": 106789098.8856,
+          "marketNumberOfTrades": 1353,
+          "open": 199.605,
+          "close": 199.34,
+          "marketOpen": 199.68,
+          "marketClose": 199.5
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "09:40",
+          "label": "09:40 AM",
+          "high": 198.5,
+          "low": 198.16,
+          "average": 198.397,
+          "volume": 3044,
+          "notional": 603920.31,
+          "numberOfTrades": 32,
+          "marketHigh": 198.56,
+          "marketLow": 198.149,
+          "marketAverage": 198.392,
+          "marketVolume": 85699,
+          "marketNotional": 17002009.4646,
+          "marketNumberOfTrades": 468,
+          "open": 198.5,
+          "close": 198.44,
+          "marketOpen": 198.44,
+          "marketClose": 198.485
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "09:50",
+          "label": "09:50 AM",
+          "high": 198.415,
+          "low": 198.28,
+          "average": 198.334,
+          "volume": 1419,
+          "notional": 281436.24,
+          "numberOfTrades": 16,
+          "marketHigh": 198.51,
+          "marketLow": 198.27,
+          "marketAverage": 198.351,
+          "marketVolume": 55179,
+          "marketNotional": 10944830.6369,
+          "marketNumberOfTrades": 295,
+          "open": 198.415,
+          "close": 198.28,
+          "marketOpen": 198.5,
+          "marketClose": 198.413
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:00",
+          "label": "10 AM",
+          "high": 198.46,
+          "low": 198.37,
+          "average": 198.406,
+          "volume": 1770,
+          "notional": 351178.3,
+          "numberOfTrades": 17,
+          "marketHigh": 198.46,
+          "marketLow": 198.34,
+          "marketAverage": 198.399,
+          "marketVolume": 30038,
+          "marketNotional": 5959494.3526,
+          "marketNumberOfTrades": 201,
+          "open": 198.395,
+          "close": 198.38,
+          "marketOpen": 198.37,
+          "marketClose": 198.42
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:10",
+          "label": "10:10 AM",
+          "high": 198.25,
+          "low": 198.11,
+          "average": 198.174,
+          "volume": 899,
+          "notional": 178158.74,
+          "numberOfTrades": 13,
+          "marketHigh": 198.25,
+          "marketLow": 198.11,
+          "marketAverage": 198.155,
+          "marketVolume": 178002,
+          "marketNotional": 35272007.5989,
+          "marketNumberOfTrades": 185,
+          "open": 198.25,
+          "close": 198.19,
+          "marketOpen": 198.25,
+          "marketClose": 198.2
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:20",
+          "label": "10:20 AM",
+          "high": 198.34,
+          "low": 198.21,
+          "average": 198.29,
+          "volume": 2416,
+          "notional": 479067.58,
+          "numberOfTrades": 25,
+          "marketHigh": 198.35,
+          "marketLow": 198.21,
+          "marketAverage": 198.298,
+          "marketVolume": 97582,
+          "marketNotional": 19350306.4205,
+          "marketNumberOfTrades": 309,
+          "open": 198.25,
+          "close": 198.3,
+          "marketOpen": 198.26,
+          "marketClose": 198.29
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:30",
+          "label": "10:30 AM",
+          "high": 198.44,
+          "low": 198.3,
+          "average": 198.39,
+          "volume": 300,
+          "notional": 59517,
+          "numberOfTrades": 3,
+          "marketHigh": 198.487,
+          "marketLow": 198.25,
+          "marketAverage": 198.396,
+          "marketVolume": 36338,
+          "marketNotional": 7209323.7452,
+          "marketNumberOfTrades": 206,
+          "open": 198.3,
+          "close": 198.43,
+          "marketOpen": 198.25,
+          "marketClose": 198.45
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:40",
+          "label": "10:40 AM",
+          "high": 198.41,
+          "low": 198.25,
+          "average": 198.294,
+          "volume": 1231,
+          "notional": 244100.06,
+          "numberOfTrades": 13,
+          "marketHigh": 198.41,
+          "marketLow": 198.22,
+          "marketAverage": 198.294,
+          "marketVolume": 30613,
+          "marketNotional": 6070364.4355,
+          "marketNumberOfTrades": 235,
+          "open": 198.41,
+          "close": 198.35,
+          "marketOpen": 198.38,
+          "marketClose": 198.33
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "10:50",
+          "label": "10:50 AM",
+          "high": 198.53,
+          "low": 198.41,
+          "average": 198.447,
+          "volume": 720,
+          "notional": 142881.9,
+          "numberOfTrades": 9,
+          "marketHigh": 198.54,
+          "marketLow": 198.39,
+          "marketAverage": 198.48,
+          "marketVolume": 16921,
+          "marketNotional": 3358475.0085,
+          "marketNumberOfTrades": 104,
+          "open": 198.41,
+          "close": 198.53,
+          "marketOpen": 198.39,
+          "marketClose": 198.53
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:00",
+          "label": "11 AM",
+          "high": 198.525,
+          "low": 198.38,
+          "average": 198.442,
+          "volume": 747,
+          "notional": 148236.585,
+          "numberOfTrades": 11,
+          "marketHigh": 198.525,
+          "marketLow": 198.38,
+          "marketAverage": 198.458,
+          "marketVolume": 23196,
+          "marketNotional": 4603439.454,
+          "marketNumberOfTrades": 133,
+          "open": 198.47,
+          "close": 198.43,
+          "marketOpen": 198.47,
+          "marketClose": 198.42
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:10",
+          "label": "11:10 AM",
+          "high": 198.45,
+          "low": 198.41,
+          "average": 198.432,
+          "volume": 316,
+          "notional": 62704.56,
+          "numberOfTrades": 4,
+          "marketHigh": 198.465,
+          "marketLow": 198.38,
+          "marketAverage": 198.417,
+          "marketVolume": 16345,
+          "marketNotional": 3243125.8193,
+          "marketNumberOfTrades": 101,
+          "open": 198.44,
+          "close": 198.41,
+          "marketOpen": 198.45,
+          "marketClose": 198.39
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:20",
+          "label": "11:20 AM",
+          "high": 198.55,
+          "low": 198.48,
+          "average": 198.521,
+          "volume": 707,
+          "notional": 140354.5,
+          "numberOfTrades": 7,
+          "marketHigh": 198.555,
+          "marketLow": 198.47,
+          "marketAverage": 198.523,
+          "marketVolume": 20702,
+          "marketNotional": 4109822.1321,
+          "marketNumberOfTrades": 98,
+          "open": 198.515,
+          "close": 198.51,
+          "marketOpen": 198.49,
+          "marketClose": 198.54
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:30",
+          "label": "11:30 AM",
+          "high": 198.51,
+          "low": 198.45,
+          "average": 198.451,
+          "volume": 101,
+          "notional": 20043.51,
+          "numberOfTrades": 2,
+          "marketHigh": 198.54,
+          "marketLow": 198.43,
+          "marketAverage": 198.485,
+          "marketVolume": 15675,
+          "marketNotional": 3111255.83,
+          "marketNumberOfTrades": 87,
+          "open": 198.45,
+          "close": 198.51,
+          "marketOpen": 198.54,
+          "marketClose": 198.49
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:40",
+          "label": "11:40 AM",
+          "high": 198.27,
+          "low": 198.22,
+          "average": 198.237,
+          "volume": 637,
+          "notional": 126276.99,
+          "numberOfTrades": 7,
+          "marketHigh": 198.3,
+          "marketLow": 198.19,
+          "marketAverage": 198.253,
+          "marketVolume": 18879,
+          "marketNotional": 3742822.848,
+          "marketNumberOfTrades": 124,
+          "open": 198.27,
+          "close": 198.27,
+          "marketOpen": 198.3,
+          "marketClose": 198.28
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "11:50",
+          "label": "11:50 AM",
+          "high": 198.13,
+          "low": 198.08,
+          "average": 198.111,
+          "volume": 639,
+          "notional": 126592.62,
+          "numberOfTrades": 8,
+          "marketHigh": 198.165,
+          "marketLow": 198.06,
+          "marketAverage": 198.102,
+          "marketVolume": 29288,
+          "marketNotional": 5802006.2266,
+          "marketNumberOfTrades": 145,
+          "open": 198.125,
+          "close": 198.08,
+          "marketOpen": 198.126,
+          "marketClose": 198.07
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:00",
+          "label": "12 PM",
+          "high": 198.27,
+          "low": 198.27,
+          "average": 198.27,
+          "volume": 100,
+          "notional": 19827,
+          "numberOfTrades": 1,
+          "marketHigh": 198.275,
+          "marketLow": 198.18,
+          "marketAverage": 198.252,
+          "marketVolume": 12706,
+          "marketNotional": 2518992.12,
+          "marketNumberOfTrades": 85,
+          "open": 198.27,
+          "close": 198.27,
+          "marketOpen": 198.18,
+          "marketClose": 198.24
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:10",
+          "label": "12:10 PM",
+          "high": 198.07,
+          "low": 198,
+          "average": 198.038,
+          "volume": 594,
+          "notional": 117634.46,
+          "numberOfTrades": 9,
+          "marketHigh": 198.08,
+          "marketLow": 198.01,
+          "marketAverage": 198.044,
+          "marketVolume": 26013,
+          "marketNotional": 5151722.2053,
+          "marketNumberOfTrades": 157,
+          "open": 198.025,
+          "close": 198.02,
+          "marketOpen": 198.015,
+          "marketClose": 198.07
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:20",
+          "label": "12:20 PM",
+          "high": 198.25,
+          "low": 198.2,
+          "average": 198.218,
+          "volume": 468,
+          "notional": 92766.14,
+          "numberOfTrades": 6,
+          "marketHigh": 198.26,
+          "marketLow": 198.177,
+          "marketAverage": 198.227,
+          "marketVolume": 16520,
+          "marketNotional": 3274715.325,
+          "marketNumberOfTrades": 115,
+          "open": 198.25,
+          "close": 198.21,
+          "marketOpen": 198.25,
+          "marketClose": 198.21
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:30",
+          "label": "12:30 PM",
+          "high": 198.13,
+          "low": 198.06,
+          "average": 198.107,
+          "volume": 149,
+          "notional": 29517.94,
+          "numberOfTrades": 2,
+          "marketHigh": 198.14,
+          "marketLow": 198.06,
+          "marketAverage": 198.106,
+          "marketVolume": 17714,
+          "marketNotional": 3509253.816,
+          "marketNumberOfTrades": 89,
+          "open": 198.13,
+          "close": 198.06,
+          "marketOpen": 198.124,
+          "marketClose": 198.074
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:40",
+          "label": "12:40 PM",
+          "high": 198.05,
+          "low": 198.04,
+          "average": 198.045,
+          "volume": 725,
+          "notional": 143582.5,
+          "numberOfTrades": 8,
+          "marketHigh": 198.056,
+          "marketLow": 198.03,
+          "marketAverage": 198.045,
+          "marketVolume": 13767,
+          "marketNotional": 2726483.1535,
+          "marketNumberOfTrades": 116,
+          "open": 198.045,
+          "close": 198.04,
+          "marketOpen": 198.044,
+          "marketClose": 198.04
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "12:50",
+          "label": "12:50 PM",
+          "high": 198.18,
+          "low": 198.14,
+          "average": 198.163,
+          "volume": 300,
+          "notional": 59449,
+          "numberOfTrades": 4,
+          "marketHigh": 198.18,
+          "marketLow": 198.13,
+          "marketAverage": 198.152,
+          "marketVolume": 13432,
+          "marketNotional": 2661580.95,
+          "marketNumberOfTrades": 88,
+          "open": 198.18,
+          "close": 198.14,
+          "marketOpen": 198.14,
+          "marketClose": 198.165
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:00",
+          "label": "1 PM",
+          "high": 198.06,
+          "low": 198.02,
+          "average": 198.042,
+          "volume": 301,
+          "notional": 59610.66,
+          "numberOfTrades": 5,
+          "marketHigh": 198.11,
+          "marketLow": 198.03,
+          "marketAverage": 198.075,
+          "marketVolume": 7793,
+          "marketNotional": 1543598.8525,
+          "marketNumberOfTrades": 74,
+          "open": 198.06,
+          "close": 198.02,
+          "marketOpen": 198.11,
+          "marketClose": 198.038
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:10",
+          "label": "1:10 PM",
+          "high": 197.89,
+          "low": 197.85,
+          "average": 197.863,
+          "volume": 400,
+          "notional": 79145,
+          "numberOfTrades": 4,
+          "marketHigh": 197.909,
+          "marketLow": 197.82,
+          "marketAverage": 197.866,
+          "marketVolume": 18981,
+          "marketNotional": 3755693.4785,
+          "marketNumberOfTrades": 112,
+          "open": 197.85,
+          "close": 197.86,
+          "marketOpen": 197.85,
+          "marketClose": 197.82
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:20",
+          "label": "1:20 PM",
+          "high": 197.57,
+          "low": 197.44,
+          "average": 197.493,
+          "volume": 942,
+          "notional": 186037.97,
+          "numberOfTrades": 13,
+          "marketHigh": 197.61,
+          "marketLow": 197.44,
+          "marketAverage": 197.496,
+          "marketVolume": 56695,
+          "marketNotional": 11197026.5733,
+          "marketNumberOfTrades": 258,
+          "open": 197.57,
+          "close": 197.515,
+          "marketOpen": 197.61,
+          "marketClose": 197.524
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:30",
+          "label": "1:30 PM",
+          "high": 197.78,
+          "low": 197.75,
+          "average": 197.76,
+          "volume": 153,
+          "notional": 30257.25,
+          "numberOfTrades": 3,
+          "marketHigh": 197.83,
+          "marketLow": 197.693,
+          "marketAverage": 197.779,
+          "marketVolume": 21211,
+          "marketNotional": 4195098.5379,
+          "marketNumberOfTrades": 110,
+          "open": 197.75,
+          "close": 197.78,
+          "marketOpen": 197.693,
+          "marketClose": 197.83
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:40",
+          "label": "1:40 PM",
+          "high": 197.88,
+          "low": 197.81,
+          "average": 197.843,
+          "volume": 811,
+          "notional": 160451.02,
+          "numberOfTrades": 10,
+          "marketHigh": 197.89,
+          "marketLow": 197.806,
+          "marketAverage": 197.833,
+          "marketVolume": 22732,
+          "marketNotional": 4497130.376,
+          "marketNumberOfTrades": 97,
+          "open": 197.88,
+          "close": 197.81,
+          "marketOpen": 197.86,
+          "marketClose": 197.82
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "13:50",
+          "label": "1:50 PM",
+          "high": 197.88,
+          "low": 197.76,
+          "average": 197.819,
+          "volume": 850,
+          "notional": 168146.5,
+          "numberOfTrades": 9,
+          "marketHigh": 197.88,
+          "marketLow": 197.702,
+          "marketAverage": 197.779,
+          "marketVolume": 29796,
+          "marketNotional": 5893036.1275,
+          "marketNumberOfTrades": 170,
+          "open": 197.76,
+          "close": 197.88,
+          "marketOpen": 197.73,
+          "marketClose": 197.87
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:00",
+          "label": "2 PM",
+          "high": 198.24,
+          "low": 197.32,
+          "average": 197.952,
+          "volume": 5667,
+          "notional": 1121795.59,
+          "numberOfTrades": 84,
+          "marketHigh": 198.29,
+          "marketLow": 197.31,
+          "marketAverage": 197.96,
+          "marketVolume": 130920,
+          "marketNotional": 25916959.2679,
+          "marketNumberOfTrades": 776,
+          "open": 198.05,
+          "close": 198.22,
+          "marketOpen": 198,
+          "marketClose": 198.28
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:10",
+          "label": "2:10 PM",
+          "high": 199,
+          "low": 198.77,
+          "average": 198.888,
+          "volume": 1422,
+          "notional": 282818.54,
+          "numberOfTrades": 19,
+          "marketHigh": 199,
+          "marketLow": 198.79,
+          "marketAverage": 198.911,
+          "marketVolume": 70053,
+          "marketNotional": 13934331.0932,
+          "marketNumberOfTrades": 273,
+          "open": 198.84,
+          "close": 198.77,
+          "marketOpen": 198.89,
+          "marketClose": 198.805
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:20",
+          "label": "2:20 PM",
+          "high": 198.64,
+          "low": 198.35,
+          "average": 198.459,
+          "volume": 927,
+          "notional": 183971.99,
+          "numberOfTrades": 11,
+          "marketHigh": 198.69,
+          "marketLow": 198.3,
+          "marketAverage": 198.441,
+          "marketVolume": 71593,
+          "marketNotional": 14207027.8182,
+          "marketNumberOfTrades": 296,
+          "open": 198.64,
+          "close": 198.35,
+          "marketOpen": 198.63,
+          "marketClose": 198.3
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:30",
+          "label": "2:30 PM",
+          "high": 198.18,
+          "low": 197.81,
+          "average": 198.016,
+          "volume": 1977,
+          "notional": 391477.18,
+          "numberOfTrades": 20,
+          "marketHigh": 198.19,
+          "marketLow": 197.79,
+          "marketAverage": 198.016,
+          "marketVolume": 76119,
+          "marketNotional": 15072790.551,
+          "marketNumberOfTrades": 278,
+          "open": 198.02,
+          "close": 198.18,
+          "marketOpen": 198,
+          "marketClose": 198.189
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:40",
+          "label": "2:40 PM",
+          "high": 197.95,
+          "low": 197.62,
+          "average": 197.769,
+          "volume": 2855,
+          "notional": 564630.9,
+          "numberOfTrades": 27,
+          "marketHigh": 197.93,
+          "marketLow": 197.6,
+          "marketAverage": 197.763,
+          "marketVolume": 64923,
+          "marketNotional": 12839392.7979,
+          "marketNumberOfTrades": 403,
+          "open": 197.9,
+          "close": 197.89,
+          "marketOpen": 197.88,
+          "marketClose": 197.89
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "14:50",
+          "label": "2:50 PM",
+          "high": 197.94,
+          "low": 197.75,
+          "average": 197.822,
+          "volume": 617,
+          "notional": 122056.54,
+          "numberOfTrades": 10,
+          "marketHigh": 198,
+          "marketLow": 197.72,
+          "marketAverage": 197.866,
+          "marketVolume": 28651,
+          "marketNotional": 5669051.0866,
+          "marketNumberOfTrades": 172,
+          "open": 197.83,
+          "close": 197.92,
+          "marketOpen": 197.81,
+          "marketClose": 197.94
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:00",
+          "label": "3 PM",
+          "high": 198.07,
+          "low": 197.99,
+          "average": 198.033,
+          "volume": 1495,
+          "notional": 296060,
+          "numberOfTrades": 14,
+          "marketHigh": 198.07,
+          "marketLow": 197.96,
+          "marketAverage": 198.026,
+          "marketVolume": 21956,
+          "marketNotional": 4347857.2935,
+          "marketNumberOfTrades": 162,
+          "open": 198.01,
+          "close": 198.02,
+          "marketOpen": 198.01,
+          "marketClose": 198.056
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:10",
+          "label": "3:10 PM",
+          "high": 198.16,
+          "low": 198.04,
+          "average": 198.098,
+          "volume": 501,
+          "notional": 99247.08,
+          "numberOfTrades": 6,
+          "marketHigh": 198.23,
+          "marketLow": 198.04,
+          "marketAverage": 198.128,
+          "marketVolume": 21291,
+          "marketNotional": 4218339.5648,
+          "marketNumberOfTrades": 147,
+          "open": 198.16,
+          "close": 198.05,
+          "marketOpen": 198.17,
+          "marketClose": 198.05
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:20",
+          "label": "3:20 PM",
+          "high": 198.34,
+          "low": 198.25,
+          "average": 198.301,
+          "volume": 2811,
+          "notional": 557424.76,
+          "numberOfTrades": 33,
+          "marketHigh": 198.38,
+          "marketLow": 198.23,
+          "marketAverage": 198.289,
+          "marketVolume": 71563,
+          "marketNotional": 14190130.2597,
+          "marketNumberOfTrades": 407,
+          "open": 198.31,
+          "close": 198.27,
+          "marketOpen": 198.24,
+          "marketClose": 198.24
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:30",
+          "label": "3:30 PM",
+          "high": 198.38,
+          "low": 198.22,
+          "average": 198.305,
+          "volume": 800,
+          "notional": 158644,
+          "numberOfTrades": 10,
+          "marketHigh": 198.4,
+          "marketLow": 198.22,
+          "marketAverage": 198.32,
+          "marketVolume": 37488,
+          "marketNotional": 7434621.21,
+          "marketNumberOfTrades": 198,
+          "open": 198.23,
+          "close": 198.38,
+          "marketOpen": 198.24,
+          "marketClose": 198.39
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:40",
+          "label": "3:40 PM",
+          "high": 198.14,
+          "low": 198.06,
+          "average": 198.1,
+          "volume": 967,
+          "notional": 191562.44,
+          "numberOfTrades": 13,
+          "marketHigh": 198.18,
+          "marketLow": 198.05,
+          "marketAverage": 198.117,
+          "marketVolume": 43171,
+          "marketNotional": 8552909.2756,
+          "marketNumberOfTrades": 295,
+          "open": 198.08,
+          "close": 198.14,
+          "marketOpen": 198.13,
+          "marketClose": 198.17
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:50",
+          "label": "3:50 PM",
+          "high": 198.53,
+          "low": 198.34,
+          "average": 198.452,
+          "volume": 2205,
+          "notional": 437586.87,
+          "numberOfTrades": 35,
+          "marketHigh": 198.57,
+          "marketLow": 198.35,
+          "marketAverage": 198.447,
+          "marketVolume": 63740,
+          "marketNotional": 12649039.7406,
+          "marketNumberOfTrades": 402,
+          "open": 198.46,
+          "close": 198.41,
+          "marketOpen": 198.41,
+          "marketClose": 198.405
+        },
+        {
+          "date": "2019-06-19",
+          "minute": "15:59",
+          "label": "3:59 PM",
+          "high": 197.93,
+          "low": 197.8,
+          "average": 197.885,
+          "volume": 10698,
+          "notional": 2116972.97,
+          "numberOfTrades": 107,
+          "marketHigh": 197.95,
+          "marketLow": 197.75,
+          "marketAverage": 197.869,
+          "marketVolume": 442035,
+          "marketNotional": 87465197.0262,
+          "marketNumberOfTrades": 2149,
+          "open": 197.92,
+          "close": 197.81,
+          "marketOpen": 197.92,
+          "marketClose": 197.86
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "09:30",
+          "label": "09:30 AM",
+          "high": 195.99,
+          "low": 195.24,
+          "average": 195.865,
+          "volume": 1284,
+          "notional": 251490.775,
+          "numberOfTrades": 21,
+          "marketHigh": 196.05,
+          "marketLow": 195.23,
+          "marketAverage": 195.859,
+          "marketVolume": 463144,
+          "marketNotional": 90711189.8066,
+          "marketNumberOfTrades": 927,
+          "open": 195.965,
+          "close": 195.74,
+          "marketOpen": 196.05,
+          "marketClose": 195.77
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "09:40",
+          "label": "09:40 AM",
+          "high": 198.22,
+          "low": 197.435,
+          "average": 197.853,
+          "volume": 11034,
+          "notional": 2183106.555,
+          "numberOfTrades": 118,
+          "marketHigh": 198.24,
+          "marketLow": 197.39,
+          "marketAverage": 197.87,
+          "marketVolume": 357247,
+          "marketNotional": 70688332.7592,
+          "marketNumberOfTrades": 1821,
+          "open": 197.54,
+          "close": 198.205,
+          "marketOpen": 197.54,
+          "marketClose": 198.22
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "09:50",
+          "label": "09:50 AM",
+          "high": 199.81,
+          "low": 199.56,
+          "average": 199.719,
+          "volume": 3656,
+          "notional": 730170.85,
+          "numberOfTrades": 51,
+          "marketHigh": 199.83,
+          "marketLow": 199.55,
+          "marketAverage": 199.714,
+          "marketVolume": 155857,
+          "marketNotional": 31126910.9686,
+          "marketNumberOfTrades": 1007,
+          "open": 199.74,
+          "close": 199.76,
+          "marketOpen": 199.7,
+          "marketClose": 199.715
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:00",
+          "label": "10 AM",
+          "high": 199.3,
+          "low": 198.99,
+          "average": 199.129,
+          "volume": 6336,
+          "notional": 1261681.56,
+          "numberOfTrades": 57,
+          "marketHigh": 199.29,
+          "marketLow": 198.96,
+          "marketAverage": 199.127,
+          "marketVolume": 104124,
+          "marketNotional": 20733876.2844,
+          "marketNumberOfTrades": 609,
+          "open": 199.09,
+          "close": 199.3,
+          "marketOpen": 199.06,
+          "marketClose": 199.29
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:10",
+          "label": "10:10 AM",
+          "high": 199.42,
+          "low": 199.26,
+          "average": 199.358,
+          "volume": 1639,
+          "notional": 326747.9,
+          "numberOfTrades": 20,
+          "marketHigh": 199.48,
+          "marketLow": 199.23,
+          "marketAverage": 199.347,
+          "marketVolume": 70724,
+          "marketNotional": 14098647.2068,
+          "marketNumberOfTrades": 401,
+          "open": 199.36,
+          "close": 199.33,
+          "marketOpen": 199.36,
+          "marketClose": 199.23
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:20",
+          "label": "10:20 AM",
+          "high": 199.83,
+          "low": 199.54,
+          "average": 199.662,
+          "volume": 4330,
+          "notional": 864535.9,
+          "numberOfTrades": 43,
+          "marketHigh": 199.83,
+          "marketLow": 199.52,
+          "marketAverage": 199.656,
+          "marketVolume": 98723,
+          "marketNotional": 19710628.9095,
+          "marketNumberOfTrades": 594,
+          "open": 199.78,
+          "close": 199.58,
+          "marketOpen": 199.79,
+          "marketClose": 199.57
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:30",
+          "label": "10:30 AM",
+          "high": 199.63,
+          "low": 199.48,
+          "average": 199.556,
+          "volume": 1600,
+          "notional": 319290,
+          "numberOfTrades": 16,
+          "marketHigh": 199.69,
+          "marketLow": 199.45,
+          "marketAverage": 199.571,
+          "marketVolume": 105128,
+          "marketNotional": 20980546.3487,
+          "marketNumberOfTrades": 473,
+          "open": 199.5,
+          "close": 199.63,
+          "marketOpen": 199.5,
+          "marketClose": 199.66
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:40",
+          "label": "10:40 AM",
+          "high": 199.94,
+          "low": 199.81,
+          "average": 199.863,
+          "volume": 1036,
+          "notional": 207058.64,
+          "numberOfTrades": 12,
+          "marketHigh": 199.95,
+          "marketLow": 199.792,
+          "marketAverage": 199.873,
+          "marketVolume": 46318,
+          "marketNotional": 9257733.0664,
+          "marketNumberOfTrades": 218,
+          "open": 199.85,
+          "close": 199.86,
+          "marketOpen": 199.86,
+          "marketClose": 199.83
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "10:50",
+          "label": "10:50 AM",
+          "high": 199.98,
+          "low": 199.91,
+          "average": 199.949,
+          "volume": 1810,
+          "notional": 361908.1,
+          "numberOfTrades": 19,
+          "marketHigh": 199.99,
+          "marketLow": 199.83,
+          "marketAverage": 199.944,
+          "marketVolume": 66913,
+          "marketNotional": 13378849.0599,
+          "marketNumberOfTrades": 287,
+          "open": 199.96,
+          "close": 199.93,
+          "marketOpen": 199.97,
+          "marketClose": 199.83
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:00",
+          "label": "11 AM",
+          "high": 200.15,
+          "low": 200.02,
+          "average": 200.083,
+          "volume": 1063,
+          "notional": 212687.86,
+          "numberOfTrades": 18,
+          "marketHigh": 200.17,
+          "marketLow": 200.006,
+          "marketAverage": 200.099,
+          "marketVolume": 42405,
+          "marketNotional": 8485179.1689,
+          "marketNumberOfTrades": 206,
+          "open": 200.02,
+          "close": 200.1,
+          "marketOpen": 200.01,
+          "marketClose": 200.116
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:10",
+          "label": "11:10 AM",
+          "high": 200.03,
+          "low": 199.93,
+          "average": 199.975,
+          "volume": 3879,
+          "notional": 775703.29,
+          "numberOfTrades": 49,
+          "marketHigh": 200.03,
+          "marketLow": 199.93,
+          "marketAverage": 199.981,
+          "marketVolume": 56413,
+          "marketNotional": 11281519.8608,
+          "marketNumberOfTrades": 339,
+          "open": 200.02,
+          "close": 199.98,
+          "marketOpen": 200.02,
+          "marketClose": 199.98
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:20",
+          "label": "11:20 AM",
+          "high": 199.6,
+          "low": 199.52,
+          "average": 199.554,
+          "volume": 1008,
+          "notional": 201150.16,
+          "numberOfTrades": 11,
+          "marketHigh": 199.62,
+          "marketLow": 199.498,
+          "marketAverage": 199.546,
+          "marketVolume": 24405,
+          "marketNotional": 4869927.9926,
+          "marketNumberOfTrades": 146,
+          "open": 199.53,
+          "close": 199.6,
+          "marketOpen": 199.52,
+          "marketClose": 199.6
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:30",
+          "label": "11:30 AM",
+          "high": 198.98,
+          "low": 198.88,
+          "average": 198.928,
+          "volume": 1312,
+          "notional": 260994.105,
+          "numberOfTrades": 20,
+          "marketHigh": 199.04,
+          "marketLow": 198.88,
+          "marketAverage": 198.946,
+          "marketVolume": 58659,
+          "marketNotional": 11669964.9799,
+          "marketNumberOfTrades": 288,
+          "open": 198.98,
+          "close": 198.96,
+          "marketOpen": 199.01,
+          "marketClose": 199
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:40",
+          "label": "11:40 AM",
+          "high": 199.17,
+          "low": 199.08,
+          "average": 199.126,
+          "volume": 515,
+          "notional": 102549.95,
+          "numberOfTrades": 6,
+          "marketHigh": 199.17,
+          "marketLow": 199.02,
+          "marketAverage": 199.099,
+          "marketVolume": 19990,
+          "marketNotional": 3979998.1872,
+          "marketNumberOfTrades": 124,
+          "open": 199.12,
+          "close": 199.13,
+          "marketOpen": 199.06,
+          "marketClose": 199.02
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "11:50",
+          "label": "11:50 AM",
+          "high": 198.92,
+          "low": 198.79,
+          "average": 198.87,
+          "volume": 1060,
+          "notional": 210802.5,
+          "numberOfTrades": 12,
+          "marketHigh": 198.92,
+          "marketLow": 198.79,
+          "marketAverage": 198.852,
+          "marketVolume": 40468,
+          "marketNotional": 8047164.251,
+          "marketNumberOfTrades": 164,
+          "open": 198.9,
+          "close": 198.89,
+          "marketOpen": 198.89,
+          "marketClose": 198.863
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:00",
+          "label": "12 PM",
+          "high": 198.7,
+          "low": 198.58,
+          "average": 198.624,
+          "volume": 3113,
+          "notional": 618317.85,
+          "numberOfTrades": 26,
+          "marketHigh": 198.72,
+          "marketLow": 198.49,
+          "marketAverage": 198.62,
+          "marketVolume": 39807,
+          "marketNotional": 7906464.4941,
+          "marketNumberOfTrades": 232,
+          "open": 198.58,
+          "close": 198.67,
+          "marketOpen": 198.52,
+          "marketClose": 198.72
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:10",
+          "label": "12:10 PM",
+          "high": 198.98,
+          "low": 198.93,
+          "average": 198.95,
+          "volume": 500,
+          "notional": 99475,
+          "numberOfTrades": 5,
+          "marketHigh": 198.98,
+          "marketLow": 198.9,
+          "marketAverage": 198.942,
+          "marketVolume": 27577,
+          "marketNotional": 5486218.0713,
+          "marketNumberOfTrades": 177,
+          "open": 198.96,
+          "close": 198.98,
+          "marketOpen": 198.96,
+          "marketClose": 198.9
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:20",
+          "label": "12:20 PM",
+          "high": 198.62,
+          "low": 198.57,
+          "average": 198.6,
+          "volume": 694,
+          "notional": 137828.28,
+          "numberOfTrades": 8,
+          "marketHigh": 198.63,
+          "marketLow": 198.55,
+          "marketAverage": 198.591,
+          "marketVolume": 16025,
+          "marketNotional": 3182415.897,
+          "marketNumberOfTrades": 97,
+          "open": 198.57,
+          "close": 198.61,
+          "marketOpen": 198.59,
+          "marketClose": 198.6
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:30",
+          "label": "12:30 PM",
+          "high": 198.84,
+          "low": 198.725,
+          "average": 198.801,
+          "volume": 1154,
+          "notional": 229416.28,
+          "numberOfTrades": 13,
+          "marketHigh": 198.855,
+          "marketLow": 198.71,
+          "marketAverage": 198.786,
+          "marketVolume": 24691,
+          "marketNotional": 4908239.7233,
+          "marketNumberOfTrades": 180,
+          "open": 198.84,
+          "close": 198.725,
+          "marketOpen": 198.84,
+          "marketClose": 198.727
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:40",
+          "label": "12:40 PM",
+          "high": 198.9,
+          "low": 198.77,
+          "average": 198.829,
+          "volume": 919,
+          "notional": 182723.92,
+          "numberOfTrades": 11,
+          "marketHigh": 198.94,
+          "marketLow": 198.77,
+          "marketAverage": 198.862,
+          "marketVolume": 16584,
+          "marketNotional": 3297935.6365,
+          "marketNumberOfTrades": 118,
+          "open": 198.82,
+          "close": 198.9,
+          "marketOpen": 198.84,
+          "marketClose": 198.93
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "12:50",
+          "label": "12:50 PM",
+          "high": 199.09,
+          "low": 198.96,
+          "average": 199.026,
+          "volume": 923,
+          "notional": 183700.79,
+          "numberOfTrades": 11,
+          "marketHigh": 199.09,
+          "marketLow": 198.94,
+          "marketAverage": 199.018,
+          "marketVolume": 35875,
+          "marketNotional": 7139758.8023,
+          "marketNumberOfTrades": 193,
+          "open": 199,
+          "close": 199,
+          "marketOpen": 198.96,
+          "marketClose": 199
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:00",
+          "label": "1 PM",
+          "high": 198.7,
+          "low": 198.5,
+          "average": 198.552,
+          "volume": 925,
+          "notional": 183660.775,
+          "numberOfTrades": 14,
+          "marketHigh": 198.75,
+          "marketLow": 198.5,
+          "marketAverage": 198.587,
+          "marketVolume": 32900,
+          "marketNotional": 6533526.7207,
+          "marketNumberOfTrades": 244,
+          "open": 198.7,
+          "close": 198.57,
+          "marketOpen": 198.75,
+          "marketClose": 198.59
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:10",
+          "label": "1:10 PM",
+          "high": 198.49,
+          "low": 198.46,
+          "average": 198.47,
+          "volume": 150,
+          "notional": 29770.5,
+          "numberOfTrades": 2,
+          "marketHigh": 198.52,
+          "marketLow": 198.39,
+          "marketAverage": 198.459,
+          "marketVolume": 17455,
+          "marketNotional": 3464109.238,
+          "marketNumberOfTrades": 110,
+          "open": 198.46,
+          "close": 198.49,
+          "marketOpen": 198.43,
+          "marketClose": 198.484
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:20",
+          "label": "1:20 PM",
+          "high": 198.45,
+          "low": 198.39,
+          "average": 198.417,
+          "volume": 405,
+          "notional": 80359.1,
+          "numberOfTrades": 5,
+          "marketHigh": 198.46,
+          "marketLow": 198.36,
+          "marketAverage": 198.413,
+          "marketVolume": 15150,
+          "marketNotional": 3005963.5147,
+          "marketNumberOfTrades": 84,
+          "open": 198.43,
+          "close": 198.45,
+          "marketOpen": 198.445,
+          "marketClose": 198.45
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:30",
+          "label": "1:30 PM",
+          "high": 198.44,
+          "low": 198.26,
+          "average": 198.39,
+          "volume": 1505,
+          "notional": 298576.91,
+          "numberOfTrades": 17,
+          "marketHigh": 198.45,
+          "marketLow": 198.25,
+          "marketAverage": 198.382,
+          "marketVolume": 27162,
+          "marketNotional": 5388442.6332,
+          "marketNumberOfTrades": 164,
+          "open": 198.26,
+          "close": 198.43,
+          "marketOpen": 198.25,
+          "marketClose": 198.427
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:40",
+          "label": "1:40 PM",
+          "high": 198.26,
+          "low": 198.22,
+          "average": 198.245,
+          "volume": 616,
+          "notional": 122119.16,
+          "numberOfTrades": 8,
+          "marketHigh": 198.28,
+          "marketLow": 198.21,
+          "marketAverage": 198.252,
+          "marketVolume": 13688,
+          "marketNotional": 2713676.9648,
+          "marketNumberOfTrades": 80,
+          "open": 198.26,
+          "close": 198.22,
+          "marketOpen": 198.27,
+          "marketClose": 198.256
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "13:50",
+          "label": "1:50 PM",
+          "high": 198.33,
+          "low": 198.3,
+          "average": 198.317,
+          "volume": 186,
+          "notional": 36886.92,
+          "numberOfTrades": 3,
+          "marketHigh": 198.35,
+          "marketLow": 198.27,
+          "marketAverage": 198.314,
+          "marketVolume": 11430,
+          "marketNotional": 2266730.884,
+          "marketNumberOfTrades": 66,
+          "open": 198.3,
+          "close": 198.33,
+          "marketOpen": 198.285,
+          "marketClose": 198.32
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:00",
+          "label": "2 PM",
+          "high": 198.75,
+          "low": 198.56,
+          "average": 198.675,
+          "volume": 2507,
+          "notional": 498078.31,
+          "numberOfTrades": 26,
+          "marketHigh": 198.75,
+          "marketLow": 198.56,
+          "marketAverage": 198.679,
+          "marketVolume": 38439,
+          "marketNotional": 7637035.2768,
+          "marketNumberOfTrades": 206,
+          "open": 198.56,
+          "close": 198.74,
+          "marketOpen": 198.56,
+          "marketClose": 198.74
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:10",
+          "label": "2:10 PM",
+          "high": 198.88,
+          "low": 198.76,
+          "average": 198.823,
+          "volume": 1847,
+          "notional": 367226.42,
+          "numberOfTrades": 36,
+          "marketHigh": 198.883,
+          "marketLow": 198.75,
+          "marketAverage": 198.82,
+          "marketVolume": 25433,
+          "marketNotional": 5056593.0658,
+          "marketNumberOfTrades": 182,
+          "open": 198.82,
+          "close": 198.87,
+          "marketOpen": 198.81,
+          "marketClose": 198.86
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:20",
+          "label": "2:20 PM",
+          "high": 198.96,
+          "low": 198.87,
+          "average": 198.924,
+          "volume": 685,
+          "notional": 136263.09,
+          "numberOfTrades": 15,
+          "marketHigh": 198.95,
+          "marketLow": 198.847,
+          "marketAverage": 198.918,
+          "marketVolume": 22016,
+          "marketNotional": 4379385.3296,
+          "marketNumberOfTrades": 107,
+          "open": 198.91,
+          "close": 198.87,
+          "marketOpen": 198.89,
+          "marketClose": 198.847
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:30",
+          "label": "2:30 PM",
+          "high": 198.83,
+          "low": 198.765,
+          "average": 198.797,
+          "volume": 920,
+          "notional": 182893.4,
+          "numberOfTrades": 11,
+          "marketHigh": 198.85,
+          "marketLow": 198.76,
+          "marketAverage": 198.796,
+          "marketVolume": 12273,
+          "marketNotional": 2439828.0978,
+          "marketNumberOfTrades": 88,
+          "open": 198.825,
+          "close": 198.765,
+          "marketOpen": 198.85,
+          "marketClose": 198.77
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:40",
+          "label": "2:40 PM",
+          "high": 198.9,
+          "low": 198.87,
+          "average": 198.89,
+          "volume": 701,
+          "notional": 139421.79,
+          "numberOfTrades": 8,
+          "marketHigh": 198.91,
+          "marketLow": 198.87,
+          "marketAverage": 198.889,
+          "marketVolume": 14397,
+          "marketNotional": 2863409.0348,
+          "marketNumberOfTrades": 110,
+          "open": 198.9,
+          "close": 198.89,
+          "marketOpen": 198.91,
+          "marketClose": 198.9
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "14:50",
+          "label": "2:50 PM",
+          "high": 198.99,
+          "low": 198.91,
+          "average": 198.968,
+          "volume": 558,
+          "notional": 111024.42,
+          "numberOfTrades": 6,
+          "marketHigh": 199,
+          "marketLow": 198.884,
+          "marketAverage": 198.945,
+          "marketVolume": 15488,
+          "marketNotional": 3081264.9585,
+          "marketNumberOfTrades": 105,
+          "open": 198.99,
+          "close": 198.91,
+          "marketOpen": 198.99,
+          "marketClose": 198.92
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:00",
+          "label": "3 PM",
+          "high": 198.925,
+          "low": 198.83,
+          "average": 198.903,
+          "volume": 810,
+          "notional": 161111.1,
+          "numberOfTrades": 9,
+          "marketHigh": 198.93,
+          "marketLow": 198.78,
+          "marketAverage": 198.885,
+          "marketVolume": 19057,
+          "marketNotional": 3790152.333,
+          "marketNumberOfTrades": 136,
+          "open": 198.91,
+          "close": 198.83,
+          "marketOpen": 198.91,
+          "marketClose": 198.807
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:10",
+          "label": "3:10 PM",
+          "high": 198.84,
+          "low": 198.77,
+          "average": 198.831,
+          "volume": 640,
+          "notional": 127251.55,
+          "numberOfTrades": 8,
+          "marketHigh": 198.85,
+          "marketLow": 198.77,
+          "marketAverage": 198.821,
+          "marketVolume": 14172,
+          "marketNotional": 2817694.034,
+          "marketNumberOfTrades": 116,
+          "open": 198.77,
+          "close": 198.84,
+          "marketOpen": 198.77,
+          "marketClose": 198.84
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:20",
+          "label": "3:20 PM",
+          "high": 198.74,
+          "low": 198.68,
+          "average": 198.706,
+          "volume": 1534,
+          "notional": 304815.59,
+          "numberOfTrades": 24,
+          "marketHigh": 198.74,
+          "marketLow": 198.68,
+          "marketAverage": 198.703,
+          "marketVolume": 25716,
+          "marketNotional": 5109844.4178,
+          "marketNumberOfTrades": 154,
+          "open": 198.74,
+          "close": 198.7,
+          "marketOpen": 198.73,
+          "marketClose": 198.69
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:30",
+          "label": "3:30 PM",
+          "high": 198.7,
+          "low": 198.52,
+          "average": 198.661,
+          "volume": 2696,
+          "notional": 535590.7,
+          "numberOfTrades": 27,
+          "marketHigh": 198.7,
+          "marketLow": 198.52,
+          "marketAverage": 198.658,
+          "marketVolume": 46467,
+          "marketNotional": 9231033.7983,
+          "marketNumberOfTrades": 270,
+          "open": 198.57,
+          "close": 198.65,
+          "marketOpen": 198.65,
+          "marketClose": 198.61
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:40",
+          "label": "3:40 PM",
+          "high": 198.45,
+          "low": 198.28,
+          "average": 198.356,
+          "volume": 3129,
+          "notional": 620654.845,
+          "numberOfTrades": 37,
+          "marketHigh": 198.45,
+          "marketLow": 198.26,
+          "marketAverage": 198.34,
+          "marketVolume": 68426,
+          "marketNotional": 13571639.8419,
+          "marketNumberOfTrades": 434,
+          "open": 198.34,
+          "close": 198.42,
+          "marketOpen": 198.355,
+          "marketClose": 198.43
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:50",
+          "label": "3:50 PM",
+          "high": 198.51,
+          "low": 198.28,
+          "average": 198.378,
+          "volume": 2801,
+          "notional": 555655.85,
+          "numberOfTrades": 31,
+          "marketHigh": 198.51,
+          "marketLow": 198.28,
+          "marketAverage": 198.367,
+          "marketVolume": 87163,
+          "marketNotional": 17290269.3495,
+          "marketNumberOfTrades": 588,
+          "open": 198.39,
+          "close": 198.305,
+          "marketOpen": 198.36,
+          "marketClose": 198.29
+        },
+        {
+          "date": "2019-06-18",
+          "minute": "15:59",
+          "label": "3:59 PM",
+          "high": 198.5,
+          "low": 198.3,
+          "average": 198.419,
+          "volume": 11451,
+          "notional": 2272096.75,
+          "numberOfTrades": 125,
+          "marketHigh": 198.54,
+          "marketLow": 198.27,
+          "marketAverage": 198.421,
+          "marketVolume": 293896,
+          "marketNotional": 58314994.9939,
+          "marketNumberOfTrades": 1836,
+          "open": 198.42,
+          "close": 198.5,
+          "marketOpen": 198.42,
+          "marketClose": 198.5
+        }
+      ],
+      "oneMonth": [
+        {
+          "date": "2019-05-28",
+          "label": "May 28",
+          "close": 178.23
+        },
+        {
+          "date": "2019-05-29",
+          "label": "May 29",
+          "close": 177.38
+        },
+        {
+          "date": "2019-05-30",
+          "label": "May 30",
+          "close": 178.3
+        },
+        {
+          "date": "2019-05-31",
+          "label": "May 31",
+          "close": 175.07
+        },
+        {
+          "date": "2019-06-03",
+          "label": "Jun 3",
+          "close": 173.3
+        },
+        {
+          "date": "2019-06-04",
+          "label": "Jun 4",
+          "close": 179.64
+        },
+        {
+          "date": "2019-06-05",
+          "label": "Jun 5",
+          "close": 182.54
+        },
+        {
+          "date": "2019-06-06",
+          "label": "Jun 6",
+          "close": 185.22
+        },
+        {
+          "date": "2019-06-07",
+          "label": "Jun 7",
+          "close": 190.15
+        },
+        {
+          "date": "2019-06-10",
+          "label": "Jun 10",
+          "close": 192.58
+        },
+        {
+          "date": "2019-06-11",
+          "label": "Jun 11",
+          "close": 194.81
+        },
+        {
+          "date": "2019-06-12",
+          "label": "Jun 12",
+          "close": 194.19
+        },
+        {
+          "date": "2019-06-13",
+          "label": "Jun 13",
+          "close": 194.15
+        },
+        {
+          "date": "2019-06-14",
+          "label": "Jun 14",
+          "close": 192.74
+        },
+        {
+          "date": "2019-06-17",
+          "label": "Jun 17",
+          "close": 193.89
+        },
+        {
+          "date": "2019-06-18",
+          "label": "Jun 18",
+          "close": 198.45
+        },
+        {
+          "date": "2019-06-19",
+          "label": "Jun 19",
+          "close": 197.87
+        },
+        {
+          "date": "2019-06-20",
+          "label": "Jun 20",
+          "close": 199.46
+        },
+        {
+          "date": "2019-06-21",
+          "label": "Jun 21",
+          "close": 198.78
+        },
+        {
+          "date": "2019-06-24",
+          "label": "Jun 24",
+          "close": 198.58
+        }
+      ],
+      "oneYear": [
+        {
+          "date": "2018-06-25",
+          "label": "Jun 25, 18",
+          "close": 182.17
+        },
+        {
+          "date": "2018-06-26",
+          "label": "Jun 26, 18",
+          "close": 184.43
+        },
+        {
+          "date": "2018-06-27",
+          "label": "Jun 27, 18",
+          "close": 184.16
+        },
+        {
+          "date": "2018-06-28",
+          "label": "Jun 28, 18",
+          "close": 185.5
+        },
+        {
+          "date": "2018-06-29",
+          "label": "Jun 29, 18",
+          "close": 185.11
+        },
+        {
+          "date": "2018-07-02",
+          "label": "Jul 2, 18",
+          "close": 187.18
+        },
+        {
+          "date": "2018-07-03",
+          "label": "Jul 3, 18",
+          "close": 183.92
+        },
+        {
+          "date": "2018-07-05",
+          "label": "Jul 5, 18",
+          "close": 185.4
+        },
+        {
+          "date": "2018-07-06",
+          "label": "Jul 6, 18",
+          "close": 187.97
+        },
+        {
+          "date": "2018-07-09",
+          "label": "Jul 9, 18",
+          "close": 190.58
+        },
+        {
+          "date": "2018-07-10",
+          "label": "Jul 10, 18",
+          "close": 190.35
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Jul 11, 18",
+          "close": 187.88
+        },
+        {
+          "date": "2018-07-12",
+          "label": "Jul 12, 18",
+          "close": 191.03
+        },
+        {
+          "date": "2018-07-13",
+          "label": "Jul 13, 18",
+          "close": 191.33
+        },
+        {
+          "date": "2018-07-16",
+          "label": "Jul 16, 18",
+          "close": 190.91
+        },
+        {
+          "date": "2018-07-17",
+          "label": "Jul 17, 18",
+          "close": 191.45
+        },
+        {
+          "date": "2018-07-18",
+          "label": "Jul 18, 18",
+          "close": 190.4
+        },
+        {
+          "date": "2018-07-19",
+          "label": "Jul 19, 18",
+          "close": 191.88
+        },
+        {
+          "date": "2018-07-20",
+          "label": "Jul 20, 18",
+          "close": 191.44
+        },
+        {
+          "date": "2018-07-23",
+          "label": "Jul 23, 18",
+          "close": 191.61
+        },
+        {
+          "date": "2018-07-24",
+          "label": "Jul 24, 18",
+          "close": 193
+        },
+        {
+          "date": "2018-07-25",
+          "label": "Jul 25, 18",
+          "close": 194.82
+        },
+        {
+          "date": "2018-07-26",
+          "label": "Jul 26, 18",
+          "close": 194.21
+        },
+        {
+          "date": "2018-07-27",
+          "label": "Jul 27, 18",
+          "close": 190.98
+        },
+        {
+          "date": "2018-07-30",
+          "label": "Jul 30, 18",
+          "close": 189.91
+        },
+        {
+          "date": "2018-07-31",
+          "label": "Jul 31, 18",
+          "close": 190.29
+        },
+        {
+          "date": "2018-08-01",
+          "label": "Aug 1, 18",
+          "close": 201.5
+        },
+        {
+          "date": "2018-08-02",
+          "label": "Aug 2, 18",
+          "close": 207.39
+        },
+        {
+          "date": "2018-08-03",
+          "label": "Aug 3, 18",
+          "close": 207.99
+        },
+        {
+          "date": "2018-08-06",
+          "label": "Aug 6, 18",
+          "close": 209.07
+        },
+        {
+          "date": "2018-08-07",
+          "label": "Aug 7, 18",
+          "close": 207.11
+        },
+        {
+          "date": "2018-08-08",
+          "label": "Aug 8, 18",
+          "close": 207.25
+        },
+        {
+          "date": "2018-08-09",
+          "label": "Aug 9, 18",
+          "close": 208.88
+        },
+        {
+          "date": "2018-08-10",
+          "label": "Aug 10, 18",
+          "close": 207.53
+        },
+        {
+          "date": "2018-08-13",
+          "label": "Aug 13, 18",
+          "close": 208.87
+        },
+        {
+          "date": "2018-08-14",
+          "label": "Aug 14, 18",
+          "close": 209.75
+        },
+        {
+          "date": "2018-08-15",
+          "label": "Aug 15, 18",
+          "close": 210.24
+        },
+        {
+          "date": "2018-08-16",
+          "label": "Aug 16, 18",
+          "close": 213.32
+        },
+        {
+          "date": "2018-08-17",
+          "label": "Aug 17, 18",
+          "close": 217.58
+        },
+        {
+          "date": "2018-08-20",
+          "label": "Aug 20, 18",
+          "close": 215.46
+        },
+        {
+          "date": "2018-08-21",
+          "label": "Aug 21, 18",
+          "close": 215.04
+        },
+        {
+          "date": "2018-08-22",
+          "label": "Aug 22, 18",
+          "close": 215.05
+        },
+        {
+          "date": "2018-08-23",
+          "label": "Aug 23, 18",
+          "close": 215.49
+        },
+        {
+          "date": "2018-08-24",
+          "label": "Aug 24, 18",
+          "close": 216.16
+        },
+        {
+          "date": "2018-08-27",
+          "label": "Aug 27, 18",
+          "close": 217.94
+        },
+        {
+          "date": "2018-08-28",
+          "label": "Aug 28, 18",
+          "close": 219.7
+        },
+        {
+          "date": "2018-08-29",
+          "label": "Aug 29, 18",
+          "close": 222.98
+        },
+        {
+          "date": "2018-08-30",
+          "label": "Aug 30, 18",
+          "close": 225.03
+        },
+        {
+          "date": "2018-08-31",
+          "label": "Aug 31, 18",
+          "close": 227.63
+        },
+        {
+          "date": "2018-09-04",
+          "label": "Sep 4, 18",
+          "close": 228.36
+        },
+        {
+          "date": "2018-09-05",
+          "label": "Sep 5, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-09-06",
+          "label": "Sep 6, 18",
+          "close": 223.1
+        },
+        {
+          "date": "2018-09-07",
+          "label": "Sep 7, 18",
+          "close": 221.3
+        },
+        {
+          "date": "2018-09-10",
+          "label": "Sep 10, 18",
+          "close": 218.33
+        },
+        {
+          "date": "2018-09-11",
+          "label": "Sep 11, 18",
+          "close": 223.85
+        },
+        {
+          "date": "2018-09-12",
+          "label": "Sep 12, 18",
+          "close": 221.07
+        },
+        {
+          "date": "2018-09-13",
+          "label": "Sep 13, 18",
+          "close": 226.41
+        },
+        {
+          "date": "2018-09-14",
+          "label": "Sep 14, 18",
+          "close": 223.84
+        },
+        {
+          "date": "2018-09-17",
+          "label": "Sep 17, 18",
+          "close": 217.88
+        },
+        {
+          "date": "2018-09-18",
+          "label": "Sep 18, 18",
+          "close": 218.24
+        },
+        {
+          "date": "2018-09-19",
+          "label": "Sep 19, 18",
+          "close": 218.37
+        },
+        {
+          "date": "2018-09-20",
+          "label": "Sep 20, 18",
+          "close": 220.03
+        },
+        {
+          "date": "2018-09-21",
+          "label": "Sep 21, 18",
+          "close": 217.66
+        },
+        {
+          "date": "2018-09-24",
+          "label": "Sep 24, 18",
+          "close": 220.79
+        },
+        {
+          "date": "2018-09-25",
+          "label": "Sep 25, 18",
+          "close": 222.19
+        },
+        {
+          "date": "2018-09-26",
+          "label": "Sep 26, 18",
+          "close": 220.42
+        },
+        {
+          "date": "2018-09-27",
+          "label": "Sep 27, 18",
+          "close": 224.95
+        },
+        {
+          "date": "2018-09-28",
+          "label": "Sep 28, 18",
+          "close": 225.74
+        },
+        {
+          "date": "2018-10-01",
+          "label": "Oct 1, 18",
+          "close": 227.26
+        },
+        {
+          "date": "2018-10-02",
+          "label": "Oct 2, 18",
+          "close": 229.28
+        },
+        {
+          "date": "2018-10-03",
+          "label": "Oct 3, 18",
+          "close": 232.07
+        },
+        {
+          "date": "2018-10-04",
+          "label": "Oct 4, 18",
+          "close": 227.99
+        },
+        {
+          "date": "2018-10-05",
+          "label": "Oct 5, 18",
+          "close": 224.29
+        },
+        {
+          "date": "2018-10-08",
+          "label": "Oct 8, 18",
+          "close": 223.77
+        },
+        {
+          "date": "2018-10-09",
+          "label": "Oct 9, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-10-10",
+          "label": "Oct 10, 18",
+          "close": 216.36
+        },
+        {
+          "date": "2018-10-11",
+          "label": "Oct 11, 18",
+          "close": 214.45
+        },
+        {
+          "date": "2018-10-12",
+          "label": "Oct 12, 18",
+          "close": 222.11
+        },
+        {
+          "date": "2018-10-15",
+          "label": "Oct 15, 18",
+          "close": 217.36
+        },
+        {
+          "date": "2018-10-16",
+          "label": "Oct 16, 18",
+          "close": 222.15
+        },
+        {
+          "date": "2018-10-17",
+          "label": "Oct 17, 18",
+          "close": 221.19
+        },
+        {
+          "date": "2018-10-18",
+          "label": "Oct 18, 18",
+          "close": 216.02
+        },
+        {
+          "date": "2018-10-19",
+          "label": "Oct 19, 18",
+          "close": 219.31
+        },
+        {
+          "date": "2018-10-22",
+          "label": "Oct 22, 18",
+          "close": 220.65
+        },
+        {
+          "date": "2018-10-23",
+          "label": "Oct 23, 18",
+          "close": 222.73
+        },
+        {
+          "date": "2018-10-24",
+          "label": "Oct 24, 18",
+          "close": 215.09
+        },
+        {
+          "date": "2018-10-25",
+          "label": "Oct 25, 18",
+          "close": 219.8
+        },
+        {
+          "date": "2018-10-26",
+          "label": "Oct 26, 18",
+          "close": 216.3
+        },
+        {
+          "date": "2018-10-29",
+          "label": "Oct 29, 18",
+          "close": 212.24
+        },
+        {
+          "date": "2018-10-30",
+          "label": "Oct 30, 18",
+          "close": 213.3
+        },
+        {
+          "date": "2018-10-31",
+          "label": "Oct 31, 18",
+          "close": 218.86
+        },
+        {
+          "date": "2018-11-01",
+          "label": "Nov 1, 18",
+          "close": 222.22
+        },
+        {
+          "date": "2018-11-02",
+          "label": "Nov 2, 18",
+          "close": 207.48
+        },
+        {
+          "date": "2018-11-05",
+          "label": "Nov 5, 18",
+          "close": 201.59
+        },
+        {
+          "date": "2018-11-06",
+          "label": "Nov 6, 18",
+          "close": 203.77
+        },
+        {
+          "date": "2018-11-07",
+          "label": "Nov 7, 18",
+          "close": 209.95
+        },
+        {
+          "date": "2018-11-08",
+          "label": "Nov 8, 18",
+          "close": 208.49
+        },
+        {
+          "date": "2018-11-09",
+          "label": "Nov 9, 18",
+          "close": 204.47
+        },
+        {
+          "date": "2018-11-12",
+          "label": "Nov 12, 18",
+          "close": 194.17
+        },
+        {
+          "date": "2018-11-13",
+          "label": "Nov 13, 18",
+          "close": 192.23
+        },
+        {
+          "date": "2018-11-14",
+          "label": "Nov 14, 18",
+          "close": 186.8
+        },
+        {
+          "date": "2018-11-15",
+          "label": "Nov 15, 18",
+          "close": 191.41
+        },
+        {
+          "date": "2018-11-16",
+          "label": "Nov 16, 18",
+          "close": 193.53
+        },
+        {
+          "date": "2018-11-19",
+          "label": "Nov 19, 18",
+          "close": 185.86
+        },
+        {
+          "date": "2018-11-20",
+          "label": "Nov 20, 18",
+          "close": 176.98
+        },
+        {
+          "date": "2018-11-21",
+          "label": "Nov 21, 18",
+          "close": 176.78
+        },
+        {
+          "date": "2018-11-23",
+          "label": "Nov 23, 18",
+          "close": 172.29
+        },
+        {
+          "date": "2018-11-26",
+          "label": "Nov 26, 18",
+          "close": 174.62
+        },
+        {
+          "date": "2018-11-27",
+          "label": "Nov 27, 18",
+          "close": 174.24
+        },
+        {
+          "date": "2018-11-28",
+          "label": "Nov 28, 18",
+          "close": 180.94
+        },
+        {
+          "date": "2018-11-29",
+          "label": "Nov 29, 18",
+          "close": 179.55
+        },
+        {
+          "date": "2018-11-30",
+          "label": "Nov 30, 18",
+          "close": 178.58
+        },
+        {
+          "date": "2018-12-03",
+          "label": "Dec 3, 18",
+          "close": 184.82
+        },
+        {
+          "date": "2018-12-04",
+          "label": "Dec 4, 18",
+          "close": 176.69
+        },
+        {
+          "date": "2018-12-06",
+          "label": "Dec 6, 18",
+          "close": 174.72
+        },
+        {
+          "date": "2018-12-07",
+          "label": "Dec 7, 18",
+          "close": 168.49
+        },
+        {
+          "date": "2018-12-10",
+          "label": "Dec 10, 18",
+          "close": 169.6
+        },
+        {
+          "date": "2018-12-11",
+          "label": "Dec 11, 18",
+          "close": 168.63
+        },
+        {
+          "date": "2018-12-12",
+          "label": "Dec 12, 18",
+          "close": 169.1
+        },
+        {
+          "date": "2018-12-13",
+          "label": "Dec 13, 18",
+          "close": 170.95
+        },
+        {
+          "date": "2018-12-14",
+          "label": "Dec 14, 18",
+          "close": 165.48
+        },
+        {
+          "date": "2018-12-17",
+          "label": "Dec 17, 18",
+          "close": 163.94
+        },
+        {
+          "date": "2018-12-18",
+          "label": "Dec 18, 18",
+          "close": 166.07
+        },
+        {
+          "date": "2018-12-19",
+          "label": "Dec 19, 18",
+          "close": 160.89
+        },
+        {
+          "date": "2018-12-20",
+          "label": "Dec 20, 18",
+          "close": 156.83
+        },
+        {
+          "date": "2018-12-21",
+          "label": "Dec 21, 18",
+          "close": 150.73
+        },
+        {
+          "date": "2018-12-24",
+          "label": "Dec 24, 18",
+          "close": 146.83
+        },
+        {
+          "date": "2018-12-26",
+          "label": "Dec 26, 18",
+          "close": 157.17
+        },
+        {
+          "date": "2018-12-27",
+          "label": "Dec 27, 18",
+          "close": 156.15
+        },
+        {
+          "date": "2018-12-28",
+          "label": "Dec 28, 18",
+          "close": 156.23
+        },
+        {
+          "date": "2018-12-31",
+          "label": "Dec 31, 18",
+          "close": 157.74
+        },
+        {
+          "date": "2019-01-02",
+          "label": "Jan 2, 19",
+          "close": 157.92
+        },
+        {
+          "date": "2019-01-03",
+          "label": "Jan 3, 19",
+          "close": 142.19
+        },
+        {
+          "date": "2019-01-04",
+          "label": "Jan 4, 19",
+          "close": 148.26
+        },
+        {
+          "date": "2019-01-07",
+          "label": "Jan 7, 19",
+          "close": 147.93
+        },
+        {
+          "date": "2019-01-08",
+          "label": "Jan 8, 19",
+          "close": 150.75
+        },
+        {
+          "date": "2019-01-09",
+          "label": "Jan 9, 19",
+          "close": 153.31
+        },
+        {
+          "date": "2019-01-10",
+          "label": "Jan 10, 19",
+          "close": 153.8
+        },
+        {
+          "date": "2019-01-11",
+          "label": "Jan 11, 19",
+          "close": 152.29
+        },
+        {
+          "date": "2019-01-14",
+          "label": "Jan 14, 19",
+          "close": 150
+        },
+        {
+          "date": "2019-01-15",
+          "label": "Jan 15, 19",
+          "close": 153.07
+        },
+        {
+          "date": "2019-01-16",
+          "label": "Jan 16, 19",
+          "close": 154.94
+        },
+        {
+          "date": "2019-01-17",
+          "label": "Jan 17, 19",
+          "close": 155.86
+        },
+        {
+          "date": "2019-01-18",
+          "label": "Jan 18, 19",
+          "close": 156.82
+        },
+        {
+          "date": "2019-01-22",
+          "label": "Jan 22, 19",
+          "close": 153.3
+        },
+        {
+          "date": "2019-01-23",
+          "label": "Jan 23, 19",
+          "close": 153.92
+        },
+        {
+          "date": "2019-01-24",
+          "label": "Jan 24, 19",
+          "close": 152.7
+        },
+        {
+          "date": "2019-01-25",
+          "label": "Jan 25, 19",
+          "close": 157.76
+        },
+        {
+          "date": "2019-01-28",
+          "label": "Jan 28, 19",
+          "close": 156.3
+        },
+        {
+          "date": "2019-01-29",
+          "label": "Jan 29, 19",
+          "close": 154.68
+        },
+        {
+          "date": "2019-01-30",
+          "label": "Jan 30, 19",
+          "close": 165.25
+        },
+        {
+          "date": "2019-01-31",
+          "label": "Jan 31, 19",
+          "close": 166.44
+        },
+        {
+          "date": "2019-02-01",
+          "label": "Feb 1, 19",
+          "close": 166.52
+        },
+        {
+          "date": "2019-02-04",
+          "label": "Feb 4, 19",
+          "close": 171.25
+        },
+        {
+          "date": "2019-02-05",
+          "label": "Feb 5, 19",
+          "close": 174.18
+        },
+        {
+          "date": "2019-02-06",
+          "label": "Feb 6, 19",
+          "close": 174.24
+        },
+        {
+          "date": "2019-02-07",
+          "label": "Feb 7, 19",
+          "close": 170.94
+        },
+        {
+          "date": "2019-02-08",
+          "label": "Feb 8, 19",
+          "close": 170.41
+        },
+        {
+          "date": "2019-02-11",
+          "label": "Feb 11, 19",
+          "close": 169.43
+        },
+        {
+          "date": "2019-02-12",
+          "label": "Feb 12, 19",
+          "close": 170.89
+        },
+        {
+          "date": "2019-02-13",
+          "label": "Feb 13, 19",
+          "close": 170.18
+        },
+        {
+          "date": "2019-02-14",
+          "label": "Feb 14, 19",
+          "close": 170.8
+        },
+        {
+          "date": "2019-02-15",
+          "label": "Feb 15, 19",
+          "close": 170.42
+        },
+        {
+          "date": "2019-02-19",
+          "label": "Feb 19, 19",
+          "close": 170.93
+        },
+        {
+          "date": "2019-02-20",
+          "label": "Feb 20, 19",
+          "close": 172.03
+        },
+        {
+          "date": "2019-02-21",
+          "label": "Feb 21, 19",
+          "close": 171.06
+        },
+        {
+          "date": "2019-02-22",
+          "label": "Feb 22, 19",
+          "close": 172.97
+        },
+        {
+          "date": "2019-02-25",
+          "label": "Feb 25, 19",
+          "close": 174.23
+        },
+        {
+          "date": "2019-02-26",
+          "label": "Feb 26, 19",
+          "close": 174.33
+        },
+        {
+          "date": "2019-02-27",
+          "label": "Feb 27, 19",
+          "close": 174.87
+        },
+        {
+          "date": "2019-02-28",
+          "label": "Feb 28, 19",
+          "close": 173.15
+        },
+        {
+          "date": "2019-03-01",
+          "label": "Mar 1, 19",
+          "close": 174.97
+        },
+        {
+          "date": "2019-03-04",
+          "label": "Mar 4, 19",
+          "close": 175.85
+        },
+        {
+          "date": "2019-03-05",
+          "label": "Mar 5, 19",
+          "close": 175.53
+        },
+        {
+          "date": "2019-03-06",
+          "label": "Mar 6, 19",
+          "close": 174.52
+        },
+        {
+          "date": "2019-03-07",
+          "label": "Mar 7, 19",
+          "close": 172.5
+        },
+        {
+          "date": "2019-03-08",
+          "label": "Mar 8, 19",
+          "close": 172.91
+        },
+        {
+          "date": "2019-03-11",
+          "label": "Mar 11, 19",
+          "close": 178.9
+        },
+        {
+          "date": "2019-03-12",
+          "label": "Mar 12, 19",
+          "close": 180.91
+        },
+        {
+          "date": "2019-03-13",
+          "label": "Mar 13, 19",
+          "close": 181.71
+        },
+        {
+          "date": "2019-03-14",
+          "label": "Mar 14, 19",
+          "close": 183.73
+        },
+        {
+          "date": "2019-03-15",
+          "label": "Mar 15, 19",
+          "close": 186.12
+        },
+        {
+          "date": "2019-03-18",
+          "label": "Mar 18, 19",
+          "close": 188.02
+        },
+        {
+          "date": "2019-03-19",
+          "label": "Mar 19, 19",
+          "close": 186.53
+        },
+        {
+          "date": "2019-03-20",
+          "label": "Mar 20, 19",
+          "close": 188.16
+        },
+        {
+          "date": "2019-03-21",
+          "label": "Mar 21, 19",
+          "close": 195.09
+        },
+        {
+          "date": "2019-03-22",
+          "label": "Mar 22, 19",
+          "close": 191.05
+        },
+        {
+          "date": "2019-03-25",
+          "label": "Mar 25, 19",
+          "close": 188.74
+        },
+        {
+          "date": "2019-03-26",
+          "label": "Mar 26, 19",
+          "close": 186.79
+        },
+        {
+          "date": "2019-03-27",
+          "label": "Mar 27, 19",
+          "close": 188.47
+        },
+        {
+          "date": "2019-03-28",
+          "label": "Mar 28, 19",
+          "close": 188.72
+        },
+        {
+          "date": "2019-03-29",
+          "label": "Mar 29, 19",
+          "close": 189.95
+        },
+        {
+          "date": "2019-04-01",
+          "label": "Apr 1, 19",
+          "close": 191.24
+        },
+        {
+          "date": "2019-04-02",
+          "label": "Apr 2, 19",
+          "close": 194.02
+        },
+        {
+          "date": "2019-04-03",
+          "label": "Apr 3, 19",
+          "close": 195.35
+        },
+        {
+          "date": "2019-04-04",
+          "label": "Apr 4, 19",
+          "close": 195.69
+        },
+        {
+          "date": "2019-04-05",
+          "label": "Apr 5, 19",
+          "close": 197
+        },
+        {
+          "date": "2019-04-08",
+          "label": "Apr 8, 19",
+          "close": 200.1
+        },
+        {
+          "date": "2019-04-09",
+          "label": "Apr 9, 19",
+          "close": 199.5
+        },
+        {
+          "date": "2019-04-10",
+          "label": "Apr 10, 19",
+          "close": 200.62
+        },
+        {
+          "date": "2019-04-11",
+          "label": "Apr 11, 19",
+          "close": 198.95
+        },
+        {
+          "date": "2019-04-12",
+          "label": "Apr 12, 19",
+          "close": 198.87
+        },
+        {
+          "date": "2019-04-15",
+          "label": "Apr 15, 19",
+          "close": 199.23
+        },
+        {
+          "date": "2019-04-16",
+          "label": "Apr 16, 19",
+          "close": 199.25
+        },
+        {
+          "date": "2019-04-17",
+          "label": "Apr 17, 19",
+          "close": 203.13
+        },
+        {
+          "date": "2019-04-18",
+          "label": "Apr 18, 19",
+          "close": 203.86
+        },
+        {
+          "date": "2019-04-22",
+          "label": "Apr 22, 19",
+          "close": 204.53
+        },
+        {
+          "date": "2019-04-23",
+          "label": "Apr 23, 19",
+          "close": 207.48
+        },
+        {
+          "date": "2019-04-24",
+          "label": "Apr 24, 19",
+          "close": 207.16
+        },
+        {
+          "date": "2019-04-25",
+          "label": "Apr 25, 19",
+          "close": 205.28
+        },
+        {
+          "date": "2019-04-26",
+          "label": "Apr 26, 19",
+          "close": 204.3
+        },
+        {
+          "date": "2019-04-29",
+          "label": "Apr 29, 19",
+          "close": 204.61
+        },
+        {
+          "date": "2019-04-30",
+          "label": "Apr 30, 19",
+          "close": 200.67
+        },
+        {
+          "date": "2019-05-01",
+          "label": "May 1, 19",
+          "close": 210.52
+        },
+        {
+          "date": "2019-05-02",
+          "label": "May 2, 19",
+          "close": 209.15
+        },
+        {
+          "date": "2019-05-03",
+          "label": "May 3, 19",
+          "close": 211.75
+        },
+        {
+          "date": "2019-05-06",
+          "label": "May 6, 19",
+          "close": 208.48
+        },
+        {
+          "date": "2019-05-07",
+          "label": "May 7, 19",
+          "close": 202.86
+        },
+        {
+          "date": "2019-05-08",
+          "label": "May 8, 19",
+          "close": 202.9
+        },
+        {
+          "date": "2019-05-09",
+          "label": "May 9, 19",
+          "close": 200.72
+        },
+        {
+          "date": "2019-05-10",
+          "label": "May 10, 19",
+          "close": 197.18
+        },
+        {
+          "date": "2019-05-13",
+          "label": "May 13, 19",
+          "close": 185.72
+        },
+        {
+          "date": "2019-05-14",
+          "label": "May 14, 19",
+          "close": 188.66
+        },
+        {
+          "date": "2019-05-15",
+          "label": "May 15, 19",
+          "close": 190.92
+        },
+        {
+          "date": "2019-05-16",
+          "label": "May 16, 19",
+          "close": 190.08
+        },
+        {
+          "date": "2019-05-17",
+          "label": "May 17, 19",
+          "close": 189
+        },
+        {
+          "date": "2019-05-20",
+          "label": "May 20, 19",
+          "close": 183.09
+        },
+        {
+          "date": "2019-05-21",
+          "label": "May 21, 19",
+          "close": 186.6
+        },
+        {
+          "date": "2019-05-22",
+          "label": "May 22, 19",
+          "close": 182.78
+        },
+        {
+          "date": "2019-05-23",
+          "label": "May 23, 19",
+          "close": 179.66
+        },
+        {
+          "date": "2019-05-24",
+          "label": "May 24, 19",
+          "close": 178.97
+        },
+        {
+          "date": "2019-05-28",
+          "label": "May 28, 19",
+          "close": 178.23
+        },
+        {
+          "date": "2019-05-29",
+          "label": "May 29, 19",
+          "close": 177.38
+        },
+        {
+          "date": "2019-05-30",
+          "label": "May 30, 19",
+          "close": 178.3
+        },
+        {
+          "date": "2019-05-31",
+          "label": "May 31, 19",
+          "close": 175.07
+        },
+        {
+          "date": "2019-06-03",
+          "label": "Jun 3, 19",
+          "close": 173.3
+        },
+        {
+          "date": "2019-06-04",
+          "label": "Jun 4, 19",
+          "close": 179.64
+        },
+        {
+          "date": "2019-06-05",
+          "label": "Jun 5, 19",
+          "close": 182.54
+        },
+        {
+          "date": "2019-06-06",
+          "label": "Jun 6, 19",
+          "close": 185.22
+        },
+        {
+          "date": "2019-06-07",
+          "label": "Jun 7, 19",
+          "close": 190.15
+        },
+        {
+          "date": "2019-06-10",
+          "label": "Jun 10, 19",
+          "close": 192.58
+        },
+        {
+          "date": "2019-06-11",
+          "label": "Jun 11, 19",
+          "close": 194.81
+        },
+        {
+          "date": "2019-06-12",
+          "label": "Jun 12, 19",
+          "close": 194.19
+        },
+        {
+          "date": "2019-06-13",
+          "label": "Jun 13, 19",
+          "close": 194.15
+        },
+        {
+          "date": "2019-06-14",
+          "label": "Jun 14, 19",
+          "close": 192.74
+        },
+        {
+          "date": "2019-06-17",
+          "label": "Jun 17, 19",
+          "close": 193.89
+        },
+        {
+          "date": "2019-06-18",
+          "label": "Jun 18, 19",
+          "close": 198.45
+        },
+        {
+          "date": "2019-06-19",
+          "label": "Jun 19, 19",
+          "close": 197.87
+        },
+        {
+          "date": "2019-06-20",
+          "label": "Jun 20, 19",
+          "close": 199.46
+        },
+        {
+          "date": "2019-06-21",
+          "label": "Jun 21, 19",
+          "close": 198.78
+        },
+        {
+          "date": "2019-06-24",
+          "label": "Jun 24, 19",
+          "close": 198.58
+        }
+      ],
+      "fiveYear": [
+        {
+          "date": "2014-06-25",
+          "label": "Jun 25, 14",
+          "close": 90.36
+        },
+        {
+          "date": "2014-06-26",
+          "label": "Jun 26, 14",
+          "close": 90.9
+        },
+        {
+          "date": "2014-06-27",
+          "label": "Jun 27, 14",
+          "close": 91.98
+        },
+        {
+          "date": "2014-06-30",
+          "label": "Jun 30, 14",
+          "close": 92.93
+        },
+        {
+          "date": "2014-07-01",
+          "label": "Jul 1, 14",
+          "close": 93.52
+        },
+        {
+          "date": "2014-07-02",
+          "label": "Jul 2, 14",
+          "close": 93.48
+        },
+        {
+          "date": "2014-07-03",
+          "label": "Jul 3, 14",
+          "close": 94.03
+        },
+        {
+          "date": "2014-07-07",
+          "label": "Jul 7, 14",
+          "close": 95.97
+        },
+        {
+          "date": "2014-07-08",
+          "label": "Jul 8, 14",
+          "close": 95.35
+        },
+        {
+          "date": "2014-07-09",
+          "label": "Jul 9, 14",
+          "close": 95.39
+        },
+        {
+          "date": "2014-07-10",
+          "label": "Jul 10, 14",
+          "close": 95.04
+        },
+        {
+          "date": "2014-07-11",
+          "label": "Jul 11, 14",
+          "close": 95.22
+        },
+        {
+          "date": "2014-07-14",
+          "label": "Jul 14, 14",
+          "close": 96.45
+        },
+        {
+          "date": "2014-07-15",
+          "label": "Jul 15, 14",
+          "close": 95.32
+        },
+        {
+          "date": "2014-07-16",
+          "label": "Jul 16, 14",
+          "close": 94.78
+        },
+        {
+          "date": "2014-07-17",
+          "label": "Jul 17, 14",
+          "close": 93.09
+        },
+        {
+          "date": "2014-07-18",
+          "label": "Jul 18, 14",
+          "close": 94.43
+        },
+        {
+          "date": "2014-07-21",
+          "label": "Jul 21, 14",
+          "close": 93.94
+        },
+        {
+          "date": "2014-07-22",
+          "label": "Jul 22, 14",
+          "close": 94.72
+        },
+        {
+          "date": "2014-07-23",
+          "label": "Jul 23, 14",
+          "close": 97.19
+        },
+        {
+          "date": "2014-07-24",
+          "label": "Jul 24, 14",
+          "close": 97.03
+        },
+        {
+          "date": "2014-07-25",
+          "label": "Jul 25, 14",
+          "close": 97.67
+        },
+        {
+          "date": "2014-07-28",
+          "label": "Jul 28, 14",
+          "close": 99.02
+        },
+        {
+          "date": "2014-07-29",
+          "label": "Jul 29, 14",
+          "close": 98.38
+        },
+        {
+          "date": "2014-07-30",
+          "label": "Jul 30, 14",
+          "close": 98.15
+        },
+        {
+          "date": "2014-07-31",
+          "label": "Jul 31, 14",
+          "close": 95.6
+        },
+        {
+          "date": "2014-08-01",
+          "label": "Aug 1, 14",
+          "close": 96.13
+        },
+        {
+          "date": "2014-08-04",
+          "label": "Aug 4, 14",
+          "close": 95.59
+        },
+        {
+          "date": "2014-08-05",
+          "label": "Aug 5, 14",
+          "close": 95.12
+        },
+        {
+          "date": "2014-08-06",
+          "label": "Aug 6, 14",
+          "close": 94.96
+        },
+        {
+          "date": "2014-08-07",
+          "label": "Aug 7, 14",
+          "close": 94.48
+        },
+        {
+          "date": "2014-08-08",
+          "label": "Aug 8, 14",
+          "close": 94.74
+        },
+        {
+          "date": "2014-08-11",
+          "label": "Aug 11, 14",
+          "close": 95.99
+        },
+        {
+          "date": "2014-08-12",
+          "label": "Aug 12, 14",
+          "close": 95.97
+        },
+        {
+          "date": "2014-08-13",
+          "label": "Aug 13, 14",
+          "close": 97.24
+        },
+        {
+          "date": "2014-08-14",
+          "label": "Aug 14, 14",
+          "close": 97.5
+        },
+        {
+          "date": "2014-08-15",
+          "label": "Aug 15, 14",
+          "close": 97.98
+        },
+        {
+          "date": "2014-08-18",
+          "label": "Aug 18, 14",
+          "close": 99.16
+        },
+        {
+          "date": "2014-08-19",
+          "label": "Aug 19, 14",
+          "close": 100.53
+        },
+        {
+          "date": "2014-08-20",
+          "label": "Aug 20, 14",
+          "close": 100.57
+        },
+        {
+          "date": "2014-08-21",
+          "label": "Aug 21, 14",
+          "close": 100.58
+        },
+        {
+          "date": "2014-08-22",
+          "label": "Aug 22, 14",
+          "close": 101.32
+        },
+        {
+          "date": "2014-08-25",
+          "label": "Aug 25, 14",
+          "close": 101.54
+        },
+        {
+          "date": "2014-08-26",
+          "label": "Aug 26, 14",
+          "close": 100.89
+        },
+        {
+          "date": "2014-08-27",
+          "label": "Aug 27, 14",
+          "close": 102.13
+        },
+        {
+          "date": "2014-08-28",
+          "label": "Aug 28, 14",
+          "close": 102.25
+        },
+        {
+          "date": "2014-08-29",
+          "label": "Aug 29, 14",
+          "close": 102.5
+        },
+        {
+          "date": "2014-09-02",
+          "label": "Sep 2, 14",
+          "close": 103.3
+        },
+        {
+          "date": "2014-09-03",
+          "label": "Sep 3, 14",
+          "close": 98.94
+        },
+        {
+          "date": "2014-09-04",
+          "label": "Sep 4, 14",
+          "close": 98.12
+        },
+        {
+          "date": "2014-09-05",
+          "label": "Sep 5, 14",
+          "close": 98.97
+        },
+        {
+          "date": "2014-09-08",
+          "label": "Sep 8, 14",
+          "close": 98.36
+        },
+        {
+          "date": "2014-09-09",
+          "label": "Sep 9, 14",
+          "close": 97.99
+        },
+        {
+          "date": "2014-09-10",
+          "label": "Sep 10, 14",
+          "close": 101
+        },
+        {
+          "date": "2014-09-11",
+          "label": "Sep 11, 14",
+          "close": 101.43
+        },
+        {
+          "date": "2014-09-12",
+          "label": "Sep 12, 14",
+          "close": 101.66
+        },
+        {
+          "date": "2014-09-15",
+          "label": "Sep 15, 14",
+          "close": 101.63
+        },
+        {
+          "date": "2014-09-16",
+          "label": "Sep 16, 14",
+          "close": 100.86
+        },
+        {
+          "date": "2014-09-17",
+          "label": "Sep 17, 14",
+          "close": 101.58
+        },
+        {
+          "date": "2014-09-18",
+          "label": "Sep 18, 14",
+          "close": 101.79
+        },
+        {
+          "date": "2014-09-19",
+          "label": "Sep 19, 14",
+          "close": 100.96
+        },
+        {
+          "date": "2014-09-22",
+          "label": "Sep 22, 14",
+          "close": 101.06
+        },
+        {
+          "date": "2014-09-23",
+          "label": "Sep 23, 14",
+          "close": 102.64
+        },
+        {
+          "date": "2014-09-24",
+          "label": "Sep 24, 14",
+          "close": 101.75
+        },
+        {
+          "date": "2014-09-25",
+          "label": "Sep 25, 14",
+          "close": 97.87
+        },
+        {
+          "date": "2014-09-26",
+          "label": "Sep 26, 14",
+          "close": 100.75
+        },
+        {
+          "date": "2014-09-29",
+          "label": "Sep 29, 14",
+          "close": 100.11
+        },
+        {
+          "date": "2014-09-30",
+          "label": "Sep 30, 14",
+          "close": 100.75
+        },
+        {
+          "date": "2014-10-01",
+          "label": "Oct 1, 14",
+          "close": 99.18
+        },
+        {
+          "date": "2014-10-02",
+          "label": "Oct 2, 14",
+          "close": 99.9
+        },
+        {
+          "date": "2014-10-03",
+          "label": "Oct 3, 14",
+          "close": 99.62
+        },
+        {
+          "date": "2014-10-06",
+          "label": "Oct 6, 14",
+          "close": 99.62
+        },
+        {
+          "date": "2014-10-07",
+          "label": "Oct 7, 14",
+          "close": 98.75
+        },
+        {
+          "date": "2014-10-08",
+          "label": "Oct 8, 14",
+          "close": 100.8
+        },
+        {
+          "date": "2014-10-09",
+          "label": "Oct 9, 14",
+          "close": 101.02
+        },
+        {
+          "date": "2014-10-10",
+          "label": "Oct 10, 14",
+          "close": 100.73
+        },
+        {
+          "date": "2014-10-13",
+          "label": "Oct 13, 14",
+          "close": 99.81
+        },
+        {
+          "date": "2014-10-14",
+          "label": "Oct 14, 14",
+          "close": 98.75
+        },
+        {
+          "date": "2014-10-15",
+          "label": "Oct 15, 14",
+          "close": 97.54
+        },
+        {
+          "date": "2014-10-16",
+          "label": "Oct 16, 14",
+          "close": 96.26
+        },
+        {
+          "date": "2014-10-17",
+          "label": "Oct 17, 14",
+          "close": 97.67
+        },
+        {
+          "date": "2014-10-20",
+          "label": "Oct 20, 14",
+          "close": 99.76
+        },
+        {
+          "date": "2014-10-21",
+          "label": "Oct 21, 14",
+          "close": 102.47
+        },
+        {
+          "date": "2014-10-22",
+          "label": "Oct 22, 14",
+          "close": 102.99
+        },
+        {
+          "date": "2014-10-23",
+          "label": "Oct 23, 14",
+          "close": 104.83
+        },
+        {
+          "date": "2014-10-24",
+          "label": "Oct 24, 14",
+          "close": 105.22
+        },
+        {
+          "date": "2014-10-27",
+          "label": "Oct 27, 14",
+          "close": 105.11
+        },
+        {
+          "date": "2014-10-28",
+          "label": "Oct 28, 14",
+          "close": 106.74
+        },
+        {
+          "date": "2014-10-29",
+          "label": "Oct 29, 14",
+          "close": 107.34
+        },
+        {
+          "date": "2014-10-30",
+          "label": "Oct 30, 14",
+          "close": 106.98
+        },
+        {
+          "date": "2014-10-31",
+          "label": "Oct 31, 14",
+          "close": 108
+        },
+        {
+          "date": "2014-11-03",
+          "label": "Nov 3, 14",
+          "close": 109.4
+        },
+        {
+          "date": "2014-11-04",
+          "label": "Nov 4, 14",
+          "close": 108.6
+        },
+        {
+          "date": "2014-11-05",
+          "label": "Nov 5, 14",
+          "close": 108.86
+        },
+        {
+          "date": "2014-11-06",
+          "label": "Nov 6, 14",
+          "close": 108.7
+        },
+        {
+          "date": "2014-11-07",
+          "label": "Nov 7, 14",
+          "close": 109.01
+        },
+        {
+          "date": "2014-11-10",
+          "label": "Nov 10, 14",
+          "close": 108.83
+        },
+        {
+          "date": "2014-11-11",
+          "label": "Nov 11, 14",
+          "close": 109.7
+        },
+        {
+          "date": "2014-11-12",
+          "label": "Nov 12, 14",
+          "close": 111.25
+        },
+        {
+          "date": "2014-11-13",
+          "label": "Nov 13, 14",
+          "close": 112.82
+        },
+        {
+          "date": "2014-11-14",
+          "label": "Nov 14, 14",
+          "close": 114.18
+        },
+        {
+          "date": "2014-11-17",
+          "label": "Nov 17, 14",
+          "close": 113.99
+        },
+        {
+          "date": "2014-11-18",
+          "label": "Nov 18, 14",
+          "close": 115.47
+        },
+        {
+          "date": "2014-11-19",
+          "label": "Nov 19, 14",
+          "close": 114.67
+        },
+        {
+          "date": "2014-11-20",
+          "label": "Nov 20, 14",
+          "close": 116.31
+        },
+        {
+          "date": "2014-11-21",
+          "label": "Nov 21, 14",
+          "close": 116.47
+        },
+        {
+          "date": "2014-11-24",
+          "label": "Nov 24, 14",
+          "close": 118.63
+        },
+        {
+          "date": "2014-11-25",
+          "label": "Nov 25, 14",
+          "close": 117.6
+        },
+        {
+          "date": "2014-11-26",
+          "label": "Nov 26, 14",
+          "close": 119
+        },
+        {
+          "date": "2014-11-28",
+          "label": "Nov 28, 14",
+          "close": 118.93
+        },
+        {
+          "date": "2014-12-01",
+          "label": "Dec 1, 14",
+          "close": 115.07
+        },
+        {
+          "date": "2014-12-02",
+          "label": "Dec 2, 14",
+          "close": 114.63
+        },
+        {
+          "date": "2014-12-03",
+          "label": "Dec 3, 14",
+          "close": 115.93
+        },
+        {
+          "date": "2014-12-04",
+          "label": "Dec 4, 14",
+          "close": 115.49
+        },
+        {
+          "date": "2014-12-05",
+          "label": "Dec 5, 14",
+          "close": 115
+        },
+        {
+          "date": "2014-12-08",
+          "label": "Dec 8, 14",
+          "close": 112.4
+        },
+        {
+          "date": "2014-12-09",
+          "label": "Dec 9, 14",
+          "close": 114.12
+        },
+        {
+          "date": "2014-12-10",
+          "label": "Dec 10, 14",
+          "close": 111.95
+        },
+        {
+          "date": "2014-12-11",
+          "label": "Dec 11, 14",
+          "close": 111.62
+        },
+        {
+          "date": "2014-12-12",
+          "label": "Dec 12, 14",
+          "close": 109.73
+        },
+        {
+          "date": "2014-12-15",
+          "label": "Dec 15, 14",
+          "close": 108.23
+        },
+        {
+          "date": "2014-12-16",
+          "label": "Dec 16, 14",
+          "close": 106.75
+        },
+        {
+          "date": "2014-12-17",
+          "label": "Dec 17, 14",
+          "close": 109.41
+        },
+        {
+          "date": "2014-12-18",
+          "label": "Dec 18, 14",
+          "close": 112.65
+        },
+        {
+          "date": "2014-12-19",
+          "label": "Dec 19, 14",
+          "close": 111.78
+        },
+        {
+          "date": "2014-12-22",
+          "label": "Dec 22, 14",
+          "close": 112.94
+        },
+        {
+          "date": "2014-12-23",
+          "label": "Dec 23, 14",
+          "close": 112.54
+        },
+        {
+          "date": "2014-12-24",
+          "label": "Dec 24, 14",
+          "close": 112.01
+        },
+        {
+          "date": "2014-12-26",
+          "label": "Dec 26, 14",
+          "close": 113.99
+        },
+        {
+          "date": "2014-12-29",
+          "label": "Dec 29, 14",
+          "close": 113.91
+        },
+        {
+          "date": "2014-12-30",
+          "label": "Dec 30, 14",
+          "close": 112.52
+        },
+        {
+          "date": "2014-12-31",
+          "label": "Dec 31, 14",
+          "close": 110.38
+        },
+        {
+          "date": "2015-01-02",
+          "label": "Jan 2, 15",
+          "close": 109.33
+        },
+        {
+          "date": "2015-01-05",
+          "label": "Jan 5, 15",
+          "close": 106.25
+        },
+        {
+          "date": "2015-01-06",
+          "label": "Jan 6, 15",
+          "close": 106.26
+        },
+        {
+          "date": "2015-01-07",
+          "label": "Jan 7, 15",
+          "close": 107.75
+        },
+        {
+          "date": "2015-01-08",
+          "label": "Jan 8, 15",
+          "close": 111.89
+        },
+        {
+          "date": "2015-01-09",
+          "label": "Jan 9, 15",
+          "close": 112.01
+        },
+        {
+          "date": "2015-01-12",
+          "label": "Jan 12, 15",
+          "close": 109.25
+        },
+        {
+          "date": "2015-01-13",
+          "label": "Jan 13, 15",
+          "close": 110.22
+        },
+        {
+          "date": "2015-01-14",
+          "label": "Jan 14, 15",
+          "close": 109.8
+        },
+        {
+          "date": "2015-01-15",
+          "label": "Jan 15, 15",
+          "close": 106.82
+        },
+        {
+          "date": "2015-01-16",
+          "label": "Jan 16, 15",
+          "close": 105.99
+        },
+        {
+          "date": "2015-01-20",
+          "label": "Jan 20, 15",
+          "close": 108.72
+        },
+        {
+          "date": "2015-01-21",
+          "label": "Jan 21, 15",
+          "close": 109.55
+        },
+        {
+          "date": "2015-01-22",
+          "label": "Jan 22, 15",
+          "close": 112.4
+        },
+        {
+          "date": "2015-01-23",
+          "label": "Jan 23, 15",
+          "close": 112.98
+        },
+        {
+          "date": "2015-01-26",
+          "label": "Jan 26, 15",
+          "close": 113.1
+        },
+        {
+          "date": "2015-01-27",
+          "label": "Jan 27, 15",
+          "close": 109.14
+        },
+        {
+          "date": "2015-01-28",
+          "label": "Jan 28, 15",
+          "close": 115.31
+        },
+        {
+          "date": "2015-01-29",
+          "label": "Jan 29, 15",
+          "close": 118.9
+        },
+        {
+          "date": "2015-01-30",
+          "label": "Jan 30, 15",
+          "close": 117.16
+        },
+        {
+          "date": "2015-02-02",
+          "label": "Feb 2, 15",
+          "close": 118.63
+        },
+        {
+          "date": "2015-02-03",
+          "label": "Feb 3, 15",
+          "close": 118.65
+        },
+        {
+          "date": "2015-02-04",
+          "label": "Feb 4, 15",
+          "close": 119.56
+        },
+        {
+          "date": "2015-02-05",
+          "label": "Feb 5, 15",
+          "close": 119.94
+        },
+        {
+          "date": "2015-02-06",
+          "label": "Feb 6, 15",
+          "close": 118.93
+        },
+        {
+          "date": "2015-02-09",
+          "label": "Feb 9, 15",
+          "close": 119.72
+        },
+        {
+          "date": "2015-02-10",
+          "label": "Feb 10, 15",
+          "close": 122.02
+        },
+        {
+          "date": "2015-02-11",
+          "label": "Feb 11, 15",
+          "close": 124.88
+        },
+        {
+          "date": "2015-02-12",
+          "label": "Feb 12, 15",
+          "close": 126.46
+        },
+        {
+          "date": "2015-02-13",
+          "label": "Feb 13, 15",
+          "close": 127.08
+        },
+        {
+          "date": "2015-02-17",
+          "label": "Feb 17, 15",
+          "close": 127.83
+        },
+        {
+          "date": "2015-02-18",
+          "label": "Feb 18, 15",
+          "close": 128.72
+        },
+        {
+          "date": "2015-02-19",
+          "label": "Feb 19, 15",
+          "close": 128.45
+        },
+        {
+          "date": "2015-02-20",
+          "label": "Feb 20, 15",
+          "close": 129.5
+        },
+        {
+          "date": "2015-02-23",
+          "label": "Feb 23, 15",
+          "close": 133
+        },
+        {
+          "date": "2015-02-24",
+          "label": "Feb 24, 15",
+          "close": 132.17
+        },
+        {
+          "date": "2015-02-25",
+          "label": "Feb 25, 15",
+          "close": 128.79
+        },
+        {
+          "date": "2015-02-26",
+          "label": "Feb 26, 15",
+          "close": 130.42
+        },
+        {
+          "date": "2015-02-27",
+          "label": "Feb 27, 15",
+          "close": 128.46
+        },
+        {
+          "date": "2015-03-02",
+          "label": "Mar 2, 15",
+          "close": 129.09
+        },
+        {
+          "date": "2015-03-03",
+          "label": "Mar 3, 15",
+          "close": 129.36
+        },
+        {
+          "date": "2015-03-04",
+          "label": "Mar 4, 15",
+          "close": 128.54
+        },
+        {
+          "date": "2015-03-05",
+          "label": "Mar 5, 15",
+          "close": 126.41
+        },
+        {
+          "date": "2015-03-06",
+          "label": "Mar 6, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-03-09",
+          "label": "Mar 9, 15",
+          "close": 127.14
+        },
+        {
+          "date": "2015-03-10",
+          "label": "Mar 10, 15",
+          "close": 124.51
+        },
+        {
+          "date": "2015-03-11",
+          "label": "Mar 11, 15",
+          "close": 122.24
+        },
+        {
+          "date": "2015-03-12",
+          "label": "Mar 12, 15",
+          "close": 124.45
+        },
+        {
+          "date": "2015-03-13",
+          "label": "Mar 13, 15",
+          "close": 123.59
+        },
+        {
+          "date": "2015-03-16",
+          "label": "Mar 16, 15",
+          "close": 124.95
+        },
+        {
+          "date": "2015-03-17",
+          "label": "Mar 17, 15",
+          "close": 127.04
+        },
+        {
+          "date": "2015-03-18",
+          "label": "Mar 18, 15",
+          "close": 128.47
+        },
+        {
+          "date": "2015-03-19",
+          "label": "Mar 19, 15",
+          "close": 127.5
+        },
+        {
+          "date": "2015-03-20",
+          "label": "Mar 20, 15",
+          "close": 125.9
+        },
+        {
+          "date": "2015-03-23",
+          "label": "Mar 23, 15",
+          "close": 127.21
+        },
+        {
+          "date": "2015-03-24",
+          "label": "Mar 24, 15",
+          "close": 126.69
+        },
+        {
+          "date": "2015-03-25",
+          "label": "Mar 25, 15",
+          "close": 123.38
+        },
+        {
+          "date": "2015-03-26",
+          "label": "Mar 26, 15",
+          "close": 124.24
+        },
+        {
+          "date": "2015-03-27",
+          "label": "Mar 27, 15",
+          "close": 123.25
+        },
+        {
+          "date": "2015-03-30",
+          "label": "Mar 30, 15",
+          "close": 126.37
+        },
+        {
+          "date": "2015-03-31",
+          "label": "Mar 31, 15",
+          "close": 124.43
+        },
+        {
+          "date": "2015-04-01",
+          "label": "Apr 1, 15",
+          "close": 124.25
+        },
+        {
+          "date": "2015-04-02",
+          "label": "Apr 2, 15",
+          "close": 125.32
+        },
+        {
+          "date": "2015-04-06",
+          "label": "Apr 6, 15",
+          "close": 127.35
+        },
+        {
+          "date": "2015-04-07",
+          "label": "Apr 7, 15",
+          "close": 126.01
+        },
+        {
+          "date": "2015-04-08",
+          "label": "Apr 8, 15",
+          "close": 125.6
+        },
+        {
+          "date": "2015-04-09",
+          "label": "Apr 9, 15",
+          "close": 126.56
+        },
+        {
+          "date": "2015-04-10",
+          "label": "Apr 10, 15",
+          "close": 127.1
+        },
+        {
+          "date": "2015-04-13",
+          "label": "Apr 13, 15",
+          "close": 126.85
+        },
+        {
+          "date": "2015-04-14",
+          "label": "Apr 14, 15",
+          "close": 126.3
+        },
+        {
+          "date": "2015-04-15",
+          "label": "Apr 15, 15",
+          "close": 126.78
+        },
+        {
+          "date": "2015-04-16",
+          "label": "Apr 16, 15",
+          "close": 126.17
+        },
+        {
+          "date": "2015-04-17",
+          "label": "Apr 17, 15",
+          "close": 124.75
+        },
+        {
+          "date": "2015-04-20",
+          "label": "Apr 20, 15",
+          "close": 127.6
+        },
+        {
+          "date": "2015-04-21",
+          "label": "Apr 21, 15",
+          "close": 126.91
+        },
+        {
+          "date": "2015-04-22",
+          "label": "Apr 22, 15",
+          "close": 128.62
+        },
+        {
+          "date": "2015-04-23",
+          "label": "Apr 23, 15",
+          "close": 129.67
+        },
+        {
+          "date": "2015-04-24",
+          "label": "Apr 24, 15",
+          "close": 130.28
+        },
+        {
+          "date": "2015-04-27",
+          "label": "Apr 27, 15",
+          "close": 132.65
+        },
+        {
+          "date": "2015-04-28",
+          "label": "Apr 28, 15",
+          "close": 130.56
+        },
+        {
+          "date": "2015-04-29",
+          "label": "Apr 29, 15",
+          "close": 128.64
+        },
+        {
+          "date": "2015-04-30",
+          "label": "Apr 30, 15",
+          "close": 125.15
+        },
+        {
+          "date": "2015-05-01",
+          "label": "May 1, 15",
+          "close": 128.95
+        },
+        {
+          "date": "2015-05-04",
+          "label": "May 4, 15",
+          "close": 128.7
+        },
+        {
+          "date": "2015-05-05",
+          "label": "May 5, 15",
+          "close": 125.8
+        },
+        {
+          "date": "2015-05-06",
+          "label": "May 6, 15",
+          "close": 125.01
+        },
+        {
+          "date": "2015-05-07",
+          "label": "May 7, 15",
+          "close": 125.26
+        },
+        {
+          "date": "2015-05-08",
+          "label": "May 8, 15",
+          "close": 127.62
+        },
+        {
+          "date": "2015-05-11",
+          "label": "May 11, 15",
+          "close": 126.32
+        },
+        {
+          "date": "2015-05-12",
+          "label": "May 12, 15",
+          "close": 125.87
+        },
+        {
+          "date": "2015-05-13",
+          "label": "May 13, 15",
+          "close": 126.01
+        },
+        {
+          "date": "2015-05-14",
+          "label": "May 14, 15",
+          "close": 128.95
+        },
+        {
+          "date": "2015-05-15",
+          "label": "May 15, 15",
+          "close": 128.77
+        },
+        {
+          "date": "2015-05-18",
+          "label": "May 18, 15",
+          "close": 130.19
+        },
+        {
+          "date": "2015-05-19",
+          "label": "May 19, 15",
+          "close": 130.07
+        },
+        {
+          "date": "2015-05-20",
+          "label": "May 20, 15",
+          "close": 130.06
+        },
+        {
+          "date": "2015-05-21",
+          "label": "May 21, 15",
+          "close": 131.39
+        },
+        {
+          "date": "2015-05-22",
+          "label": "May 22, 15",
+          "close": 132.54
+        },
+        {
+          "date": "2015-05-26",
+          "label": "May 26, 15",
+          "close": 129.62
+        },
+        {
+          "date": "2015-05-27",
+          "label": "May 27, 15",
+          "close": 132.04
+        },
+        {
+          "date": "2015-05-28",
+          "label": "May 28, 15",
+          "close": 131.78
+        },
+        {
+          "date": "2015-05-29",
+          "label": "May 29, 15",
+          "close": 130.28
+        },
+        {
+          "date": "2015-06-01",
+          "label": "Jun 1, 15",
+          "close": 130.54
+        },
+        {
+          "date": "2015-06-02",
+          "label": "Jun 2, 15",
+          "close": 129.96
+        },
+        {
+          "date": "2015-06-03",
+          "label": "Jun 3, 15",
+          "close": 130.12
+        },
+        {
+          "date": "2015-06-04",
+          "label": "Jun 4, 15",
+          "close": 129.36
+        },
+        {
+          "date": "2015-06-05",
+          "label": "Jun 5, 15",
+          "close": 128.65
+        },
+        {
+          "date": "2015-06-08",
+          "label": "Jun 8, 15",
+          "close": 127.8
+        },
+        {
+          "date": "2015-06-09",
+          "label": "Jun 9, 15",
+          "close": 127.42
+        },
+        {
+          "date": "2015-06-10",
+          "label": "Jun 10, 15",
+          "close": 128.88
+        },
+        {
+          "date": "2015-06-11",
+          "label": "Jun 11, 15",
+          "close": 128.59
+        },
+        {
+          "date": "2015-06-12",
+          "label": "Jun 12, 15",
+          "close": 127.17
+        },
+        {
+          "date": "2015-06-15",
+          "label": "Jun 15, 15",
+          "close": 126.92
+        },
+        {
+          "date": "2015-06-16",
+          "label": "Jun 16, 15",
+          "close": 127.6
+        },
+        {
+          "date": "2015-06-17",
+          "label": "Jun 17, 15",
+          "close": 127.3
+        },
+        {
+          "date": "2015-06-18",
+          "label": "Jun 18, 15",
+          "close": 127.88
+        },
+        {
+          "date": "2015-06-19",
+          "label": "Jun 19, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-06-22",
+          "label": "Jun 22, 15",
+          "close": 127.61
+        },
+        {
+          "date": "2015-06-23",
+          "label": "Jun 23, 15",
+          "close": 127.03
+        },
+        {
+          "date": "2015-06-24",
+          "label": "Jun 24, 15",
+          "close": 128.11
+        },
+        {
+          "date": "2015-06-25",
+          "label": "Jun 25, 15",
+          "close": 127.5
+        },
+        {
+          "date": "2015-06-26",
+          "label": "Jun 26, 15",
+          "close": 126.75
+        },
+        {
+          "date": "2015-06-29",
+          "label": "Jun 29, 15",
+          "close": 124.53
+        },
+        {
+          "date": "2015-06-30",
+          "label": "Jun 30, 15",
+          "close": 125.43
+        },
+        {
+          "date": "2015-07-01",
+          "label": "Jul 1, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-07-02",
+          "label": "Jul 2, 15",
+          "close": 126.44
+        },
+        {
+          "date": "2015-07-06",
+          "label": "Jul 6, 15",
+          "close": 126
+        },
+        {
+          "date": "2015-07-07",
+          "label": "Jul 7, 15",
+          "close": 125.69
+        },
+        {
+          "date": "2015-07-08",
+          "label": "Jul 8, 15",
+          "close": 122.57
+        },
+        {
+          "date": "2015-07-09",
+          "label": "Jul 9, 15",
+          "close": 120.07
+        },
+        {
+          "date": "2015-07-10",
+          "label": "Jul 10, 15",
+          "close": 123.28
+        },
+        {
+          "date": "2015-07-13",
+          "label": "Jul 13, 15",
+          "close": 125.66
+        },
+        {
+          "date": "2015-07-14",
+          "label": "Jul 14, 15",
+          "close": 125.61
+        },
+        {
+          "date": "2015-07-15",
+          "label": "Jul 15, 15",
+          "close": 126.82
+        },
+        {
+          "date": "2015-07-16",
+          "label": "Jul 16, 15",
+          "close": 128.51
+        },
+        {
+          "date": "2015-07-17",
+          "label": "Jul 17, 15",
+          "close": 129.62
+        },
+        {
+          "date": "2015-07-20",
+          "label": "Jul 20, 15",
+          "close": 132.07
+        },
+        {
+          "date": "2015-07-21",
+          "label": "Jul 21, 15",
+          "close": 130.75
+        },
+        {
+          "date": "2015-07-22",
+          "label": "Jul 22, 15",
+          "close": 125.22
+        },
+        {
+          "date": "2015-07-23",
+          "label": "Jul 23, 15",
+          "close": 125.16
+        },
+        {
+          "date": "2015-07-24",
+          "label": "Jul 24, 15",
+          "close": 124.5
+        },
+        {
+          "date": "2015-07-27",
+          "label": "Jul 27, 15",
+          "close": 122.77
+        },
+        {
+          "date": "2015-07-28",
+          "label": "Jul 28, 15",
+          "close": 123.38
+        },
+        {
+          "date": "2015-07-29",
+          "label": "Jul 29, 15",
+          "close": 122.99
+        },
+        {
+          "date": "2015-07-30",
+          "label": "Jul 30, 15",
+          "close": 122.37
+        },
+        {
+          "date": "2015-07-31",
+          "label": "Jul 31, 15",
+          "close": 121.3
+        },
+        {
+          "date": "2015-08-03",
+          "label": "Aug 3, 15",
+          "close": 118.44
+        },
+        {
+          "date": "2015-08-04",
+          "label": "Aug 4, 15",
+          "close": 114.64
+        },
+        {
+          "date": "2015-08-05",
+          "label": "Aug 5, 15",
+          "close": 115.4
+        },
+        {
+          "date": "2015-08-06",
+          "label": "Aug 6, 15",
+          "close": 115.13
+        },
+        {
+          "date": "2015-08-07",
+          "label": "Aug 7, 15",
+          "close": 115.52
+        },
+        {
+          "date": "2015-08-10",
+          "label": "Aug 10, 15",
+          "close": 119.72
+        },
+        {
+          "date": "2015-08-11",
+          "label": "Aug 11, 15",
+          "close": 113.49
+        },
+        {
+          "date": "2015-08-12",
+          "label": "Aug 12, 15",
+          "close": 115.24
+        },
+        {
+          "date": "2015-08-13",
+          "label": "Aug 13, 15",
+          "close": 115.15
+        },
+        {
+          "date": "2015-08-14",
+          "label": "Aug 14, 15",
+          "close": 115.96
+        },
+        {
+          "date": "2015-08-17",
+          "label": "Aug 17, 15",
+          "close": 117.16
+        },
+        {
+          "date": "2015-08-18",
+          "label": "Aug 18, 15",
+          "close": 116.5
+        },
+        {
+          "date": "2015-08-19",
+          "label": "Aug 19, 15",
+          "close": 115.01
+        },
+        {
+          "date": "2015-08-20",
+          "label": "Aug 20, 15",
+          "close": 112.65
+        },
+        {
+          "date": "2015-08-21",
+          "label": "Aug 21, 15",
+          "close": 105.76
+        },
+        {
+          "date": "2015-08-24",
+          "label": "Aug 24, 15",
+          "close": 103.12
+        },
+        {
+          "date": "2015-08-25",
+          "label": "Aug 25, 15",
+          "close": 103.74
+        },
+        {
+          "date": "2015-08-26",
+          "label": "Aug 26, 15",
+          "close": 109.69
+        },
+        {
+          "date": "2015-08-27",
+          "label": "Aug 27, 15",
+          "close": 112.92
+        },
+        {
+          "date": "2015-08-28",
+          "label": "Aug 28, 15",
+          "close": 113.29
+        },
+        {
+          "date": "2015-08-31",
+          "label": "Aug 31, 15",
+          "close": 112.76
+        },
+        {
+          "date": "2015-09-01",
+          "label": "Sep 1, 15",
+          "close": 107.72
+        },
+        {
+          "date": "2015-09-02",
+          "label": "Sep 2, 15",
+          "close": 112.34
+        },
+        {
+          "date": "2015-09-03",
+          "label": "Sep 3, 15",
+          "close": 110.37
+        },
+        {
+          "date": "2015-09-04",
+          "label": "Sep 4, 15",
+          "close": 109.27
+        },
+        {
+          "date": "2015-09-08",
+          "label": "Sep 8, 15",
+          "close": 112.31
+        },
+        {
+          "date": "2015-09-09",
+          "label": "Sep 9, 15",
+          "close": 110.15
+        },
+        {
+          "date": "2015-09-10",
+          "label": "Sep 10, 15",
+          "close": 112.57
+        },
+        {
+          "date": "2015-09-11",
+          "label": "Sep 11, 15",
+          "close": 114.21
+        },
+        {
+          "date": "2015-09-14",
+          "label": "Sep 14, 15",
+          "close": 115.31
+        },
+        {
+          "date": "2015-09-15",
+          "label": "Sep 15, 15",
+          "close": 116.28
+        },
+        {
+          "date": "2015-09-16",
+          "label": "Sep 16, 15",
+          "close": 116.41
+        },
+        {
+          "date": "2015-09-17",
+          "label": "Sep 17, 15",
+          "close": 113.92
+        },
+        {
+          "date": "2015-09-18",
+          "label": "Sep 18, 15",
+          "close": 113.45
+        },
+        {
+          "date": "2015-09-21",
+          "label": "Sep 21, 15",
+          "close": 115.21
+        },
+        {
+          "date": "2015-09-22",
+          "label": "Sep 22, 15",
+          "close": 113.4
+        },
+        {
+          "date": "2015-09-23",
+          "label": "Sep 23, 15",
+          "close": 114.32
+        },
+        {
+          "date": "2015-09-24",
+          "label": "Sep 24, 15",
+          "close": 115
+        },
+        {
+          "date": "2015-09-25",
+          "label": "Sep 25, 15",
+          "close": 114.71
+        },
+        {
+          "date": "2015-09-28",
+          "label": "Sep 28, 15",
+          "close": 112.44
+        },
+        {
+          "date": "2015-09-29",
+          "label": "Sep 29, 15",
+          "close": 109.06
+        },
+        {
+          "date": "2015-09-30",
+          "label": "Sep 30, 15",
+          "close": 110.3
+        },
+        {
+          "date": "2015-10-01",
+          "label": "Oct 1, 15",
+          "close": 109.58
+        },
+        {
+          "date": "2015-10-02",
+          "label": "Oct 2, 15",
+          "close": 110.38
+        },
+        {
+          "date": "2015-10-05",
+          "label": "Oct 5, 15",
+          "close": 110.78
+        },
+        {
+          "date": "2015-10-06",
+          "label": "Oct 6, 15",
+          "close": 111.31
+        },
+        {
+          "date": "2015-10-07",
+          "label": "Oct 7, 15",
+          "close": 110.78
+        },
+        {
+          "date": "2015-10-08",
+          "label": "Oct 8, 15",
+          "close": 109.5
+        },
+        {
+          "date": "2015-10-09",
+          "label": "Oct 9, 15",
+          "close": 112.12
+        },
+        {
+          "date": "2015-10-12",
+          "label": "Oct 12, 15",
+          "close": 111.6
+        },
+        {
+          "date": "2015-10-13",
+          "label": "Oct 13, 15",
+          "close": 111.79
+        },
+        {
+          "date": "2015-10-14",
+          "label": "Oct 14, 15",
+          "close": 110.21
+        },
+        {
+          "date": "2015-10-15",
+          "label": "Oct 15, 15",
+          "close": 111.86
+        },
+        {
+          "date": "2015-10-16",
+          "label": "Oct 16, 15",
+          "close": 111.04
+        },
+        {
+          "date": "2015-10-19",
+          "label": "Oct 19, 15",
+          "close": 111.73
+        },
+        {
+          "date": "2015-10-20",
+          "label": "Oct 20, 15",
+          "close": 113.77
+        },
+        {
+          "date": "2015-10-21",
+          "label": "Oct 21, 15",
+          "close": 113.76
+        },
+        {
+          "date": "2015-10-22",
+          "label": "Oct 22, 15",
+          "close": 115.5
+        },
+        {
+          "date": "2015-10-23",
+          "label": "Oct 23, 15",
+          "close": 119.08
+        },
+        {
+          "date": "2015-10-26",
+          "label": "Oct 26, 15",
+          "close": 115.28
+        },
+        {
+          "date": "2015-10-27",
+          "label": "Oct 27, 15",
+          "close": 114.55
+        },
+        {
+          "date": "2015-10-28",
+          "label": "Oct 28, 15",
+          "close": 119.27
+        },
+        {
+          "date": "2015-10-29",
+          "label": "Oct 29, 15",
+          "close": 120.53
+        },
+        {
+          "date": "2015-10-30",
+          "label": "Oct 30, 15",
+          "close": 119.5
+        },
+        {
+          "date": "2015-11-02",
+          "label": "Nov 2, 15",
+          "close": 121.18
+        },
+        {
+          "date": "2015-11-03",
+          "label": "Nov 3, 15",
+          "close": 122.57
+        },
+        {
+          "date": "2015-11-04",
+          "label": "Nov 4, 15",
+          "close": 122
+        },
+        {
+          "date": "2015-11-05",
+          "label": "Nov 5, 15",
+          "close": 120.92
+        },
+        {
+          "date": "2015-11-06",
+          "label": "Nov 6, 15",
+          "close": 121.06
+        },
+        {
+          "date": "2015-11-09",
+          "label": "Nov 9, 15",
+          "close": 120.57
+        },
+        {
+          "date": "2015-11-10",
+          "label": "Nov 10, 15",
+          "close": 116.77
+        },
+        {
+          "date": "2015-11-11",
+          "label": "Nov 11, 15",
+          "close": 116.11
+        },
+        {
+          "date": "2015-11-12",
+          "label": "Nov 12, 15",
+          "close": 115.72
+        },
+        {
+          "date": "2015-11-13",
+          "label": "Nov 13, 15",
+          "close": 112.34
+        },
+        {
+          "date": "2015-11-16",
+          "label": "Nov 16, 15",
+          "close": 114.18
+        },
+        {
+          "date": "2015-11-17",
+          "label": "Nov 17, 15",
+          "close": 113.69
+        },
+        {
+          "date": "2015-11-18",
+          "label": "Nov 18, 15",
+          "close": 117.29
+        },
+        {
+          "date": "2015-11-19",
+          "label": "Nov 19, 15",
+          "close": 118.78
+        },
+        {
+          "date": "2015-11-20",
+          "label": "Nov 20, 15",
+          "close": 119.3
+        },
+        {
+          "date": "2015-11-23",
+          "label": "Nov 23, 15",
+          "close": 117.75
+        },
+        {
+          "date": "2015-11-24",
+          "label": "Nov 24, 15",
+          "close": 118.88
+        },
+        {
+          "date": "2015-11-25",
+          "label": "Nov 25, 15",
+          "close": 118.03
+        },
+        {
+          "date": "2015-11-27",
+          "label": "Nov 27, 15",
+          "close": 117.81
+        },
+        {
+          "date": "2015-11-30",
+          "label": "Nov 30, 15",
+          "close": 118.3
+        },
+        {
+          "date": "2015-12-01",
+          "label": "Dec 1, 15",
+          "close": 117.34
+        },
+        {
+          "date": "2015-12-02",
+          "label": "Dec 2, 15",
+          "close": 116.28
+        },
+        {
+          "date": "2015-12-03",
+          "label": "Dec 3, 15",
+          "close": 115.2
+        },
+        {
+          "date": "2015-12-04",
+          "label": "Dec 4, 15",
+          "close": 119.03
+        },
+        {
+          "date": "2015-12-07",
+          "label": "Dec 7, 15",
+          "close": 118.28
+        },
+        {
+          "date": "2015-12-08",
+          "label": "Dec 8, 15",
+          "close": 118.23
+        },
+        {
+          "date": "2015-12-09",
+          "label": "Dec 9, 15",
+          "close": 115.62
+        },
+        {
+          "date": "2015-12-10",
+          "label": "Dec 10, 15",
+          "close": 116.17
+        },
+        {
+          "date": "2015-12-11",
+          "label": "Dec 11, 15",
+          "close": 113.18
+        },
+        {
+          "date": "2015-12-14",
+          "label": "Dec 14, 15",
+          "close": 112.48
+        },
+        {
+          "date": "2015-12-15",
+          "label": "Dec 15, 15",
+          "close": 110.49
+        },
+        {
+          "date": "2015-12-16",
+          "label": "Dec 16, 15",
+          "close": 111.34
+        },
+        {
+          "date": "2015-12-17",
+          "label": "Dec 17, 15",
+          "close": 108.98
+        },
+        {
+          "date": "2015-12-18",
+          "label": "Dec 18, 15",
+          "close": 106.03
+        },
+        {
+          "date": "2015-12-21",
+          "label": "Dec 21, 15",
+          "close": 107.33
+        },
+        {
+          "date": "2015-12-22",
+          "label": "Dec 22, 15",
+          "close": 107.23
+        },
+        {
+          "date": "2015-12-23",
+          "label": "Dec 23, 15",
+          "close": 108.61
+        },
+        {
+          "date": "2015-12-24",
+          "label": "Dec 24, 15",
+          "close": 108.03
+        },
+        {
+          "date": "2015-12-28",
+          "label": "Dec 28, 15",
+          "close": 106.82
+        },
+        {
+          "date": "2015-12-29",
+          "label": "Dec 29, 15",
+          "close": 108.74
+        },
+        {
+          "date": "2015-12-30",
+          "label": "Dec 30, 15",
+          "close": 107.32
+        },
+        {
+          "date": "2015-12-31",
+          "label": "Dec 31, 15",
+          "close": 105.26
+        },
+        {
+          "date": "2016-01-04",
+          "label": "Jan 4, 16",
+          "close": 105.35
+        },
+        {
+          "date": "2016-01-05",
+          "label": "Jan 5, 16",
+          "close": 102.71
+        },
+        {
+          "date": "2016-01-06",
+          "label": "Jan 6, 16",
+          "close": 100.7
+        },
+        {
+          "date": "2016-01-07",
+          "label": "Jan 7, 16",
+          "close": 96.45
+        },
+        {
+          "date": "2016-01-08",
+          "label": "Jan 8, 16",
+          "close": 96.96
+        },
+        {
+          "date": "2016-01-11",
+          "label": "Jan 11, 16",
+          "close": 98.53
+        },
+        {
+          "date": "2016-01-12",
+          "label": "Jan 12, 16",
+          "close": 99.96
+        },
+        {
+          "date": "2016-01-13",
+          "label": "Jan 13, 16",
+          "close": 97.39
+        },
+        {
+          "date": "2016-01-14",
+          "label": "Jan 14, 16",
+          "close": 99.52
+        },
+        {
+          "date": "2016-01-15",
+          "label": "Jan 15, 16",
+          "close": 97.13
+        },
+        {
+          "date": "2016-01-19",
+          "label": "Jan 19, 16",
+          "close": 96.66
+        },
+        {
+          "date": "2016-01-20",
+          "label": "Jan 20, 16",
+          "close": 96.79
+        },
+        {
+          "date": "2016-01-21",
+          "label": "Jan 21, 16",
+          "close": 96.3
+        },
+        {
+          "date": "2016-01-22",
+          "label": "Jan 22, 16",
+          "close": 101.42
+        },
+        {
+          "date": "2016-01-25",
+          "label": "Jan 25, 16",
+          "close": 99.44
+        },
+        {
+          "date": "2016-01-26",
+          "label": "Jan 26, 16",
+          "close": 99.99
+        },
+        {
+          "date": "2016-01-27",
+          "label": "Jan 27, 16",
+          "close": 93.42
+        },
+        {
+          "date": "2016-01-28",
+          "label": "Jan 28, 16",
+          "close": 94.09
+        },
+        {
+          "date": "2016-01-29",
+          "label": "Jan 29, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-02-01",
+          "label": "Feb 1, 16",
+          "close": 96.43
+        },
+        {
+          "date": "2016-02-02",
+          "label": "Feb 2, 16",
+          "close": 94.48
+        },
+        {
+          "date": "2016-02-03",
+          "label": "Feb 3, 16",
+          "close": 96.35
+        },
+        {
+          "date": "2016-02-04",
+          "label": "Feb 4, 16",
+          "close": 96.6
+        },
+        {
+          "date": "2016-02-05",
+          "label": "Feb 5, 16",
+          "close": 94.02
+        },
+        {
+          "date": "2016-02-08",
+          "label": "Feb 8, 16",
+          "close": 95.01
+        },
+        {
+          "date": "2016-02-09",
+          "label": "Feb 9, 16",
+          "close": 94.99
+        },
+        {
+          "date": "2016-02-10",
+          "label": "Feb 10, 16",
+          "close": 94.27
+        },
+        {
+          "date": "2016-02-11",
+          "label": "Feb 11, 16",
+          "close": 93.7
+        },
+        {
+          "date": "2016-02-12",
+          "label": "Feb 12, 16",
+          "close": 93.99
+        },
+        {
+          "date": "2016-02-16",
+          "label": "Feb 16, 16",
+          "close": 96.64
+        },
+        {
+          "date": "2016-02-17",
+          "label": "Feb 17, 16",
+          "close": 98.12
+        },
+        {
+          "date": "2016-02-18",
+          "label": "Feb 18, 16",
+          "close": 96.26
+        },
+        {
+          "date": "2016-02-19",
+          "label": "Feb 19, 16",
+          "close": 96.04
+        },
+        {
+          "date": "2016-02-22",
+          "label": "Feb 22, 16",
+          "close": 96.88
+        },
+        {
+          "date": "2016-02-23",
+          "label": "Feb 23, 16",
+          "close": 94.69
+        },
+        {
+          "date": "2016-02-24",
+          "label": "Feb 24, 16",
+          "close": 96.1
+        },
+        {
+          "date": "2016-02-25",
+          "label": "Feb 25, 16",
+          "close": 96.76
+        },
+        {
+          "date": "2016-02-26",
+          "label": "Feb 26, 16",
+          "close": 96.91
+        },
+        {
+          "date": "2016-02-29",
+          "label": "Feb 29, 16",
+          "close": 96.69
+        },
+        {
+          "date": "2016-03-01",
+          "label": "Mar 1, 16",
+          "close": 100.53
+        },
+        {
+          "date": "2016-03-02",
+          "label": "Mar 2, 16",
+          "close": 100.75
+        },
+        {
+          "date": "2016-03-03",
+          "label": "Mar 3, 16",
+          "close": 101.5
+        },
+        {
+          "date": "2016-03-04",
+          "label": "Mar 4, 16",
+          "close": 103.01
+        },
+        {
+          "date": "2016-03-07",
+          "label": "Mar 7, 16",
+          "close": 101.87
+        },
+        {
+          "date": "2016-03-08",
+          "label": "Mar 8, 16",
+          "close": 101.03
+        },
+        {
+          "date": "2016-03-09",
+          "label": "Mar 9, 16",
+          "close": 101.12
+        },
+        {
+          "date": "2016-03-10",
+          "label": "Mar 10, 16",
+          "close": 101.17
+        },
+        {
+          "date": "2016-03-11",
+          "label": "Mar 11, 16",
+          "close": 102.26
+        },
+        {
+          "date": "2016-03-14",
+          "label": "Mar 14, 16",
+          "close": 102.52
+        },
+        {
+          "date": "2016-03-15",
+          "label": "Mar 15, 16",
+          "close": 104.58
+        },
+        {
+          "date": "2016-03-16",
+          "label": "Mar 16, 16",
+          "close": 105.97
+        },
+        {
+          "date": "2016-03-17",
+          "label": "Mar 17, 16",
+          "close": 105.8
+        },
+        {
+          "date": "2016-03-18",
+          "label": "Mar 18, 16",
+          "close": 105.92
+        },
+        {
+          "date": "2016-03-21",
+          "label": "Mar 21, 16",
+          "close": 105.91
+        },
+        {
+          "date": "2016-03-22",
+          "label": "Mar 22, 16",
+          "close": 106.72
+        },
+        {
+          "date": "2016-03-23",
+          "label": "Mar 23, 16",
+          "close": 106.13
+        },
+        {
+          "date": "2016-03-24",
+          "label": "Mar 24, 16",
+          "close": 105.67
+        },
+        {
+          "date": "2016-03-28",
+          "label": "Mar 28, 16",
+          "close": 105.19
+        },
+        {
+          "date": "2016-03-29",
+          "label": "Mar 29, 16",
+          "close": 107.68
+        },
+        {
+          "date": "2016-03-30",
+          "label": "Mar 30, 16",
+          "close": 109.56
+        },
+        {
+          "date": "2016-03-31",
+          "label": "Mar 31, 16",
+          "close": 108.99
+        },
+        {
+          "date": "2016-04-01",
+          "label": "Apr 1, 16",
+          "close": 109.99
+        },
+        {
+          "date": "2016-04-04",
+          "label": "Apr 4, 16",
+          "close": 111.12
+        },
+        {
+          "date": "2016-04-05",
+          "label": "Apr 5, 16",
+          "close": 109.81
+        },
+        {
+          "date": "2016-04-06",
+          "label": "Apr 6, 16",
+          "close": 110.96
+        },
+        {
+          "date": "2016-04-07",
+          "label": "Apr 7, 16",
+          "close": 108.54
+        },
+        {
+          "date": "2016-04-08",
+          "label": "Apr 8, 16",
+          "close": 108.66
+        },
+        {
+          "date": "2016-04-11",
+          "label": "Apr 11, 16",
+          "close": 109.02
+        },
+        {
+          "date": "2016-04-12",
+          "label": "Apr 12, 16",
+          "close": 110.44
+        },
+        {
+          "date": "2016-04-13",
+          "label": "Apr 13, 16",
+          "close": 112.04
+        },
+        {
+          "date": "2016-04-14",
+          "label": "Apr 14, 16",
+          "close": 112.1
+        },
+        {
+          "date": "2016-04-15",
+          "label": "Apr 15, 16",
+          "close": 109.85
+        },
+        {
+          "date": "2016-04-18",
+          "label": "Apr 18, 16",
+          "close": 107.48
+        },
+        {
+          "date": "2016-04-19",
+          "label": "Apr 19, 16",
+          "close": 106.91
+        },
+        {
+          "date": "2016-04-20",
+          "label": "Apr 20, 16",
+          "close": 107.13
+        },
+        {
+          "date": "2016-04-21",
+          "label": "Apr 21, 16",
+          "close": 105.97
+        },
+        {
+          "date": "2016-04-22",
+          "label": "Apr 22, 16",
+          "close": 105.68
+        },
+        {
+          "date": "2016-04-25",
+          "label": "Apr 25, 16",
+          "close": 105.08
+        },
+        {
+          "date": "2016-04-26",
+          "label": "Apr 26, 16",
+          "close": 104.35
+        },
+        {
+          "date": "2016-04-27",
+          "label": "Apr 27, 16",
+          "close": 97.82
+        },
+        {
+          "date": "2016-04-28",
+          "label": "Apr 28, 16",
+          "close": 94.83
+        },
+        {
+          "date": "2016-04-29",
+          "label": "Apr 29, 16",
+          "close": 93.74
+        },
+        {
+          "date": "2016-05-02",
+          "label": "May 2, 16",
+          "close": 93.64
+        },
+        {
+          "date": "2016-05-03",
+          "label": "May 3, 16",
+          "close": 95.18
+        },
+        {
+          "date": "2016-05-04",
+          "label": "May 4, 16",
+          "close": 94.19
+        },
+        {
+          "date": "2016-05-05",
+          "label": "May 5, 16",
+          "close": 93.24
+        },
+        {
+          "date": "2016-05-06",
+          "label": "May 6, 16",
+          "close": 92.72
+        },
+        {
+          "date": "2016-05-09",
+          "label": "May 9, 16",
+          "close": 92.79
+        },
+        {
+          "date": "2016-05-10",
+          "label": "May 10, 16",
+          "close": 93.42
+        },
+        {
+          "date": "2016-05-11",
+          "label": "May 11, 16",
+          "close": 92.51
+        },
+        {
+          "date": "2016-05-12",
+          "label": "May 12, 16",
+          "close": 90.34
+        },
+        {
+          "date": "2016-05-13",
+          "label": "May 13, 16",
+          "close": 90.52
+        },
+        {
+          "date": "2016-05-16",
+          "label": "May 16, 16",
+          "close": 93.88
+        },
+        {
+          "date": "2016-05-17",
+          "label": "May 17, 16",
+          "close": 93.49
+        },
+        {
+          "date": "2016-05-18",
+          "label": "May 18, 16",
+          "close": 94.56
+        },
+        {
+          "date": "2016-05-19",
+          "label": "May 19, 16",
+          "close": 94.2
+        },
+        {
+          "date": "2016-05-20",
+          "label": "May 20, 16",
+          "close": 95.22
+        },
+        {
+          "date": "2016-05-23",
+          "label": "May 23, 16",
+          "close": 96.43
+        },
+        {
+          "date": "2016-05-24",
+          "label": "May 24, 16",
+          "close": 97.9
+        },
+        {
+          "date": "2016-05-25",
+          "label": "May 25, 16",
+          "close": 99.62
+        },
+        {
+          "date": "2016-05-26",
+          "label": "May 26, 16",
+          "close": 100.41
+        },
+        {
+          "date": "2016-05-27",
+          "label": "May 27, 16",
+          "close": 100.35
+        },
+        {
+          "date": "2016-05-31",
+          "label": "May 31, 16",
+          "close": 99.86
+        },
+        {
+          "date": "2016-06-01",
+          "label": "Jun 1, 16",
+          "close": 98.46
+        },
+        {
+          "date": "2016-06-02",
+          "label": "Jun 2, 16",
+          "close": 97.72
+        },
+        {
+          "date": "2016-06-03",
+          "label": "Jun 3, 16",
+          "close": 97.92
+        },
+        {
+          "date": "2016-06-06",
+          "label": "Jun 6, 16",
+          "close": 98.63
+        },
+        {
+          "date": "2016-06-07",
+          "label": "Jun 7, 16",
+          "close": 99.03
+        },
+        {
+          "date": "2016-06-08",
+          "label": "Jun 8, 16",
+          "close": 98.94
+        },
+        {
+          "date": "2016-06-09",
+          "label": "Jun 9, 16",
+          "close": 99.65
+        },
+        {
+          "date": "2016-06-10",
+          "label": "Jun 10, 16",
+          "close": 98.83
+        },
+        {
+          "date": "2016-06-13",
+          "label": "Jun 13, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-06-14",
+          "label": "Jun 14, 16",
+          "close": 97.46
+        },
+        {
+          "date": "2016-06-15",
+          "label": "Jun 15, 16",
+          "close": 97.14
+        },
+        {
+          "date": "2016-06-16",
+          "label": "Jun 16, 16",
+          "close": 97.55
+        },
+        {
+          "date": "2016-06-17",
+          "label": "Jun 17, 16",
+          "close": 95.33
+        },
+        {
+          "date": "2016-06-20",
+          "label": "Jun 20, 16",
+          "close": 95.1
+        },
+        {
+          "date": "2016-06-21",
+          "label": "Jun 21, 16",
+          "close": 95.91
+        },
+        {
+          "date": "2016-06-22",
+          "label": "Jun 22, 16",
+          "close": 95.55
+        },
+        {
+          "date": "2016-06-23",
+          "label": "Jun 23, 16",
+          "close": 96.1
+        },
+        {
+          "date": "2016-06-24",
+          "label": "Jun 24, 16",
+          "close": 93.4
+        },
+        {
+          "date": "2016-06-27",
+          "label": "Jun 27, 16",
+          "close": 92.04
+        },
+        {
+          "date": "2016-06-28",
+          "label": "Jun 28, 16",
+          "close": 93.59
+        },
+        {
+          "date": "2016-06-29",
+          "label": "Jun 29, 16",
+          "close": 94.4
+        },
+        {
+          "date": "2016-06-30",
+          "label": "Jun 30, 16",
+          "close": 95.6
+        },
+        {
+          "date": "2016-07-01",
+          "label": "Jul 1, 16",
+          "close": 95.89
+        },
+        {
+          "date": "2016-07-05",
+          "label": "Jul 5, 16",
+          "close": 94.99
+        },
+        {
+          "date": "2016-07-06",
+          "label": "Jul 6, 16",
+          "close": 95.53
+        },
+        {
+          "date": "2016-07-07",
+          "label": "Jul 7, 16",
+          "close": 95.94
+        },
+        {
+          "date": "2016-07-08",
+          "label": "Jul 8, 16",
+          "close": 96.68
+        },
+        {
+          "date": "2016-07-11",
+          "label": "Jul 11, 16",
+          "close": 96.98
+        },
+        {
+          "date": "2016-07-12",
+          "label": "Jul 12, 16",
+          "close": 97.42
+        },
+        {
+          "date": "2016-07-13",
+          "label": "Jul 13, 16",
+          "close": 96.87
+        },
+        {
+          "date": "2016-07-14",
+          "label": "Jul 14, 16",
+          "close": 98.79
+        },
+        {
+          "date": "2016-07-15",
+          "label": "Jul 15, 16",
+          "close": 98.78
+        },
+        {
+          "date": "2016-07-18",
+          "label": "Jul 18, 16",
+          "close": 99.83
+        },
+        {
+          "date": "2016-07-19",
+          "label": "Jul 19, 16",
+          "close": 99.87
+        },
+        {
+          "date": "2016-07-20",
+          "label": "Jul 20, 16",
+          "close": 99.96
+        },
+        {
+          "date": "2016-07-21",
+          "label": "Jul 21, 16",
+          "close": 99.43
+        },
+        {
+          "date": "2016-07-22",
+          "label": "Jul 22, 16",
+          "close": 98.66
+        },
+        {
+          "date": "2016-07-25",
+          "label": "Jul 25, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-07-26",
+          "label": "Jul 26, 16",
+          "close": 96.67
+        },
+        {
+          "date": "2016-07-27",
+          "label": "Jul 27, 16",
+          "close": 102.95
+        },
+        {
+          "date": "2016-07-28",
+          "label": "Jul 28, 16",
+          "close": 104.34
+        },
+        {
+          "date": "2016-07-29",
+          "label": "Jul 29, 16",
+          "close": 104.21
+        },
+        {
+          "date": "2016-08-01",
+          "label": "Aug 1, 16",
+          "close": 106.05
+        },
+        {
+          "date": "2016-08-02",
+          "label": "Aug 2, 16",
+          "close": 104.48
+        },
+        {
+          "date": "2016-08-03",
+          "label": "Aug 3, 16",
+          "close": 105.79
+        },
+        {
+          "date": "2016-08-04",
+          "label": "Aug 4, 16",
+          "close": 105.87
+        },
+        {
+          "date": "2016-08-05",
+          "label": "Aug 5, 16",
+          "close": 107.48
+        },
+        {
+          "date": "2016-08-08",
+          "label": "Aug 8, 16",
+          "close": 108.37
+        },
+        {
+          "date": "2016-08-09",
+          "label": "Aug 9, 16",
+          "close": 108.81
+        },
+        {
+          "date": "2016-08-10",
+          "label": "Aug 10, 16",
+          "close": 108
+        },
+        {
+          "date": "2016-08-11",
+          "label": "Aug 11, 16",
+          "close": 107.93
+        },
+        {
+          "date": "2016-08-12",
+          "label": "Aug 12, 16",
+          "close": 108.18
+        },
+        {
+          "date": "2016-08-15",
+          "label": "Aug 15, 16",
+          "close": 109.48
+        },
+        {
+          "date": "2016-08-16",
+          "label": "Aug 16, 16",
+          "close": 109.38
+        },
+        {
+          "date": "2016-08-17",
+          "label": "Aug 17, 16",
+          "close": 109.22
+        },
+        {
+          "date": "2016-08-18",
+          "label": "Aug 18, 16",
+          "close": 109.08
+        },
+        {
+          "date": "2016-08-19",
+          "label": "Aug 19, 16",
+          "close": 109.36
+        },
+        {
+          "date": "2016-08-22",
+          "label": "Aug 22, 16",
+          "close": 108.51
+        },
+        {
+          "date": "2016-08-23",
+          "label": "Aug 23, 16",
+          "close": 108.85
+        },
+        {
+          "date": "2016-08-24",
+          "label": "Aug 24, 16",
+          "close": 108.03
+        },
+        {
+          "date": "2016-08-25",
+          "label": "Aug 25, 16",
+          "close": 107.57
+        },
+        {
+          "date": "2016-08-26",
+          "label": "Aug 26, 16",
+          "close": 106.94
+        },
+        {
+          "date": "2016-08-29",
+          "label": "Aug 29, 16",
+          "close": 106.82
+        },
+        {
+          "date": "2016-08-30",
+          "label": "Aug 30, 16",
+          "close": 106
+        },
+        {
+          "date": "2016-08-31",
+          "label": "Aug 31, 16",
+          "close": 106.1
+        },
+        {
+          "date": "2016-09-01",
+          "label": "Sep 1, 16",
+          "close": 106.73
+        },
+        {
+          "date": "2016-09-02",
+          "label": "Sep 2, 16",
+          "close": 107.73
+        },
+        {
+          "date": "2016-09-06",
+          "label": "Sep 6, 16",
+          "close": 107.7
+        },
+        {
+          "date": "2016-09-07",
+          "label": "Sep 7, 16",
+          "close": 108.36
+        },
+        {
+          "date": "2016-09-08",
+          "label": "Sep 8, 16",
+          "close": 105.52
+        },
+        {
+          "date": "2016-09-09",
+          "label": "Sep 9, 16",
+          "close": 103.13
+        },
+        {
+          "date": "2016-09-12",
+          "label": "Sep 12, 16",
+          "close": 105.44
+        },
+        {
+          "date": "2016-09-13",
+          "label": "Sep 13, 16",
+          "close": 107.95
+        },
+        {
+          "date": "2016-09-14",
+          "label": "Sep 14, 16",
+          "close": 111.77
+        },
+        {
+          "date": "2016-09-15",
+          "label": "Sep 15, 16",
+          "close": 115.57
+        },
+        {
+          "date": "2016-09-16",
+          "label": "Sep 16, 16",
+          "close": 114.92
+        },
+        {
+          "date": "2016-09-19",
+          "label": "Sep 19, 16",
+          "close": 113.58
+        },
+        {
+          "date": "2016-09-20",
+          "label": "Sep 20, 16",
+          "close": 113.57
+        },
+        {
+          "date": "2016-09-21",
+          "label": "Sep 21, 16",
+          "close": 113.55
+        },
+        {
+          "date": "2016-09-22",
+          "label": "Sep 22, 16",
+          "close": 114.62
+        },
+        {
+          "date": "2016-09-23",
+          "label": "Sep 23, 16",
+          "close": 112.71
+        },
+        {
+          "date": "2016-09-26",
+          "label": "Sep 26, 16",
+          "close": 112.88
+        },
+        {
+          "date": "2016-09-27",
+          "label": "Sep 27, 16",
+          "close": 113.09
+        },
+        {
+          "date": "2016-09-28",
+          "label": "Sep 28, 16",
+          "close": 113.95
+        },
+        {
+          "date": "2016-09-29",
+          "label": "Sep 29, 16",
+          "close": 112.18
+        },
+        {
+          "date": "2016-09-30",
+          "label": "Sep 30, 16",
+          "close": 113.05
+        },
+        {
+          "date": "2016-10-03",
+          "label": "Oct 3, 16",
+          "close": 112.52
+        },
+        {
+          "date": "2016-10-04",
+          "label": "Oct 4, 16",
+          "close": 113
+        },
+        {
+          "date": "2016-10-05",
+          "label": "Oct 5, 16",
+          "close": 113.05
+        },
+        {
+          "date": "2016-10-06",
+          "label": "Oct 6, 16",
+          "close": 113.89
+        },
+        {
+          "date": "2016-10-07",
+          "label": "Oct 7, 16",
+          "close": 114.06
+        },
+        {
+          "date": "2016-10-10",
+          "label": "Oct 10, 16",
+          "close": 116.05
+        },
+        {
+          "date": "2016-10-11",
+          "label": "Oct 11, 16",
+          "close": 116.3
+        },
+        {
+          "date": "2016-10-12",
+          "label": "Oct 12, 16",
+          "close": 117.34
+        },
+        {
+          "date": "2016-10-13",
+          "label": "Oct 13, 16",
+          "close": 116.98
+        },
+        {
+          "date": "2016-10-14",
+          "label": "Oct 14, 16",
+          "close": 117.63
+        },
+        {
+          "date": "2016-10-17",
+          "label": "Oct 17, 16",
+          "close": 117.55
+        },
+        {
+          "date": "2016-10-18",
+          "label": "Oct 18, 16",
+          "close": 117.47
+        },
+        {
+          "date": "2016-10-19",
+          "label": "Oct 19, 16",
+          "close": 117.12
+        },
+        {
+          "date": "2016-10-20",
+          "label": "Oct 20, 16",
+          "close": 117.06
+        },
+        {
+          "date": "2016-10-21",
+          "label": "Oct 21, 16",
+          "close": 116.6
+        },
+        {
+          "date": "2016-10-24",
+          "label": "Oct 24, 16",
+          "close": 117.65
+        },
+        {
+          "date": "2016-10-25",
+          "label": "Oct 25, 16",
+          "close": 118.25
+        },
+        {
+          "date": "2016-10-26",
+          "label": "Oct 26, 16",
+          "close": 115.59
+        },
+        {
+          "date": "2016-10-27",
+          "label": "Oct 27, 16",
+          "close": 114.48
+        },
+        {
+          "date": "2016-10-28",
+          "label": "Oct 28, 16",
+          "close": 113.72
+        },
+        {
+          "date": "2016-10-31",
+          "label": "Oct 31, 16",
+          "close": 113.54
+        },
+        {
+          "date": "2016-11-01",
+          "label": "Nov 1, 16",
+          "close": 111.49
+        },
+        {
+          "date": "2016-11-02",
+          "label": "Nov 2, 16",
+          "close": 111.59
+        },
+        {
+          "date": "2016-11-03",
+          "label": "Nov 3, 16",
+          "close": 109.83
+        },
+        {
+          "date": "2016-11-04",
+          "label": "Nov 4, 16",
+          "close": 108.84
+        },
+        {
+          "date": "2016-11-07",
+          "label": "Nov 7, 16",
+          "close": 110.41
+        },
+        {
+          "date": "2016-11-08",
+          "label": "Nov 8, 16",
+          "close": 111.06
+        },
+        {
+          "date": "2016-11-09",
+          "label": "Nov 9, 16",
+          "close": 110.88
+        },
+        {
+          "date": "2016-11-10",
+          "label": "Nov 10, 16",
+          "close": 107.79
+        },
+        {
+          "date": "2016-11-11",
+          "label": "Nov 11, 16",
+          "close": 108.43
+        },
+        {
+          "date": "2016-11-14",
+          "label": "Nov 14, 16",
+          "close": 105.71
+        },
+        {
+          "date": "2016-11-15",
+          "label": "Nov 15, 16",
+          "close": 107.11
+        },
+        {
+          "date": "2016-11-16",
+          "label": "Nov 16, 16",
+          "close": 109.99
+        },
+        {
+          "date": "2016-11-17",
+          "label": "Nov 17, 16",
+          "close": 109.95
+        },
+        {
+          "date": "2016-11-18",
+          "label": "Nov 18, 16",
+          "close": 110.06
+        },
+        {
+          "date": "2016-11-21",
+          "label": "Nov 21, 16",
+          "close": 111.73
+        },
+        {
+          "date": "2016-11-22",
+          "label": "Nov 22, 16",
+          "close": 111.8
+        },
+        {
+          "date": "2016-11-23",
+          "label": "Nov 23, 16",
+          "close": 111.23
+        },
+        {
+          "date": "2016-11-25",
+          "label": "Nov 25, 16",
+          "close": 111.79
+        },
+        {
+          "date": "2016-11-28",
+          "label": "Nov 28, 16",
+          "close": 111.57
+        },
+        {
+          "date": "2016-11-29",
+          "label": "Nov 29, 16",
+          "close": 111.46
+        },
+        {
+          "date": "2016-11-30",
+          "label": "Nov 30, 16",
+          "close": 110.52
+        },
+        {
+          "date": "2016-12-01",
+          "label": "Dec 1, 16",
+          "close": 109.49
+        },
+        {
+          "date": "2016-12-02",
+          "label": "Dec 2, 16",
+          "close": 109.9
+        },
+        {
+          "date": "2016-12-05",
+          "label": "Dec 5, 16",
+          "close": 109.11
+        },
+        {
+          "date": "2016-12-06",
+          "label": "Dec 6, 16",
+          "close": 109.95
+        },
+        {
+          "date": "2016-12-07",
+          "label": "Dec 7, 16",
+          "close": 111.03
+        },
+        {
+          "date": "2016-12-08",
+          "label": "Dec 8, 16",
+          "close": 112.12
+        },
+        {
+          "date": "2016-12-09",
+          "label": "Dec 9, 16",
+          "close": 113.95
+        },
+        {
+          "date": "2016-12-12",
+          "label": "Dec 12, 16",
+          "close": 113.3
+        },
+        {
+          "date": "2016-12-13",
+          "label": "Dec 13, 16",
+          "close": 115.19
+        },
+        {
+          "date": "2016-12-14",
+          "label": "Dec 14, 16",
+          "close": 115.19
+        },
+        {
+          "date": "2016-12-15",
+          "label": "Dec 15, 16",
+          "close": 115.82
+        },
+        {
+          "date": "2016-12-16",
+          "label": "Dec 16, 16",
+          "close": 115.97
+        },
+        {
+          "date": "2016-12-19",
+          "label": "Dec 19, 16",
+          "close": 116.64
+        },
+        {
+          "date": "2016-12-20",
+          "label": "Dec 20, 16",
+          "close": 116.95
+        },
+        {
+          "date": "2016-12-21",
+          "label": "Dec 21, 16",
+          "close": 117.06
+        },
+        {
+          "date": "2016-12-22",
+          "label": "Dec 22, 16",
+          "close": 116.29
+        },
+        {
+          "date": "2016-12-23",
+          "label": "Dec 23, 16",
+          "close": 116.52
+        },
+        {
+          "date": "2016-12-27",
+          "label": "Dec 27, 16",
+          "close": 117.26
+        },
+        {
+          "date": "2016-12-28",
+          "label": "Dec 28, 16",
+          "close": 116.76
+        },
+        {
+          "date": "2016-12-29",
+          "label": "Dec 29, 16",
+          "close": 116.73
+        },
+        {
+          "date": "2016-12-30",
+          "label": "Dec 30, 16",
+          "close": 115.82
+        },
+        {
+          "date": "2017-01-03",
+          "label": "Jan 3, 17",
+          "close": 116.15
+        },
+        {
+          "date": "2017-01-04",
+          "label": "Jan 4, 17",
+          "close": 116.02
+        },
+        {
+          "date": "2017-01-05",
+          "label": "Jan 5, 17",
+          "close": 116.61
+        },
+        {
+          "date": "2017-01-06",
+          "label": "Jan 6, 17",
+          "close": 117.91
+        },
+        {
+          "date": "2017-01-09",
+          "label": "Jan 9, 17",
+          "close": 118.99
+        },
+        {
+          "date": "2017-01-10",
+          "label": "Jan 10, 17",
+          "close": 119.11
+        },
+        {
+          "date": "2017-01-11",
+          "label": "Jan 11, 17",
+          "close": 119.75
+        },
+        {
+          "date": "2017-01-12",
+          "label": "Jan 12, 17",
+          "close": 119.25
+        },
+        {
+          "date": "2017-01-13",
+          "label": "Jan 13, 17",
+          "close": 119.04
+        },
+        {
+          "date": "2017-01-17",
+          "label": "Jan 17, 17",
+          "close": 120
+        },
+        {
+          "date": "2017-01-18",
+          "label": "Jan 18, 17",
+          "close": 119.99
+        },
+        {
+          "date": "2017-01-19",
+          "label": "Jan 19, 17",
+          "close": 119.78
+        },
+        {
+          "date": "2017-01-20",
+          "label": "Jan 20, 17",
+          "close": 120
+        },
+        {
+          "date": "2017-01-23",
+          "label": "Jan 23, 17",
+          "close": 120.08
+        },
+        {
+          "date": "2017-01-24",
+          "label": "Jan 24, 17",
+          "close": 119.97
+        },
+        {
+          "date": "2017-01-25",
+          "label": "Jan 25, 17",
+          "close": 121.88
+        },
+        {
+          "date": "2017-01-26",
+          "label": "Jan 26, 17",
+          "close": 121.94
+        },
+        {
+          "date": "2017-01-27",
+          "label": "Jan 27, 17",
+          "close": 121.95
+        },
+        {
+          "date": "2017-01-30",
+          "label": "Jan 30, 17",
+          "close": 121.63
+        },
+        {
+          "date": "2017-01-31",
+          "label": "Jan 31, 17",
+          "close": 121.35
+        },
+        {
+          "date": "2017-02-01",
+          "label": "Feb 1, 17",
+          "close": 128.75
+        },
+        {
+          "date": "2017-02-02",
+          "label": "Feb 2, 17",
+          "close": 128.53
+        },
+        {
+          "date": "2017-02-03",
+          "label": "Feb 3, 17",
+          "close": 129.08
+        },
+        {
+          "date": "2017-02-06",
+          "label": "Feb 6, 17",
+          "close": 130.29
+        },
+        {
+          "date": "2017-02-07",
+          "label": "Feb 7, 17",
+          "close": 131.53
+        },
+        {
+          "date": "2017-02-08",
+          "label": "Feb 8, 17",
+          "close": 132.04
+        },
+        {
+          "date": "2017-02-09",
+          "label": "Feb 9, 17",
+          "close": 132.42
+        },
+        {
+          "date": "2017-02-10",
+          "label": "Feb 10, 17",
+          "close": 132.12
+        },
+        {
+          "date": "2017-02-13",
+          "label": "Feb 13, 17",
+          "close": 133.29
+        },
+        {
+          "date": "2017-02-14",
+          "label": "Feb 14, 17",
+          "close": 135.02
+        },
+        {
+          "date": "2017-02-15",
+          "label": "Feb 15, 17",
+          "close": 135.51
+        },
+        {
+          "date": "2017-02-16",
+          "label": "Feb 16, 17",
+          "close": 135.35
+        },
+        {
+          "date": "2017-02-17",
+          "label": "Feb 17, 17",
+          "close": 135.72
+        },
+        {
+          "date": "2017-02-21",
+          "label": "Feb 21, 17",
+          "close": 136.7
+        },
+        {
+          "date": "2017-02-22",
+          "label": "Feb 22, 17",
+          "close": 137.11
+        },
+        {
+          "date": "2017-02-23",
+          "label": "Feb 23, 17",
+          "close": 136.53
+        },
+        {
+          "date": "2017-02-24",
+          "label": "Feb 24, 17",
+          "close": 136.66
+        },
+        {
+          "date": "2017-02-27",
+          "label": "Feb 27, 17",
+          "close": 136.93
+        },
+        {
+          "date": "2017-02-28",
+          "label": "Feb 28, 17",
+          "close": 136.99
+        },
+        {
+          "date": "2017-03-01",
+          "label": "Mar 1, 17",
+          "close": 139.79
+        },
+        {
+          "date": "2017-03-02",
+          "label": "Mar 2, 17",
+          "close": 138.96
+        },
+        {
+          "date": "2017-03-03",
+          "label": "Mar 3, 17",
+          "close": 139.78
+        },
+        {
+          "date": "2017-03-06",
+          "label": "Mar 6, 17",
+          "close": 139.34
+        },
+        {
+          "date": "2017-03-07",
+          "label": "Mar 7, 17",
+          "close": 139.52
+        },
+        {
+          "date": "2017-03-08",
+          "label": "Mar 8, 17",
+          "close": 139
+        },
+        {
+          "date": "2017-03-09",
+          "label": "Mar 9, 17",
+          "close": 138.68
+        },
+        {
+          "date": "2017-03-10",
+          "label": "Mar 10, 17",
+          "close": 139.14
+        },
+        {
+          "date": "2017-03-13",
+          "label": "Mar 13, 17",
+          "close": 139.2
+        },
+        {
+          "date": "2017-03-14",
+          "label": "Mar 14, 17",
+          "close": 138.99
+        },
+        {
+          "date": "2017-03-15",
+          "label": "Mar 15, 17",
+          "close": 140.46
+        },
+        {
+          "date": "2017-03-16",
+          "label": "Mar 16, 17",
+          "close": 140.69
+        },
+        {
+          "date": "2017-03-17",
+          "label": "Mar 17, 17",
+          "close": 139.99
+        },
+        {
+          "date": "2017-03-20",
+          "label": "Mar 20, 17",
+          "close": 141.46
+        },
+        {
+          "date": "2017-03-21",
+          "label": "Mar 21, 17",
+          "close": 139.84
+        },
+        {
+          "date": "2017-03-22",
+          "label": "Mar 22, 17",
+          "close": 141.42
+        },
+        {
+          "date": "2017-03-23",
+          "label": "Mar 23, 17",
+          "close": 140.92
+        },
+        {
+          "date": "2017-03-24",
+          "label": "Mar 24, 17",
+          "close": 140.64
+        },
+        {
+          "date": "2017-03-27",
+          "label": "Mar 27, 17",
+          "close": 140.88
+        },
+        {
+          "date": "2017-03-28",
+          "label": "Mar 28, 17",
+          "close": 143.8
+        },
+        {
+          "date": "2017-03-29",
+          "label": "Mar 29, 17",
+          "close": 144.12
+        },
+        {
+          "date": "2017-03-30",
+          "label": "Mar 30, 17",
+          "close": 143.93
+        },
+        {
+          "date": "2017-03-31",
+          "label": "Mar 31, 17",
+          "close": 143.66
+        },
+        {
+          "date": "2017-04-03",
+          "label": "Apr 3, 17",
+          "close": 143.7
+        },
+        {
+          "date": "2017-04-04",
+          "label": "Apr 4, 17",
+          "close": 144.77
+        },
+        {
+          "date": "2017-04-05",
+          "label": "Apr 5, 17",
+          "close": 144.02
+        },
+        {
+          "date": "2017-04-06",
+          "label": "Apr 6, 17",
+          "close": 143.66
+        },
+        {
+          "date": "2017-04-07",
+          "label": "Apr 7, 17",
+          "close": 143.34
+        },
+        {
+          "date": "2017-04-10",
+          "label": "Apr 10, 17",
+          "close": 143.17
+        },
+        {
+          "date": "2017-04-11",
+          "label": "Apr 11, 17",
+          "close": 141.63
+        },
+        {
+          "date": "2017-04-12",
+          "label": "Apr 12, 17",
+          "close": 141.8
+        },
+        {
+          "date": "2017-04-13",
+          "label": "Apr 13, 17",
+          "close": 141.05
+        },
+        {
+          "date": "2017-04-17",
+          "label": "Apr 17, 17",
+          "close": 141.83
+        },
+        {
+          "date": "2017-04-18",
+          "label": "Apr 18, 17",
+          "close": 141.2
+        },
+        {
+          "date": "2017-04-19",
+          "label": "Apr 19, 17",
+          "close": 140.68
+        },
+        {
+          "date": "2017-04-20",
+          "label": "Apr 20, 17",
+          "close": 142.44
+        },
+        {
+          "date": "2017-04-21",
+          "label": "Apr 21, 17",
+          "close": 142.27
+        },
+        {
+          "date": "2017-04-24",
+          "label": "Apr 24, 17",
+          "close": 143.64
+        },
+        {
+          "date": "2017-04-25",
+          "label": "Apr 25, 17",
+          "close": 144.53
+        },
+        {
+          "date": "2017-04-26",
+          "label": "Apr 26, 17",
+          "close": 143.68
+        },
+        {
+          "date": "2017-04-27",
+          "label": "Apr 27, 17",
+          "close": 143.79
+        },
+        {
+          "date": "2017-04-28",
+          "label": "Apr 28, 17",
+          "close": 143.65
+        },
+        {
+          "date": "2017-05-01",
+          "label": "May 1, 17",
+          "close": 146.58
+        },
+        {
+          "date": "2017-05-02",
+          "label": "May 2, 17",
+          "close": 147.51
+        },
+        {
+          "date": "2017-05-03",
+          "label": "May 3, 17",
+          "close": 147.06
+        },
+        {
+          "date": "2017-05-04",
+          "label": "May 4, 17",
+          "close": 146.53
+        },
+        {
+          "date": "2017-05-05",
+          "label": "May 5, 17",
+          "close": 148.96
+        },
+        {
+          "date": "2017-05-08",
+          "label": "May 8, 17",
+          "close": 153.01
+        },
+        {
+          "date": "2017-05-09",
+          "label": "May 9, 17",
+          "close": 153.99
+        },
+        {
+          "date": "2017-05-10",
+          "label": "May 10, 17",
+          "close": 153.26
+        },
+        {
+          "date": "2017-05-11",
+          "label": "May 11, 17",
+          "close": 153.95
+        },
+        {
+          "date": "2017-05-12",
+          "label": "May 12, 17",
+          "close": 156.1
+        },
+        {
+          "date": "2017-05-15",
+          "label": "May 15, 17",
+          "close": 155.7
+        },
+        {
+          "date": "2017-05-16",
+          "label": "May 16, 17",
+          "close": 155.47
+        },
+        {
+          "date": "2017-05-17",
+          "label": "May 17, 17",
+          "close": 150.25
+        },
+        {
+          "date": "2017-05-18",
+          "label": "May 18, 17",
+          "close": 152.54
+        },
+        {
+          "date": "2017-05-19",
+          "label": "May 19, 17",
+          "close": 153.06
+        },
+        {
+          "date": "2017-05-22",
+          "label": "May 22, 17",
+          "close": 153.99
+        },
+        {
+          "date": "2017-05-23",
+          "label": "May 23, 17",
+          "close": 153.8
+        },
+        {
+          "date": "2017-05-24",
+          "label": "May 24, 17",
+          "close": 153.34
+        },
+        {
+          "date": "2017-05-25",
+          "label": "May 25, 17",
+          "close": 153.87
+        },
+        {
+          "date": "2017-05-26",
+          "label": "May 26, 17",
+          "close": 153.61
+        },
+        {
+          "date": "2017-05-30",
+          "label": "May 30, 17",
+          "close": 153.67
+        },
+        {
+          "date": "2017-05-31",
+          "label": "May 31, 17",
+          "close": 152.76
+        },
+        {
+          "date": "2017-06-01",
+          "label": "Jun 1, 17",
+          "close": 153.18
+        },
+        {
+          "date": "2017-06-02",
+          "label": "Jun 2, 17",
+          "close": 155.45
+        },
+        {
+          "date": "2017-06-05",
+          "label": "Jun 5, 17",
+          "close": 153.93
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Jun 6, 17",
+          "close": 154.45
+        },
+        {
+          "date": "2017-06-07",
+          "label": "Jun 7, 17",
+          "close": 155.37
+        },
+        {
+          "date": "2017-06-08",
+          "label": "Jun 8, 17",
+          "close": 154.99
+        },
+        {
+          "date": "2017-06-09",
+          "label": "Jun 9, 17",
+          "close": 148.98
+        },
+        {
+          "date": "2017-06-12",
+          "label": "Jun 12, 17",
+          "close": 145.42
+        },
+        {
+          "date": "2017-06-13",
+          "label": "Jun 13, 17",
+          "close": 146.59
+        },
+        {
+          "date": "2017-06-14",
+          "label": "Jun 14, 17",
+          "close": 145.16
+        },
+        {
+          "date": "2017-06-15",
+          "label": "Jun 15, 17",
+          "close": 144.29
+        },
+        {
+          "date": "2017-06-16",
+          "label": "Jun 16, 17",
+          "close": 142.27
+        },
+        {
+          "date": "2017-06-19",
+          "label": "Jun 19, 17",
+          "close": 146.34
+        },
+        {
+          "date": "2017-06-20",
+          "label": "Jun 20, 17",
+          "close": 145.01
+        },
+        {
+          "date": "2017-06-21",
+          "label": "Jun 21, 17",
+          "close": 145.87
+        },
+        {
+          "date": "2017-06-22",
+          "label": "Jun 22, 17",
+          "close": 145.63
+        },
+        {
+          "date": "2017-06-23",
+          "label": "Jun 23, 17",
+          "close": 146.28
+        },
+        {
+          "date": "2017-06-26",
+          "label": "Jun 26, 17",
+          "close": 145.82
+        },
+        {
+          "date": "2017-06-27",
+          "label": "Jun 27, 17",
+          "close": 143.73
+        },
+        {
+          "date": "2017-06-28",
+          "label": "Jun 28, 17",
+          "close": 145.83
+        },
+        {
+          "date": "2017-06-29",
+          "label": "Jun 29, 17",
+          "close": 143.68
+        },
+        {
+          "date": "2017-06-30",
+          "label": "Jun 30, 17",
+          "close": 144.02
+        },
+        {
+          "date": "2017-07-03",
+          "label": "Jul 3, 17",
+          "close": 143.5
+        },
+        {
+          "date": "2017-07-05",
+          "label": "Jul 5, 17",
+          "close": 144.09
+        },
+        {
+          "date": "2017-07-06",
+          "label": "Jul 6, 17",
+          "close": 142.73
+        },
+        {
+          "date": "2017-07-07",
+          "label": "Jul 7, 17",
+          "close": 144.18
+        },
+        {
+          "date": "2017-07-10",
+          "label": "Jul 10, 17",
+          "close": 145.06
+        },
+        {
+          "date": "2017-07-11",
+          "label": "Jul 11, 17",
+          "close": 145.53
+        },
+        {
+          "date": "2017-07-12",
+          "label": "Jul 12, 17",
+          "close": 145.74
+        },
+        {
+          "date": "2017-07-13",
+          "label": "Jul 13, 17",
+          "close": 147.77
+        },
+        {
+          "date": "2017-07-14",
+          "label": "Jul 14, 17",
+          "close": 149.04
+        },
+        {
+          "date": "2017-07-17",
+          "label": "Jul 17, 17",
+          "close": 149.56
+        },
+        {
+          "date": "2017-07-18",
+          "label": "Jul 18, 17",
+          "close": 150.08
+        },
+        {
+          "date": "2017-07-19",
+          "label": "Jul 19, 17",
+          "close": 151.02
+        },
+        {
+          "date": "2017-07-20",
+          "label": "Jul 20, 17",
+          "close": 150.34
+        },
+        {
+          "date": "2017-07-21",
+          "label": "Jul 21, 17",
+          "close": 150.27
+        },
+        {
+          "date": "2017-07-24",
+          "label": "Jul 24, 17",
+          "close": 152.09
+        },
+        {
+          "date": "2017-07-25",
+          "label": "Jul 25, 17",
+          "close": 152.74
+        },
+        {
+          "date": "2017-07-26",
+          "label": "Jul 26, 17",
+          "close": 153.46
+        },
+        {
+          "date": "2017-07-27",
+          "label": "Jul 27, 17",
+          "close": 150.56
+        },
+        {
+          "date": "2017-07-28",
+          "label": "Jul 28, 17",
+          "close": 149.5
+        },
+        {
+          "date": "2017-07-31",
+          "label": "Jul 31, 17",
+          "close": 148.73
+        },
+        {
+          "date": "2017-08-01",
+          "label": "Aug 1, 17",
+          "close": 150.05
+        },
+        {
+          "date": "2017-08-02",
+          "label": "Aug 2, 17",
+          "close": 157.14
+        },
+        {
+          "date": "2017-08-03",
+          "label": "Aug 3, 17",
+          "close": 155.57
+        },
+        {
+          "date": "2017-08-04",
+          "label": "Aug 4, 17",
+          "close": 156.39
+        },
+        {
+          "date": "2017-08-07",
+          "label": "Aug 7, 17",
+          "close": 158.81
+        },
+        {
+          "date": "2017-08-08",
+          "label": "Aug 8, 17",
+          "close": 160.08
+        },
+        {
+          "date": "2017-08-09",
+          "label": "Aug 9, 17",
+          "close": 161.06
+        },
+        {
+          "date": "2017-08-10",
+          "label": "Aug 10, 17",
+          "close": 155.32
+        },
+        {
+          "date": "2017-08-11",
+          "label": "Aug 11, 17",
+          "close": 157.48
+        },
+        {
+          "date": "2017-08-14",
+          "label": "Aug 14, 17",
+          "close": 159.85
+        },
+        {
+          "date": "2017-08-15",
+          "label": "Aug 15, 17",
+          "close": 161.6
+        },
+        {
+          "date": "2017-08-16",
+          "label": "Aug 16, 17",
+          "close": 160.95
+        },
+        {
+          "date": "2017-08-17",
+          "label": "Aug 17, 17",
+          "close": 157.86
+        },
+        {
+          "date": "2017-08-18",
+          "label": "Aug 18, 17",
+          "close": 157.5
+        },
+        {
+          "date": "2017-08-21",
+          "label": "Aug 21, 17",
+          "close": 157.21
+        },
+        {
+          "date": "2017-08-22",
+          "label": "Aug 22, 17",
+          "close": 159.78
+        },
+        {
+          "date": "2017-08-23",
+          "label": "Aug 23, 17",
+          "close": 159.98
+        },
+        {
+          "date": "2017-08-24",
+          "label": "Aug 24, 17",
+          "close": 159.27
+        },
+        {
+          "date": "2017-08-25",
+          "label": "Aug 25, 17",
+          "close": 159.86
+        },
+        {
+          "date": "2017-08-28",
+          "label": "Aug 28, 17",
+          "close": 161.47
+        },
+        {
+          "date": "2017-08-29",
+          "label": "Aug 29, 17",
+          "close": 162.91
+        },
+        {
+          "date": "2017-08-30",
+          "label": "Aug 30, 17",
+          "close": 163.35
+        },
+        {
+          "date": "2017-08-31",
+          "label": "Aug 31, 17",
+          "close": 164
+        },
+        {
+          "date": "2017-09-01",
+          "label": "Sep 1, 17",
+          "close": 164.05
+        },
+        {
+          "date": "2017-09-05",
+          "label": "Sep 5, 17",
+          "close": 162.08
+        },
+        {
+          "date": "2017-09-06",
+          "label": "Sep 6, 17",
+          "close": 161.91
+        },
+        {
+          "date": "2017-09-07",
+          "label": "Sep 7, 17",
+          "close": 161.26
+        },
+        {
+          "date": "2017-09-08",
+          "label": "Sep 8, 17",
+          "close": 158.63
+        },
+        {
+          "date": "2017-09-11",
+          "label": "Sep 11, 17",
+          "close": 161.5
+        },
+        {
+          "date": "2017-09-12",
+          "label": "Sep 12, 17",
+          "close": 160.86
+        },
+        {
+          "date": "2017-09-13",
+          "label": "Sep 13, 17",
+          "close": 159.65
+        },
+        {
+          "date": "2017-09-14",
+          "label": "Sep 14, 17",
+          "close": 158.28
+        },
+        {
+          "date": "2017-09-15",
+          "label": "Sep 15, 17",
+          "close": 159.88
+        },
+        {
+          "date": "2017-09-18",
+          "label": "Sep 18, 17",
+          "close": 158.67
+        },
+        {
+          "date": "2017-09-19",
+          "label": "Sep 19, 17",
+          "close": 158.73
+        },
+        {
+          "date": "2017-09-20",
+          "label": "Sep 20, 17",
+          "close": 156.07
+        },
+        {
+          "date": "2017-09-21",
+          "label": "Sep 21, 17",
+          "close": 153.39
+        },
+        {
+          "date": "2017-09-22",
+          "label": "Sep 22, 17",
+          "close": 151.89
+        },
+        {
+          "date": "2017-09-25",
+          "label": "Sep 25, 17",
+          "close": 150.55
+        },
+        {
+          "date": "2017-09-26",
+          "label": "Sep 26, 17",
+          "close": 153.14
+        },
+        {
+          "date": "2017-09-27",
+          "label": "Sep 27, 17",
+          "close": 154.23
+        },
+        {
+          "date": "2017-09-28",
+          "label": "Sep 28, 17",
+          "close": 153.28
+        },
+        {
+          "date": "2017-09-29",
+          "label": "Sep 29, 17",
+          "close": 154.12
+        },
+        {
+          "date": "2017-10-02",
+          "label": "Oct 2, 17",
+          "close": 153.81
+        },
+        {
+          "date": "2017-10-03",
+          "label": "Oct 3, 17",
+          "close": 154.48
+        },
+        {
+          "date": "2017-10-04",
+          "label": "Oct 4, 17",
+          "close": 153.48
+        },
+        {
+          "date": "2017-10-05",
+          "label": "Oct 5, 17",
+          "close": 155.39
+        },
+        {
+          "date": "2017-10-06",
+          "label": "Oct 6, 17",
+          "close": 155.3
+        },
+        {
+          "date": "2017-10-09",
+          "label": "Oct 9, 17",
+          "close": 155.84
+        },
+        {
+          "date": "2017-10-10",
+          "label": "Oct 10, 17",
+          "close": 155.9
+        },
+        {
+          "date": "2017-10-11",
+          "label": "Oct 11, 17",
+          "close": 156.55
+        },
+        {
+          "date": "2017-10-12",
+          "label": "Oct 12, 17",
+          "close": 156
+        },
+        {
+          "date": "2017-10-13",
+          "label": "Oct 13, 17",
+          "close": 156.99
+        },
+        {
+          "date": "2017-10-16",
+          "label": "Oct 16, 17",
+          "close": 159.88
+        },
+        {
+          "date": "2017-10-17",
+          "label": "Oct 17, 17",
+          "close": 160.47
+        },
+        {
+          "date": "2017-10-18",
+          "label": "Oct 18, 17",
+          "close": 159.76
+        },
+        {
+          "date": "2017-10-19",
+          "label": "Oct 19, 17",
+          "close": 155.98
+        },
+        {
+          "date": "2017-10-20",
+          "label": "Oct 20, 17",
+          "close": 156.25
+        },
+        {
+          "date": "2017-10-23",
+          "label": "Oct 23, 17",
+          "close": 156.17
+        },
+        {
+          "date": "2017-10-24",
+          "label": "Oct 24, 17",
+          "close": 157.1
+        },
+        {
+          "date": "2017-10-25",
+          "label": "Oct 25, 17",
+          "close": 156.41
+        },
+        {
+          "date": "2017-10-26",
+          "label": "Oct 26, 17",
+          "close": 157.41
+        },
+        {
+          "date": "2017-10-27",
+          "label": "Oct 27, 17",
+          "close": 163.05
+        },
+        {
+          "date": "2017-10-30",
+          "label": "Oct 30, 17",
+          "close": 166.72
+        },
+        {
+          "date": "2017-10-31",
+          "label": "Oct 31, 17",
+          "close": 169.04
+        },
+        {
+          "date": "2017-11-01",
+          "label": "Nov 1, 17",
+          "close": 166.89
+        },
+        {
+          "date": "2017-11-02",
+          "label": "Nov 2, 17",
+          "close": 168.11
+        },
+        {
+          "date": "2017-11-03",
+          "label": "Nov 3, 17",
+          "close": 172.5
+        },
+        {
+          "date": "2017-11-06",
+          "label": "Nov 6, 17",
+          "close": 174.25
+        },
+        {
+          "date": "2017-11-07",
+          "label": "Nov 7, 17",
+          "close": 174.81
+        },
+        {
+          "date": "2017-11-08",
+          "label": "Nov 8, 17",
+          "close": 176.24
+        },
+        {
+          "date": "2017-11-09",
+          "label": "Nov 9, 17",
+          "close": 175.88
+        },
+        {
+          "date": "2017-11-10",
+          "label": "Nov 10, 17",
+          "close": 174.67
+        },
+        {
+          "date": "2017-11-13",
+          "label": "Nov 13, 17",
+          "close": 173.97
+        },
+        {
+          "date": "2017-11-14",
+          "label": "Nov 14, 17",
+          "close": 171.34
+        },
+        {
+          "date": "2017-11-15",
+          "label": "Nov 15, 17",
+          "close": 169.08
+        },
+        {
+          "date": "2017-11-16",
+          "label": "Nov 16, 17",
+          "close": 171.1
+        },
+        {
+          "date": "2017-11-17",
+          "label": "Nov 17, 17",
+          "close": 170.15
+        },
+        {
+          "date": "2017-11-20",
+          "label": "Nov 20, 17",
+          "close": 169.98
+        },
+        {
+          "date": "2017-11-21",
+          "label": "Nov 21, 17",
+          "close": 173.14
+        },
+        {
+          "date": "2017-11-22",
+          "label": "Nov 22, 17",
+          "close": 174.96
+        },
+        {
+          "date": "2017-11-24",
+          "label": "Nov 24, 17",
+          "close": 174.97
+        },
+        {
+          "date": "2017-11-27",
+          "label": "Nov 27, 17",
+          "close": 174.09
+        },
+        {
+          "date": "2017-11-28",
+          "label": "Nov 28, 17",
+          "close": 173.07
+        },
+        {
+          "date": "2017-11-29",
+          "label": "Nov 29, 17",
+          "close": 169.48
+        },
+        {
+          "date": "2017-11-30",
+          "label": "Nov 30, 17",
+          "close": 171.85
+        },
+        {
+          "date": "2017-12-01",
+          "label": "Dec 1, 17",
+          "close": 171.05
+        },
+        {
+          "date": "2017-12-04",
+          "label": "Dec 4, 17",
+          "close": 169.8
+        },
+        {
+          "date": "2017-12-05",
+          "label": "Dec 5, 17",
+          "close": 169.64
+        },
+        {
+          "date": "2017-12-06",
+          "label": "Dec 6, 17",
+          "close": 169.01
+        },
+        {
+          "date": "2017-12-07",
+          "label": "Dec 7, 17",
+          "close": 169.32
+        },
+        {
+          "date": "2017-12-08",
+          "label": "Dec 8, 17",
+          "close": 169.37
+        },
+        {
+          "date": "2017-12-11",
+          "label": "Dec 11, 17",
+          "close": 172.67
+        },
+        {
+          "date": "2017-12-12",
+          "label": "Dec 12, 17",
+          "close": 171.7
+        },
+        {
+          "date": "2017-12-13",
+          "label": "Dec 13, 17",
+          "close": 172.27
+        },
+        {
+          "date": "2017-12-14",
+          "label": "Dec 14, 17",
+          "close": 172.22
+        },
+        {
+          "date": "2017-12-15",
+          "label": "Dec 15, 17",
+          "close": 173.97
+        },
+        {
+          "date": "2017-12-18",
+          "label": "Dec 18, 17",
+          "close": 176.42
+        },
+        {
+          "date": "2017-12-19",
+          "label": "Dec 19, 17",
+          "close": 174.54
+        },
+        {
+          "date": "2017-12-20",
+          "label": "Dec 20, 17",
+          "close": 174.35
+        },
+        {
+          "date": "2017-12-21",
+          "label": "Dec 21, 17",
+          "close": 175.01
+        },
+        {
+          "date": "2017-12-22",
+          "label": "Dec 22, 17",
+          "close": 175.01
+        },
+        {
+          "date": "2017-12-26",
+          "label": "Dec 26, 17",
+          "close": 170.57
+        },
+        {
+          "date": "2017-12-27",
+          "label": "Dec 27, 17",
+          "close": 170.6
+        },
+        {
+          "date": "2017-12-28",
+          "label": "Dec 28, 17",
+          "close": 171.08
+        },
+        {
+          "date": "2017-12-29",
+          "label": "Dec 29, 17",
+          "close": 169.23
+        },
+        {
+          "date": "2018-01-02",
+          "label": "Jan 2, 18",
+          "close": 172.26
+        },
+        {
+          "date": "2018-01-03",
+          "label": "Jan 3, 18",
+          "close": 172.23
+        },
+        {
+          "date": "2018-01-04",
+          "label": "Jan 4, 18",
+          "close": 173.03
+        },
+        {
+          "date": "2018-01-05",
+          "label": "Jan 5, 18",
+          "close": 175
+        },
+        {
+          "date": "2018-01-08",
+          "label": "Jan 8, 18",
+          "close": 174.35
+        },
+        {
+          "date": "2018-01-09",
+          "label": "Jan 9, 18",
+          "close": 174.33
+        },
+        {
+          "date": "2018-01-10",
+          "label": "Jan 10, 18",
+          "close": 174.29
+        },
+        {
+          "date": "2018-01-11",
+          "label": "Jan 11, 18",
+          "close": 175.28
+        },
+        {
+          "date": "2018-01-12",
+          "label": "Jan 12, 18",
+          "close": 177.09
+        },
+        {
+          "date": "2018-01-16",
+          "label": "Jan 16, 18",
+          "close": 176.19
+        },
+        {
+          "date": "2018-01-17",
+          "label": "Jan 17, 18",
+          "close": 179.1
+        },
+        {
+          "date": "2018-01-18",
+          "label": "Jan 18, 18",
+          "close": 179.26
+        },
+        {
+          "date": "2018-01-19",
+          "label": "Jan 19, 18",
+          "close": 178.46
+        },
+        {
+          "date": "2018-01-22",
+          "label": "Jan 22, 18",
+          "close": 177
+        },
+        {
+          "date": "2018-01-23",
+          "label": "Jan 23, 18",
+          "close": 177.04
+        },
+        {
+          "date": "2018-01-24",
+          "label": "Jan 24, 18",
+          "close": 174.22
+        },
+        {
+          "date": "2018-01-25",
+          "label": "Jan 25, 18",
+          "close": 171.11
+        },
+        {
+          "date": "2018-01-26",
+          "label": "Jan 26, 18",
+          "close": 171.51
+        },
+        {
+          "date": "2018-01-29",
+          "label": "Jan 29, 18",
+          "close": 167.96
+        },
+        {
+          "date": "2018-01-30",
+          "label": "Jan 30, 18",
+          "close": 166.97
+        },
+        {
+          "date": "2018-01-31",
+          "label": "Jan 31, 18",
+          "close": 167.43
+        },
+        {
+          "date": "2018-02-01",
+          "label": "Feb 1, 18",
+          "close": 167.78
+        },
+        {
+          "date": "2018-02-02",
+          "label": "Feb 2, 18",
+          "close": 160.5
+        },
+        {
+          "date": "2018-02-05",
+          "label": "Feb 5, 18",
+          "close": 156.49
+        },
+        {
+          "date": "2018-02-06",
+          "label": "Feb 6, 18",
+          "close": 163.03
+        },
+        {
+          "date": "2018-02-07",
+          "label": "Feb 7, 18",
+          "close": 159.54
+        },
+        {
+          "date": "2018-02-08",
+          "label": "Feb 8, 18",
+          "close": 155.15
+        },
+        {
+          "date": "2018-02-09",
+          "label": "Feb 9, 18",
+          "close": 156.41
+        },
+        {
+          "date": "2018-02-12",
+          "label": "Feb 12, 18",
+          "close": 162.71
+        },
+        {
+          "date": "2018-02-13",
+          "label": "Feb 13, 18",
+          "close": 164.34
+        },
+        {
+          "date": "2018-02-14",
+          "label": "Feb 14, 18",
+          "close": 167.37
+        },
+        {
+          "date": "2018-02-15",
+          "label": "Feb 15, 18",
+          "close": 172.99
+        },
+        {
+          "date": "2018-02-16",
+          "label": "Feb 16, 18",
+          "close": 172.43
+        },
+        {
+          "date": "2018-02-20",
+          "label": "Feb 20, 18",
+          "close": 171.85
+        },
+        {
+          "date": "2018-02-21",
+          "label": "Feb 21, 18",
+          "close": 171.07
+        },
+        {
+          "date": "2018-02-22",
+          "label": "Feb 22, 18",
+          "close": 172.5
+        },
+        {
+          "date": "2018-02-23",
+          "label": "Feb 23, 18",
+          "close": 175.5
+        },
+        {
+          "date": "2018-02-26",
+          "label": "Feb 26, 18",
+          "close": 178.97
+        },
+        {
+          "date": "2018-02-27",
+          "label": "Feb 27, 18",
+          "close": 178.39
+        },
+        {
+          "date": "2018-02-28",
+          "label": "Feb 28, 18",
+          "close": 178.12
+        },
+        {
+          "date": "2018-03-01",
+          "label": "Mar 1, 18",
+          "close": 175
+        },
+        {
+          "date": "2018-03-02",
+          "label": "Mar 2, 18",
+          "close": 176.21
+        },
+        {
+          "date": "2018-03-05",
+          "label": "Mar 5, 18",
+          "close": 176.82
+        },
+        {
+          "date": "2018-03-06",
+          "label": "Mar 6, 18",
+          "close": 176.67
+        },
+        {
+          "date": "2018-03-07",
+          "label": "Mar 7, 18",
+          "close": 175.03
+        },
+        {
+          "date": "2018-03-08",
+          "label": "Mar 8, 18",
+          "close": 176.94
+        },
+        {
+          "date": "2018-03-09",
+          "label": "Mar 9, 18",
+          "close": 179.98
+        },
+        {
+          "date": "2018-03-12",
+          "label": "Mar 12, 18",
+          "close": 181.72
+        },
+        {
+          "date": "2018-03-13",
+          "label": "Mar 13, 18",
+          "close": 179.97
+        },
+        {
+          "date": "2018-03-14",
+          "label": "Mar 14, 18",
+          "close": 178.44
+        },
+        {
+          "date": "2018-03-15",
+          "label": "Mar 15, 18",
+          "close": 178.65
+        },
+        {
+          "date": "2018-03-16",
+          "label": "Mar 16, 18",
+          "close": 178.02
+        },
+        {
+          "date": "2018-03-19",
+          "label": "Mar 19, 18",
+          "close": 175.3
+        },
+        {
+          "date": "2018-03-20",
+          "label": "Mar 20, 18",
+          "close": 175.24
+        },
+        {
+          "date": "2018-03-21",
+          "label": "Mar 21, 18",
+          "close": 171.27
+        },
+        {
+          "date": "2018-03-22",
+          "label": "Mar 22, 18",
+          "close": 168.85
+        },
+        {
+          "date": "2018-03-23",
+          "label": "Mar 23, 18",
+          "close": 164.94
+        },
+        {
+          "date": "2018-03-26",
+          "label": "Mar 26, 18",
+          "close": 172.77
+        },
+        {
+          "date": "2018-03-27",
+          "label": "Mar 27, 18",
+          "close": 168.34
+        },
+        {
+          "date": "2018-03-28",
+          "label": "Mar 28, 18",
+          "close": 166.48
+        },
+        {
+          "date": "2018-03-29",
+          "label": "Mar 29, 18",
+          "close": 167.78
+        },
+        {
+          "date": "2018-04-02",
+          "label": "Apr 2, 18",
+          "close": 166.68
+        },
+        {
+          "date": "2018-04-03",
+          "label": "Apr 3, 18",
+          "close": 168.39
+        },
+        {
+          "date": "2018-04-04",
+          "label": "Apr 4, 18",
+          "close": 171.61
+        },
+        {
+          "date": "2018-04-05",
+          "label": "Apr 5, 18",
+          "close": 172.8
+        },
+        {
+          "date": "2018-04-06",
+          "label": "Apr 6, 18",
+          "close": 168.38
+        },
+        {
+          "date": "2018-04-09",
+          "label": "Apr 9, 18",
+          "close": 170.05
+        },
+        {
+          "date": "2018-04-10",
+          "label": "Apr 10, 18",
+          "close": 173.25
+        },
+        {
+          "date": "2018-04-11",
+          "label": "Apr 11, 18",
+          "close": 172.44
+        },
+        {
+          "date": "2018-04-12",
+          "label": "Apr 12, 18",
+          "close": 174.14
+        },
+        {
+          "date": "2018-04-13",
+          "label": "Apr 13, 18",
+          "close": 174.73
+        },
+        {
+          "date": "2018-04-16",
+          "label": "Apr 16, 18",
+          "close": 175.82
+        },
+        {
+          "date": "2018-04-17",
+          "label": "Apr 17, 18",
+          "close": 178.24
+        },
+        {
+          "date": "2018-04-18",
+          "label": "Apr 18, 18",
+          "close": 177.84
+        },
+        {
+          "date": "2018-04-19",
+          "label": "Apr 19, 18",
+          "close": 172.8
+        },
+        {
+          "date": "2018-04-20",
+          "label": "Apr 20, 18",
+          "close": 165.72
+        },
+        {
+          "date": "2018-04-23",
+          "label": "Apr 23, 18",
+          "close": 165.24
+        },
+        {
+          "date": "2018-04-24",
+          "label": "Apr 24, 18",
+          "close": 162.94
+        },
+        {
+          "date": "2018-04-25",
+          "label": "Apr 25, 18",
+          "close": 163.65
+        },
+        {
+          "date": "2018-04-26",
+          "label": "Apr 26, 18",
+          "close": 164.22
+        },
+        {
+          "date": "2018-04-27",
+          "label": "Apr 27, 18",
+          "close": 162.32
+        },
+        {
+          "date": "2018-04-30",
+          "label": "Apr 30, 18",
+          "close": 165.26
+        },
+        {
+          "date": "2018-05-01",
+          "label": "May 1, 18",
+          "close": 169.1
+        },
+        {
+          "date": "2018-05-02",
+          "label": "May 2, 18",
+          "close": 176.57
+        },
+        {
+          "date": "2018-05-03",
+          "label": "May 3, 18",
+          "close": 176.89
+        },
+        {
+          "date": "2018-05-04",
+          "label": "May 4, 18",
+          "close": 183.83
+        },
+        {
+          "date": "2018-05-07",
+          "label": "May 7, 18",
+          "close": 185.16
+        },
+        {
+          "date": "2018-05-08",
+          "label": "May 8, 18",
+          "close": 186.05
+        },
+        {
+          "date": "2018-05-09",
+          "label": "May 9, 18",
+          "close": 187.36
+        },
+        {
+          "date": "2018-05-10",
+          "label": "May 10, 18",
+          "close": 190.04
+        },
+        {
+          "date": "2018-05-11",
+          "label": "May 11, 18",
+          "close": 188.59
+        },
+        {
+          "date": "2018-05-14",
+          "label": "May 14, 18",
+          "close": 188.15
+        },
+        {
+          "date": "2018-05-15",
+          "label": "May 15, 18",
+          "close": 186.44
+        },
+        {
+          "date": "2018-05-16",
+          "label": "May 16, 18",
+          "close": 188.18
+        },
+        {
+          "date": "2018-05-17",
+          "label": "May 17, 18",
+          "close": 186.99
+        },
+        {
+          "date": "2018-05-18",
+          "label": "May 18, 18",
+          "close": 186.31
+        },
+        {
+          "date": "2018-05-21",
+          "label": "May 21, 18",
+          "close": 187.63
+        },
+        {
+          "date": "2018-05-22",
+          "label": "May 22, 18",
+          "close": 187.16
+        },
+        {
+          "date": "2018-05-23",
+          "label": "May 23, 18",
+          "close": 188.36
+        },
+        {
+          "date": "2018-05-24",
+          "label": "May 24, 18",
+          "close": 188.15
+        },
+        {
+          "date": "2018-05-25",
+          "label": "May 25, 18",
+          "close": 188.58
+        },
+        {
+          "date": "2018-05-29",
+          "label": "May 29, 18",
+          "close": 187.9
+        },
+        {
+          "date": "2018-05-30",
+          "label": "May 30, 18",
+          "close": 187.5
+        },
+        {
+          "date": "2018-05-31",
+          "label": "May 31, 18",
+          "close": 186.87
+        },
+        {
+          "date": "2018-06-01",
+          "label": "Jun 1, 18",
+          "close": 190.24
+        },
+        {
+          "date": "2018-06-04",
+          "label": "Jun 4, 18",
+          "close": 191.83
+        },
+        {
+          "date": "2018-06-05",
+          "label": "Jun 5, 18",
+          "close": 193.31
+        },
+        {
+          "date": "2018-06-06",
+          "label": "Jun 6, 18",
+          "close": 193.98
+        },
+        {
+          "date": "2018-06-07",
+          "label": "Jun 7, 18",
+          "close": 193.46
+        },
+        {
+          "date": "2018-06-08",
+          "label": "Jun 8, 18",
+          "close": 191.7
+        },
+        {
+          "date": "2018-06-11",
+          "label": "Jun 11, 18",
+          "close": 191.23
+        },
+        {
+          "date": "2018-06-12",
+          "label": "Jun 12, 18",
+          "close": 192.28
+        },
+        {
+          "date": "2018-06-13",
+          "label": "Jun 13, 18",
+          "close": 190.7
+        },
+        {
+          "date": "2018-06-14",
+          "label": "Jun 14, 18",
+          "close": 190.8
+        },
+        {
+          "date": "2018-06-15",
+          "label": "Jun 15, 18",
+          "close": 188.84
+        },
+        {
+          "date": "2018-06-18",
+          "label": "Jun 18, 18",
+          "close": 188.74
+        },
+        {
+          "date": "2018-06-19",
+          "label": "Jun 19, 18",
+          "close": 185.69
+        },
+        {
+          "date": "2018-06-20",
+          "label": "Jun 20, 18",
+          "close": 186.5
+        },
+        {
+          "date": "2018-06-21",
+          "label": "Jun 21, 18",
+          "close": 185.46
+        },
+        {
+          "date": "2018-06-22",
+          "label": "Jun 22, 18",
+          "close": 184.92
+        },
+        {
+          "date": "2018-06-25",
+          "label": "Jun 25, 18",
+          "close": 182.17
+        },
+        {
+          "date": "2018-06-26",
+          "label": "Jun 26, 18",
+          "close": 184.43
+        },
+        {
+          "date": "2018-06-27",
+          "label": "Jun 27, 18",
+          "close": 184.16
+        },
+        {
+          "date": "2018-06-28",
+          "label": "Jun 28, 18",
+          "close": 185.5
+        },
+        {
+          "date": "2018-06-29",
+          "label": "Jun 29, 18",
+          "close": 185.11
+        },
+        {
+          "date": "2018-07-02",
+          "label": "Jul 2, 18",
+          "close": 187.18
+        },
+        {
+          "date": "2018-07-03",
+          "label": "Jul 3, 18",
+          "close": 183.92
+        },
+        {
+          "date": "2018-07-05",
+          "label": "Jul 5, 18",
+          "close": 185.4
+        },
+        {
+          "date": "2018-07-06",
+          "label": "Jul 6, 18",
+          "close": 187.97
+        },
+        {
+          "date": "2018-07-09",
+          "label": "Jul 9, 18",
+          "close": 190.58
+        },
+        {
+          "date": "2018-07-10",
+          "label": "Jul 10, 18",
+          "close": 190.35
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Jul 11, 18",
+          "close": 187.88
+        },
+        {
+          "date": "2018-07-12",
+          "label": "Jul 12, 18",
+          "close": 191.03
+        },
+        {
+          "date": "2018-07-13",
+          "label": "Jul 13, 18",
+          "close": 191.33
+        },
+        {
+          "date": "2018-07-16",
+          "label": "Jul 16, 18",
+          "close": 190.91
+        },
+        {
+          "date": "2018-07-17",
+          "label": "Jul 17, 18",
+          "close": 191.45
+        },
+        {
+          "date": "2018-07-18",
+          "label": "Jul 18, 18",
+          "close": 190.4
+        },
+        {
+          "date": "2018-07-19",
+          "label": "Jul 19, 18",
+          "close": 191.88
+        },
+        {
+          "date": "2018-07-20",
+          "label": "Jul 20, 18",
+          "close": 191.44
+        },
+        {
+          "date": "2018-07-23",
+          "label": "Jul 23, 18",
+          "close": 191.61
+        },
+        {
+          "date": "2018-07-24",
+          "label": "Jul 24, 18",
+          "close": 193
+        },
+        {
+          "date": "2018-07-25",
+          "label": "Jul 25, 18",
+          "close": 194.82
+        },
+        {
+          "date": "2018-07-26",
+          "label": "Jul 26, 18",
+          "close": 194.21
+        },
+        {
+          "date": "2018-07-27",
+          "label": "Jul 27, 18",
+          "close": 190.98
+        },
+        {
+          "date": "2018-07-30",
+          "label": "Jul 30, 18",
+          "close": 189.91
+        },
+        {
+          "date": "2018-07-31",
+          "label": "Jul 31, 18",
+          "close": 190.29
+        },
+        {
+          "date": "2018-08-01",
+          "label": "Aug 1, 18",
+          "close": 201.5
+        },
+        {
+          "date": "2018-08-02",
+          "label": "Aug 2, 18",
+          "close": 207.39
+        },
+        {
+          "date": "2018-08-03",
+          "label": "Aug 3, 18",
+          "close": 207.99
+        },
+        {
+          "date": "2018-08-06",
+          "label": "Aug 6, 18",
+          "close": 209.07
+        },
+        {
+          "date": "2018-08-07",
+          "label": "Aug 7, 18",
+          "close": 207.11
+        },
+        {
+          "date": "2018-08-08",
+          "label": "Aug 8, 18",
+          "close": 207.25
+        },
+        {
+          "date": "2018-08-09",
+          "label": "Aug 9, 18",
+          "close": 208.88
+        },
+        {
+          "date": "2018-08-10",
+          "label": "Aug 10, 18",
+          "close": 207.53
+        },
+        {
+          "date": "2018-08-13",
+          "label": "Aug 13, 18",
+          "close": 208.87
+        },
+        {
+          "date": "2018-08-14",
+          "label": "Aug 14, 18",
+          "close": 209.75
+        },
+        {
+          "date": "2018-08-15",
+          "label": "Aug 15, 18",
+          "close": 210.24
+        },
+        {
+          "date": "2018-08-16",
+          "label": "Aug 16, 18",
+          "close": 213.32
+        },
+        {
+          "date": "2018-08-17",
+          "label": "Aug 17, 18",
+          "close": 217.58
+        },
+        {
+          "date": "2018-08-20",
+          "label": "Aug 20, 18",
+          "close": 215.46
+        },
+        {
+          "date": "2018-08-21",
+          "label": "Aug 21, 18",
+          "close": 215.04
+        },
+        {
+          "date": "2018-08-22",
+          "label": "Aug 22, 18",
+          "close": 215.05
+        },
+        {
+          "date": "2018-08-23",
+          "label": "Aug 23, 18",
+          "close": 215.49
+        },
+        {
+          "date": "2018-08-24",
+          "label": "Aug 24, 18",
+          "close": 216.16
+        },
+        {
+          "date": "2018-08-27",
+          "label": "Aug 27, 18",
+          "close": 217.94
+        },
+        {
+          "date": "2018-08-28",
+          "label": "Aug 28, 18",
+          "close": 219.7
+        },
+        {
+          "date": "2018-08-29",
+          "label": "Aug 29, 18",
+          "close": 222.98
+        },
+        {
+          "date": "2018-08-30",
+          "label": "Aug 30, 18",
+          "close": 225.03
+        },
+        {
+          "date": "2018-08-31",
+          "label": "Aug 31, 18",
+          "close": 227.63
+        },
+        {
+          "date": "2018-09-04",
+          "label": "Sep 4, 18",
+          "close": 228.36
+        },
+        {
+          "date": "2018-09-05",
+          "label": "Sep 5, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-09-06",
+          "label": "Sep 6, 18",
+          "close": 223.1
+        },
+        {
+          "date": "2018-09-07",
+          "label": "Sep 7, 18",
+          "close": 221.3
+        },
+        {
+          "date": "2018-09-10",
+          "label": "Sep 10, 18",
+          "close": 218.33
+        },
+        {
+          "date": "2018-09-11",
+          "label": "Sep 11, 18",
+          "close": 223.85
+        },
+        {
+          "date": "2018-09-12",
+          "label": "Sep 12, 18",
+          "close": 221.07
+        },
+        {
+          "date": "2018-09-13",
+          "label": "Sep 13, 18",
+          "close": 226.41
+        },
+        {
+          "date": "2018-09-14",
+          "label": "Sep 14, 18",
+          "close": 223.84
+        },
+        {
+          "date": "2018-09-17",
+          "label": "Sep 17, 18",
+          "close": 217.88
+        },
+        {
+          "date": "2018-09-18",
+          "label": "Sep 18, 18",
+          "close": 218.24
+        },
+        {
+          "date": "2018-09-19",
+          "label": "Sep 19, 18",
+          "close": 218.37
+        },
+        {
+          "date": "2018-09-20",
+          "label": "Sep 20, 18",
+          "close": 220.03
+        },
+        {
+          "date": "2018-09-21",
+          "label": "Sep 21, 18",
+          "close": 217.66
+        },
+        {
+          "date": "2018-09-24",
+          "label": "Sep 24, 18",
+          "close": 220.79
+        },
+        {
+          "date": "2018-09-25",
+          "label": "Sep 25, 18",
+          "close": 222.19
+        },
+        {
+          "date": "2018-09-26",
+          "label": "Sep 26, 18",
+          "close": 220.42
+        },
+        {
+          "date": "2018-09-27",
+          "label": "Sep 27, 18",
+          "close": 224.95
+        },
+        {
+          "date": "2018-09-28",
+          "label": "Sep 28, 18",
+          "close": 225.74
+        },
+        {
+          "date": "2018-10-01",
+          "label": "Oct 1, 18",
+          "close": 227.26
+        },
+        {
+          "date": "2018-10-02",
+          "label": "Oct 2, 18",
+          "close": 229.28
+        },
+        {
+          "date": "2018-10-03",
+          "label": "Oct 3, 18",
+          "close": 232.07
+        },
+        {
+          "date": "2018-10-04",
+          "label": "Oct 4, 18",
+          "close": 227.99
+        },
+        {
+          "date": "2018-10-05",
+          "label": "Oct 5, 18",
+          "close": 224.29
+        },
+        {
+          "date": "2018-10-08",
+          "label": "Oct 8, 18",
+          "close": 223.77
+        },
+        {
+          "date": "2018-10-09",
+          "label": "Oct 9, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-10-10",
+          "label": "Oct 10, 18",
+          "close": 216.36
+        },
+        {
+          "date": "2018-10-11",
+          "label": "Oct 11, 18",
+          "close": 214.45
+        },
+        {
+          "date": "2018-10-12",
+          "label": "Oct 12, 18",
+          "close": 222.11
+        },
+        {
+          "date": "2018-10-15",
+          "label": "Oct 15, 18",
+          "close": 217.36
+        },
+        {
+          "date": "2018-10-16",
+          "label": "Oct 16, 18",
+          "close": 222.15
+        },
+        {
+          "date": "2018-10-17",
+          "label": "Oct 17, 18",
+          "close": 221.19
+        },
+        {
+          "date": "2018-10-18",
+          "label": "Oct 18, 18",
+          "close": 216.02
+        },
+        {
+          "date": "2018-10-19",
+          "label": "Oct 19, 18",
+          "close": 219.31
+        },
+        {
+          "date": "2018-10-22",
+          "label": "Oct 22, 18",
+          "close": 220.65
+        },
+        {
+          "date": "2018-10-23",
+          "label": "Oct 23, 18",
+          "close": 222.73
+        },
+        {
+          "date": "2018-10-24",
+          "label": "Oct 24, 18",
+          "close": 215.09
+        },
+        {
+          "date": "2018-10-25",
+          "label": "Oct 25, 18",
+          "close": 219.8
+        },
+        {
+          "date": "2018-10-26",
+          "label": "Oct 26, 18",
+          "close": 216.3
+        },
+        {
+          "date": "2018-10-29",
+          "label": "Oct 29, 18",
+          "close": 212.24
+        },
+        {
+          "date": "2018-10-30",
+          "label": "Oct 30, 18",
+          "close": 213.3
+        },
+        {
+          "date": "2018-10-31",
+          "label": "Oct 31, 18",
+          "close": 218.86
+        },
+        {
+          "date": "2018-11-01",
+          "label": "Nov 1, 18",
+          "close": 222.22
+        },
+        {
+          "date": "2018-11-02",
+          "label": "Nov 2, 18",
+          "close": 207.48
+        },
+        {
+          "date": "2018-11-05",
+          "label": "Nov 5, 18",
+          "close": 201.59
+        },
+        {
+          "date": "2018-11-06",
+          "label": "Nov 6, 18",
+          "close": 203.77
+        },
+        {
+          "date": "2018-11-07",
+          "label": "Nov 7, 18",
+          "close": 209.95
+        },
+        {
+          "date": "2018-11-08",
+          "label": "Nov 8, 18",
+          "close": 208.49
+        },
+        {
+          "date": "2018-11-09",
+          "label": "Nov 9, 18",
+          "close": 204.47
+        },
+        {
+          "date": "2018-11-12",
+          "label": "Nov 12, 18",
+          "close": 194.17
+        },
+        {
+          "date": "2018-11-13",
+          "label": "Nov 13, 18",
+          "close": 192.23
+        },
+        {
+          "date": "2018-11-14",
+          "label": "Nov 14, 18",
+          "close": 186.8
+        },
+        {
+          "date": "2018-11-15",
+          "label": "Nov 15, 18",
+          "close": 191.41
+        },
+        {
+          "date": "2018-11-16",
+          "label": "Nov 16, 18",
+          "close": 193.53
+        },
+        {
+          "date": "2018-11-19",
+          "label": "Nov 19, 18",
+          "close": 185.86
+        },
+        {
+          "date": "2018-11-20",
+          "label": "Nov 20, 18",
+          "close": 176.98
+        },
+        {
+          "date": "2018-11-21",
+          "label": "Nov 21, 18",
+          "close": 176.78
+        },
+        {
+          "date": "2018-11-23",
+          "label": "Nov 23, 18",
+          "close": 172.29
+        },
+        {
+          "date": "2018-11-26",
+          "label": "Nov 26, 18",
+          "close": 174.62
+        },
+        {
+          "date": "2018-11-27",
+          "label": "Nov 27, 18",
+          "close": 174.24
+        },
+        {
+          "date": "2018-11-28",
+          "label": "Nov 28, 18",
+          "close": 180.94
+        },
+        {
+          "date": "2018-11-29",
+          "label": "Nov 29, 18",
+          "close": 179.55
+        },
+        {
+          "date": "2018-11-30",
+          "label": "Nov 30, 18",
+          "close": 178.58
+        },
+        {
+          "date": "2018-12-03",
+          "label": "Dec 3, 18",
+          "close": 184.82
+        },
+        {
+          "date": "2018-12-04",
+          "label": "Dec 4, 18",
+          "close": 176.69
+        },
+        {
+          "date": "2018-12-06",
+          "label": "Dec 6, 18",
+          "close": 174.72
+        },
+        {
+          "date": "2018-12-07",
+          "label": "Dec 7, 18",
+          "close": 168.49
+        },
+        {
+          "date": "2018-12-10",
+          "label": "Dec 10, 18",
+          "close": 169.6
+        },
+        {
+          "date": "2018-12-11",
+          "label": "Dec 11, 18",
+          "close": 168.63
+        },
+        {
+          "date": "2018-12-12",
+          "label": "Dec 12, 18",
+          "close": 169.1
+        },
+        {
+          "date": "2018-12-13",
+          "label": "Dec 13, 18",
+          "close": 170.95
+        },
+        {
+          "date": "2018-12-14",
+          "label": "Dec 14, 18",
+          "close": 165.48
+        },
+        {
+          "date": "2018-12-17",
+          "label": "Dec 17, 18",
+          "close": 163.94
+        },
+        {
+          "date": "2018-12-18",
+          "label": "Dec 18, 18",
+          "close": 166.07
+        },
+        {
+          "date": "2018-12-19",
+          "label": "Dec 19, 18",
+          "close": 160.89
+        },
+        {
+          "date": "2018-12-20",
+          "label": "Dec 20, 18",
+          "close": 156.83
+        },
+        {
+          "date": "2018-12-21",
+          "label": "Dec 21, 18",
+          "close": 150.73
+        },
+        {
+          "date": "2018-12-24",
+          "label": "Dec 24, 18",
+          "close": 146.83
+        },
+        {
+          "date": "2018-12-26",
+          "label": "Dec 26, 18",
+          "close": 157.17
+        },
+        {
+          "date": "2018-12-27",
+          "label": "Dec 27, 18",
+          "close": 156.15
+        },
+        {
+          "date": "2018-12-28",
+          "label": "Dec 28, 18",
+          "close": 156.23
+        },
+        {
+          "date": "2018-12-31",
+          "label": "Dec 31, 18",
+          "close": 157.74
+        },
+        {
+          "date": "2019-01-02",
+          "label": "Jan 2, 19",
+          "close": 157.92
+        },
+        {
+          "date": "2019-01-03",
+          "label": "Jan 3, 19",
+          "close": 142.19
+        },
+        {
+          "date": "2019-01-04",
+          "label": "Jan 4, 19",
+          "close": 148.26
+        },
+        {
+          "date": "2019-01-07",
+          "label": "Jan 7, 19",
+          "close": 147.93
+        },
+        {
+          "date": "2019-01-08",
+          "label": "Jan 8, 19",
+          "close": 150.75
+        },
+        {
+          "date": "2019-01-09",
+          "label": "Jan 9, 19",
+          "close": 153.31
+        },
+        {
+          "date": "2019-01-10",
+          "label": "Jan 10, 19",
+          "close": 153.8
+        },
+        {
+          "date": "2019-01-11",
+          "label": "Jan 11, 19",
+          "close": 152.29
+        },
+        {
+          "date": "2019-01-14",
+          "label": "Jan 14, 19",
+          "close": 150
+        },
+        {
+          "date": "2019-01-15",
+          "label": "Jan 15, 19",
+          "close": 153.07
+        },
+        {
+          "date": "2019-01-16",
+          "label": "Jan 16, 19",
+          "close": 154.94
+        },
+        {
+          "date": "2019-01-17",
+          "label": "Jan 17, 19",
+          "close": 155.86
+        },
+        {
+          "date": "2019-01-18",
+          "label": "Jan 18, 19",
+          "close": 156.82
+        },
+        {
+          "date": "2019-01-22",
+          "label": "Jan 22, 19",
+          "close": 153.3
+        },
+        {
+          "date": "2019-01-23",
+          "label": "Jan 23, 19",
+          "close": 153.92
+        },
+        {
+          "date": "2019-01-24",
+          "label": "Jan 24, 19",
+          "close": 152.7
+        },
+        {
+          "date": "2019-01-25",
+          "label": "Jan 25, 19",
+          "close": 157.76
+        },
+        {
+          "date": "2019-01-28",
+          "label": "Jan 28, 19",
+          "close": 156.3
+        },
+        {
+          "date": "2019-01-29",
+          "label": "Jan 29, 19",
+          "close": 154.68
+        },
+        {
+          "date": "2019-01-30",
+          "label": "Jan 30, 19",
+          "close": 165.25
+        },
+        {
+          "date": "2019-01-31",
+          "label": "Jan 31, 19",
+          "close": 166.44
+        },
+        {
+          "date": "2019-02-01",
+          "label": "Feb 1, 19",
+          "close": 166.52
+        },
+        {
+          "date": "2019-02-04",
+          "label": "Feb 4, 19",
+          "close": 171.25
+        },
+        {
+          "date": "2019-02-05",
+          "label": "Feb 5, 19",
+          "close": 174.18
+        },
+        {
+          "date": "2019-02-06",
+          "label": "Feb 6, 19",
+          "close": 174.24
+        },
+        {
+          "date": "2019-02-07",
+          "label": "Feb 7, 19",
+          "close": 170.94
+        },
+        {
+          "date": "2019-02-08",
+          "label": "Feb 8, 19",
+          "close": 170.41
+        },
+        {
+          "date": "2019-02-11",
+          "label": "Feb 11, 19",
+          "close": 169.43
+        },
+        {
+          "date": "2019-02-12",
+          "label": "Feb 12, 19",
+          "close": 170.89
+        },
+        {
+          "date": "2019-02-13",
+          "label": "Feb 13, 19",
+          "close": 170.18
+        },
+        {
+          "date": "2019-02-14",
+          "label": "Feb 14, 19",
+          "close": 170.8
+        },
+        {
+          "date": "2019-02-15",
+          "label": "Feb 15, 19",
+          "close": 170.42
+        },
+        {
+          "date": "2019-02-19",
+          "label": "Feb 19, 19",
+          "close": 170.93
+        },
+        {
+          "date": "2019-02-20",
+          "label": "Feb 20, 19",
+          "close": 172.03
+        },
+        {
+          "date": "2019-02-21",
+          "label": "Feb 21, 19",
+          "close": 171.06
+        },
+        {
+          "date": "2019-02-22",
+          "label": "Feb 22, 19",
+          "close": 172.97
+        },
+        {
+          "date": "2019-02-25",
+          "label": "Feb 25, 19",
+          "close": 174.23
+        },
+        {
+          "date": "2019-02-26",
+          "label": "Feb 26, 19",
+          "close": 174.33
+        },
+        {
+          "date": "2019-02-27",
+          "label": "Feb 27, 19",
+          "close": 174.87
+        },
+        {
+          "date": "2019-02-28",
+          "label": "Feb 28, 19",
+          "close": 173.15
+        },
+        {
+          "date": "2019-03-01",
+          "label": "Mar 1, 19",
+          "close": 174.97
+        },
+        {
+          "date": "2019-03-04",
+          "label": "Mar 4, 19",
+          "close": 175.85
+        },
+        {
+          "date": "2019-03-05",
+          "label": "Mar 5, 19",
+          "close": 175.53
+        },
+        {
+          "date": "2019-03-06",
+          "label": "Mar 6, 19",
+          "close": 174.52
+        },
+        {
+          "date": "2019-03-07",
+          "label": "Mar 7, 19",
+          "close": 172.5
+        },
+        {
+          "date": "2019-03-08",
+          "label": "Mar 8, 19",
+          "close": 172.91
+        },
+        {
+          "date": "2019-03-11",
+          "label": "Mar 11, 19",
+          "close": 178.9
+        },
+        {
+          "date": "2019-03-12",
+          "label": "Mar 12, 19",
+          "close": 180.91
+        },
+        {
+          "date": "2019-03-13",
+          "label": "Mar 13, 19",
+          "close": 181.71
+        },
+        {
+          "date": "2019-03-14",
+          "label": "Mar 14, 19",
+          "close": 183.73
+        },
+        {
+          "date": "2019-03-15",
+          "label": "Mar 15, 19",
+          "close": 186.12
+        },
+        {
+          "date": "2019-03-18",
+          "label": "Mar 18, 19",
+          "close": 188.02
+        },
+        {
+          "date": "2019-03-19",
+          "label": "Mar 19, 19",
+          "close": 186.53
+        },
+        {
+          "date": "2019-03-20",
+          "label": "Mar 20, 19",
+          "close": 188.16
+        },
+        {
+          "date": "2019-03-21",
+          "label": "Mar 21, 19",
+          "close": 195.09
+        },
+        {
+          "date": "2019-03-22",
+          "label": "Mar 22, 19",
+          "close": 191.05
+        },
+        {
+          "date": "2019-03-25",
+          "label": "Mar 25, 19",
+          "close": 188.74
+        },
+        {
+          "date": "2019-03-26",
+          "label": "Mar 26, 19",
+          "close": 186.79
+        },
+        {
+          "date": "2019-03-27",
+          "label": "Mar 27, 19",
+          "close": 188.47
+        },
+        {
+          "date": "2019-03-28",
+          "label": "Mar 28, 19",
+          "close": 188.72
+        },
+        {
+          "date": "2019-03-29",
+          "label": "Mar 29, 19",
+          "close": 189.95
+        },
+        {
+          "date": "2019-04-01",
+          "label": "Apr 1, 19",
+          "close": 191.24
+        },
+        {
+          "date": "2019-04-02",
+          "label": "Apr 2, 19",
+          "close": 194.02
+        },
+        {
+          "date": "2019-04-03",
+          "label": "Apr 3, 19",
+          "close": 195.35
+        },
+        {
+          "date": "2019-04-04",
+          "label": "Apr 4, 19",
+          "close": 195.69
+        },
+        {
+          "date": "2019-04-05",
+          "label": "Apr 5, 19",
+          "close": 197
+        },
+        {
+          "date": "2019-04-08",
+          "label": "Apr 8, 19",
+          "close": 200.1
+        },
+        {
+          "date": "2019-04-09",
+          "label": "Apr 9, 19",
+          "close": 199.5
+        },
+        {
+          "date": "2019-04-10",
+          "label": "Apr 10, 19",
+          "close": 200.62
+        },
+        {
+          "date": "2019-04-11",
+          "label": "Apr 11, 19",
+          "close": 198.95
+        },
+        {
+          "date": "2019-04-12",
+          "label": "Apr 12, 19",
+          "close": 198.87
+        },
+        {
+          "date": "2019-04-15",
+          "label": "Apr 15, 19",
+          "close": 199.23
+        },
+        {
+          "date": "2019-04-16",
+          "label": "Apr 16, 19",
+          "close": 199.25
+        },
+        {
+          "date": "2019-04-17",
+          "label": "Apr 17, 19",
+          "close": 203.13
+        },
+        {
+          "date": "2019-04-18",
+          "label": "Apr 18, 19",
+          "close": 203.86
+        },
+        {
+          "date": "2019-04-22",
+          "label": "Apr 22, 19",
+          "close": 204.53
+        },
+        {
+          "date": "2019-04-23",
+          "label": "Apr 23, 19",
+          "close": 207.48
+        },
+        {
+          "date": "2019-04-24",
+          "label": "Apr 24, 19",
+          "close": 207.16
+        },
+        {
+          "date": "2019-04-25",
+          "label": "Apr 25, 19",
+          "close": 205.28
+        },
+        {
+          "date": "2019-04-26",
+          "label": "Apr 26, 19",
+          "close": 204.3
+        },
+        {
+          "date": "2019-04-29",
+          "label": "Apr 29, 19",
+          "close": 204.61
+        },
+        {
+          "date": "2019-04-30",
+          "label": "Apr 30, 19",
+          "close": 200.67
+        },
+        {
+          "date": "2019-05-01",
+          "label": "May 1, 19",
+          "close": 210.52
+        },
+        {
+          "date": "2019-05-02",
+          "label": "May 2, 19",
+          "close": 209.15
+        },
+        {
+          "date": "2019-05-03",
+          "label": "May 3, 19",
+          "close": 211.75
+        },
+        {
+          "date": "2019-05-06",
+          "label": "May 6, 19",
+          "close": 208.48
+        },
+        {
+          "date": "2019-05-07",
+          "label": "May 7, 19",
+          "close": 202.86
+        },
+        {
+          "date": "2019-05-08",
+          "label": "May 8, 19",
+          "close": 202.9
+        },
+        {
+          "date": "2019-05-09",
+          "label": "May 9, 19",
+          "close": 200.72
+        },
+        {
+          "date": "2019-05-10",
+          "label": "May 10, 19",
+          "close": 197.18
+        },
+        {
+          "date": "2019-05-13",
+          "label": "May 13, 19",
+          "close": 185.72
+        },
+        {
+          "date": "2019-05-14",
+          "label": "May 14, 19",
+          "close": 188.66
+        },
+        {
+          "date": "2019-05-15",
+          "label": "May 15, 19",
+          "close": 190.92
+        },
+        {
+          "date": "2019-05-16",
+          "label": "May 16, 19",
+          "close": 190.08
+        },
+        {
+          "date": "2019-05-17",
+          "label": "May 17, 19",
+          "close": 189
+        },
+        {
+          "date": "2019-05-20",
+          "label": "May 20, 19",
+          "close": 183.09
+        },
+        {
+          "date": "2019-05-21",
+          "label": "May 21, 19",
+          "close": 186.6
+        },
+        {
+          "date": "2019-05-22",
+          "label": "May 22, 19",
+          "close": 182.78
+        },
+        {
+          "date": "2019-05-23",
+          "label": "May 23, 19",
+          "close": 179.66
+        },
+        {
+          "date": "2019-05-24",
+          "label": "May 24, 19",
+          "close": 178.97
+        },
+        {
+          "date": "2019-05-28",
+          "label": "May 28, 19",
+          "close": 178.23
+        },
+        {
+          "date": "2019-05-29",
+          "label": "May 29, 19",
+          "close": 177.38
+        },
+        {
+          "date": "2019-05-30",
+          "label": "May 30, 19",
+          "close": 178.3
+        },
+        {
+          "date": "2019-05-31",
+          "label": "May 31, 19",
+          "close": 175.07
+        },
+        {
+          "date": "2019-06-03",
+          "label": "Jun 3, 19",
+          "close": 173.3
+        },
+        {
+          "date": "2019-06-04",
+          "label": "Jun 4, 19",
+          "close": 179.64
+        },
+        {
+          "date": "2019-06-05",
+          "label": "Jun 5, 19",
+          "close": 182.54
+        },
+        {
+          "date": "2019-06-06",
+          "label": "Jun 6, 19",
+          "close": 185.22
+        },
+        {
+          "date": "2019-06-07",
+          "label": "Jun 7, 19",
+          "close": 190.15
+        },
+        {
+          "date": "2019-06-10",
+          "label": "Jun 10, 19",
+          "close": 192.58
+        },
+        {
+          "date": "2019-06-11",
+          "label": "Jun 11, 19",
+          "close": 194.81
+        },
+        {
+          "date": "2019-06-12",
+          "label": "Jun 12, 19",
+          "close": 194.19
+        },
+        {
+          "date": "2019-06-13",
+          "label": "Jun 13, 19",
+          "close": 194.15
+        },
+        {
+          "date": "2019-06-14",
+          "label": "Jun 14, 19",
+          "close": 192.74
+        },
+        {
+          "date": "2019-06-17",
+          "label": "Jun 17, 19",
+          "close": 193.89
+        },
+        {
+          "date": "2019-06-18",
+          "label": "Jun 18, 19",
+          "close": 198.45
+        },
+        {
+          "date": "2019-06-19",
+          "label": "Jun 19, 19",
+          "close": 197.87
+        },
+        {
+          "date": "2019-06-20",
+          "label": "Jun 20, 19",
+          "close": 199.46
+        },
+        {
+          "date": "2019-06-21",
+          "label": "Jun 21, 19",
+          "close": 198.78
+        },
+        {
+          "date": "2019-06-24",
+          "label": "Jun 24, 19",
+          "close": 198.58
+        }
+      ],
+      "max": [
+        {
+          "date": "2003-04-01",
+          "label": "Apr 1, 03",
+          "close": 1.01
+        },
+        {
+          "date": "2003-04-02",
+          "label": "Apr 2, 03",
+          "close": 1.04
+        },
+        {
+          "date": "2003-04-03",
+          "label": "Apr 3, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-04-04",
+          "label": "Apr 4, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-04-07",
+          "label": "Apr 7, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-04-08",
+          "label": "Apr 8, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-04-09",
+          "label": "Apr 9, 03",
+          "close": 1.01
+        },
+        {
+          "date": "2003-04-10",
+          "label": "Apr 10, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-04-11",
+          "label": "Apr 11, 03",
+          "close": 0.9429
+        },
+        {
+          "date": "2003-04-14",
+          "label": "Apr 14, 03",
+          "close": 0.97
+        },
+        {
+          "date": "2003-04-15",
+          "label": "Apr 15, 03",
+          "close": 0.9564
+        },
+        {
+          "date": "2003-04-16",
+          "label": "Apr 16, 03",
+          "close": 0.9457
+        },
+        {
+          "date": "2003-04-17",
+          "label": "Apr 17, 03",
+          "close": 0.9371
+        },
+        {
+          "date": "2003-04-21",
+          "label": "Apr 21, 03",
+          "close": 0.9379
+        },
+        {
+          "date": "2003-04-22",
+          "label": "Apr 22, 03",
+          "close": 0.9657
+        },
+        {
+          "date": "2003-04-23",
+          "label": "Apr 23, 03",
+          "close": 0.97
+        },
+        {
+          "date": "2003-04-24",
+          "label": "Apr 24, 03",
+          "close": 0.96
+        },
+        {
+          "date": "2003-04-25",
+          "label": "Apr 25, 03",
+          "close": 0.9536
+        },
+        {
+          "date": "2003-04-28",
+          "label": "Apr 28, 03",
+          "close": 0.99
+        },
+        {
+          "date": "2003-04-29",
+          "label": "Apr 29, 03",
+          "close": 1
+        },
+        {
+          "date": "2003-04-30",
+          "label": "Apr 30, 03",
+          "close": 1.02
+        },
+        {
+          "date": "2003-05-01",
+          "label": "May 1, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-05-02",
+          "label": "May 2, 03",
+          "close": 1.03
+        },
+        {
+          "date": "2003-05-05",
+          "label": "May 5, 03",
+          "close": 1.15
+        },
+        {
+          "date": "2003-05-06",
+          "label": "May 6, 03",
+          "close": 1.25
+        },
+        {
+          "date": "2003-05-07",
+          "label": "May 7, 03",
+          "close": 1.26
+        },
+        {
+          "date": "2003-05-08",
+          "label": "May 8, 03",
+          "close": 1.29
+        },
+        {
+          "date": "2003-05-09",
+          "label": "May 9, 03",
+          "close": 1.31
+        },
+        {
+          "date": "2003-05-12",
+          "label": "May 12, 03",
+          "close": 1.33
+        },
+        {
+          "date": "2003-05-13",
+          "label": "May 13, 03",
+          "close": 1.33
+        },
+        {
+          "date": "2003-05-14",
+          "label": "May 14, 03",
+          "close": 1.33
+        },
+        {
+          "date": "2003-05-15",
+          "label": "May 15, 03",
+          "close": 1.34
+        },
+        {
+          "date": "2003-05-16",
+          "label": "May 16, 03",
+          "close": 1.34
+        },
+        {
+          "date": "2003-05-19",
+          "label": "May 19, 03",
+          "close": 1.29
+        },
+        {
+          "date": "2003-05-20",
+          "label": "May 20, 03",
+          "close": 1.27
+        },
+        {
+          "date": "2003-05-21",
+          "label": "May 21, 03",
+          "close": 1.27
+        },
+        {
+          "date": "2003-05-22",
+          "label": "May 22, 03",
+          "close": 1.3
+        },
+        {
+          "date": "2003-05-23",
+          "label": "May 23, 03",
+          "close": 1.31
+        },
+        {
+          "date": "2003-05-27",
+          "label": "May 27, 03",
+          "close": 1.35
+        },
+        {
+          "date": "2003-05-28",
+          "label": "May 28, 03",
+          "close": 1.31
+        },
+        {
+          "date": "2003-05-29",
+          "label": "May 29, 03",
+          "close": 1.29
+        },
+        {
+          "date": "2003-05-30",
+          "label": "May 30, 03",
+          "close": 1.28
+        },
+        {
+          "date": "2003-06-02",
+          "label": "Jun 2, 03",
+          "close": 1.25
+        },
+        {
+          "date": "2003-06-03",
+          "label": "Jun 3, 03",
+          "close": 1.25
+        },
+        {
+          "date": "2003-06-04",
+          "label": "Jun 4, 03",
+          "close": 1.26
+        },
+        {
+          "date": "2003-06-05",
+          "label": "Jun 5, 03",
+          "close": 1.26
+        },
+        {
+          "date": "2003-06-06",
+          "label": "Jun 6, 03",
+          "close": 1.23
+        },
+        {
+          "date": "2003-06-09",
+          "label": "Jun 9, 03",
+          "close": 1.2
+        },
+        {
+          "date": "2003-06-10",
+          "label": "Jun 10, 03",
+          "close": 1.23
+        },
+        {
+          "date": "2003-06-11",
+          "label": "Jun 11, 03",
+          "close": 1.25
+        },
+        {
+          "date": "2003-06-12",
+          "label": "Jun 12, 03",
+          "close": 1.27
+        },
+        {
+          "date": "2003-06-13",
+          "label": "Jun 13, 03",
+          "close": 1.24
+        },
+        {
+          "date": "2003-06-16",
+          "label": "Jun 16, 03",
+          "close": 1.31
+        },
+        {
+          "date": "2003-06-17",
+          "label": "Jun 17, 03",
+          "close": 1.3
+        },
+        {
+          "date": "2003-06-18",
+          "label": "Jun 18, 03",
+          "close": 1.37
+        },
+        {
+          "date": "2003-06-19",
+          "label": "Jun 19, 03",
+          "close": 1.37
+        },
+        {
+          "date": "2003-06-20",
+          "label": "Jun 20, 03",
+          "close": 1.37
+        },
+        {
+          "date": "2003-06-23",
+          "label": "Jun 23, 03",
+          "close": 1.36
+        },
+        {
+          "date": "2003-06-24",
+          "label": "Jun 24, 03",
+          "close": 1.34
+        },
+        {
+          "date": "2003-06-25",
+          "label": "Jun 25, 03",
+          "close": 1.36
+        },
+        {
+          "date": "2003-06-26",
+          "label": "Jun 26, 03",
+          "close": 1.38
+        },
+        {
+          "date": "2003-06-27",
+          "label": "Jun 27, 03",
+          "close": 1.34
+        },
+        {
+          "date": "2003-06-30",
+          "label": "Jun 30, 03",
+          "close": 1.36
+        },
+        {
+          "date": "2003-07-01",
+          "label": "Jul 1, 03",
+          "close": 1.36
+        },
+        {
+          "date": "2003-07-02",
+          "label": "Jul 2, 03",
+          "close": 1.38
+        },
+        {
+          "date": "2003-07-03",
+          "label": "Jul 3, 03",
+          "close": 1.37
+        },
+        {
+          "date": "2003-07-07",
+          "label": "Jul 7, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-07-08",
+          "label": "Jul 8, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-07-09",
+          "label": "Jul 9, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-07-10",
+          "label": "Jul 10, 03",
+          "close": 1.4
+        },
+        {
+          "date": "2003-07-11",
+          "label": "Jul 11, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-07-14",
+          "label": "Jul 14, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-07-15",
+          "label": "Jul 15, 03",
+          "close": 1.4
+        },
+        {
+          "date": "2003-07-16",
+          "label": "Jul 16, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-07-17",
+          "label": "Jul 17, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-07-18",
+          "label": "Jul 18, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-07-21",
+          "label": "Jul 21, 03",
+          "close": 1.47
+        },
+        {
+          "date": "2003-07-22",
+          "label": "Jul 22, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-07-23",
+          "label": "Jul 23, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-07-24",
+          "label": "Jul 24, 03",
+          "close": 1.47
+        },
+        {
+          "date": "2003-07-25",
+          "label": "Jul 25, 03",
+          "close": 1.54
+        },
+        {
+          "date": "2003-07-28",
+          "label": "Jul 28, 03",
+          "close": 1.5
+        },
+        {
+          "date": "2003-07-29",
+          "label": "Jul 29, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-07-30",
+          "label": "Jul 30, 03",
+          "close": 1.45
+        },
+        {
+          "date": "2003-07-31",
+          "label": "Jul 31, 03",
+          "close": 1.51
+        },
+        {
+          "date": "2003-08-01",
+          "label": "Aug 1, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-08-04",
+          "label": "Aug 4, 03",
+          "close": 1.52
+        },
+        {
+          "date": "2003-08-05",
+          "label": "Aug 5, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-08-06",
+          "label": "Aug 6, 03",
+          "close": 1.4
+        },
+        {
+          "date": "2003-08-07",
+          "label": "Aug 7, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-08-08",
+          "label": "Aug 8, 03",
+          "close": 1.4
+        },
+        {
+          "date": "2003-08-11",
+          "label": "Aug 11, 03",
+          "close": 1.4
+        },
+        {
+          "date": "2003-08-12",
+          "label": "Aug 12, 03",
+          "close": 1.41
+        },
+        {
+          "date": "2003-08-13",
+          "label": "Aug 13, 03",
+          "close": 1.44
+        },
+        {
+          "date": "2003-08-14",
+          "label": "Aug 14, 03",
+          "close": 1.44
+        },
+        {
+          "date": "2003-08-15",
+          "label": "Aug 15, 03",
+          "close": 1.41
+        },
+        {
+          "date": "2003-08-18",
+          "label": "Aug 18, 03",
+          "close": 1.45
+        },
+        {
+          "date": "2003-08-19",
+          "label": "Aug 19, 03",
+          "close": 1.45
+        },
+        {
+          "date": "2003-08-20",
+          "label": "Aug 20, 03",
+          "close": 1.5
+        },
+        {
+          "date": "2003-08-21",
+          "label": "Aug 21, 03",
+          "close": 1.55
+        },
+        {
+          "date": "2003-08-22",
+          "label": "Aug 22, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-08-25",
+          "label": "Aug 25, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-08-26",
+          "label": "Aug 26, 03",
+          "close": 1.5
+        },
+        {
+          "date": "2003-08-27",
+          "label": "Aug 27, 03",
+          "close": 1.53
+        },
+        {
+          "date": "2003-08-28",
+          "label": "Aug 28, 03",
+          "close": 1.59
+        },
+        {
+          "date": "2003-08-29",
+          "label": "Aug 29, 03",
+          "close": 1.62
+        },
+        {
+          "date": "2003-09-02",
+          "label": "Sep 2, 03",
+          "close": 1.63
+        },
+        {
+          "date": "2003-09-03",
+          "label": "Sep 3, 03",
+          "close": 1.64
+        },
+        {
+          "date": "2003-09-04",
+          "label": "Sep 4, 03",
+          "close": 1.63
+        },
+        {
+          "date": "2003-09-05",
+          "label": "Sep 5, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-09-08",
+          "label": "Sep 8, 03",
+          "close": 1.62
+        },
+        {
+          "date": "2003-09-09",
+          "label": "Sep 9, 03",
+          "close": 1.6
+        },
+        {
+          "date": "2003-09-10",
+          "label": "Sep 10, 03",
+          "close": 1.58
+        },
+        {
+          "date": "2003-09-11",
+          "label": "Sep 11, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-09-12",
+          "label": "Sep 12, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-09-15",
+          "label": "Sep 15, 03",
+          "close": 1.59
+        },
+        {
+          "date": "2003-09-16",
+          "label": "Sep 16, 03",
+          "close": 1.6
+        },
+        {
+          "date": "2003-09-17",
+          "label": "Sep 17, 03",
+          "close": 1.58
+        },
+        {
+          "date": "2003-09-18",
+          "label": "Sep 18, 03",
+          "close": 1.63
+        },
+        {
+          "date": "2003-09-19",
+          "label": "Sep 19, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-09-22",
+          "label": "Sep 22, 03",
+          "close": 1.58
+        },
+        {
+          "date": "2003-09-23",
+          "label": "Sep 23, 03",
+          "close": 1.6
+        },
+        {
+          "date": "2003-09-24",
+          "label": "Sep 24, 03",
+          "close": 1.52
+        },
+        {
+          "date": "2003-09-25",
+          "label": "Sep 25, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-09-26",
+          "label": "Sep 26, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-09-29",
+          "label": "Sep 29, 03",
+          "close": 1.52
+        },
+        {
+          "date": "2003-09-30",
+          "label": "Sep 30, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-10-01",
+          "label": "Oct 1, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-10-02",
+          "label": "Oct 2, 03",
+          "close": 1.47
+        },
+        {
+          "date": "2003-10-03",
+          "label": "Oct 3, 03",
+          "close": 1.55
+        },
+        {
+          "date": "2003-10-06",
+          "label": "Oct 6, 03",
+          "close": 1.59
+        },
+        {
+          "date": "2003-10-07",
+          "label": "Oct 7, 03",
+          "close": 1.66
+        },
+        {
+          "date": "2003-10-08",
+          "label": "Oct 8, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-10-09",
+          "label": "Oct 9, 03",
+          "close": 1.68
+        },
+        {
+          "date": "2003-10-10",
+          "label": "Oct 10, 03",
+          "close": 1.69
+        },
+        {
+          "date": "2003-10-13",
+          "label": "Oct 13, 03",
+          "close": 1.74
+        },
+        {
+          "date": "2003-10-14",
+          "label": "Oct 14, 03",
+          "close": 1.75
+        },
+        {
+          "date": "2003-10-15",
+          "label": "Oct 15, 03",
+          "close": 1.77
+        },
+        {
+          "date": "2003-10-16",
+          "label": "Oct 16, 03",
+          "close": 1.66
+        },
+        {
+          "date": "2003-10-17",
+          "label": "Oct 17, 03",
+          "close": 1.63
+        },
+        {
+          "date": "2003-10-20",
+          "label": "Oct 20, 03",
+          "close": 1.66
+        },
+        {
+          "date": "2003-10-21",
+          "label": "Oct 21, 03",
+          "close": 1.66
+        },
+        {
+          "date": "2003-10-22",
+          "label": "Oct 22, 03",
+          "close": 1.63
+        },
+        {
+          "date": "2003-10-23",
+          "label": "Oct 23, 03",
+          "close": 1.64
+        },
+        {
+          "date": "2003-10-24",
+          "label": "Oct 24, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-10-27",
+          "label": "Oct 27, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-10-28",
+          "label": "Oct 28, 03",
+          "close": 1.69
+        },
+        {
+          "date": "2003-10-29",
+          "label": "Oct 29, 03",
+          "close": 1.69
+        },
+        {
+          "date": "2003-10-30",
+          "label": "Oct 30, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-10-31",
+          "label": "Oct 31, 03",
+          "close": 1.64
+        },
+        {
+          "date": "2003-11-03",
+          "label": "Nov 3, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-11-04",
+          "label": "Nov 4, 03",
+          "close": 1.64
+        },
+        {
+          "date": "2003-11-05",
+          "label": "Nov 5, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-11-06",
+          "label": "Nov 6, 03",
+          "close": 1.65
+        },
+        {
+          "date": "2003-11-07",
+          "label": "Nov 7, 03",
+          "close": 1.61
+        },
+        {
+          "date": "2003-11-10",
+          "label": "Nov 10, 03",
+          "close": 1.56
+        },
+        {
+          "date": "2003-11-11",
+          "label": "Nov 11, 03",
+          "close": 1.54
+        },
+        {
+          "date": "2003-11-12",
+          "label": "Nov 12, 03",
+          "close": 1.6
+        },
+        {
+          "date": "2003-11-13",
+          "label": "Nov 13, 03",
+          "close": 1.6
+        },
+        {
+          "date": "2003-11-14",
+          "label": "Nov 14, 03",
+          "close": 1.53
+        },
+        {
+          "date": "2003-11-17",
+          "label": "Nov 17, 03",
+          "close": 1.51
+        },
+        {
+          "date": "2003-11-18",
+          "label": "Nov 18, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-11-19",
+          "label": "Nov 19, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-11-20",
+          "label": "Nov 20, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-11-21",
+          "label": "Nov 21, 03",
+          "close": 1.45
+        },
+        {
+          "date": "2003-11-24",
+          "label": "Nov 24, 03",
+          "close": 1.51
+        },
+        {
+          "date": "2003-11-25",
+          "label": "Nov 25, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-11-26",
+          "label": "Nov 26, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-11-28",
+          "label": "Nov 28, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-12-01",
+          "label": "Dec 1, 03",
+          "close": 1.55
+        },
+        {
+          "date": "2003-12-02",
+          "label": "Dec 2, 03",
+          "close": 1.54
+        },
+        {
+          "date": "2003-12-03",
+          "label": "Dec 3, 03",
+          "close": 1.5
+        },
+        {
+          "date": "2003-12-04",
+          "label": "Dec 4, 03",
+          "close": 1.51
+        },
+        {
+          "date": "2003-12-05",
+          "label": "Dec 5, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-12-08",
+          "label": "Dec 8, 03",
+          "close": 1.5
+        },
+        {
+          "date": "2003-12-09",
+          "label": "Dec 9, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-12-10",
+          "label": "Dec 10, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-12-11",
+          "label": "Dec 11, 03",
+          "close": 1.52
+        },
+        {
+          "date": "2003-12-12",
+          "label": "Dec 12, 03",
+          "close": 1.49
+        },
+        {
+          "date": "2003-12-15",
+          "label": "Dec 15, 03",
+          "close": 1.44
+        },
+        {
+          "date": "2003-12-16",
+          "label": "Dec 16, 03",
+          "close": 1.44
+        },
+        {
+          "date": "2003-12-17",
+          "label": "Dec 17, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-12-18",
+          "label": "Dec 18, 03",
+          "close": 1.43
+        },
+        {
+          "date": "2003-12-19",
+          "label": "Dec 19, 03",
+          "close": 1.41
+        },
+        {
+          "date": "2003-12-22",
+          "label": "Dec 22, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-12-23",
+          "label": "Dec 23, 03",
+          "close": 1.42
+        },
+        {
+          "date": "2003-12-24",
+          "label": "Dec 24, 03",
+          "close": 1.46
+        },
+        {
+          "date": "2003-12-26",
+          "label": "Dec 26, 03",
+          "close": 1.48
+        },
+        {
+          "date": "2003-12-29",
+          "label": "Dec 29, 03",
+          "close": 1.51
+        },
+        {
+          "date": "2003-12-30",
+          "label": "Dec 30, 03",
+          "close": 1.52
+        },
+        {
+          "date": "2003-12-31",
+          "label": "Dec 31, 03",
+          "close": 1.53
+        },
+        {
+          "date": "2004-01-02",
+          "label": "Jan 2, 04",
+          "close": 1.52
+        },
+        {
+          "date": "2004-01-05",
+          "label": "Jan 5, 04",
+          "close": 1.58
+        },
+        {
+          "date": "2004-01-06",
+          "label": "Jan 6, 04",
+          "close": 1.58
+        },
+        {
+          "date": "2004-01-07",
+          "label": "Jan 7, 04",
+          "close": 1.61
+        },
+        {
+          "date": "2004-01-08",
+          "label": "Jan 8, 04",
+          "close": 1.67
+        },
+        {
+          "date": "2004-01-09",
+          "label": "Jan 9, 04",
+          "close": 1.64
+        },
+        {
+          "date": "2004-01-12",
+          "label": "Jan 12, 04",
+          "close": 1.7
+        },
+        {
+          "date": "2004-01-13",
+          "label": "Jan 13, 04",
+          "close": 1.72
+        },
+        {
+          "date": "2004-01-14",
+          "label": "Jan 14, 04",
+          "close": 1.73
+        },
+        {
+          "date": "2004-01-15",
+          "label": "Jan 15, 04",
+          "close": 1.63
+        },
+        {
+          "date": "2004-01-16",
+          "label": "Jan 16, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-01-20",
+          "label": "Jan 20, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-01-21",
+          "label": "Jan 21, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-01-22",
+          "label": "Jan 22, 04",
+          "close": 1.58
+        },
+        {
+          "date": "2004-01-23",
+          "label": "Jan 23, 04",
+          "close": 1.61
+        },
+        {
+          "date": "2004-01-26",
+          "label": "Jan 26, 04",
+          "close": 1.64
+        },
+        {
+          "date": "2004-01-27",
+          "label": "Jan 27, 04",
+          "close": 1.65
+        },
+        {
+          "date": "2004-01-28",
+          "label": "Jan 28, 04",
+          "close": 1.61
+        },
+        {
+          "date": "2004-01-29",
+          "label": "Jan 29, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-01-30",
+          "label": "Jan 30, 04",
+          "close": 1.61
+        },
+        {
+          "date": "2004-02-02",
+          "label": "Feb 2, 04",
+          "close": 1.59
+        },
+        {
+          "date": "2004-02-03",
+          "label": "Feb 3, 04",
+          "close": 1.59
+        },
+        {
+          "date": "2004-02-04",
+          "label": "Feb 4, 04",
+          "close": 1.56
+        },
+        {
+          "date": "2004-02-05",
+          "label": "Feb 5, 04",
+          "close": 1.6
+        },
+        {
+          "date": "2004-02-06",
+          "label": "Feb 6, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-02-09",
+          "label": "Feb 9, 04",
+          "close": 1.62
+        },
+        {
+          "date": "2004-02-10",
+          "label": "Feb 10, 04",
+          "close": 1.64
+        },
+        {
+          "date": "2004-02-11",
+          "label": "Feb 11, 04",
+          "close": 1.7
+        },
+        {
+          "date": "2004-02-12",
+          "label": "Feb 12, 04",
+          "close": 1.7
+        },
+        {
+          "date": "2004-02-13",
+          "label": "Feb 13, 04",
+          "close": 1.64
+        },
+        {
+          "date": "2004-02-17",
+          "label": "Feb 17, 04",
+          "close": 1.65
+        },
+        {
+          "date": "2004-02-18",
+          "label": "Feb 18, 04",
+          "close": 1.66
+        },
+        {
+          "date": "2004-02-19",
+          "label": "Feb 19, 04",
+          "close": 1.61
+        },
+        {
+          "date": "2004-02-20",
+          "label": "Feb 20, 04",
+          "close": 1.6
+        },
+        {
+          "date": "2004-02-23",
+          "label": "Feb 23, 04",
+          "close": 1.59
+        },
+        {
+          "date": "2004-02-24",
+          "label": "Feb 24, 04",
+          "close": 1.6
+        },
+        {
+          "date": "2004-02-25",
+          "label": "Feb 25, 04",
+          "close": 1.63
+        },
+        {
+          "date": "2004-02-26",
+          "label": "Feb 26, 04",
+          "close": 1.65
+        },
+        {
+          "date": "2004-02-27",
+          "label": "Feb 27, 04",
+          "close": 1.71
+        },
+        {
+          "date": "2004-03-01",
+          "label": "Mar 1, 04",
+          "close": 1.72
+        },
+        {
+          "date": "2004-03-02",
+          "label": "Mar 2, 04",
+          "close": 1.7
+        },
+        {
+          "date": "2004-03-03",
+          "label": "Mar 3, 04",
+          "close": 1.71
+        },
+        {
+          "date": "2004-03-04",
+          "label": "Mar 4, 04",
+          "close": 1.8
+        },
+        {
+          "date": "2004-03-05",
+          "label": "Mar 5, 04",
+          "close": 1.91
+        },
+        {
+          "date": "2004-03-08",
+          "label": "Mar 8, 04",
+          "close": 1.86
+        },
+        {
+          "date": "2004-03-09",
+          "label": "Mar 9, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-03-10",
+          "label": "Mar 10, 04",
+          "close": 1.98
+        },
+        {
+          "date": "2004-03-11",
+          "label": "Mar 11, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-03-12",
+          "label": "Mar 12, 04",
+          "close": 1.97
+        },
+        {
+          "date": "2004-03-15",
+          "label": "Mar 15, 04",
+          "close": 1.89
+        },
+        {
+          "date": "2004-03-16",
+          "label": "Mar 16, 04",
+          "close": 1.84
+        },
+        {
+          "date": "2004-03-17",
+          "label": "Mar 17, 04",
+          "close": 1.87
+        },
+        {
+          "date": "2004-03-18",
+          "label": "Mar 18, 04",
+          "close": 1.83
+        },
+        {
+          "date": "2004-03-19",
+          "label": "Mar 19, 04",
+          "close": 1.85
+        },
+        {
+          "date": "2004-03-22",
+          "label": "Mar 22, 04",
+          "close": 1.85
+        },
+        {
+          "date": "2004-03-23",
+          "label": "Mar 23, 04",
+          "close": 1.81
+        },
+        {
+          "date": "2004-03-24",
+          "label": "Mar 24, 04",
+          "close": 1.82
+        },
+        {
+          "date": "2004-03-25",
+          "label": "Mar 25, 04",
+          "close": 1.92
+        },
+        {
+          "date": "2004-03-26",
+          "label": "Mar 26, 04",
+          "close": 1.93
+        },
+        {
+          "date": "2004-03-29",
+          "label": "Mar 29, 04",
+          "close": 1.99
+        },
+        {
+          "date": "2004-03-30",
+          "label": "Mar 30, 04",
+          "close": 1.99
+        },
+        {
+          "date": "2004-03-31",
+          "label": "Mar 31, 04",
+          "close": 1.93
+        },
+        {
+          "date": "2004-04-01",
+          "label": "Apr 1, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-04-02",
+          "label": "Apr 2, 04",
+          "close": 1.96
+        },
+        {
+          "date": "2004-04-05",
+          "label": "Apr 5, 04",
+          "close": 2.02
+        },
+        {
+          "date": "2004-04-06",
+          "label": "Apr 6, 04",
+          "close": 1.99
+        },
+        {
+          "date": "2004-04-07",
+          "label": "Apr 7, 04",
+          "close": 1.95
+        },
+        {
+          "date": "2004-04-08",
+          "label": "Apr 8, 04",
+          "close": 1.97
+        },
+        {
+          "date": "2004-04-12",
+          "label": "Apr 12, 04",
+          "close": 2
+        },
+        {
+          "date": "2004-04-13",
+          "label": "Apr 13, 04",
+          "close": 1.92
+        },
+        {
+          "date": "2004-04-14",
+          "label": "Apr 14, 04",
+          "close": 1.9
+        },
+        {
+          "date": "2004-04-15",
+          "label": "Apr 15, 04",
+          "close": 2.09
+        },
+        {
+          "date": "2004-04-16",
+          "label": "Apr 16, 04",
+          "close": 2.08
+        },
+        {
+          "date": "2004-04-19",
+          "label": "Apr 19, 04",
+          "close": 2.03
+        },
+        {
+          "date": "2004-04-20",
+          "label": "Apr 20, 04",
+          "close": 1.98
+        },
+        {
+          "date": "2004-04-21",
+          "label": "Apr 21, 04",
+          "close": 1.98
+        },
+        {
+          "date": "2004-04-22",
+          "label": "Apr 22, 04",
+          "close": 1.98
+        },
+        {
+          "date": "2004-04-23",
+          "label": "Apr 23, 04",
+          "close": 1.98
+        },
+        {
+          "date": "2004-04-26",
+          "label": "Apr 26, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-04-27",
+          "label": "Apr 27, 04",
+          "close": 1.92
+        },
+        {
+          "date": "2004-04-28",
+          "label": "Apr 28, 04",
+          "close": 1.89
+        },
+        {
+          "date": "2004-04-29",
+          "label": "Apr 29, 04",
+          "close": 1.91
+        },
+        {
+          "date": "2004-04-30",
+          "label": "Apr 30, 04",
+          "close": 1.84
+        },
+        {
+          "date": "2004-05-03",
+          "label": "May 3, 04",
+          "close": 1.86
+        },
+        {
+          "date": "2004-05-04",
+          "label": "May 4, 04",
+          "close": 1.87
+        },
+        {
+          "date": "2004-05-05",
+          "label": "May 5, 04",
+          "close": 1.9
+        },
+        {
+          "date": "2004-05-06",
+          "label": "May 6, 04",
+          "close": 1.9
+        },
+        {
+          "date": "2004-05-07",
+          "label": "May 7, 04",
+          "close": 1.91
+        },
+        {
+          "date": "2004-05-10",
+          "label": "May 10, 04",
+          "close": 1.88
+        },
+        {
+          "date": "2004-05-11",
+          "label": "May 11, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-05-12",
+          "label": "May 12, 04",
+          "close": 1.95
+        },
+        {
+          "date": "2004-05-13",
+          "label": "May 13, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-05-14",
+          "label": "May 14, 04",
+          "close": 1.93
+        },
+        {
+          "date": "2004-05-17",
+          "label": "May 17, 04",
+          "close": 1.9
+        },
+        {
+          "date": "2004-05-18",
+          "label": "May 18, 04",
+          "close": 1.93
+        },
+        {
+          "date": "2004-05-19",
+          "label": "May 19, 04",
+          "close": 1.89
+        },
+        {
+          "date": "2004-05-20",
+          "label": "May 20, 04",
+          "close": 1.91
+        },
+        {
+          "date": "2004-05-21",
+          "label": "May 21, 04",
+          "close": 1.94
+        },
+        {
+          "date": "2004-05-24",
+          "label": "May 24, 04",
+          "close": 1.95
+        },
+        {
+          "date": "2004-05-25",
+          "label": "May 25, 04",
+          "close": 2.03
+        },
+        {
+          "date": "2004-05-26",
+          "label": "May 26, 04",
+          "close": 2.04
+        },
+        {
+          "date": "2004-05-27",
+          "label": "May 27, 04",
+          "close": 2.01
+        },
+        {
+          "date": "2004-05-28",
+          "label": "May 28, 04",
+          "close": 2
+        },
+        {
+          "date": "2004-06-01",
+          "label": "Jun 1, 04",
+          "close": 2
+        },
+        {
+          "date": "2004-06-02",
+          "label": "Jun 2, 04",
+          "close": 2.07
+        },
+        {
+          "date": "2004-06-03",
+          "label": "Jun 3, 04",
+          "close": 2.03
+        },
+        {
+          "date": "2004-06-04",
+          "label": "Jun 4, 04",
+          "close": 2.06
+        },
+        {
+          "date": "2004-06-07",
+          "label": "Jun 7, 04",
+          "close": 2.13
+        },
+        {
+          "date": "2004-06-08",
+          "label": "Jun 8, 04",
+          "close": 2.17
+        },
+        {
+          "date": "2004-06-09",
+          "label": "Jun 9, 04",
+          "close": 2.16
+        },
+        {
+          "date": "2004-06-10",
+          "label": "Jun 10, 04",
+          "close": 2.2
+        },
+        {
+          "date": "2004-06-14",
+          "label": "Jun 14, 04",
+          "close": 2.15
+        },
+        {
+          "date": "2004-06-15",
+          "label": "Jun 15, 04",
+          "close": 2.19
+        },
+        {
+          "date": "2004-06-16",
+          "label": "Jun 16, 04",
+          "close": 2.34
+        },
+        {
+          "date": "2004-06-17",
+          "label": "Jun 17, 04",
+          "close": 2.34
+        },
+        {
+          "date": "2004-06-18",
+          "label": "Jun 18, 04",
+          "close": 2.35
+        },
+        {
+          "date": "2004-06-21",
+          "label": "Jun 21, 04",
+          "close": 2.31
+        },
+        {
+          "date": "2004-06-22",
+          "label": "Jun 22, 04",
+          "close": 2.36
+        },
+        {
+          "date": "2004-06-23",
+          "label": "Jun 23, 04",
+          "close": 2.41
+        },
+        {
+          "date": "2004-06-24",
+          "label": "Jun 24, 04",
+          "close": 2.37
+        },
+        {
+          "date": "2004-06-25",
+          "label": "Jun 25, 04",
+          "close": 2.41
+        },
+        {
+          "date": "2004-06-28",
+          "label": "Jun 28, 04",
+          "close": 2.32
+        },
+        {
+          "date": "2004-06-29",
+          "label": "Jun 29, 04",
+          "close": 2.32
+        },
+        {
+          "date": "2004-06-30",
+          "label": "Jun 30, 04",
+          "close": 2.32
+        },
+        {
+          "date": "2004-07-01",
+          "label": "Jul 1, 04",
+          "close": 2.31
+        },
+        {
+          "date": "2004-07-02",
+          "label": "Jul 2, 04",
+          "close": 2.22
+        },
+        {
+          "date": "2004-07-06",
+          "label": "Jul 6, 04",
+          "close": 2.21
+        },
+        {
+          "date": "2004-07-07",
+          "label": "Jul 7, 04",
+          "close": 2.17
+        },
+        {
+          "date": "2004-07-08",
+          "label": "Jul 8, 04",
+          "close": 2.15
+        },
+        {
+          "date": "2004-07-09",
+          "label": "Jul 9, 04",
+          "close": 2.15
+        },
+        {
+          "date": "2004-07-12",
+          "label": "Jul 12, 04",
+          "close": 2.08
+        },
+        {
+          "date": "2004-07-13",
+          "label": "Jul 13, 04",
+          "close": 2.09
+        },
+        {
+          "date": "2004-07-14",
+          "label": "Jul 14, 04",
+          "close": 2.11
+        },
+        {
+          "date": "2004-07-15",
+          "label": "Jul 15, 04",
+          "close": 2.35
+        },
+        {
+          "date": "2004-07-16",
+          "label": "Jul 16, 04",
+          "close": 2.3
+        },
+        {
+          "date": "2004-07-19",
+          "label": "Jul 19, 04",
+          "close": 2.28
+        },
+        {
+          "date": "2004-07-20",
+          "label": "Jul 20, 04",
+          "close": 2.3
+        },
+        {
+          "date": "2004-07-21",
+          "label": "Jul 21, 04",
+          "close": 2.26
+        },
+        {
+          "date": "2004-07-22",
+          "label": "Jul 22, 04",
+          "close": 2.26
+        },
+        {
+          "date": "2004-07-23",
+          "label": "Jul 23, 04",
+          "close": 2.19
+        },
+        {
+          "date": "2004-07-26",
+          "label": "Jul 26, 04",
+          "close": 2.23
+        },
+        {
+          "date": "2004-07-27",
+          "label": "Jul 27, 04",
+          "close": 2.32
+        },
+        {
+          "date": "2004-07-28",
+          "label": "Jul 28, 04",
+          "close": 2.31
+        },
+        {
+          "date": "2004-07-29",
+          "label": "Jul 29, 04",
+          "close": 2.33
+        },
+        {
+          "date": "2004-07-30",
+          "label": "Jul 30, 04",
+          "close": 2.31
+        },
+        {
+          "date": "2004-08-02",
+          "label": "Aug 2, 04",
+          "close": 2.26
+        },
+        {
+          "date": "2004-08-03",
+          "label": "Aug 3, 04",
+          "close": 2.24
+        },
+        {
+          "date": "2004-08-04",
+          "label": "Aug 4, 04",
+          "close": 2.27
+        },
+        {
+          "date": "2004-08-05",
+          "label": "Aug 5, 04",
+          "close": 2.24
+        },
+        {
+          "date": "2004-08-06",
+          "label": "Aug 6, 04",
+          "close": 2.13
+        },
+        {
+          "date": "2004-08-09",
+          "label": "Aug 9, 04",
+          "close": 2.16
+        },
+        {
+          "date": "2004-08-10",
+          "label": "Aug 10, 04",
+          "close": 2.25
+        },
+        {
+          "date": "2004-08-11",
+          "label": "Aug 11, 04",
+          "close": 2.22
+        },
+        {
+          "date": "2004-08-12",
+          "label": "Aug 12, 04",
+          "close": 2.17
+        },
+        {
+          "date": "2004-08-13",
+          "label": "Aug 13, 04",
+          "close": 2.2
+        },
+        {
+          "date": "2004-08-16",
+          "label": "Aug 16, 04",
+          "close": 2.2
+        },
+        {
+          "date": "2004-08-17",
+          "label": "Aug 17, 04",
+          "close": 2.21
+        },
+        {
+          "date": "2004-08-18",
+          "label": "Aug 18, 04",
+          "close": 2.27
+        },
+        {
+          "date": "2004-08-19",
+          "label": "Aug 19, 04",
+          "close": 2.19
+        },
+        {
+          "date": "2004-08-20",
+          "label": "Aug 20, 04",
+          "close": 2.2
+        },
+        {
+          "date": "2004-08-23",
+          "label": "Aug 23, 04",
+          "close": 2.22
+        },
+        {
+          "date": "2004-08-24",
+          "label": "Aug 24, 04",
+          "close": 2.28
+        },
+        {
+          "date": "2004-08-25",
+          "label": "Aug 25, 04",
+          "close": 2.36
+        },
+        {
+          "date": "2004-08-26",
+          "label": "Aug 26, 04",
+          "close": 2.48
+        },
+        {
+          "date": "2004-08-27",
+          "label": "Aug 27, 04",
+          "close": 2.45
+        },
+        {
+          "date": "2004-08-30",
+          "label": "Aug 30, 04",
+          "close": 2.44
+        },
+        {
+          "date": "2004-08-31",
+          "label": "Aug 31, 04",
+          "close": 2.46
+        },
+        {
+          "date": "2004-09-01",
+          "label": "Sep 1, 04",
+          "close": 2.56
+        },
+        {
+          "date": "2004-09-02",
+          "label": "Sep 2, 04",
+          "close": 2.55
+        },
+        {
+          "date": "2004-09-03",
+          "label": "Sep 3, 04",
+          "close": 2.52
+        },
+        {
+          "date": "2004-09-07",
+          "label": "Sep 7, 04",
+          "close": 2.55
+        },
+        {
+          "date": "2004-09-08",
+          "label": "Sep 8, 04",
+          "close": 2.6
+        },
+        {
+          "date": "2004-09-09",
+          "label": "Sep 9, 04",
+          "close": 2.55
+        },
+        {
+          "date": "2004-09-10",
+          "label": "Sep 10, 04",
+          "close": 2.56
+        },
+        {
+          "date": "2004-09-13",
+          "label": "Sep 13, 04",
+          "close": 2.54
+        },
+        {
+          "date": "2004-09-14",
+          "label": "Sep 14, 04",
+          "close": 2.54
+        },
+        {
+          "date": "2004-09-15",
+          "label": "Sep 15, 04",
+          "close": 2.51
+        },
+        {
+          "date": "2004-09-16",
+          "label": "Sep 16, 04",
+          "close": 2.6
+        },
+        {
+          "date": "2004-09-17",
+          "label": "Sep 17, 04",
+          "close": 2.65
+        },
+        {
+          "date": "2004-09-20",
+          "label": "Sep 20, 04",
+          "close": 2.69
+        },
+        {
+          "date": "2004-09-21",
+          "label": "Sep 21, 04",
+          "close": 2.72
+        },
+        {
+          "date": "2004-09-22",
+          "label": "Sep 22, 04",
+          "close": 2.64
+        },
+        {
+          "date": "2004-09-23",
+          "label": "Sep 23, 04",
+          "close": 2.66
+        },
+        {
+          "date": "2004-09-24",
+          "label": "Sep 24, 04",
+          "close": 2.66
+        },
+        {
+          "date": "2004-09-27",
+          "label": "Sep 27, 04",
+          "close": 2.68
+        },
+        {
+          "date": "2004-09-28",
+          "label": "Sep 28, 04",
+          "close": 2.72
+        },
+        {
+          "date": "2004-09-29",
+          "label": "Sep 29, 04",
+          "close": 2.76
+        },
+        {
+          "date": "2004-09-30",
+          "label": "Sep 30, 04",
+          "close": 2.77
+        },
+        {
+          "date": "2004-10-01",
+          "label": "Oct 1, 04",
+          "close": 2.76
+        },
+        {
+          "date": "2004-10-04",
+          "label": "Oct 4, 04",
+          "close": 2.77
+        },
+        {
+          "date": "2004-10-05",
+          "label": "Oct 5, 04",
+          "close": 2.81
+        },
+        {
+          "date": "2004-10-06",
+          "label": "Oct 6, 04",
+          "close": 2.9
+        },
+        {
+          "date": "2004-10-07",
+          "label": "Oct 7, 04",
+          "close": 2.83
+        },
+        {
+          "date": "2004-10-08",
+          "label": "Oct 8, 04",
+          "close": 2.79
+        },
+        {
+          "date": "2004-10-11",
+          "label": "Oct 11, 04",
+          "close": 2.76
+        },
+        {
+          "date": "2004-10-12",
+          "label": "Oct 12, 04",
+          "close": 2.74
+        },
+        {
+          "date": "2004-10-13",
+          "label": "Oct 13, 04",
+          "close": 2.84
+        },
+        {
+          "date": "2004-10-14",
+          "label": "Oct 14, 04",
+          "close": 3.21
+        },
+        {
+          "date": "2004-10-15",
+          "label": "Oct 15, 04",
+          "close": 3.25
+        },
+        {
+          "date": "2004-10-18",
+          "label": "Oct 18, 04",
+          "close": 3.41
+        },
+        {
+          "date": "2004-10-19",
+          "label": "Oct 19, 04",
+          "close": 3.39
+        },
+        {
+          "date": "2004-10-20",
+          "label": "Oct 20, 04",
+          "close": 3.39
+        },
+        {
+          "date": "2004-10-21",
+          "label": "Oct 21, 04",
+          "close": 3.42
+        },
+        {
+          "date": "2004-10-22",
+          "label": "Oct 22, 04",
+          "close": 3.39
+        },
+        {
+          "date": "2004-10-25",
+          "label": "Oct 25, 04",
+          "close": 3.4
+        },
+        {
+          "date": "2004-10-26",
+          "label": "Oct 26, 04",
+          "close": 3.43
+        },
+        {
+          "date": "2004-10-27",
+          "label": "Oct 27, 04",
+          "close": 3.59
+        },
+        {
+          "date": "2004-10-28",
+          "label": "Oct 28, 04",
+          "close": 3.73
+        },
+        {
+          "date": "2004-10-29",
+          "label": "Oct 29, 04",
+          "close": 3.74
+        },
+        {
+          "date": "2004-11-01",
+          "label": "Nov 1, 04",
+          "close": 3.75
+        },
+        {
+          "date": "2004-11-02",
+          "label": "Nov 2, 04",
+          "close": 3.82
+        },
+        {
+          "date": "2004-11-03",
+          "label": "Nov 3, 04",
+          "close": 3.95
+        },
+        {
+          "date": "2004-11-04",
+          "label": "Nov 4, 04",
+          "close": 3.89
+        },
+        {
+          "date": "2004-11-05",
+          "label": "Nov 5, 04",
+          "close": 3.91
+        },
+        {
+          "date": "2004-11-08",
+          "label": "Nov 8, 04",
+          "close": 3.88
+        },
+        {
+          "date": "2004-11-09",
+          "label": "Nov 9, 04",
+          "close": 3.86
+        },
+        {
+          "date": "2004-11-10",
+          "label": "Nov 10, 04",
+          "close": 3.91
+        },
+        {
+          "date": "2004-11-11",
+          "label": "Nov 11, 04",
+          "close": 3.95
+        },
+        {
+          "date": "2004-11-12",
+          "label": "Nov 12, 04",
+          "close": 3.96
+        },
+        {
+          "date": "2004-11-15",
+          "label": "Nov 15, 04",
+          "close": 3.95
+        },
+        {
+          "date": "2004-11-16",
+          "label": "Nov 16, 04",
+          "close": 3.92
+        },
+        {
+          "date": "2004-11-17",
+          "label": "Nov 17, 04",
+          "close": 3.92
+        },
+        {
+          "date": "2004-11-18",
+          "label": "Nov 18, 04",
+          "close": 3.96
+        },
+        {
+          "date": "2004-11-19",
+          "label": "Nov 19, 04",
+          "close": 3.94
+        },
+        {
+          "date": "2004-11-22",
+          "label": "Nov 22, 04",
+          "close": 4.38
+        },
+        {
+          "date": "2004-11-23",
+          "label": "Nov 23, 04",
+          "close": 4.38
+        },
+        {
+          "date": "2004-11-24",
+          "label": "Nov 24, 04",
+          "close": 4.58
+        },
+        {
+          "date": "2004-11-26",
+          "label": "Nov 26, 04",
+          "close": 4.61
+        },
+        {
+          "date": "2004-11-29",
+          "label": "Nov 29, 04",
+          "close": 4.89
+        },
+        {
+          "date": "2004-11-30",
+          "label": "Nov 30, 04",
+          "close": 4.79
+        },
+        {
+          "date": "2004-12-01",
+          "label": "Dec 1, 04",
+          "close": 4.84
+        },
+        {
+          "date": "2004-12-02",
+          "label": "Dec 2, 04",
+          "close": 4.66
+        },
+        {
+          "date": "2004-12-03",
+          "label": "Dec 3, 04",
+          "close": 4.48
+        },
+        {
+          "date": "2004-12-06",
+          "label": "Dec 6, 04",
+          "close": 4.7
+        },
+        {
+          "date": "2004-12-07",
+          "label": "Dec 7, 04",
+          "close": 4.49
+        },
+        {
+          "date": "2004-12-08",
+          "label": "Dec 8, 04",
+          "close": 4.52
+        },
+        {
+          "date": "2004-12-09",
+          "label": "Dec 9, 04",
+          "close": 4.57
+        },
+        {
+          "date": "2004-12-10",
+          "label": "Dec 10, 04",
+          "close": 4.65
+        },
+        {
+          "date": "2004-12-13",
+          "label": "Dec 13, 04",
+          "close": 4.64
+        },
+        {
+          "date": "2004-12-14",
+          "label": "Dec 14, 04",
+          "close": 4.66
+        },
+        {
+          "date": "2004-12-15",
+          "label": "Dec 15, 04",
+          "close": 4.66
+        },
+        {
+          "date": "2004-12-16",
+          "label": "Dec 16, 04",
+          "close": 4.76
+        },
+        {
+          "date": "2004-12-17",
+          "label": "Dec 17, 04",
+          "close": 4.64
+        },
+        {
+          "date": "2004-12-20",
+          "label": "Dec 20, 04",
+          "close": 4.48
+        },
+        {
+          "date": "2004-12-21",
+          "label": "Dec 21, 04",
+          "close": 4.55
+        },
+        {
+          "date": "2004-12-22",
+          "label": "Dec 22, 04",
+          "close": 4.55
+        },
+        {
+          "date": "2004-12-23",
+          "label": "Dec 23, 04",
+          "close": 4.57
+        },
+        {
+          "date": "2004-12-27",
+          "label": "Dec 27, 04",
+          "close": 4.51
+        },
+        {
+          "date": "2004-12-28",
+          "label": "Dec 28, 04",
+          "close": 4.58
+        },
+        {
+          "date": "2004-12-29",
+          "label": "Dec 29, 04",
+          "close": 4.6
+        },
+        {
+          "date": "2004-12-30",
+          "label": "Dec 30, 04",
+          "close": 4.63
+        },
+        {
+          "date": "2004-12-31",
+          "label": "Dec 31, 04",
+          "close": 4.6
+        },
+        {
+          "date": "2005-01-03",
+          "label": "Jan 3, 05",
+          "close": 4.52
+        },
+        {
+          "date": "2005-01-04",
+          "label": "Jan 4, 05",
+          "close": 4.57
+        },
+        {
+          "date": "2005-01-05",
+          "label": "Jan 5, 05",
+          "close": 4.61
+        },
+        {
+          "date": "2005-01-06",
+          "label": "Jan 6, 05",
+          "close": 4.61
+        },
+        {
+          "date": "2005-01-07",
+          "label": "Jan 7, 05",
+          "close": 4.95
+        },
+        {
+          "date": "2005-01-10",
+          "label": "Jan 10, 05",
+          "close": 4.93
+        },
+        {
+          "date": "2005-01-11",
+          "label": "Jan 11, 05",
+          "close": 4.61
+        },
+        {
+          "date": "2005-01-12",
+          "label": "Jan 12, 05",
+          "close": 4.68
+        },
+        {
+          "date": "2005-01-13",
+          "label": "Jan 13, 05",
+          "close": 4.99
+        },
+        {
+          "date": "2005-01-14",
+          "label": "Jan 14, 05",
+          "close": 5.01
+        },
+        {
+          "date": "2005-01-18",
+          "label": "Jan 18, 05",
+          "close": 5.05
+        },
+        {
+          "date": "2005-01-19",
+          "label": "Jan 19, 05",
+          "close": 4.99
+        },
+        {
+          "date": "2005-01-20",
+          "label": "Jan 20, 05",
+          "close": 5.03
+        },
+        {
+          "date": "2005-01-21",
+          "label": "Jan 21, 05",
+          "close": 5.04
+        },
+        {
+          "date": "2005-01-24",
+          "label": "Jan 24, 05",
+          "close": 5.05
+        },
+        {
+          "date": "2005-01-25",
+          "label": "Jan 25, 05",
+          "close": 5.15
+        },
+        {
+          "date": "2005-01-26",
+          "label": "Jan 26, 05",
+          "close": 5.16
+        },
+        {
+          "date": "2005-01-27",
+          "label": "Jan 27, 05",
+          "close": 5.19
+        },
+        {
+          "date": "2005-01-28",
+          "label": "Jan 28, 05",
+          "close": 5.28
+        },
+        {
+          "date": "2005-01-31",
+          "label": "Jan 31, 05",
+          "close": 5.49
+        },
+        {
+          "date": "2005-02-01",
+          "label": "Feb 1, 05",
+          "close": 5.54
+        },
+        {
+          "date": "2005-02-02",
+          "label": "Feb 2, 05",
+          "close": 5.69
+        },
+        {
+          "date": "2005-02-03",
+          "label": "Feb 3, 05",
+          "close": 5.56
+        },
+        {
+          "date": "2005-02-04",
+          "label": "Feb 4, 05",
+          "close": 5.63
+        },
+        {
+          "date": "2005-02-07",
+          "label": "Feb 7, 05",
+          "close": 5.64
+        },
+        {
+          "date": "2005-02-08",
+          "label": "Feb 8, 05",
+          "close": 5.78
+        },
+        {
+          "date": "2005-02-09",
+          "label": "Feb 9, 05",
+          "close": 5.62
+        },
+        {
+          "date": "2005-02-10",
+          "label": "Feb 10, 05",
+          "close": 5.6
+        },
+        {
+          "date": "2005-02-11",
+          "label": "Feb 11, 05",
+          "close": 5.8
+        },
+        {
+          "date": "2005-02-14",
+          "label": "Feb 14, 05",
+          "close": 6.05
+        },
+        {
+          "date": "2005-02-15",
+          "label": "Feb 15, 05",
+          "close": 6.32
+        },
+        {
+          "date": "2005-02-16",
+          "label": "Feb 16, 05",
+          "close": 6.44
+        },
+        {
+          "date": "2005-02-17",
+          "label": "Feb 17, 05",
+          "close": 6.27
+        },
+        {
+          "date": "2005-02-18",
+          "label": "Feb 18, 05",
+          "close": 6.2
+        },
+        {
+          "date": "2005-02-22",
+          "label": "Feb 22, 05",
+          "close": 6.09
+        },
+        {
+          "date": "2005-02-23",
+          "label": "Feb 23, 05",
+          "close": 6.3
+        },
+        {
+          "date": "2005-02-24",
+          "label": "Feb 24, 05",
+          "close": 6.35
+        },
+        {
+          "date": "2005-02-25",
+          "label": "Feb 25, 05",
+          "close": 6.36
+        },
+        {
+          "date": "2005-02-28",
+          "label": "Feb 28, 05",
+          "close": 6.41
+        },
+        {
+          "date": "2005-03-01",
+          "label": "Mar 1, 05",
+          "close": 6.36
+        },
+        {
+          "date": "2005-03-02",
+          "label": "Mar 2, 05",
+          "close": 6.3
+        },
+        {
+          "date": "2005-03-03",
+          "label": "Mar 3, 05",
+          "close": 5.97
+        },
+        {
+          "date": "2005-03-04",
+          "label": "Mar 4, 05",
+          "close": 6.12
+        },
+        {
+          "date": "2005-03-07",
+          "label": "Mar 7, 05",
+          "close": 6.11
+        },
+        {
+          "date": "2005-03-08",
+          "label": "Mar 8, 05",
+          "close": 5.79
+        },
+        {
+          "date": "2005-03-09",
+          "label": "Mar 9, 05",
+          "close": 5.62
+        },
+        {
+          "date": "2005-03-10",
+          "label": "Mar 10, 05",
+          "close": 5.69
+        },
+        {
+          "date": "2005-03-11",
+          "label": "Mar 11, 05",
+          "close": 5.75
+        },
+        {
+          "date": "2005-03-14",
+          "label": "Mar 14, 05",
+          "close": 5.76
+        },
+        {
+          "date": "2005-03-15",
+          "label": "Mar 15, 05",
+          "close": 5.85
+        },
+        {
+          "date": "2005-03-16",
+          "label": "Mar 16, 05",
+          "close": 5.88
+        },
+        {
+          "date": "2005-03-17",
+          "label": "Mar 17, 05",
+          "close": 6.04
+        },
+        {
+          "date": "2005-03-18",
+          "label": "Mar 18, 05",
+          "close": 6.14
+        },
+        {
+          "date": "2005-03-21",
+          "label": "Mar 21, 05",
+          "close": 6.24
+        },
+        {
+          "date": "2005-03-22",
+          "label": "Mar 22, 05",
+          "close": 6.12
+        },
+        {
+          "date": "2005-03-23",
+          "label": "Mar 23, 05",
+          "close": 6.08
+        },
+        {
+          "date": "2005-03-24",
+          "label": "Mar 24, 05",
+          "close": 6.07
+        },
+        {
+          "date": "2005-03-28",
+          "label": "Mar 28, 05",
+          "close": 6.08
+        },
+        {
+          "date": "2005-03-29",
+          "label": "Mar 29, 05",
+          "close": 5.96
+        },
+        {
+          "date": "2005-03-30",
+          "label": "Mar 30, 05",
+          "close": 6.11
+        },
+        {
+          "date": "2005-03-31",
+          "label": "Mar 31, 05",
+          "close": 5.95
+        },
+        {
+          "date": "2005-04-01",
+          "label": "Apr 1, 05",
+          "close": 5.84
+        },
+        {
+          "date": "2005-04-04",
+          "label": "Apr 4, 05",
+          "close": 5.87
+        },
+        {
+          "date": "2005-04-05",
+          "label": "Apr 5, 05",
+          "close": 5.98
+        },
+        {
+          "date": "2005-04-06",
+          "label": "Apr 6, 05",
+          "close": 6.05
+        },
+        {
+          "date": "2005-04-07",
+          "label": "Apr 7, 05",
+          "close": 6.22
+        },
+        {
+          "date": "2005-04-08",
+          "label": "Apr 8, 05",
+          "close": 6.25
+        },
+        {
+          "date": "2005-04-11",
+          "label": "Apr 11, 05",
+          "close": 5.99
+        },
+        {
+          "date": "2005-04-12",
+          "label": "Apr 12, 05",
+          "close": 6.09
+        },
+        {
+          "date": "2005-04-13",
+          "label": "Apr 13, 05",
+          "close": 5.86
+        },
+        {
+          "date": "2005-04-14",
+          "label": "Apr 14, 05",
+          "close": 5.32
+        },
+        {
+          "date": "2005-04-15",
+          "label": "Apr 15, 05",
+          "close": 5.05
+        },
+        {
+          "date": "2005-04-18",
+          "label": "Apr 18, 05",
+          "close": 5.09
+        },
+        {
+          "date": "2005-04-19",
+          "label": "Apr 19, 05",
+          "close": 5.3
+        },
+        {
+          "date": "2005-04-20",
+          "label": "Apr 20, 05",
+          "close": 5.07
+        },
+        {
+          "date": "2005-04-21",
+          "label": "Apr 21, 05",
+          "close": 5.31
+        },
+        {
+          "date": "2005-04-22",
+          "label": "Apr 22, 05",
+          "close": 5.07
+        },
+        {
+          "date": "2005-04-25",
+          "label": "Apr 25, 05",
+          "close": 5.28
+        },
+        {
+          "date": "2005-04-26",
+          "label": "Apr 26, 05",
+          "close": 5.17
+        },
+        {
+          "date": "2005-04-27",
+          "label": "Apr 27, 05",
+          "close": 5.14
+        },
+        {
+          "date": "2005-04-28",
+          "label": "Apr 28, 05",
+          "close": 5.08
+        },
+        {
+          "date": "2005-04-29",
+          "label": "Apr 29, 05",
+          "close": 5.15
+        },
+        {
+          "date": "2005-05-02",
+          "label": "May 2, 05",
+          "close": 5.2
+        },
+        {
+          "date": "2005-05-03",
+          "label": "May 3, 05",
+          "close": 5.17
+        },
+        {
+          "date": "2005-05-04",
+          "label": "May 4, 05",
+          "close": 5.31
+        },
+        {
+          "date": "2005-05-05",
+          "label": "May 5, 05",
+          "close": 5.24
+        },
+        {
+          "date": "2005-05-06",
+          "label": "May 6, 05",
+          "close": 5.32
+        },
+        {
+          "date": "2005-05-09",
+          "label": "May 9, 05",
+          "close": 5.28
+        },
+        {
+          "date": "2005-05-10",
+          "label": "May 10, 05",
+          "close": 5.2
+        },
+        {
+          "date": "2005-05-11",
+          "label": "May 11, 05",
+          "close": 5.09
+        },
+        {
+          "date": "2005-05-12",
+          "label": "May 12, 05",
+          "close": 4.88
+        },
+        {
+          "date": "2005-05-13",
+          "label": "May 13, 05",
+          "close": 4.97
+        },
+        {
+          "date": "2005-05-16",
+          "label": "May 16, 05",
+          "close": 5.08
+        },
+        {
+          "date": "2005-05-17",
+          "label": "May 17, 05",
+          "close": 5.05
+        },
+        {
+          "date": "2005-05-18",
+          "label": "May 18, 05",
+          "close": 5.12
+        },
+        {
+          "date": "2005-05-19",
+          "label": "May 19, 05",
+          "close": 5.36
+        },
+        {
+          "date": "2005-05-20",
+          "label": "May 20, 05",
+          "close": 5.36
+        },
+        {
+          "date": "2005-05-23",
+          "label": "May 23, 05",
+          "close": 5.68
+        },
+        {
+          "date": "2005-05-24",
+          "label": "May 24, 05",
+          "close": 5.67
+        },
+        {
+          "date": "2005-05-25",
+          "label": "May 25, 05",
+          "close": 5.68
+        },
+        {
+          "date": "2005-05-26",
+          "label": "May 26, 05",
+          "close": 5.82
+        },
+        {
+          "date": "2005-05-27",
+          "label": "May 27, 05",
+          "close": 5.79
+        },
+        {
+          "date": "2005-05-31",
+          "label": "May 31, 05",
+          "close": 5.68
+        },
+        {
+          "date": "2005-06-01",
+          "label": "Jun 1, 05",
+          "close": 5.76
+        },
+        {
+          "date": "2005-06-02",
+          "label": "Jun 2, 05",
+          "close": 5.72
+        },
+        {
+          "date": "2005-06-03",
+          "label": "Jun 3, 05",
+          "close": 5.46
+        },
+        {
+          "date": "2005-06-06",
+          "label": "Jun 6, 05",
+          "close": 5.42
+        },
+        {
+          "date": "2005-06-07",
+          "label": "Jun 7, 05",
+          "close": 5.22
+        },
+        {
+          "date": "2005-06-08",
+          "label": "Jun 8, 05",
+          "close": 5.27
+        },
+        {
+          "date": "2005-06-09",
+          "label": "Jun 9, 05",
+          "close": 5.38
+        },
+        {
+          "date": "2005-06-10",
+          "label": "Jun 10, 05",
+          "close": 5.12
+        },
+        {
+          "date": "2005-06-13",
+          "label": "Jun 13, 05",
+          "close": 5.13
+        },
+        {
+          "date": "2005-06-14",
+          "label": "Jun 14, 05",
+          "close": 5.14
+        },
+        {
+          "date": "2005-06-15",
+          "label": "Jun 15, 05",
+          "close": 5.3
+        },
+        {
+          "date": "2005-06-16",
+          "label": "Jun 16, 05",
+          "close": 5.43
+        },
+        {
+          "date": "2005-06-17",
+          "label": "Jun 17, 05",
+          "close": 5.47
+        },
+        {
+          "date": "2005-06-20",
+          "label": "Jun 20, 05",
+          "close": 5.37
+        },
+        {
+          "date": "2005-06-21",
+          "label": "Jun 21, 05",
+          "close": 5.41
+        },
+        {
+          "date": "2005-06-22",
+          "label": "Jun 22, 05",
+          "close": 5.51
+        },
+        {
+          "date": "2005-06-23",
+          "label": "Jun 23, 05",
+          "close": 5.56
+        },
+        {
+          "date": "2005-06-24",
+          "label": "Jun 24, 05",
+          "close": 5.39
+        },
+        {
+          "date": "2005-06-27",
+          "label": "Jun 27, 05",
+          "close": 5.3
+        },
+        {
+          "date": "2005-06-28",
+          "label": "Jun 28, 05",
+          "close": 5.33
+        },
+        {
+          "date": "2005-06-29",
+          "label": "Jun 29, 05",
+          "close": 5.2
+        },
+        {
+          "date": "2005-06-30",
+          "label": "Jun 30, 05",
+          "close": 5.26
+        },
+        {
+          "date": "2005-07-01",
+          "label": "Jul 1, 05",
+          "close": 5.21
+        },
+        {
+          "date": "2005-07-05",
+          "label": "Jul 5, 05",
+          "close": 5.43
+        },
+        {
+          "date": "2005-07-06",
+          "label": "Jul 6, 05",
+          "close": 5.34
+        },
+        {
+          "date": "2005-07-07",
+          "label": "Jul 7, 05",
+          "close": 5.38
+        },
+        {
+          "date": "2005-07-08",
+          "label": "Jul 8, 05",
+          "close": 5.46
+        },
+        {
+          "date": "2005-07-11",
+          "label": "Jul 11, 05",
+          "close": 5.44
+        },
+        {
+          "date": "2005-07-12",
+          "label": "Jul 12, 05",
+          "close": 5.46
+        },
+        {
+          "date": "2005-07-13",
+          "label": "Jul 13, 05",
+          "close": 5.48
+        },
+        {
+          "date": "2005-07-14",
+          "label": "Jul 14, 05",
+          "close": 5.82
+        },
+        {
+          "date": "2005-07-15",
+          "label": "Jul 15, 05",
+          "close": 5.94
+        },
+        {
+          "date": "2005-07-18",
+          "label": "Jul 18, 05",
+          "close": 5.93
+        },
+        {
+          "date": "2005-07-19",
+          "label": "Jul 19, 05",
+          "close": 6.17
+        },
+        {
+          "date": "2005-07-20",
+          "label": "Jul 20, 05",
+          "close": 6.23
+        },
+        {
+          "date": "2005-07-21",
+          "label": "Jul 21, 05",
+          "close": 6.18
+        },
+        {
+          "date": "2005-07-22",
+          "label": "Jul 22, 05",
+          "close": 6.29
+        },
+        {
+          "date": "2005-07-25",
+          "label": "Jul 25, 05",
+          "close": 6.26
+        },
+        {
+          "date": "2005-07-26",
+          "label": "Jul 26, 05",
+          "close": 6.23
+        },
+        {
+          "date": "2005-07-27",
+          "label": "Jul 27, 05",
+          "close": 6.28
+        },
+        {
+          "date": "2005-07-28",
+          "label": "Jul 28, 05",
+          "close": 6.26
+        },
+        {
+          "date": "2005-07-29",
+          "label": "Jul 29, 05",
+          "close": 6.09
+        },
+        {
+          "date": "2005-08-01",
+          "label": "Aug 1, 05",
+          "close": 6.11
+        },
+        {
+          "date": "2005-08-02",
+          "label": "Aug 2, 05",
+          "close": 6.17
+        },
+        {
+          "date": "2005-08-03",
+          "label": "Aug 3, 05",
+          "close": 6.17
+        },
+        {
+          "date": "2005-08-04",
+          "label": "Aug 4, 05",
+          "close": 6.1
+        },
+        {
+          "date": "2005-08-05",
+          "label": "Aug 5, 05",
+          "close": 6.14
+        },
+        {
+          "date": "2005-08-08",
+          "label": "Aug 8, 05",
+          "close": 6.09
+        },
+        {
+          "date": "2005-08-09",
+          "label": "Aug 9, 05",
+          "close": 6.26
+        },
+        {
+          "date": "2005-08-10",
+          "label": "Aug 10, 05",
+          "close": 6.2
+        },
+        {
+          "date": "2005-08-11",
+          "label": "Aug 11, 05",
+          "close": 6.29
+        },
+        {
+          "date": "2005-08-12",
+          "label": "Aug 12, 05",
+          "close": 6.59
+        },
+        {
+          "date": "2005-08-15",
+          "label": "Aug 15, 05",
+          "close": 6.81
+        },
+        {
+          "date": "2005-08-16",
+          "label": "Aug 16, 05",
+          "close": 6.61
+        },
+        {
+          "date": "2005-08-17",
+          "label": "Aug 17, 05",
+          "close": 6.74
+        },
+        {
+          "date": "2005-08-18",
+          "label": "Aug 18, 05",
+          "close": 6.61
+        },
+        {
+          "date": "2005-08-19",
+          "label": "Aug 19, 05",
+          "close": 6.55
+        },
+        {
+          "date": "2005-08-22",
+          "label": "Aug 22, 05",
+          "close": 6.55
+        },
+        {
+          "date": "2005-08-23",
+          "label": "Aug 23, 05",
+          "close": 6.53
+        },
+        {
+          "date": "2005-08-24",
+          "label": "Aug 24, 05",
+          "close": 6.54
+        },
+        {
+          "date": "2005-08-25",
+          "label": "Aug 25, 05",
+          "close": 6.58
+        },
+        {
+          "date": "2005-08-26",
+          "label": "Aug 26, 05",
+          "close": 6.53
+        },
+        {
+          "date": "2005-08-29",
+          "label": "Aug 29, 05",
+          "close": 6.55
+        },
+        {
+          "date": "2005-08-30",
+          "label": "Aug 30, 05",
+          "close": 6.65
+        },
+        {
+          "date": "2005-08-31",
+          "label": "Aug 31, 05",
+          "close": 6.7
+        },
+        {
+          "date": "2005-09-01",
+          "label": "Sep 1, 05",
+          "close": 6.61
+        },
+        {
+          "date": "2005-09-02",
+          "label": "Sep 2, 05",
+          "close": 6.6
+        },
+        {
+          "date": "2005-09-06",
+          "label": "Sep 6, 05",
+          "close": 6.97
+        },
+        {
+          "date": "2005-09-07",
+          "label": "Sep 7, 05",
+          "close": 6.95
+        },
+        {
+          "date": "2005-09-08",
+          "label": "Sep 8, 05",
+          "close": 7.11
+        },
+        {
+          "date": "2005-09-09",
+          "label": "Sep 9, 05",
+          "close": 7.33
+        },
+        {
+          "date": "2005-09-12",
+          "label": "Sep 12, 05",
+          "close": 7.34
+        },
+        {
+          "date": "2005-09-13",
+          "label": "Sep 13, 05",
+          "close": 7.26
+        },
+        {
+          "date": "2005-09-14",
+          "label": "Sep 14, 05",
+          "close": 7.09
+        },
+        {
+          "date": "2005-09-15",
+          "label": "Sep 15, 05",
+          "close": 7.12
+        },
+        {
+          "date": "2005-09-16",
+          "label": "Sep 16, 05",
+          "close": 7.32
+        },
+        {
+          "date": "2005-09-19",
+          "label": "Sep 19, 05",
+          "close": 7.52
+        },
+        {
+          "date": "2005-09-20",
+          "label": "Sep 20, 05",
+          "close": 7.6
+        },
+        {
+          "date": "2005-09-21",
+          "label": "Sep 21, 05",
+          "close": 7.44
+        },
+        {
+          "date": "2005-09-22",
+          "label": "Sep 22, 05",
+          "close": 7.41
+        },
+        {
+          "date": "2005-09-23",
+          "label": "Sep 23, 05",
+          "close": 7.6
+        },
+        {
+          "date": "2005-09-26",
+          "label": "Sep 26, 05",
+          "close": 7.69
+        },
+        {
+          "date": "2005-09-27",
+          "label": "Sep 27, 05",
+          "close": 7.63
+        },
+        {
+          "date": "2005-09-28",
+          "label": "Sep 28, 05",
+          "close": 7.3
+        },
+        {
+          "date": "2005-09-29",
+          "label": "Sep 29, 05",
+          "close": 7.48
+        },
+        {
+          "date": "2005-09-30",
+          "label": "Sep 30, 05",
+          "close": 7.66
+        },
+        {
+          "date": "2005-10-03",
+          "label": "Oct 3, 05",
+          "close": 7.78
+        },
+        {
+          "date": "2005-10-04",
+          "label": "Oct 4, 05",
+          "close": 7.68
+        },
+        {
+          "date": "2005-10-05",
+          "label": "Oct 5, 05",
+          "close": 7.54
+        },
+        {
+          "date": "2005-10-06",
+          "label": "Oct 6, 05",
+          "close": 7.39
+        },
+        {
+          "date": "2005-10-07",
+          "label": "Oct 7, 05",
+          "close": 7.33
+        },
+        {
+          "date": "2005-10-10",
+          "label": "Oct 10, 05",
+          "close": 7.2
+        },
+        {
+          "date": "2005-10-11",
+          "label": "Oct 11, 05",
+          "close": 7.37
+        },
+        {
+          "date": "2005-10-12",
+          "label": "Oct 12, 05",
+          "close": 7.04
+        },
+        {
+          "date": "2005-10-13",
+          "label": "Oct 13, 05",
+          "close": 7.68
+        },
+        {
+          "date": "2005-10-14",
+          "label": "Oct 14, 05",
+          "close": 7.71
+        },
+        {
+          "date": "2005-10-17",
+          "label": "Oct 17, 05",
+          "close": 7.63
+        },
+        {
+          "date": "2005-10-18",
+          "label": "Oct 18, 05",
+          "close": 7.46
+        },
+        {
+          "date": "2005-10-19",
+          "label": "Oct 19, 05",
+          "close": 7.85
+        },
+        {
+          "date": "2005-10-20",
+          "label": "Oct 20, 05",
+          "close": 8.02
+        },
+        {
+          "date": "2005-10-21",
+          "label": "Oct 21, 05",
+          "close": 7.95
+        },
+        {
+          "date": "2005-10-24",
+          "label": "Oct 24, 05",
+          "close": 8.11
+        },
+        {
+          "date": "2005-10-25",
+          "label": "Oct 25, 05",
+          "close": 8.01
+        },
+        {
+          "date": "2005-10-26",
+          "label": "Oct 26, 05",
+          "close": 8.15
+        },
+        {
+          "date": "2005-10-27",
+          "label": "Oct 27, 05",
+          "close": 7.92
+        },
+        {
+          "date": "2005-10-28",
+          "label": "Oct 28, 05",
+          "close": 7.78
+        },
+        {
+          "date": "2005-10-31",
+          "label": "Oct 31, 05",
+          "close": 8.23
+        },
+        {
+          "date": "2005-11-01",
+          "label": "Nov 1, 05",
+          "close": 8.21
+        },
+        {
+          "date": "2005-11-02",
+          "label": "Nov 2, 05",
+          "close": 8.56
+        },
+        {
+          "date": "2005-11-03",
+          "label": "Nov 3, 05",
+          "close": 8.84
+        },
+        {
+          "date": "2005-11-04",
+          "label": "Nov 4, 05",
+          "close": 8.74
+        },
+        {
+          "date": "2005-11-07",
+          "label": "Nov 7, 05",
+          "close": 8.6
+        },
+        {
+          "date": "2005-11-08",
+          "label": "Nov 8, 05",
+          "close": 8.56
+        },
+        {
+          "date": "2005-11-09",
+          "label": "Nov 9, 05",
+          "close": 8.59
+        },
+        {
+          "date": "2005-11-10",
+          "label": "Nov 10, 05",
+          "close": 8.74
+        },
+        {
+          "date": "2005-11-11",
+          "label": "Nov 11, 05",
+          "close": 8.79
+        },
+        {
+          "date": "2005-11-14",
+          "label": "Nov 14, 05",
+          "close": 8.78
+        },
+        {
+          "date": "2005-11-15",
+          "label": "Nov 15, 05",
+          "close": 8.9
+        },
+        {
+          "date": "2005-11-16",
+          "label": "Nov 16, 05",
+          "close": 9.28
+        },
+        {
+          "date": "2005-11-17",
+          "label": "Nov 17, 05",
+          "close": 9.22
+        },
+        {
+          "date": "2005-11-18",
+          "label": "Nov 18, 05",
+          "close": 9.22
+        },
+        {
+          "date": "2005-11-21",
+          "label": "Nov 21, 05",
+          "close": 9.28
+        },
+        {
+          "date": "2005-11-22",
+          "label": "Nov 22, 05",
+          "close": 9.5
+        },
+        {
+          "date": "2005-11-23",
+          "label": "Nov 23, 05",
+          "close": 9.59
+        },
+        {
+          "date": "2005-11-25",
+          "label": "Nov 25, 05",
+          "close": 9.91
+        },
+        {
+          "date": "2005-11-28",
+          "label": "Nov 28, 05",
+          "close": 9.95
+        },
+        {
+          "date": "2005-11-29",
+          "label": "Nov 29, 05",
+          "close": 9.73
+        },
+        {
+          "date": "2005-11-30",
+          "label": "Nov 30, 05",
+          "close": 9.69
+        },
+        {
+          "date": "2005-12-01",
+          "label": "Dec 1, 05",
+          "close": 10.23
+        },
+        {
+          "date": "2005-12-02",
+          "label": "Dec 2, 05",
+          "close": 10.38
+        },
+        {
+          "date": "2005-12-05",
+          "label": "Dec 5, 05",
+          "close": 10.26
+        },
+        {
+          "date": "2005-12-06",
+          "label": "Dec 6, 05",
+          "close": 10.58
+        },
+        {
+          "date": "2005-12-07",
+          "label": "Dec 7, 05",
+          "close": 10.56
+        },
+        {
+          "date": "2005-12-08",
+          "label": "Dec 8, 05",
+          "close": 10.58
+        },
+        {
+          "date": "2005-12-09",
+          "label": "Dec 9, 05",
+          "close": 10.62
+        },
+        {
+          "date": "2005-12-12",
+          "label": "Dec 12, 05",
+          "close": 10.7
+        },
+        {
+          "date": "2005-12-13",
+          "label": "Dec 13, 05",
+          "close": 10.71
+        },
+        {
+          "date": "2005-12-14",
+          "label": "Dec 14, 05",
+          "close": 10.29
+        },
+        {
+          "date": "2005-12-15",
+          "label": "Dec 15, 05",
+          "close": 10.31
+        },
+        {
+          "date": "2005-12-16",
+          "label": "Dec 16, 05",
+          "close": 10.16
+        },
+        {
+          "date": "2005-12-19",
+          "label": "Dec 19, 05",
+          "close": 10.2
+        },
+        {
+          "date": "2005-12-20",
+          "label": "Dec 20, 05",
+          "close": 10.3
+        },
+        {
+          "date": "2005-12-21",
+          "label": "Dec 21, 05",
+          "close": 10.5
+        },
+        {
+          "date": "2005-12-22",
+          "label": "Dec 22, 05",
+          "close": 10.57
+        },
+        {
+          "date": "2005-12-23",
+          "label": "Dec 23, 05",
+          "close": 10.48
+        },
+        {
+          "date": "2005-12-27",
+          "label": "Dec 27, 05",
+          "close": 10.6
+        },
+        {
+          "date": "2005-12-28",
+          "label": "Dec 28, 05",
+          "close": 10.51
+        },
+        {
+          "date": "2005-12-29",
+          "label": "Dec 29, 05",
+          "close": 10.21
+        },
+        {
+          "date": "2005-12-30",
+          "label": "Dec 30, 05",
+          "close": 10.27
+        },
+        {
+          "date": "2006-01-03",
+          "label": "Jan 3, 06",
+          "close": 10.68
+        },
+        {
+          "date": "2006-01-04",
+          "label": "Jan 4, 06",
+          "close": 10.71
+        },
+        {
+          "date": "2006-01-05",
+          "label": "Jan 5, 06",
+          "close": 10.63
+        },
+        {
+          "date": "2006-01-06",
+          "label": "Jan 6, 06",
+          "close": 10.9
+        },
+        {
+          "date": "2006-01-09",
+          "label": "Jan 9, 06",
+          "close": 10.86
+        },
+        {
+          "date": "2006-01-10",
+          "label": "Jan 10, 06",
+          "close": 11.55
+        },
+        {
+          "date": "2006-01-11",
+          "label": "Jan 11, 06",
+          "close": 11.99
+        },
+        {
+          "date": "2006-01-12",
+          "label": "Jan 12, 06",
+          "close": 12.04
+        },
+        {
+          "date": "2006-01-13",
+          "label": "Jan 13, 06",
+          "close": 12.23
+        },
+        {
+          "date": "2006-01-17",
+          "label": "Jan 17, 06",
+          "close": 12.1
+        },
+        {
+          "date": "2006-01-18",
+          "label": "Jan 18, 06",
+          "close": 11.78
+        },
+        {
+          "date": "2006-01-19",
+          "label": "Jan 19, 06",
+          "close": 11.29
+        },
+        {
+          "date": "2006-01-20",
+          "label": "Jan 20, 06",
+          "close": 10.87
+        },
+        {
+          "date": "2006-01-23",
+          "label": "Jan 23, 06",
+          "close": 11.1
+        },
+        {
+          "date": "2006-01-24",
+          "label": "Jan 24, 06",
+          "close": 10.86
+        },
+        {
+          "date": "2006-01-25",
+          "label": "Jan 25, 06",
+          "close": 10.6
+        },
+        {
+          "date": "2006-01-26",
+          "label": "Jan 26, 06",
+          "close": 10.33
+        },
+        {
+          "date": "2006-01-27",
+          "label": "Jan 27, 06",
+          "close": 10.29
+        },
+        {
+          "date": "2006-01-30",
+          "label": "Jan 30, 06",
+          "close": 10.71
+        },
+        {
+          "date": "2006-01-31",
+          "label": "Jan 31, 06",
+          "close": 10.79
+        },
+        {
+          "date": "2006-02-01",
+          "label": "Feb 1, 06",
+          "close": 10.77
+        },
+        {
+          "date": "2006-02-02",
+          "label": "Feb 2, 06",
+          "close": 10.3
+        },
+        {
+          "date": "2006-02-03",
+          "label": "Feb 3, 06",
+          "close": 10.26
+        },
+        {
+          "date": "2006-02-06",
+          "label": "Feb 6, 06",
+          "close": 9.61
+        },
+        {
+          "date": "2006-02-07",
+          "label": "Feb 7, 06",
+          "close": 9.66
+        },
+        {
+          "date": "2006-02-08",
+          "label": "Feb 8, 06",
+          "close": 9.83
+        },
+        {
+          "date": "2006-02-09",
+          "label": "Feb 9, 06",
+          "close": 9.28
+        },
+        {
+          "date": "2006-02-10",
+          "label": "Feb 10, 06",
+          "close": 9.62
+        },
+        {
+          "date": "2006-02-13",
+          "label": "Feb 13, 06",
+          "close": 9.24
+        },
+        {
+          "date": "2006-02-14",
+          "label": "Feb 14, 06",
+          "close": 9.66
+        },
+        {
+          "date": "2006-02-15",
+          "label": "Feb 15, 06",
+          "close": 9.89
+        },
+        {
+          "date": "2006-02-16",
+          "label": "Feb 16, 06",
+          "close": 10.08
+        },
+        {
+          "date": "2006-02-17",
+          "label": "Feb 17, 06",
+          "close": 10.04
+        },
+        {
+          "date": "2006-02-21",
+          "label": "Feb 21, 06",
+          "close": 9.87
+        },
+        {
+          "date": "2006-02-22",
+          "label": "Feb 22, 06",
+          "close": 10.19
+        },
+        {
+          "date": "2006-02-23",
+          "label": "Feb 23, 06",
+          "close": 10.25
+        },
+        {
+          "date": "2006-02-24",
+          "label": "Feb 24, 06",
+          "close": 10.21
+        },
+        {
+          "date": "2006-02-27",
+          "label": "Feb 27, 06",
+          "close": 10.14
+        },
+        {
+          "date": "2006-02-28",
+          "label": "Feb 28, 06",
+          "close": 9.78
+        },
+        {
+          "date": "2006-03-01",
+          "label": "Mar 1, 06",
+          "close": 9.87
+        },
+        {
+          "date": "2006-03-02",
+          "label": "Mar 2, 06",
+          "close": 9.94
+        },
+        {
+          "date": "2006-03-03",
+          "label": "Mar 3, 06",
+          "close": 9.67
+        },
+        {
+          "date": "2006-03-06",
+          "label": "Mar 6, 06",
+          "close": 9.35
+        },
+        {
+          "date": "2006-03-07",
+          "label": "Mar 7, 06",
+          "close": 9.47
+        },
+        {
+          "date": "2006-03-08",
+          "label": "Mar 8, 06",
+          "close": 9.38
+        },
+        {
+          "date": "2006-03-09",
+          "label": "Mar 9, 06",
+          "close": 9.13
+        },
+        {
+          "date": "2006-03-10",
+          "label": "Mar 10, 06",
+          "close": 9.03
+        },
+        {
+          "date": "2006-03-13",
+          "label": "Mar 13, 06",
+          "close": 9.38
+        },
+        {
+          "date": "2006-03-14",
+          "label": "Mar 14, 06",
+          "close": 9.62
+        },
+        {
+          "date": "2006-03-15",
+          "label": "Mar 15, 06",
+          "close": 9.46
+        },
+        {
+          "date": "2006-03-16",
+          "label": "Mar 16, 06",
+          "close": 9.19
+        },
+        {
+          "date": "2006-03-17",
+          "label": "Mar 17, 06",
+          "close": 9.24
+        },
+        {
+          "date": "2006-03-20",
+          "label": "Mar 20, 06",
+          "close": 9.14
+        },
+        {
+          "date": "2006-03-21",
+          "label": "Mar 21, 06",
+          "close": 8.83
+        },
+        {
+          "date": "2006-03-22",
+          "label": "Mar 22, 06",
+          "close": 8.81
+        },
+        {
+          "date": "2006-03-23",
+          "label": "Mar 23, 06",
+          "close": 8.59
+        },
+        {
+          "date": "2006-03-24",
+          "label": "Mar 24, 06",
+          "close": 8.57
+        },
+        {
+          "date": "2006-03-27",
+          "label": "Mar 27, 06",
+          "close": 8.5
+        },
+        {
+          "date": "2006-03-28",
+          "label": "Mar 28, 06",
+          "close": 8.39
+        },
+        {
+          "date": "2006-03-29",
+          "label": "Mar 29, 06",
+          "close": 8.9
+        },
+        {
+          "date": "2006-03-30",
+          "label": "Mar 30, 06",
+          "close": 8.96
+        },
+        {
+          "date": "2006-03-31",
+          "label": "Mar 31, 06",
+          "close": 8.96
+        },
+        {
+          "date": "2006-04-03",
+          "label": "Apr 3, 06",
+          "close": 8.95
+        },
+        {
+          "date": "2006-04-04",
+          "label": "Apr 4, 06",
+          "close": 8.74
+        },
+        {
+          "date": "2006-04-05",
+          "label": "Apr 5, 06",
+          "close": 9.6
+        },
+        {
+          "date": "2006-04-06",
+          "label": "Apr 6, 06",
+          "close": 10.18
+        },
+        {
+          "date": "2006-04-07",
+          "label": "Apr 7, 06",
+          "close": 9.97
+        },
+        {
+          "date": "2006-04-10",
+          "label": "Apr 10, 06",
+          "close": 9.81
+        },
+        {
+          "date": "2006-04-11",
+          "label": "Apr 11, 06",
+          "close": 9.71
+        },
+        {
+          "date": "2006-04-12",
+          "label": "Apr 12, 06",
+          "close": 9.53
+        },
+        {
+          "date": "2006-04-13",
+          "label": "Apr 13, 06",
+          "close": 9.5
+        },
+        {
+          "date": "2006-04-17",
+          "label": "Apr 17, 06",
+          "close": 9.26
+        },
+        {
+          "date": "2006-04-18",
+          "label": "Apr 18, 06",
+          "close": 9.46
+        },
+        {
+          "date": "2006-04-19",
+          "label": "Apr 19, 06",
+          "close": 9.38
+        },
+        {
+          "date": "2006-04-20",
+          "label": "Apr 20, 06",
+          "close": 9.66
+        },
+        {
+          "date": "2006-04-21",
+          "label": "Apr 21, 06",
+          "close": 9.58
+        },
+        {
+          "date": "2006-04-24",
+          "label": "Apr 24, 06",
+          "close": 9.39
+        },
+        {
+          "date": "2006-04-25",
+          "label": "Apr 25, 06",
+          "close": 9.45
+        },
+        {
+          "date": "2006-04-26",
+          "label": "Apr 26, 06",
+          "close": 9.74
+        },
+        {
+          "date": "2006-04-27",
+          "label": "Apr 27, 06",
+          "close": 9.91
+        },
+        {
+          "date": "2006-04-28",
+          "label": "Apr 28, 06",
+          "close": 10.06
+        },
+        {
+          "date": "2006-05-01",
+          "label": "May 1, 06",
+          "close": 9.94
+        },
+        {
+          "date": "2006-05-02",
+          "label": "May 2, 06",
+          "close": 10.23
+        },
+        {
+          "date": "2006-05-03",
+          "label": "May 3, 06",
+          "close": 10.16
+        },
+        {
+          "date": "2006-05-04",
+          "label": "May 4, 06",
+          "close": 10.16
+        },
+        {
+          "date": "2006-05-05",
+          "label": "May 5, 06",
+          "close": 10.27
+        },
+        {
+          "date": "2006-05-08",
+          "label": "May 8, 06",
+          "close": 10.27
+        },
+        {
+          "date": "2006-05-09",
+          "label": "May 9, 06",
+          "close": 10.15
+        },
+        {
+          "date": "2006-05-10",
+          "label": "May 10, 06",
+          "close": 10.09
+        },
+        {
+          "date": "2006-05-11",
+          "label": "May 11, 06",
+          "close": 9.74
+        },
+        {
+          "date": "2006-05-12",
+          "label": "May 12, 06",
+          "close": 9.67
+        },
+        {
+          "date": "2006-05-15",
+          "label": "May 15, 06",
+          "close": 9.68
+        },
+        {
+          "date": "2006-05-16",
+          "label": "May 16, 06",
+          "close": 9.28
+        },
+        {
+          "date": "2006-05-17",
+          "label": "May 17, 06",
+          "close": 9.32
+        },
+        {
+          "date": "2006-05-18",
+          "label": "May 18, 06",
+          "close": 9.03
+        },
+        {
+          "date": "2006-05-19",
+          "label": "May 19, 06",
+          "close": 9.22
+        },
+        {
+          "date": "2006-05-22",
+          "label": "May 22, 06",
+          "close": 9.05
+        },
+        {
+          "date": "2006-05-23",
+          "label": "May 23, 06",
+          "close": 9.02
+        },
+        {
+          "date": "2006-05-24",
+          "label": "May 24, 06",
+          "close": 9.05
+        },
+        {
+          "date": "2006-05-25",
+          "label": "May 25, 06",
+          "close": 9.19
+        },
+        {
+          "date": "2006-05-26",
+          "label": "May 26, 06",
+          "close": 9.08
+        },
+        {
+          "date": "2006-05-30",
+          "label": "May 30, 06",
+          "close": 8.75
+        },
+        {
+          "date": "2006-05-31",
+          "label": "May 31, 06",
+          "close": 8.54
+        },
+        {
+          "date": "2006-06-01",
+          "label": "Jun 1, 06",
+          "close": 8.88
+        },
+        {
+          "date": "2006-06-02",
+          "label": "Jun 2, 06",
+          "close": 8.81
+        },
+        {
+          "date": "2006-06-05",
+          "label": "Jun 5, 06",
+          "close": 8.57
+        },
+        {
+          "date": "2006-06-06",
+          "label": "Jun 6, 06",
+          "close": 8.53
+        },
+        {
+          "date": "2006-06-07",
+          "label": "Jun 7, 06",
+          "close": 8.37
+        },
+        {
+          "date": "2006-06-08",
+          "label": "Jun 8, 06",
+          "close": 8.68
+        },
+        {
+          "date": "2006-06-09",
+          "label": "Jun 9, 06",
+          "close": 8.46
+        },
+        {
+          "date": "2006-06-12",
+          "label": "Jun 12, 06",
+          "close": 8.14
+        },
+        {
+          "date": "2006-06-13",
+          "label": "Jun 13, 06",
+          "close": 8.33
+        },
+        {
+          "date": "2006-06-14",
+          "label": "Jun 14, 06",
+          "close": 8.23
+        },
+        {
+          "date": "2006-06-15",
+          "label": "Jun 15, 06",
+          "close": 8.48
+        },
+        {
+          "date": "2006-06-16",
+          "label": "Jun 16, 06",
+          "close": 8.22
+        },
+        {
+          "date": "2006-06-19",
+          "label": "Jun 19, 06",
+          "close": 8.17
+        },
+        {
+          "date": "2006-06-20",
+          "label": "Jun 20, 06",
+          "close": 8.21
+        },
+        {
+          "date": "2006-06-21",
+          "label": "Jun 21, 06",
+          "close": 8.27
+        },
+        {
+          "date": "2006-06-22",
+          "label": "Jun 22, 06",
+          "close": 8.51
+        },
+        {
+          "date": "2006-06-23",
+          "label": "Jun 23, 06",
+          "close": 8.4
+        },
+        {
+          "date": "2006-06-26",
+          "label": "Jun 26, 06",
+          "close": 8.43
+        },
+        {
+          "date": "2006-06-27",
+          "label": "Jun 27, 06",
+          "close": 8.2
+        },
+        {
+          "date": "2006-06-28",
+          "label": "Jun 28, 06",
+          "close": 8
+        },
+        {
+          "date": "2006-06-29",
+          "label": "Jun 29, 06",
+          "close": 8.42
+        },
+        {
+          "date": "2006-06-30",
+          "label": "Jun 30, 06",
+          "close": 8.18
+        },
+        {
+          "date": "2006-07-03",
+          "label": "Jul 3, 06",
+          "close": 8.28
+        },
+        {
+          "date": "2006-07-05",
+          "label": "Jul 5, 06",
+          "close": 8.14
+        },
+        {
+          "date": "2006-07-06",
+          "label": "Jul 6, 06",
+          "close": 7.97
+        },
+        {
+          "date": "2006-07-07",
+          "label": "Jul 7, 06",
+          "close": 7.91
+        },
+        {
+          "date": "2006-07-10",
+          "label": "Jul 10, 06",
+          "close": 7.86
+        },
+        {
+          "date": "2006-07-11",
+          "label": "Jul 11, 06",
+          "close": 7.95
+        },
+        {
+          "date": "2006-07-12",
+          "label": "Jul 12, 06",
+          "close": 7.57
+        },
+        {
+          "date": "2006-07-13",
+          "label": "Jul 13, 06",
+          "close": 7.46
+        },
+        {
+          "date": "2006-07-14",
+          "label": "Jul 14, 06",
+          "close": 7.24
+        },
+        {
+          "date": "2006-07-17",
+          "label": "Jul 17, 06",
+          "close": 7.48
+        },
+        {
+          "date": "2006-07-18",
+          "label": "Jul 18, 06",
+          "close": 7.56
+        },
+        {
+          "date": "2006-07-19",
+          "label": "Jul 19, 06",
+          "close": 7.73
+        },
+        {
+          "date": "2006-07-20",
+          "label": "Jul 20, 06",
+          "close": 8.64
+        },
+        {
+          "date": "2006-07-21",
+          "label": "Jul 21, 06",
+          "close": 8.67
+        },
+        {
+          "date": "2006-07-24",
+          "label": "Jul 24, 06",
+          "close": 8.77
+        },
+        {
+          "date": "2006-07-25",
+          "label": "Jul 25, 06",
+          "close": 8.85
+        },
+        {
+          "date": "2006-07-26",
+          "label": "Jul 26, 06",
+          "close": 9.12
+        },
+        {
+          "date": "2006-07-27",
+          "label": "Jul 27, 06",
+          "close": 9.06
+        },
+        {
+          "date": "2006-07-28",
+          "label": "Jul 28, 06",
+          "close": 9.37
+        },
+        {
+          "date": "2006-07-31",
+          "label": "Jul 31, 06",
+          "close": 9.71
+        },
+        {
+          "date": "2006-08-01",
+          "label": "Aug 1, 06",
+          "close": 9.6
+        },
+        {
+          "date": "2006-08-02",
+          "label": "Aug 2, 06",
+          "close": 9.74
+        },
+        {
+          "date": "2006-08-03",
+          "label": "Aug 3, 06",
+          "close": 9.94
+        },
+        {
+          "date": "2006-08-04",
+          "label": "Aug 4, 06",
+          "close": 9.76
+        },
+        {
+          "date": "2006-08-07",
+          "label": "Aug 7, 06",
+          "close": 9.6
+        },
+        {
+          "date": "2006-08-08",
+          "label": "Aug 8, 06",
+          "close": 9.25
+        },
+        {
+          "date": "2006-08-09",
+          "label": "Aug 9, 06",
+          "close": 9.08
+        },
+        {
+          "date": "2006-08-10",
+          "label": "Aug 10, 06",
+          "close": 9.15
+        },
+        {
+          "date": "2006-08-11",
+          "label": "Aug 11, 06",
+          "close": 9.09
+        },
+        {
+          "date": "2006-08-14",
+          "label": "Aug 14, 06",
+          "close": 9.13
+        },
+        {
+          "date": "2006-08-15",
+          "label": "Aug 15, 06",
+          "close": 9.49
+        },
+        {
+          "date": "2006-08-16",
+          "label": "Aug 16, 06",
+          "close": 9.71
+        },
+        {
+          "date": "2006-08-17",
+          "label": "Aug 17, 06",
+          "close": 9.66
+        },
+        {
+          "date": "2006-08-18",
+          "label": "Aug 18, 06",
+          "close": 9.7
+        },
+        {
+          "date": "2006-08-21",
+          "label": "Aug 21, 06",
+          "close": 9.51
+        },
+        {
+          "date": "2006-08-22",
+          "label": "Aug 22, 06",
+          "close": 9.66
+        },
+        {
+          "date": "2006-08-23",
+          "label": "Aug 23, 06",
+          "close": 9.62
+        },
+        {
+          "date": "2006-08-24",
+          "label": "Aug 24, 06",
+          "close": 9.69
+        },
+        {
+          "date": "2006-08-25",
+          "label": "Aug 25, 06",
+          "close": 9.82
+        },
+        {
+          "date": "2006-08-28",
+          "label": "Aug 28, 06",
+          "close": 9.57
+        },
+        {
+          "date": "2006-08-29",
+          "label": "Aug 29, 06",
+          "close": 9.5
+        },
+        {
+          "date": "2006-08-30",
+          "label": "Aug 30, 06",
+          "close": 9.57
+        },
+        {
+          "date": "2006-08-31",
+          "label": "Aug 31, 06",
+          "close": 9.69
+        },
+        {
+          "date": "2006-09-01",
+          "label": "Sep 1, 06",
+          "close": 9.77
+        },
+        {
+          "date": "2006-09-05",
+          "label": "Sep 5, 06",
+          "close": 10.21
+        },
+        {
+          "date": "2006-09-06",
+          "label": "Sep 6, 06",
+          "close": 10
+        },
+        {
+          "date": "2006-09-07",
+          "label": "Sep 7, 06",
+          "close": 10.4
+        },
+        {
+          "date": "2006-09-08",
+          "label": "Sep 8, 06",
+          "close": 10.36
+        },
+        {
+          "date": "2006-09-11",
+          "label": "Sep 11, 06",
+          "close": 10.36
+        },
+        {
+          "date": "2006-09-12",
+          "label": "Sep 12, 06",
+          "close": 10.38
+        },
+        {
+          "date": "2006-09-13",
+          "label": "Sep 13, 06",
+          "close": 10.6
+        },
+        {
+          "date": "2006-09-14",
+          "label": "Sep 14, 06",
+          "close": 10.6
+        },
+        {
+          "date": "2006-09-15",
+          "label": "Sep 15, 06",
+          "close": 10.59
+        },
+        {
+          "date": "2006-09-18",
+          "label": "Sep 18, 06",
+          "close": 10.56
+        },
+        {
+          "date": "2006-09-19",
+          "label": "Sep 19, 06",
+          "close": 10.54
+        },
+        {
+          "date": "2006-09-20",
+          "label": "Sep 20, 06",
+          "close": 10.75
+        },
+        {
+          "date": "2006-09-21",
+          "label": "Sep 21, 06",
+          "close": 10.66
+        },
+        {
+          "date": "2006-09-22",
+          "label": "Sep 22, 06",
+          "close": 10.43
+        },
+        {
+          "date": "2006-09-25",
+          "label": "Sep 25, 06",
+          "close": 10.82
+        },
+        {
+          "date": "2006-09-26",
+          "label": "Sep 26, 06",
+          "close": 11.09
+        },
+        {
+          "date": "2006-09-27",
+          "label": "Sep 27, 06",
+          "close": 10.92
+        },
+        {
+          "date": "2006-09-28",
+          "label": "Sep 28, 06",
+          "close": 11
+        },
+        {
+          "date": "2006-09-29",
+          "label": "Sep 29, 06",
+          "close": 11
+        },
+        {
+          "date": "2006-10-02",
+          "label": "Oct 2, 06",
+          "close": 10.69
+        },
+        {
+          "date": "2006-10-03",
+          "label": "Oct 3, 06",
+          "close": 10.58
+        },
+        {
+          "date": "2006-10-04",
+          "label": "Oct 4, 06",
+          "close": 10.77
+        },
+        {
+          "date": "2006-10-05",
+          "label": "Oct 5, 06",
+          "close": 10.69
+        },
+        {
+          "date": "2006-10-06",
+          "label": "Oct 6, 06",
+          "close": 10.6
+        },
+        {
+          "date": "2006-10-09",
+          "label": "Oct 9, 06",
+          "close": 10.66
+        },
+        {
+          "date": "2006-10-10",
+          "label": "Oct 10, 06",
+          "close": 10.54
+        },
+        {
+          "date": "2006-10-11",
+          "label": "Oct 11, 06",
+          "close": 10.46
+        },
+        {
+          "date": "2006-10-12",
+          "label": "Oct 12, 06",
+          "close": 10.75
+        },
+        {
+          "date": "2006-10-13",
+          "label": "Oct 13, 06",
+          "close": 10.72
+        },
+        {
+          "date": "2006-10-16",
+          "label": "Oct 16, 06",
+          "close": 10.77
+        },
+        {
+          "date": "2006-10-17",
+          "label": "Oct 17, 06",
+          "close": 10.61
+        },
+        {
+          "date": "2006-10-18",
+          "label": "Oct 18, 06",
+          "close": 10.65
+        },
+        {
+          "date": "2006-10-19",
+          "label": "Oct 19, 06",
+          "close": 11.28
+        },
+        {
+          "date": "2006-10-20",
+          "label": "Oct 20, 06",
+          "close": 11.42
+        },
+        {
+          "date": "2006-10-23",
+          "label": "Oct 23, 06",
+          "close": 11.64
+        },
+        {
+          "date": "2006-10-24",
+          "label": "Oct 24, 06",
+          "close": 11.58
+        },
+        {
+          "date": "2006-10-25",
+          "label": "Oct 25, 06",
+          "close": 11.67
+        },
+        {
+          "date": "2006-10-26",
+          "label": "Oct 26, 06",
+          "close": 11.74
+        },
+        {
+          "date": "2006-10-27",
+          "label": "Oct 27, 06",
+          "close": 11.49
+        },
+        {
+          "date": "2006-10-30",
+          "label": "Oct 30, 06",
+          "close": 11.49
+        },
+        {
+          "date": "2006-10-31",
+          "label": "Oct 31, 06",
+          "close": 11.58
+        },
+        {
+          "date": "2006-11-01",
+          "label": "Nov 1, 06",
+          "close": 11.31
+        },
+        {
+          "date": "2006-11-02",
+          "label": "Nov 2, 06",
+          "close": 11.28
+        },
+        {
+          "date": "2006-11-03",
+          "label": "Nov 3, 06",
+          "close": 11.18
+        },
+        {
+          "date": "2006-11-06",
+          "label": "Nov 6, 06",
+          "close": 11.39
+        },
+        {
+          "date": "2006-11-07",
+          "label": "Nov 7, 06",
+          "close": 11.5
+        },
+        {
+          "date": "2006-11-08",
+          "label": "Nov 8, 06",
+          "close": 11.78
+        },
+        {
+          "date": "2006-11-09",
+          "label": "Nov 9, 06",
+          "close": 11.91
+        },
+        {
+          "date": "2006-11-10",
+          "label": "Nov 10, 06",
+          "close": 11.87
+        },
+        {
+          "date": "2006-11-13",
+          "label": "Nov 13, 06",
+          "close": 12.05
+        },
+        {
+          "date": "2006-11-14",
+          "label": "Nov 14, 06",
+          "close": 12.14
+        },
+        {
+          "date": "2006-11-15",
+          "label": "Nov 15, 06",
+          "close": 12.01
+        },
+        {
+          "date": "2006-11-16",
+          "label": "Nov 16, 06",
+          "close": 12.23
+        },
+        {
+          "date": "2006-11-17",
+          "label": "Nov 17, 06",
+          "close": 12.26
+        },
+        {
+          "date": "2006-11-20",
+          "label": "Nov 20, 06",
+          "close": 12.35
+        },
+        {
+          "date": "2006-11-21",
+          "label": "Nov 21, 06",
+          "close": 12.66
+        },
+        {
+          "date": "2006-11-22",
+          "label": "Nov 22, 06",
+          "close": 12.9
+        },
+        {
+          "date": "2006-11-24",
+          "label": "Nov 24, 06",
+          "close": 13.09
+        },
+        {
+          "date": "2006-11-27",
+          "label": "Nov 27, 06",
+          "close": 12.79
+        },
+        {
+          "date": "2006-11-28",
+          "label": "Nov 28, 06",
+          "close": 13.12
+        },
+        {
+          "date": "2006-11-29",
+          "label": "Nov 29, 06",
+          "close": 13.11
+        },
+        {
+          "date": "2006-11-30",
+          "label": "Nov 30, 06",
+          "close": 13.09
+        },
+        {
+          "date": "2006-12-01",
+          "label": "Dec 1, 06",
+          "close": 13.05
+        },
+        {
+          "date": "2006-12-04",
+          "label": "Dec 4, 06",
+          "close": 13.02
+        },
+        {
+          "date": "2006-12-05",
+          "label": "Dec 5, 06",
+          "close": 13.04
+        },
+        {
+          "date": "2006-12-06",
+          "label": "Dec 6, 06",
+          "close": 12.83
+        },
+        {
+          "date": "2006-12-07",
+          "label": "Dec 7, 06",
+          "close": 12.43
+        },
+        {
+          "date": "2006-12-08",
+          "label": "Dec 8, 06",
+          "close": 12.61
+        },
+        {
+          "date": "2006-12-11",
+          "label": "Dec 11, 06",
+          "close": 12.68
+        },
+        {
+          "date": "2006-12-12",
+          "label": "Dec 12, 06",
+          "close": 12.31
+        },
+        {
+          "date": "2006-12-13",
+          "label": "Dec 13, 06",
+          "close": 12.72
+        },
+        {
+          "date": "2006-12-14",
+          "label": "Dec 14, 06",
+          "close": 12.65
+        },
+        {
+          "date": "2006-12-15",
+          "label": "Dec 15, 06",
+          "close": 12.53
+        },
+        {
+          "date": "2006-12-18",
+          "label": "Dec 18, 06",
+          "close": 12.21
+        },
+        {
+          "date": "2006-12-19",
+          "label": "Dec 19, 06",
+          "close": 12.33
+        },
+        {
+          "date": "2006-12-20",
+          "label": "Dec 20, 06",
+          "close": 12.11
+        },
+        {
+          "date": "2006-12-21",
+          "label": "Dec 21, 06",
+          "close": 11.84
+        },
+        {
+          "date": "2006-12-22",
+          "label": "Dec 22, 06",
+          "close": 11.74
+        },
+        {
+          "date": "2006-12-26",
+          "label": "Dec 26, 06",
+          "close": 11.64
+        },
+        {
+          "date": "2006-12-27",
+          "label": "Dec 27, 06",
+          "close": 11.65
+        },
+        {
+          "date": "2006-12-28",
+          "label": "Dec 28, 06",
+          "close": 11.55
+        },
+        {
+          "date": "2006-12-29",
+          "label": "Dec 29, 06",
+          "close": 12.12
+        },
+        {
+          "date": "2007-01-03",
+          "label": "Jan 3, 07",
+          "close": 11.97
+        },
+        {
+          "date": "2007-01-04",
+          "label": "Jan 4, 07",
+          "close": 12.24
+        },
+        {
+          "date": "2007-01-05",
+          "label": "Jan 5, 07",
+          "close": 12.15
+        },
+        {
+          "date": "2007-01-08",
+          "label": "Jan 8, 07",
+          "close": 12.21
+        },
+        {
+          "date": "2007-01-09",
+          "label": "Jan 9, 07",
+          "close": 13.22
+        },
+        {
+          "date": "2007-01-10",
+          "label": "Jan 10, 07",
+          "close": 13.86
+        },
+        {
+          "date": "2007-01-11",
+          "label": "Jan 11, 07",
+          "close": 13.69
+        },
+        {
+          "date": "2007-01-12",
+          "label": "Jan 12, 07",
+          "close": 13.52
+        },
+        {
+          "date": "2007-01-16",
+          "label": "Jan 16, 07",
+          "close": 13.87
+        },
+        {
+          "date": "2007-01-17",
+          "label": "Jan 17, 07",
+          "close": 13.56
+        },
+        {
+          "date": "2007-01-18",
+          "label": "Jan 18, 07",
+          "close": 12.72
+        },
+        {
+          "date": "2007-01-19",
+          "label": "Jan 19, 07",
+          "close": 12.64
+        },
+        {
+          "date": "2007-01-22",
+          "label": "Jan 22, 07",
+          "close": 12.4
+        },
+        {
+          "date": "2007-01-23",
+          "label": "Jan 23, 07",
+          "close": 12.24
+        },
+        {
+          "date": "2007-01-24",
+          "label": "Jan 24, 07",
+          "close": 12.39
+        },
+        {
+          "date": "2007-01-25",
+          "label": "Jan 25, 07",
+          "close": 12.32
+        },
+        {
+          "date": "2007-01-26",
+          "label": "Jan 26, 07",
+          "close": 12.2
+        },
+        {
+          "date": "2007-01-29",
+          "label": "Jan 29, 07",
+          "close": 12.28
+        },
+        {
+          "date": "2007-01-30",
+          "label": "Jan 30, 07",
+          "close": 12.22
+        },
+        {
+          "date": "2007-01-31",
+          "label": "Jan 31, 07",
+          "close": 12.25
+        },
+        {
+          "date": "2007-02-01",
+          "label": "Feb 1, 07",
+          "close": 12.11
+        },
+        {
+          "date": "2007-02-02",
+          "label": "Feb 2, 07",
+          "close": 12.11
+        },
+        {
+          "date": "2007-02-05",
+          "label": "Feb 5, 07",
+          "close": 11.99
+        },
+        {
+          "date": "2007-02-06",
+          "label": "Feb 6, 07",
+          "close": 12.02
+        },
+        {
+          "date": "2007-02-07",
+          "label": "Feb 7, 07",
+          "close": 12.31
+        },
+        {
+          "date": "2007-02-08",
+          "label": "Feb 8, 07",
+          "close": 12.31
+        },
+        {
+          "date": "2007-02-09",
+          "label": "Feb 9, 07",
+          "close": 11.9
+        },
+        {
+          "date": "2007-02-12",
+          "label": "Feb 12, 07",
+          "close": 12.13
+        },
+        {
+          "date": "2007-02-13",
+          "label": "Feb 13, 07",
+          "close": 12.09
+        },
+        {
+          "date": "2007-02-14",
+          "label": "Feb 14, 07",
+          "close": 12.19
+        },
+        {
+          "date": "2007-02-15",
+          "label": "Feb 15, 07",
+          "close": 12.17
+        },
+        {
+          "date": "2007-02-16",
+          "label": "Feb 16, 07",
+          "close": 12.12
+        },
+        {
+          "date": "2007-02-20",
+          "label": "Feb 20, 07",
+          "close": 12.27
+        },
+        {
+          "date": "2007-02-21",
+          "label": "Feb 21, 07",
+          "close": 12.74
+        },
+        {
+          "date": "2007-02-22",
+          "label": "Feb 22, 07",
+          "close": 12.79
+        },
+        {
+          "date": "2007-02-23",
+          "label": "Feb 23, 07",
+          "close": 12.72
+        },
+        {
+          "date": "2007-02-26",
+          "label": "Feb 26, 07",
+          "close": 12.66
+        },
+        {
+          "date": "2007-02-27",
+          "label": "Feb 27, 07",
+          "close": 11.99
+        },
+        {
+          "date": "2007-02-28",
+          "label": "Feb 28, 07",
+          "close": 12.09
+        },
+        {
+          "date": "2007-03-01",
+          "label": "Mar 1, 07",
+          "close": 12.44
+        },
+        {
+          "date": "2007-03-02",
+          "label": "Mar 2, 07",
+          "close": 12.2
+        },
+        {
+          "date": "2007-03-05",
+          "label": "Mar 5, 07",
+          "close": 12.33
+        },
+        {
+          "date": "2007-03-06",
+          "label": "Mar 6, 07",
+          "close": 12.6
+        },
+        {
+          "date": "2007-03-07",
+          "label": "Mar 7, 07",
+          "close": 12.53
+        },
+        {
+          "date": "2007-03-08",
+          "label": "Mar 8, 07",
+          "close": 12.57
+        },
+        {
+          "date": "2007-03-09",
+          "label": "Mar 9, 07",
+          "close": 12.57
+        },
+        {
+          "date": "2007-03-12",
+          "label": "Mar 12, 07",
+          "close": 12.84
+        },
+        {
+          "date": "2007-03-13",
+          "label": "Mar 13, 07",
+          "close": 12.63
+        },
+        {
+          "date": "2007-03-14",
+          "label": "Mar 14, 07",
+          "close": 12.86
+        },
+        {
+          "date": "2007-03-15",
+          "label": "Mar 15, 07",
+          "close": 12.8
+        },
+        {
+          "date": "2007-03-16",
+          "label": "Mar 16, 07",
+          "close": 12.8
+        },
+        {
+          "date": "2007-03-19",
+          "label": "Mar 19, 07",
+          "close": 13.02
+        },
+        {
+          "date": "2007-03-20",
+          "label": "Mar 20, 07",
+          "close": 13.07
+        },
+        {
+          "date": "2007-03-21",
+          "label": "Mar 21, 07",
+          "close": 13.41
+        },
+        {
+          "date": "2007-03-22",
+          "label": "Mar 22, 07",
+          "close": 13.42
+        },
+        {
+          "date": "2007-03-23",
+          "label": "Mar 23, 07",
+          "close": 13.36
+        },
+        {
+          "date": "2007-03-26",
+          "label": "Mar 26, 07",
+          "close": 13.69
+        },
+        {
+          "date": "2007-03-27",
+          "label": "Mar 27, 07",
+          "close": 13.64
+        },
+        {
+          "date": "2007-03-28",
+          "label": "Mar 28, 07",
+          "close": 13.32
+        },
+        {
+          "date": "2007-03-29",
+          "label": "Mar 29, 07",
+          "close": 13.39
+        },
+        {
+          "date": "2007-03-30",
+          "label": "Mar 30, 07",
+          "close": 13.27
+        },
+        {
+          "date": "2007-04-02",
+          "label": "Apr 2, 07",
+          "close": 13.38
+        },
+        {
+          "date": "2007-04-03",
+          "label": "Apr 3, 07",
+          "close": 13.5
+        },
+        {
+          "date": "2007-04-04",
+          "label": "Apr 4, 07",
+          "close": 13.47
+        },
+        {
+          "date": "2007-04-05",
+          "label": "Apr 5, 07",
+          "close": 13.53
+        },
+        {
+          "date": "2007-04-09",
+          "label": "Apr 9, 07",
+          "close": 13.38
+        },
+        {
+          "date": "2007-04-10",
+          "label": "Apr 10, 07",
+          "close": 13.46
+        },
+        {
+          "date": "2007-04-11",
+          "label": "Apr 11, 07",
+          "close": 13.23
+        },
+        {
+          "date": "2007-04-12",
+          "label": "Apr 12, 07",
+          "close": 13.17
+        },
+        {
+          "date": "2007-04-13",
+          "label": "Apr 13, 07",
+          "close": 12.89
+        },
+        {
+          "date": "2007-04-16",
+          "label": "Apr 16, 07",
+          "close": 13.06
+        },
+        {
+          "date": "2007-04-17",
+          "label": "Apr 17, 07",
+          "close": 12.91
+        },
+        {
+          "date": "2007-04-18",
+          "label": "Apr 18, 07",
+          "close": 12.91
+        },
+        {
+          "date": "2007-04-19",
+          "label": "Apr 19, 07",
+          "close": 12.9
+        },
+        {
+          "date": "2007-04-20",
+          "label": "Apr 20, 07",
+          "close": 13
+        },
+        {
+          "date": "2007-04-23",
+          "label": "Apr 23, 07",
+          "close": 13.36
+        },
+        {
+          "date": "2007-04-24",
+          "label": "Apr 24, 07",
+          "close": 13.32
+        },
+        {
+          "date": "2007-04-25",
+          "label": "Apr 25, 07",
+          "close": 13.62
+        },
+        {
+          "date": "2007-04-26",
+          "label": "Apr 26, 07",
+          "close": 14.12
+        },
+        {
+          "date": "2007-04-27",
+          "label": "Apr 27, 07",
+          "close": 14.27
+        },
+        {
+          "date": "2007-04-30",
+          "label": "Apr 30, 07",
+          "close": 14.26
+        },
+        {
+          "date": "2007-05-01",
+          "label": "May 1, 07",
+          "close": 14.21
+        },
+        {
+          "date": "2007-05-02",
+          "label": "May 2, 07",
+          "close": 14.34
+        },
+        {
+          "date": "2007-05-03",
+          "label": "May 3, 07",
+          "close": 14.34
+        },
+        {
+          "date": "2007-05-04",
+          "label": "May 4, 07",
+          "close": 14.4
+        },
+        {
+          "date": "2007-05-07",
+          "label": "May 7, 07",
+          "close": 14.85
+        },
+        {
+          "date": "2007-05-08",
+          "label": "May 8, 07",
+          "close": 15.01
+        },
+        {
+          "date": "2007-05-09",
+          "label": "May 9, 07",
+          "close": 15.27
+        },
+        {
+          "date": "2007-05-10",
+          "label": "May 10, 07",
+          "close": 15.33
+        },
+        {
+          "date": "2007-05-11",
+          "label": "May 11, 07",
+          "close": 15.53
+        },
+        {
+          "date": "2007-05-14",
+          "label": "May 14, 07",
+          "close": 15.62
+        },
+        {
+          "date": "2007-05-15",
+          "label": "May 15, 07",
+          "close": 15.36
+        },
+        {
+          "date": "2007-05-16",
+          "label": "May 16, 07",
+          "close": 15.33
+        },
+        {
+          "date": "2007-05-17",
+          "label": "May 17, 07",
+          "close": 15.63
+        },
+        {
+          "date": "2007-05-18",
+          "label": "May 18, 07",
+          "close": 15.72
+        },
+        {
+          "date": "2007-05-21",
+          "label": "May 21, 07",
+          "close": 16
+        },
+        {
+          "date": "2007-05-22",
+          "label": "May 22, 07",
+          "close": 16.22
+        },
+        {
+          "date": "2007-05-23",
+          "label": "May 23, 07",
+          "close": 16.13
+        },
+        {
+          "date": "2007-05-24",
+          "label": "May 24, 07",
+          "close": 15.81
+        },
+        {
+          "date": "2007-05-25",
+          "label": "May 25, 07",
+          "close": 16.23
+        },
+        {
+          "date": "2007-05-29",
+          "label": "May 29, 07",
+          "close": 16.34
+        },
+        {
+          "date": "2007-05-30",
+          "label": "May 30, 07",
+          "close": 16.97
+        },
+        {
+          "date": "2007-05-31",
+          "label": "May 31, 07",
+          "close": 17.31
+        },
+        {
+          "date": "2007-06-01",
+          "label": "Jun 1, 07",
+          "close": 16.91
+        },
+        {
+          "date": "2007-06-04",
+          "label": "Jun 4, 07",
+          "close": 17.33
+        },
+        {
+          "date": "2007-06-05",
+          "label": "Jun 5, 07",
+          "close": 17.52
+        },
+        {
+          "date": "2007-06-06",
+          "label": "Jun 6, 07",
+          "close": 17.66
+        },
+        {
+          "date": "2007-06-07",
+          "label": "Jun 7, 07",
+          "close": 17.72
+        },
+        {
+          "date": "2007-06-08",
+          "label": "Jun 8, 07",
+          "close": 17.78
+        },
+        {
+          "date": "2007-06-11",
+          "label": "Jun 11, 07",
+          "close": 17.17
+        },
+        {
+          "date": "2007-06-12",
+          "label": "Jun 12, 07",
+          "close": 17.2
+        },
+        {
+          "date": "2007-06-13",
+          "label": "Jun 13, 07",
+          "close": 16.79
+        },
+        {
+          "date": "2007-06-14",
+          "label": "Jun 14, 07",
+          "close": 16.96
+        },
+        {
+          "date": "2007-06-15",
+          "label": "Jun 15, 07",
+          "close": 17.21
+        },
+        {
+          "date": "2007-06-18",
+          "label": "Jun 18, 07",
+          "close": 17.87
+        },
+        {
+          "date": "2007-06-19",
+          "label": "Jun 19, 07",
+          "close": 17.67
+        },
+        {
+          "date": "2007-06-20",
+          "label": "Jun 20, 07",
+          "close": 17.36
+        },
+        {
+          "date": "2007-06-21",
+          "label": "Jun 21, 07",
+          "close": 17.7
+        },
+        {
+          "date": "2007-06-22",
+          "label": "Jun 22, 07",
+          "close": 17.57
+        },
+        {
+          "date": "2007-06-25",
+          "label": "Jun 25, 07",
+          "close": 17.48
+        },
+        {
+          "date": "2007-06-26",
+          "label": "Jun 26, 07",
+          "close": 17.09
+        },
+        {
+          "date": "2007-06-27",
+          "label": "Jun 27, 07",
+          "close": 17.41
+        },
+        {
+          "date": "2007-06-28",
+          "label": "Jun 28, 07",
+          "close": 17.22
+        },
+        {
+          "date": "2007-06-29",
+          "label": "Jun 29, 07",
+          "close": 17.43
+        },
+        {
+          "date": "2007-07-02",
+          "label": "Jul 2, 07",
+          "close": 17.32
+        },
+        {
+          "date": "2007-07-03",
+          "label": "Jul 3, 07",
+          "close": 18.17
+        },
+        {
+          "date": "2007-07-05",
+          "label": "Jul 5, 07",
+          "close": 18.96
+        },
+        {
+          "date": "2007-07-06",
+          "label": "Jul 6, 07",
+          "close": 18.9
+        },
+        {
+          "date": "2007-07-09",
+          "label": "Jul 9, 07",
+          "close": 18.62
+        },
+        {
+          "date": "2007-07-10",
+          "label": "Jul 10, 07",
+          "close": 18.91
+        },
+        {
+          "date": "2007-07-11",
+          "label": "Jul 11, 07",
+          "close": 18.91
+        },
+        {
+          "date": "2007-07-12",
+          "label": "Jul 12, 07",
+          "close": 19.15
+        },
+        {
+          "date": "2007-07-13",
+          "label": "Jul 13, 07",
+          "close": 19.68
+        },
+        {
+          "date": "2007-07-16",
+          "label": "Jul 16, 07",
+          "close": 19.73
+        },
+        {
+          "date": "2007-07-17",
+          "label": "Jul 17, 07",
+          "close": 19.84
+        },
+        {
+          "date": "2007-07-18",
+          "label": "Jul 18, 07",
+          "close": 19.73
+        },
+        {
+          "date": "2007-07-19",
+          "label": "Jul 19, 07",
+          "close": 20
+        },
+        {
+          "date": "2007-07-20",
+          "label": "Jul 20, 07",
+          "close": 20.54
+        },
+        {
+          "date": "2007-07-23",
+          "label": "Jul 23, 07",
+          "close": 20.53
+        },
+        {
+          "date": "2007-07-24",
+          "label": "Jul 24, 07",
+          "close": 19.27
+        },
+        {
+          "date": "2007-07-25",
+          "label": "Jul 25, 07",
+          "close": 19.61
+        },
+        {
+          "date": "2007-07-26",
+          "label": "Jul 26, 07",
+          "close": 20.86
+        },
+        {
+          "date": "2007-07-27",
+          "label": "Jul 27, 07",
+          "close": 20.55
+        },
+        {
+          "date": "2007-07-30",
+          "label": "Jul 30, 07",
+          "close": 20.2
+        },
+        {
+          "date": "2007-07-31",
+          "label": "Jul 31, 07",
+          "close": 18.82
+        },
+        {
+          "date": "2007-08-01",
+          "label": "Aug 1, 07",
+          "close": 19.29
+        },
+        {
+          "date": "2007-08-02",
+          "label": "Aug 2, 07",
+          "close": 19.5
+        },
+        {
+          "date": "2007-08-03",
+          "label": "Aug 3, 07",
+          "close": 18.84
+        },
+        {
+          "date": "2007-08-06",
+          "label": "Aug 6, 07",
+          "close": 19.32
+        },
+        {
+          "date": "2007-08-07",
+          "label": "Aug 7, 07",
+          "close": 19.29
+        },
+        {
+          "date": "2007-08-08",
+          "label": "Aug 8, 07",
+          "close": 19.14
+        },
+        {
+          "date": "2007-08-09",
+          "label": "Aug 9, 07",
+          "close": 18.06
+        },
+        {
+          "date": "2007-08-10",
+          "label": "Aug 10, 07",
+          "close": 17.86
+        },
+        {
+          "date": "2007-08-13",
+          "label": "Aug 13, 07",
+          "close": 18.26
+        },
+        {
+          "date": "2007-08-14",
+          "label": "Aug 14, 07",
+          "close": 17.72
+        },
+        {
+          "date": "2007-08-15",
+          "label": "Aug 15, 07",
+          "close": 17.13
+        },
+        {
+          "date": "2007-08-16",
+          "label": "Aug 16, 07",
+          "close": 16.72
+        },
+        {
+          "date": "2007-08-17",
+          "label": "Aug 17, 07",
+          "close": 17.44
+        },
+        {
+          "date": "2007-08-20",
+          "label": "Aug 20, 07",
+          "close": 17.46
+        },
+        {
+          "date": "2007-08-21",
+          "label": "Aug 21, 07",
+          "close": 18.22
+        },
+        {
+          "date": "2007-08-22",
+          "label": "Aug 22, 07",
+          "close": 18.93
+        },
+        {
+          "date": "2007-08-23",
+          "label": "Aug 23, 07",
+          "close": 18.72
+        },
+        {
+          "date": "2007-08-24",
+          "label": "Aug 24, 07",
+          "close": 19.33
+        },
+        {
+          "date": "2007-08-27",
+          "label": "Aug 27, 07",
+          "close": 18.89
+        },
+        {
+          "date": "2007-08-28",
+          "label": "Aug 28, 07",
+          "close": 18.12
+        },
+        {
+          "date": "2007-08-29",
+          "label": "Aug 29, 07",
+          "close": 19.15
+        },
+        {
+          "date": "2007-08-30",
+          "label": "Aug 30, 07",
+          "close": 19.46
+        },
+        {
+          "date": "2007-08-31",
+          "label": "Aug 31, 07",
+          "close": 19.78
+        },
+        {
+          "date": "2007-09-04",
+          "label": "Sep 4, 07",
+          "close": 20.59
+        },
+        {
+          "date": "2007-09-05",
+          "label": "Sep 5, 07",
+          "close": 19.54
+        },
+        {
+          "date": "2007-09-06",
+          "label": "Sep 6, 07",
+          "close": 19.29
+        },
+        {
+          "date": "2007-09-07",
+          "label": "Sep 7, 07",
+          "close": 18.82
+        },
+        {
+          "date": "2007-09-10",
+          "label": "Sep 10, 07",
+          "close": 19.53
+        },
+        {
+          "date": "2007-09-11",
+          "label": "Sep 11, 07",
+          "close": 19.36
+        },
+        {
+          "date": "2007-09-12",
+          "label": "Sep 12, 07",
+          "close": 19.55
+        },
+        {
+          "date": "2007-09-13",
+          "label": "Sep 13, 07",
+          "close": 19.6
+        },
+        {
+          "date": "2007-09-14",
+          "label": "Sep 14, 07",
+          "close": 19.83
+        },
+        {
+          "date": "2007-09-17",
+          "label": "Sep 17, 07",
+          "close": 19.77
+        },
+        {
+          "date": "2007-09-18",
+          "label": "Sep 18, 07",
+          "close": 20.13
+        },
+        {
+          "date": "2007-09-19",
+          "label": "Sep 19, 07",
+          "close": 20.11
+        },
+        {
+          "date": "2007-09-20",
+          "label": "Sep 20, 07",
+          "close": 20.04
+        },
+        {
+          "date": "2007-09-21",
+          "label": "Sep 21, 07",
+          "close": 20.59
+        },
+        {
+          "date": "2007-09-24",
+          "label": "Sep 24, 07",
+          "close": 21.18
+        },
+        {
+          "date": "2007-09-25",
+          "label": "Sep 25, 07",
+          "close": 21.88
+        },
+        {
+          "date": "2007-09-26",
+          "label": "Sep 26, 07",
+          "close": 21.82
+        },
+        {
+          "date": "2007-09-27",
+          "label": "Sep 27, 07",
+          "close": 22.07
+        },
+        {
+          "date": "2007-09-28",
+          "label": "Sep 28, 07",
+          "close": 21.92
+        },
+        {
+          "date": "2007-10-01",
+          "label": "Oct 1, 07",
+          "close": 22.33
+        },
+        {
+          "date": "2007-10-02",
+          "label": "Oct 2, 07",
+          "close": 22.64
+        },
+        {
+          "date": "2007-10-03",
+          "label": "Oct 3, 07",
+          "close": 22.56
+        },
+        {
+          "date": "2007-10-04",
+          "label": "Oct 4, 07",
+          "close": 22.32
+        },
+        {
+          "date": "2007-10-05",
+          "label": "Oct 5, 07",
+          "close": 23.06
+        },
+        {
+          "date": "2007-10-08",
+          "label": "Oct 8, 07",
+          "close": 23.99
+        },
+        {
+          "date": "2007-10-09",
+          "label": "Oct 9, 07",
+          "close": 23.98
+        },
+        {
+          "date": "2007-10-10",
+          "label": "Oct 10, 07",
+          "close": 23.83
+        },
+        {
+          "date": "2007-10-11",
+          "label": "Oct 11, 07",
+          "close": 23.18
+        },
+        {
+          "date": "2007-10-12",
+          "label": "Oct 12, 07",
+          "close": 23.89
+        },
+        {
+          "date": "2007-10-15",
+          "label": "Oct 15, 07",
+          "close": 23.85
+        },
+        {
+          "date": "2007-10-16",
+          "label": "Oct 16, 07",
+          "close": 24.23
+        },
+        {
+          "date": "2007-10-17",
+          "label": "Oct 17, 07",
+          "close": 24.68
+        },
+        {
+          "date": "2007-10-18",
+          "label": "Oct 18, 07",
+          "close": 24.79
+        },
+        {
+          "date": "2007-10-19",
+          "label": "Oct 19, 07",
+          "close": 24.35
+        },
+        {
+          "date": "2007-10-22",
+          "label": "Oct 22, 07",
+          "close": 24.91
+        },
+        {
+          "date": "2007-10-23",
+          "label": "Oct 23, 07",
+          "close": 26.59
+        },
+        {
+          "date": "2007-10-24",
+          "label": "Oct 24, 07",
+          "close": 26.56
+        },
+        {
+          "date": "2007-10-25",
+          "label": "Oct 25, 07",
+          "close": 26.11
+        },
+        {
+          "date": "2007-10-26",
+          "label": "Oct 26, 07",
+          "close": 26.39
+        },
+        {
+          "date": "2007-10-29",
+          "label": "Oct 29, 07",
+          "close": 26.44
+        },
+        {
+          "date": "2007-10-30",
+          "label": "Oct 30, 07",
+          "close": 26.71
+        },
+        {
+          "date": "2007-10-31",
+          "label": "Oct 31, 07",
+          "close": 27.14
+        },
+        {
+          "date": "2007-11-01",
+          "label": "Nov 1, 07",
+          "close": 26.78
+        },
+        {
+          "date": "2007-11-02",
+          "label": "Nov 2, 07",
+          "close": 26.84
+        },
+        {
+          "date": "2007-11-05",
+          "label": "Nov 5, 07",
+          "close": 26.6
+        },
+        {
+          "date": "2007-11-06",
+          "label": "Nov 6, 07",
+          "close": 27.4
+        },
+        {
+          "date": "2007-11-07",
+          "label": "Nov 7, 07",
+          "close": 26.61
+        },
+        {
+          "date": "2007-11-08",
+          "label": "Nov 8, 07",
+          "close": 25.07
+        },
+        {
+          "date": "2007-11-09",
+          "label": "Nov 9, 07",
+          "close": 23.62
+        },
+        {
+          "date": "2007-11-12",
+          "label": "Nov 12, 07",
+          "close": 21.97
+        },
+        {
+          "date": "2007-11-13",
+          "label": "Nov 13, 07",
+          "close": 24.28
+        },
+        {
+          "date": "2007-11-14",
+          "label": "Nov 14, 07",
+          "close": 23.73
+        },
+        {
+          "date": "2007-11-15",
+          "label": "Nov 15, 07",
+          "close": 23.47
+        },
+        {
+          "date": "2007-11-16",
+          "label": "Nov 16, 07",
+          "close": 23.77
+        },
+        {
+          "date": "2007-11-19",
+          "label": "Nov 19, 07",
+          "close": 23.42
+        },
+        {
+          "date": "2007-11-20",
+          "label": "Nov 20, 07",
+          "close": 24.12
+        },
+        {
+          "date": "2007-11-21",
+          "label": "Nov 21, 07",
+          "close": 24.07
+        },
+        {
+          "date": "2007-11-23",
+          "label": "Nov 23, 07",
+          "close": 24.51
+        },
+        {
+          "date": "2007-11-26",
+          "label": "Nov 26, 07",
+          "close": 24.65
+        },
+        {
+          "date": "2007-11-27",
+          "label": "Nov 27, 07",
+          "close": 24.97
+        },
+        {
+          "date": "2007-11-28",
+          "label": "Nov 28, 07",
+          "close": 25.75
+        },
+        {
+          "date": "2007-11-29",
+          "label": "Nov 29, 07",
+          "close": 26.33
+        },
+        {
+          "date": "2007-11-30",
+          "label": "Nov 30, 07",
+          "close": 26.03
+        },
+        {
+          "date": "2007-12-03",
+          "label": "Dec 3, 07",
+          "close": 25.55
+        },
+        {
+          "date": "2007-12-04",
+          "label": "Dec 4, 07",
+          "close": 25.69
+        },
+        {
+          "date": "2007-12-05",
+          "label": "Dec 5, 07",
+          "close": 26.5
+        },
+        {
+          "date": "2007-12-06",
+          "label": "Dec 6, 07",
+          "close": 27.14
+        },
+        {
+          "date": "2007-12-07",
+          "label": "Dec 7, 07",
+          "close": 27.76
+        },
+        {
+          "date": "2007-12-10",
+          "label": "Dec 10, 07",
+          "close": 27.74
+        },
+        {
+          "date": "2007-12-11",
+          "label": "Dec 11, 07",
+          "close": 26.93
+        },
+        {
+          "date": "2007-12-12",
+          "label": "Dec 12, 07",
+          "close": 27.27
+        },
+        {
+          "date": "2007-12-13",
+          "label": "Dec 13, 07",
+          "close": 27.4
+        },
+        {
+          "date": "2007-12-14",
+          "label": "Dec 14, 07",
+          "close": 27.2
+        },
+        {
+          "date": "2007-12-17",
+          "label": "Dec 17, 07",
+          "close": 26.34
+        },
+        {
+          "date": "2007-12-18",
+          "label": "Dec 18, 07",
+          "close": 26.14
+        },
+        {
+          "date": "2007-12-19",
+          "label": "Dec 19, 07",
+          "close": 26.16
+        },
+        {
+          "date": "2007-12-20",
+          "label": "Dec 20, 07",
+          "close": 26.74
+        },
+        {
+          "date": "2007-12-21",
+          "label": "Dec 21, 07",
+          "close": 27.7
+        },
+        {
+          "date": "2007-12-24",
+          "label": "Dec 24, 07",
+          "close": 28.4
+        },
+        {
+          "date": "2007-12-26",
+          "label": "Dec 26, 07",
+          "close": 28.42
+        },
+        {
+          "date": "2007-12-27",
+          "label": "Dec 27, 07",
+          "close": 28.37
+        },
+        {
+          "date": "2007-12-28",
+          "label": "Dec 28, 07",
+          "close": 28.55
+        },
+        {
+          "date": "2007-12-31",
+          "label": "Dec 31, 07",
+          "close": 28.3
+        },
+        {
+          "date": "2008-01-02",
+          "label": "Jan 2, 08",
+          "close": 27.83
+        },
+        {
+          "date": "2008-01-03",
+          "label": "Jan 3, 08",
+          "close": 27.85
+        },
+        {
+          "date": "2008-01-04",
+          "label": "Jan 4, 08",
+          "close": 25.72
+        },
+        {
+          "date": "2008-01-07",
+          "label": "Jan 7, 08",
+          "close": 25.38
+        },
+        {
+          "date": "2008-01-08",
+          "label": "Jan 8, 08",
+          "close": 24.46
+        },
+        {
+          "date": "2008-01-09",
+          "label": "Jan 9, 08",
+          "close": 25.63
+        },
+        {
+          "date": "2008-01-10",
+          "label": "Jan 10, 08",
+          "close": 25.43
+        },
+        {
+          "date": "2008-01-11",
+          "label": "Jan 11, 08",
+          "close": 24.67
+        },
+        {
+          "date": "2008-01-14",
+          "label": "Jan 14, 08",
+          "close": 25.54
+        },
+        {
+          "date": "2008-01-15",
+          "label": "Jan 15, 08",
+          "close": 24.15
+        },
+        {
+          "date": "2008-01-16",
+          "label": "Jan 16, 08",
+          "close": 22.81
+        },
+        {
+          "date": "2008-01-17",
+          "label": "Jan 17, 08",
+          "close": 22.98
+        },
+        {
+          "date": "2008-01-18",
+          "label": "Jan 18, 08",
+          "close": 23.05
+        },
+        {
+          "date": "2008-01-22",
+          "label": "Jan 22, 08",
+          "close": 22.23
+        },
+        {
+          "date": "2008-01-23",
+          "label": "Jan 23, 08",
+          "close": 19.87
+        },
+        {
+          "date": "2008-01-24",
+          "label": "Jan 24, 08",
+          "close": 19.37
+        },
+        {
+          "date": "2008-01-25",
+          "label": "Jan 25, 08",
+          "close": 18.57
+        },
+        {
+          "date": "2008-01-28",
+          "label": "Jan 28, 08",
+          "close": 18.57
+        },
+        {
+          "date": "2008-01-29",
+          "label": "Jan 29, 08",
+          "close": 18.79
+        },
+        {
+          "date": "2008-01-30",
+          "label": "Jan 30, 08",
+          "close": 18.88
+        },
+        {
+          "date": "2008-01-31",
+          "label": "Jan 31, 08",
+          "close": 19.34
+        },
+        {
+          "date": "2008-02-01",
+          "label": "Feb 1, 08",
+          "close": 19.11
+        },
+        {
+          "date": "2008-02-04",
+          "label": "Feb 4, 08",
+          "close": 18.81
+        },
+        {
+          "date": "2008-02-05",
+          "label": "Feb 5, 08",
+          "close": 18.48
+        },
+        {
+          "date": "2008-02-06",
+          "label": "Feb 6, 08",
+          "close": 17.43
+        },
+        {
+          "date": "2008-02-07",
+          "label": "Feb 7, 08",
+          "close": 17.32
+        },
+        {
+          "date": "2008-02-08",
+          "label": "Feb 8, 08",
+          "close": 17.93
+        },
+        {
+          "date": "2008-02-11",
+          "label": "Feb 11, 08",
+          "close": 18.49
+        },
+        {
+          "date": "2008-02-12",
+          "label": "Feb 12, 08",
+          "close": 17.84
+        },
+        {
+          "date": "2008-02-13",
+          "label": "Feb 13, 08",
+          "close": 18.49
+        },
+        {
+          "date": "2008-02-14",
+          "label": "Feb 14, 08",
+          "close": 18.21
+        },
+        {
+          "date": "2008-02-15",
+          "label": "Feb 15, 08",
+          "close": 17.8
+        },
+        {
+          "date": "2008-02-19",
+          "label": "Feb 19, 08",
+          "close": 17.45
+        },
+        {
+          "date": "2008-02-20",
+          "label": "Feb 20, 08",
+          "close": 17.69
+        },
+        {
+          "date": "2008-02-21",
+          "label": "Feb 21, 08",
+          "close": 17.36
+        },
+        {
+          "date": "2008-02-22",
+          "label": "Feb 22, 08",
+          "close": 17.07
+        },
+        {
+          "date": "2008-02-25",
+          "label": "Feb 25, 08",
+          "close": 17.11
+        },
+        {
+          "date": "2008-02-26",
+          "label": "Feb 26, 08",
+          "close": 17.02
+        },
+        {
+          "date": "2008-02-27",
+          "label": "Feb 27, 08",
+          "close": 17.57
+        },
+        {
+          "date": "2008-02-28",
+          "label": "Feb 28, 08",
+          "close": 18.56
+        },
+        {
+          "date": "2008-02-29",
+          "label": "Feb 29, 08",
+          "close": 17.86
+        },
+        {
+          "date": "2008-03-03",
+          "label": "Mar 3, 08",
+          "close": 17.39
+        },
+        {
+          "date": "2008-03-04",
+          "label": "Mar 4, 08",
+          "close": 17.8
+        },
+        {
+          "date": "2008-03-05",
+          "label": "Mar 5, 08",
+          "close": 17.78
+        },
+        {
+          "date": "2008-03-06",
+          "label": "Mar 6, 08",
+          "close": 17.28
+        },
+        {
+          "date": "2008-03-07",
+          "label": "Mar 7, 08",
+          "close": 17.46
+        },
+        {
+          "date": "2008-03-10",
+          "label": "Mar 10, 08",
+          "close": 17.1
+        },
+        {
+          "date": "2008-03-11",
+          "label": "Mar 11, 08",
+          "close": 18.19
+        },
+        {
+          "date": "2008-03-12",
+          "label": "Mar 12, 08",
+          "close": 18
+        },
+        {
+          "date": "2008-03-13",
+          "label": "Mar 13, 08",
+          "close": 18.28
+        },
+        {
+          "date": "2008-03-14",
+          "label": "Mar 14, 08",
+          "close": 18.09
+        },
+        {
+          "date": "2008-03-17",
+          "label": "Mar 17, 08",
+          "close": 18.1
+        },
+        {
+          "date": "2008-03-18",
+          "label": "Mar 18, 08",
+          "close": 18.97
+        },
+        {
+          "date": "2008-03-19",
+          "label": "Mar 19, 08",
+          "close": 18.52
+        },
+        {
+          "date": "2008-03-20",
+          "label": "Mar 20, 08",
+          "close": 19.04
+        },
+        {
+          "date": "2008-03-24",
+          "label": "Mar 24, 08",
+          "close": 19.93
+        },
+        {
+          "date": "2008-03-25",
+          "label": "Mar 25, 08",
+          "close": 20.14
+        },
+        {
+          "date": "2008-03-26",
+          "label": "Mar 26, 08",
+          "close": 20.72
+        },
+        {
+          "date": "2008-03-27",
+          "label": "Mar 27, 08",
+          "close": 20.04
+        },
+        {
+          "date": "2008-03-28",
+          "label": "Mar 28, 08",
+          "close": 20.43
+        },
+        {
+          "date": "2008-03-31",
+          "label": "Mar 31, 08",
+          "close": 20.5
+        },
+        {
+          "date": "2008-04-01",
+          "label": "Apr 1, 08",
+          "close": 21.36
+        },
+        {
+          "date": "2008-04-02",
+          "label": "Apr 2, 08",
+          "close": 21.07
+        },
+        {
+          "date": "2008-04-03",
+          "label": "Apr 3, 08",
+          "close": 21.66
+        },
+        {
+          "date": "2008-04-04",
+          "label": "Apr 4, 08",
+          "close": 21.87
+        },
+        {
+          "date": "2008-04-07",
+          "label": "Apr 7, 08",
+          "close": 22.27
+        },
+        {
+          "date": "2008-04-08",
+          "label": "Apr 8, 08",
+          "close": 21.83
+        },
+        {
+          "date": "2008-04-09",
+          "label": "Apr 9, 08",
+          "close": 21.63
+        },
+        {
+          "date": "2008-04-10",
+          "label": "Apr 10, 08",
+          "close": 22.08
+        },
+        {
+          "date": "2008-04-11",
+          "label": "Apr 11, 08",
+          "close": 21.02
+        },
+        {
+          "date": "2008-04-14",
+          "label": "Apr 14, 08",
+          "close": 21.11
+        },
+        {
+          "date": "2008-04-15",
+          "label": "Apr 15, 08",
+          "close": 21.2
+        },
+        {
+          "date": "2008-04-16",
+          "label": "Apr 16, 08",
+          "close": 21.96
+        },
+        {
+          "date": "2008-04-17",
+          "label": "Apr 17, 08",
+          "close": 22.07
+        },
+        {
+          "date": "2008-04-18",
+          "label": "Apr 18, 08",
+          "close": 23.01
+        },
+        {
+          "date": "2008-04-21",
+          "label": "Apr 21, 08",
+          "close": 24.02
+        },
+        {
+          "date": "2008-04-22",
+          "label": "Apr 22, 08",
+          "close": 22.89
+        },
+        {
+          "date": "2008-04-23",
+          "label": "Apr 23, 08",
+          "close": 23.27
+        },
+        {
+          "date": "2008-04-24",
+          "label": "Apr 24, 08",
+          "close": 24.13
+        },
+        {
+          "date": "2008-04-25",
+          "label": "Apr 25, 08",
+          "close": 24.25
+        },
+        {
+          "date": "2008-04-28",
+          "label": "Apr 28, 08",
+          "close": 24.61
+        },
+        {
+          "date": "2008-04-29",
+          "label": "Apr 29, 08",
+          "close": 25.01
+        },
+        {
+          "date": "2008-04-30",
+          "label": "Apr 30, 08",
+          "close": 24.85
+        },
+        {
+          "date": "2008-05-01",
+          "label": "May 1, 08",
+          "close": 25.71
+        },
+        {
+          "date": "2008-05-02",
+          "label": "May 2, 08",
+          "close": 25.85
+        },
+        {
+          "date": "2008-05-05",
+          "label": "May 5, 08",
+          "close": 26.39
+        },
+        {
+          "date": "2008-05-06",
+          "label": "May 6, 08",
+          "close": 26.67
+        },
+        {
+          "date": "2008-05-07",
+          "label": "May 7, 08",
+          "close": 26.08
+        },
+        {
+          "date": "2008-05-08",
+          "label": "May 8, 08",
+          "close": 26.44
+        },
+        {
+          "date": "2008-05-09",
+          "label": "May 9, 08",
+          "close": 26.21
+        },
+        {
+          "date": "2008-05-12",
+          "label": "May 12, 08",
+          "close": 26.88
+        },
+        {
+          "date": "2008-05-13",
+          "label": "May 13, 08",
+          "close": 27.14
+        },
+        {
+          "date": "2008-05-14",
+          "label": "May 14, 08",
+          "close": 26.61
+        },
+        {
+          "date": "2008-05-15",
+          "label": "May 15, 08",
+          "close": 27.1
+        },
+        {
+          "date": "2008-05-16",
+          "label": "May 16, 08",
+          "close": 26.8
+        },
+        {
+          "date": "2008-05-19",
+          "label": "May 19, 08",
+          "close": 26.23
+        },
+        {
+          "date": "2008-05-20",
+          "label": "May 20, 08",
+          "close": 26.56
+        },
+        {
+          "date": "2008-05-21",
+          "label": "May 21, 08",
+          "close": 25.46
+        },
+        {
+          "date": "2008-05-22",
+          "label": "May 22, 08",
+          "close": 25.29
+        },
+        {
+          "date": "2008-05-23",
+          "label": "May 23, 08",
+          "close": 25.88
+        },
+        {
+          "date": "2008-05-27",
+          "label": "May 27, 08",
+          "close": 26.63
+        },
+        {
+          "date": "2008-05-28",
+          "label": "May 28, 08",
+          "close": 26.72
+        },
+        {
+          "date": "2008-05-29",
+          "label": "May 29, 08",
+          "close": 26.67
+        },
+        {
+          "date": "2008-05-30",
+          "label": "May 30, 08",
+          "close": 26.96
+        },
+        {
+          "date": "2008-06-02",
+          "label": "Jun 2, 08",
+          "close": 26.59
+        },
+        {
+          "date": "2008-06-03",
+          "label": "Jun 3, 08",
+          "close": 26.48
+        },
+        {
+          "date": "2008-06-04",
+          "label": "Jun 4, 08",
+          "close": 26.46
+        },
+        {
+          "date": "2008-06-05",
+          "label": "Jun 5, 08",
+          "close": 27.06
+        },
+        {
+          "date": "2008-06-06",
+          "label": "Jun 6, 08",
+          "close": 26.52
+        },
+        {
+          "date": "2008-06-09",
+          "label": "Jun 9, 08",
+          "close": 25.94
+        },
+        {
+          "date": "2008-06-10",
+          "label": "Jun 10, 08",
+          "close": 26.52
+        },
+        {
+          "date": "2008-06-11",
+          "label": "Jun 11, 08",
+          "close": 25.83
+        },
+        {
+          "date": "2008-06-12",
+          "label": "Jun 12, 08",
+          "close": 24.75
+        },
+        {
+          "date": "2008-06-13",
+          "label": "Jun 13, 08",
+          "close": 24.62
+        },
+        {
+          "date": "2008-06-16",
+          "label": "Jun 16, 08",
+          "close": 25.26
+        },
+        {
+          "date": "2008-06-17",
+          "label": "Jun 17, 08",
+          "close": 25.92
+        },
+        {
+          "date": "2008-06-18",
+          "label": "Jun 18, 08",
+          "close": 25.54
+        },
+        {
+          "date": "2008-06-19",
+          "label": "Jun 19, 08",
+          "close": 25.84
+        },
+        {
+          "date": "2008-06-20",
+          "label": "Jun 20, 08",
+          "close": 25.04
+        },
+        {
+          "date": "2008-06-23",
+          "label": "Jun 23, 08",
+          "close": 24.74
+        },
+        {
+          "date": "2008-06-24",
+          "label": "Jun 24, 08",
+          "close": 24.75
+        },
+        {
+          "date": "2008-06-25",
+          "label": "Jun 25, 08",
+          "close": 25.34
+        },
+        {
+          "date": "2008-06-26",
+          "label": "Jun 26, 08",
+          "close": 24.04
+        },
+        {
+          "date": "2008-06-27",
+          "label": "Jun 27, 08",
+          "close": 24.3
+        },
+        {
+          "date": "2008-06-30",
+          "label": "Jun 30, 08",
+          "close": 23.92
+        },
+        {
+          "date": "2008-07-01",
+          "label": "Jul 1, 08",
+          "close": 24.95
+        },
+        {
+          "date": "2008-07-02",
+          "label": "Jul 2, 08",
+          "close": 24.03
+        },
+        {
+          "date": "2008-07-03",
+          "label": "Jul 3, 08",
+          "close": 24.3
+        },
+        {
+          "date": "2008-07-07",
+          "label": "Jul 7, 08",
+          "close": 25.02
+        },
+        {
+          "date": "2008-07-08",
+          "label": "Jul 8, 08",
+          "close": 25.65
+        },
+        {
+          "date": "2008-07-09",
+          "label": "Jul 9, 08",
+          "close": 24.89
+        },
+        {
+          "date": "2008-07-10",
+          "label": "Jul 10, 08",
+          "close": 25.23
+        },
+        {
+          "date": "2008-07-11",
+          "label": "Jul 11, 08",
+          "close": 24.65
+        },
+        {
+          "date": "2008-07-14",
+          "label": "Jul 14, 08",
+          "close": 24.84
+        },
+        {
+          "date": "2008-07-15",
+          "label": "Jul 15, 08",
+          "close": 24.23
+        },
+        {
+          "date": "2008-07-16",
+          "label": "Jul 16, 08",
+          "close": 24.69
+        },
+        {
+          "date": "2008-07-17",
+          "label": "Jul 17, 08",
+          "close": 24.54
+        },
+        {
+          "date": "2008-07-18",
+          "label": "Jul 18, 08",
+          "close": 23.59
+        },
+        {
+          "date": "2008-07-21",
+          "label": "Jul 21, 08",
+          "close": 23.76
+        },
+        {
+          "date": "2008-07-22",
+          "label": "Jul 22, 08",
+          "close": 23.15
+        },
+        {
+          "date": "2008-07-23",
+          "label": "Jul 23, 08",
+          "close": 23.75
+        },
+        {
+          "date": "2008-07-24",
+          "label": "Jul 24, 08",
+          "close": 22.72
+        },
+        {
+          "date": "2008-07-25",
+          "label": "Jul 25, 08",
+          "close": 23.16
+        },
+        {
+          "date": "2008-07-28",
+          "label": "Jul 28, 08",
+          "close": 22.06
+        },
+        {
+          "date": "2008-07-29",
+          "label": "Jul 29, 08",
+          "close": 22.44
+        },
+        {
+          "date": "2008-07-30",
+          "label": "Jul 30, 08",
+          "close": 22.84
+        },
+        {
+          "date": "2008-07-31",
+          "label": "Jul 31, 08",
+          "close": 22.71
+        },
+        {
+          "date": "2008-08-01",
+          "label": "Aug 1, 08",
+          "close": 22.38
+        },
+        {
+          "date": "2008-08-04",
+          "label": "Aug 4, 08",
+          "close": 21.89
+        },
+        {
+          "date": "2008-08-05",
+          "label": "Aug 5, 08",
+          "close": 22.95
+        },
+        {
+          "date": "2008-08-06",
+          "label": "Aug 6, 08",
+          "close": 23.46
+        },
+        {
+          "date": "2008-08-07",
+          "label": "Aug 7, 08",
+          "close": 23.37
+        },
+        {
+          "date": "2008-08-08",
+          "label": "Aug 8, 08",
+          "close": 24.22
+        },
+        {
+          "date": "2008-08-11",
+          "label": "Aug 11, 08",
+          "close": 24.79
+        },
+        {
+          "date": "2008-08-12",
+          "label": "Aug 12, 08",
+          "close": 25.25
+        },
+        {
+          "date": "2008-08-13",
+          "label": "Aug 13, 08",
+          "close": 25.61
+        },
+        {
+          "date": "2008-08-14",
+          "label": "Aug 14, 08",
+          "close": 25.62
+        },
+        {
+          "date": "2008-08-15",
+          "label": "Aug 15, 08",
+          "close": 25.11
+        },
+        {
+          "date": "2008-08-18",
+          "label": "Aug 18, 08",
+          "close": 25.06
+        },
+        {
+          "date": "2008-08-19",
+          "label": "Aug 19, 08",
+          "close": 24.79
+        },
+        {
+          "date": "2008-08-20",
+          "label": "Aug 20, 08",
+          "close": 25.12
+        },
+        {
+          "date": "2008-08-21",
+          "label": "Aug 21, 08",
+          "close": 24.9
+        },
+        {
+          "date": "2008-08-22",
+          "label": "Aug 22, 08",
+          "close": 25.26
+        },
+        {
+          "date": "2008-08-25",
+          "label": "Aug 25, 08",
+          "close": 24.65
+        },
+        {
+          "date": "2008-08-26",
+          "label": "Aug 26, 08",
+          "close": 24.81
+        },
+        {
+          "date": "2008-08-27",
+          "label": "Aug 27, 08",
+          "close": 24.95
+        },
+        {
+          "date": "2008-08-28",
+          "label": "Aug 28, 08",
+          "close": 24.82
+        },
+        {
+          "date": "2008-08-29",
+          "label": "Aug 29, 08",
+          "close": 24.22
+        },
+        {
+          "date": "2008-09-02",
+          "label": "Sep 2, 08",
+          "close": 23.74
+        },
+        {
+          "date": "2008-09-03",
+          "label": "Sep 3, 08",
+          "close": 23.85
+        },
+        {
+          "date": "2008-09-04",
+          "label": "Sep 4, 08",
+          "close": 23.03
+        },
+        {
+          "date": "2008-09-05",
+          "label": "Sep 5, 08",
+          "close": 22.88
+        },
+        {
+          "date": "2008-09-08",
+          "label": "Sep 8, 08",
+          "close": 22.56
+        },
+        {
+          "date": "2008-09-09",
+          "label": "Sep 9, 08",
+          "close": 21.67
+        },
+        {
+          "date": "2008-09-10",
+          "label": "Sep 10, 08",
+          "close": 21.66
+        },
+        {
+          "date": "2008-09-11",
+          "label": "Sep 11, 08",
+          "close": 21.81
+        },
+        {
+          "date": "2008-09-12",
+          "label": "Sep 12, 08",
+          "close": 21.28
+        },
+        {
+          "date": "2008-09-15",
+          "label": "Sep 15, 08",
+          "close": 20.05
+        },
+        {
+          "date": "2008-09-16",
+          "label": "Sep 16, 08",
+          "close": 19.98
+        },
+        {
+          "date": "2008-09-17",
+          "label": "Sep 17, 08",
+          "close": 18.26
+        },
+        {
+          "date": "2008-09-18",
+          "label": "Sep 18, 08",
+          "close": 19.16
+        },
+        {
+          "date": "2008-09-19",
+          "label": "Sep 19, 08",
+          "close": 20.13
+        },
+        {
+          "date": "2008-09-22",
+          "label": "Sep 22, 08",
+          "close": 18.72
+        },
+        {
+          "date": "2008-09-23",
+          "label": "Sep 23, 08",
+          "close": 18.12
+        },
+        {
+          "date": "2008-09-24",
+          "label": "Sep 24, 08",
+          "close": 18.39
+        },
+        {
+          "date": "2008-09-25",
+          "label": "Sep 25, 08",
+          "close": 18.85
+        },
+        {
+          "date": "2008-09-26",
+          "label": "Sep 26, 08",
+          "close": 18.32
+        },
+        {
+          "date": "2008-09-29",
+          "label": "Sep 29, 08",
+          "close": 15.04
+        },
+        {
+          "date": "2008-09-30",
+          "label": "Sep 30, 08",
+          "close": 16.24
+        },
+        {
+          "date": "2008-10-01",
+          "label": "Oct 1, 08",
+          "close": 15.59
+        },
+        {
+          "date": "2008-10-02",
+          "label": "Oct 2, 08",
+          "close": 14.3
+        },
+        {
+          "date": "2008-10-03",
+          "label": "Oct 3, 08",
+          "close": 13.87
+        },
+        {
+          "date": "2008-10-06",
+          "label": "Oct 6, 08",
+          "close": 14.02
+        },
+        {
+          "date": "2008-10-07",
+          "label": "Oct 7, 08",
+          "close": 12.74
+        },
+        {
+          "date": "2008-10-08",
+          "label": "Oct 8, 08",
+          "close": 12.83
+        },
+        {
+          "date": "2008-10-09",
+          "label": "Oct 9, 08",
+          "close": 12.68
+        },
+        {
+          "date": "2008-10-10",
+          "label": "Oct 10, 08",
+          "close": 13.83
+        },
+        {
+          "date": "2008-10-13",
+          "label": "Oct 13, 08",
+          "close": 15.75
+        },
+        {
+          "date": "2008-10-14",
+          "label": "Oct 14, 08",
+          "close": 14.87
+        },
+        {
+          "date": "2008-10-15",
+          "label": "Oct 15, 08",
+          "close": 13.99
+        },
+        {
+          "date": "2008-10-16",
+          "label": "Oct 16, 08",
+          "close": 14.56
+        },
+        {
+          "date": "2008-10-17",
+          "label": "Oct 17, 08",
+          "close": 13.91
+        },
+        {
+          "date": "2008-10-20",
+          "label": "Oct 20, 08",
+          "close": 14.06
+        },
+        {
+          "date": "2008-10-21",
+          "label": "Oct 21, 08",
+          "close": 13.07
+        },
+        {
+          "date": "2008-10-22",
+          "label": "Oct 22, 08",
+          "close": 13.84
+        },
+        {
+          "date": "2008-10-23",
+          "label": "Oct 23, 08",
+          "close": 14.03
+        },
+        {
+          "date": "2008-10-24",
+          "label": "Oct 24, 08",
+          "close": 13.77
+        },
+        {
+          "date": "2008-10-27",
+          "label": "Oct 27, 08",
+          "close": 13.16
+        },
+        {
+          "date": "2008-10-28",
+          "label": "Oct 28, 08",
+          "close": 14.27
+        },
+        {
+          "date": "2008-10-29",
+          "label": "Oct 29, 08",
+          "close": 14.94
+        },
+        {
+          "date": "2008-10-30",
+          "label": "Oct 30, 08",
+          "close": 15.86
+        },
+        {
+          "date": "2008-10-31",
+          "label": "Oct 31, 08",
+          "close": 15.37
+        },
+        {
+          "date": "2008-11-03",
+          "label": "Nov 3, 08",
+          "close": 15.28
+        },
+        {
+          "date": "2008-11-04",
+          "label": "Nov 4, 08",
+          "close": 15.86
+        },
+        {
+          "date": "2008-11-05",
+          "label": "Nov 5, 08",
+          "close": 14.76
+        },
+        {
+          "date": "2008-11-06",
+          "label": "Nov 6, 08",
+          "close": 14.16
+        },
+        {
+          "date": "2008-11-07",
+          "label": "Nov 7, 08",
+          "close": 14.03
+        },
+        {
+          "date": "2008-11-10",
+          "label": "Nov 10, 08",
+          "close": 13.7
+        },
+        {
+          "date": "2008-11-11",
+          "label": "Nov 11, 08",
+          "close": 13.54
+        },
+        {
+          "date": "2008-11-12",
+          "label": "Nov 12, 08",
+          "close": 12.87
+        },
+        {
+          "date": "2008-11-13",
+          "label": "Nov 13, 08",
+          "close": 13.78
+        },
+        {
+          "date": "2008-11-14",
+          "label": "Nov 14, 08",
+          "close": 12.89
+        },
+        {
+          "date": "2008-11-17",
+          "label": "Nov 17, 08",
+          "close": 12.59
+        },
+        {
+          "date": "2008-11-18",
+          "label": "Nov 18, 08",
+          "close": 12.84
+        },
+        {
+          "date": "2008-11-19",
+          "label": "Nov 19, 08",
+          "close": 12.33
+        },
+        {
+          "date": "2008-11-20",
+          "label": "Nov 20, 08",
+          "close": 11.5
+        },
+        {
+          "date": "2008-11-21",
+          "label": "Nov 21, 08",
+          "close": 11.8
+        },
+        {
+          "date": "2008-11-24",
+          "label": "Nov 24, 08",
+          "close": 13.28
+        },
+        {
+          "date": "2008-11-25",
+          "label": "Nov 25, 08",
+          "close": 12.97
+        },
+        {
+          "date": "2008-11-26",
+          "label": "Nov 26, 08",
+          "close": 13.57
+        },
+        {
+          "date": "2008-11-28",
+          "label": "Nov 28, 08",
+          "close": 13.24
+        },
+        {
+          "date": "2008-12-01",
+          "label": "Dec 1, 08",
+          "close": 12.7
+        },
+        {
+          "date": "2008-12-02",
+          "label": "Dec 2, 08",
+          "close": 13.21
+        },
+        {
+          "date": "2008-12-03",
+          "label": "Dec 3, 08",
+          "close": 13.7
+        },
+        {
+          "date": "2008-12-04",
+          "label": "Dec 4, 08",
+          "close": 13.06
+        },
+        {
+          "date": "2008-12-05",
+          "label": "Dec 5, 08",
+          "close": 13.43
+        },
+        {
+          "date": "2008-12-08",
+          "label": "Dec 8, 08",
+          "close": 14.25
+        },
+        {
+          "date": "2008-12-09",
+          "label": "Dec 9, 08",
+          "close": 14.29
+        },
+        {
+          "date": "2008-12-10",
+          "label": "Dec 10, 08",
+          "close": 14.03
+        },
+        {
+          "date": "2008-12-11",
+          "label": "Dec 11, 08",
+          "close": 13.57
+        },
+        {
+          "date": "2008-12-12",
+          "label": "Dec 12, 08",
+          "close": 14.04
+        },
+        {
+          "date": "2008-12-15",
+          "label": "Dec 15, 08",
+          "close": 13.54
+        },
+        {
+          "date": "2008-12-16",
+          "label": "Dec 16, 08",
+          "close": 13.63
+        },
+        {
+          "date": "2008-12-17",
+          "label": "Dec 17, 08",
+          "close": 12.74
+        },
+        {
+          "date": "2008-12-18",
+          "label": "Dec 18, 08",
+          "close": 12.78
+        },
+        {
+          "date": "2008-12-19",
+          "label": "Dec 19, 08",
+          "close": 12.86
+        },
+        {
+          "date": "2008-12-22",
+          "label": "Dec 22, 08",
+          "close": 12.25
+        },
+        {
+          "date": "2008-12-23",
+          "label": "Dec 23, 08",
+          "close": 12.34
+        },
+        {
+          "date": "2008-12-24",
+          "label": "Dec 24, 08",
+          "close": 12.15
+        },
+        {
+          "date": "2008-12-26",
+          "label": "Dec 26, 08",
+          "close": 12.26
+        },
+        {
+          "date": "2008-12-29",
+          "label": "Dec 29, 08",
+          "close": 12.37
+        },
+        {
+          "date": "2008-12-30",
+          "label": "Dec 30, 08",
+          "close": 12.33
+        },
+        {
+          "date": "2008-12-31",
+          "label": "Dec 31, 08",
+          "close": 12.19
+        },
+        {
+          "date": "2009-01-02",
+          "label": "Jan 2, 09",
+          "close": 12.96
+        },
+        {
+          "date": "2009-01-05",
+          "label": "Jan 5, 09",
+          "close": 13.51
+        },
+        {
+          "date": "2009-01-06",
+          "label": "Jan 6, 09",
+          "close": 13.29
+        },
+        {
+          "date": "2009-01-07",
+          "label": "Jan 7, 09",
+          "close": 13
+        },
+        {
+          "date": "2009-01-08",
+          "label": "Jan 8, 09",
+          "close": 13.24
+        },
+        {
+          "date": "2009-01-09",
+          "label": "Jan 9, 09",
+          "close": 12.94
+        },
+        {
+          "date": "2009-01-12",
+          "label": "Jan 12, 09",
+          "close": 12.67
+        },
+        {
+          "date": "2009-01-13",
+          "label": "Jan 13, 09",
+          "close": 12.53
+        },
+        {
+          "date": "2009-01-14",
+          "label": "Jan 14, 09",
+          "close": 12.19
+        },
+        {
+          "date": "2009-01-15",
+          "label": "Jan 15, 09",
+          "close": 11.91
+        },
+        {
+          "date": "2009-01-16",
+          "label": "Jan 16, 09",
+          "close": 11.76
+        },
+        {
+          "date": "2009-01-20",
+          "label": "Jan 20, 09",
+          "close": 11.17
+        },
+        {
+          "date": "2009-01-21",
+          "label": "Jan 21, 09",
+          "close": 11.83
+        },
+        {
+          "date": "2009-01-22",
+          "label": "Jan 22, 09",
+          "close": 12.62
+        },
+        {
+          "date": "2009-01-23",
+          "label": "Jan 23, 09",
+          "close": 12.62
+        },
+        {
+          "date": "2009-01-26",
+          "label": "Jan 26, 09",
+          "close": 12.81
+        },
+        {
+          "date": "2009-01-27",
+          "label": "Jan 27, 09",
+          "close": 12.96
+        },
+        {
+          "date": "2009-01-28",
+          "label": "Jan 28, 09",
+          "close": 13.46
+        },
+        {
+          "date": "2009-01-29",
+          "label": "Jan 29, 09",
+          "close": 13.29
+        },
+        {
+          "date": "2009-01-30",
+          "label": "Jan 30, 09",
+          "close": 12.88
+        },
+        {
+          "date": "2009-02-02",
+          "label": "Feb 2, 09",
+          "close": 13.07
+        },
+        {
+          "date": "2009-02-03",
+          "label": "Feb 3, 09",
+          "close": 13.28
+        },
+        {
+          "date": "2009-02-04",
+          "label": "Feb 4, 09",
+          "close": 13.36
+        },
+        {
+          "date": "2009-02-05",
+          "label": "Feb 5, 09",
+          "close": 13.78
+        },
+        {
+          "date": "2009-02-06",
+          "label": "Feb 6, 09",
+          "close": 14.25
+        },
+        {
+          "date": "2009-02-09",
+          "label": "Feb 9, 09",
+          "close": 14.64
+        },
+        {
+          "date": "2009-02-10",
+          "label": "Feb 10, 09",
+          "close": 13.98
+        },
+        {
+          "date": "2009-02-11",
+          "label": "Feb 11, 09",
+          "close": 13.83
+        },
+        {
+          "date": "2009-02-12",
+          "label": "Feb 12, 09",
+          "close": 14.18
+        },
+        {
+          "date": "2009-02-13",
+          "label": "Feb 13, 09",
+          "close": 14.17
+        },
+        {
+          "date": "2009-02-17",
+          "label": "Feb 17, 09",
+          "close": 13.5
+        },
+        {
+          "date": "2009-02-18",
+          "label": "Feb 18, 09",
+          "close": 13.48
+        },
+        {
+          "date": "2009-02-19",
+          "label": "Feb 19, 09",
+          "close": 12.95
+        },
+        {
+          "date": "2009-02-20",
+          "label": "Feb 20, 09",
+          "close": 13.03
+        },
+        {
+          "date": "2009-02-23",
+          "label": "Feb 23, 09",
+          "close": 12.42
+        },
+        {
+          "date": "2009-02-24",
+          "label": "Feb 24, 09",
+          "close": 12.89
+        },
+        {
+          "date": "2009-02-25",
+          "label": "Feb 25, 09",
+          "close": 13.02
+        },
+        {
+          "date": "2009-02-26",
+          "label": "Feb 26, 09",
+          "close": 12.74
+        },
+        {
+          "date": "2009-02-27",
+          "label": "Feb 27, 09",
+          "close": 12.76
+        },
+        {
+          "date": "2009-03-02",
+          "label": "Mar 2, 09",
+          "close": 12.56
+        },
+        {
+          "date": "2009-03-03",
+          "label": "Mar 3, 09",
+          "close": 12.62
+        },
+        {
+          "date": "2009-03-04",
+          "label": "Mar 4, 09",
+          "close": 13.02
+        },
+        {
+          "date": "2009-03-05",
+          "label": "Mar 5, 09",
+          "close": 12.69
+        },
+        {
+          "date": "2009-03-06",
+          "label": "Mar 6, 09",
+          "close": 12.19
+        },
+        {
+          "date": "2009-03-09",
+          "label": "Mar 9, 09",
+          "close": 11.87
+        },
+        {
+          "date": "2009-03-10",
+          "label": "Mar 10, 09",
+          "close": 12.66
+        },
+        {
+          "date": "2009-03-11",
+          "label": "Mar 11, 09",
+          "close": 13.24
+        },
+        {
+          "date": "2009-03-12",
+          "label": "Mar 12, 09",
+          "close": 13.76
+        },
+        {
+          "date": "2009-03-13",
+          "label": "Mar 13, 09",
+          "close": 13.7
+        },
+        {
+          "date": "2009-03-16",
+          "label": "Mar 16, 09",
+          "close": 13.63
+        },
+        {
+          "date": "2009-03-17",
+          "label": "Mar 17, 09",
+          "close": 14.24
+        },
+        {
+          "date": "2009-03-18",
+          "label": "Mar 18, 09",
+          "close": 14.5
+        },
+        {
+          "date": "2009-03-19",
+          "label": "Mar 19, 09",
+          "close": 14.52
+        },
+        {
+          "date": "2009-03-20",
+          "label": "Mar 20, 09",
+          "close": 14.51
+        },
+        {
+          "date": "2009-03-23",
+          "label": "Mar 23, 09",
+          "close": 15.38
+        },
+        {
+          "date": "2009-03-24",
+          "label": "Mar 24, 09",
+          "close": 15.21
+        },
+        {
+          "date": "2009-03-25",
+          "label": "Mar 25, 09",
+          "close": 15.21
+        },
+        {
+          "date": "2009-03-26",
+          "label": "Mar 26, 09",
+          "close": 15.7
+        },
+        {
+          "date": "2009-03-27",
+          "label": "Mar 27, 09",
+          "close": 15.26
+        },
+        {
+          "date": "2009-03-30",
+          "label": "Mar 30, 09",
+          "close": 14.93
+        },
+        {
+          "date": "2009-03-31",
+          "label": "Mar 31, 09",
+          "close": 15.02
+        },
+        {
+          "date": "2009-04-01",
+          "label": "Apr 1, 09",
+          "close": 15.53
+        },
+        {
+          "date": "2009-04-02",
+          "label": "Apr 2, 09",
+          "close": 16.1
+        },
+        {
+          "date": "2009-04-03",
+          "label": "Apr 3, 09",
+          "close": 16.57
+        },
+        {
+          "date": "2009-04-06",
+          "label": "Apr 6, 09",
+          "close": 16.92
+        },
+        {
+          "date": "2009-04-07",
+          "label": "Apr 7, 09",
+          "close": 16.43
+        },
+        {
+          "date": "2009-04-08",
+          "label": "Apr 8, 09",
+          "close": 16.62
+        },
+        {
+          "date": "2009-04-09",
+          "label": "Apr 9, 09",
+          "close": 17.08
+        },
+        {
+          "date": "2009-04-13",
+          "label": "Apr 13, 09",
+          "close": 17.17
+        },
+        {
+          "date": "2009-04-14",
+          "label": "Apr 14, 09",
+          "close": 16.9
+        },
+        {
+          "date": "2009-04-15",
+          "label": "Apr 15, 09",
+          "close": 16.81
+        },
+        {
+          "date": "2009-04-16",
+          "label": "Apr 16, 09",
+          "close": 17.35
+        },
+        {
+          "date": "2009-04-17",
+          "label": "Apr 17, 09",
+          "close": 17.63
+        },
+        {
+          "date": "2009-04-20",
+          "label": "Apr 20, 09",
+          "close": 17.21
+        },
+        {
+          "date": "2009-04-21",
+          "label": "Apr 21, 09",
+          "close": 17.39
+        },
+        {
+          "date": "2009-04-22",
+          "label": "Apr 22, 09",
+          "close": 17.36
+        },
+        {
+          "date": "2009-04-23",
+          "label": "Apr 23, 09",
+          "close": 17.91
+        },
+        {
+          "date": "2009-04-24",
+          "label": "Apr 24, 09",
+          "close": 17.7
+        },
+        {
+          "date": "2009-04-27",
+          "label": "Apr 27, 09",
+          "close": 17.82
+        },
+        {
+          "date": "2009-04-28",
+          "label": "Apr 28, 09",
+          "close": 17.7
+        },
+        {
+          "date": "2009-04-29",
+          "label": "Apr 29, 09",
+          "close": 17.88
+        },
+        {
+          "date": "2009-04-30",
+          "label": "Apr 30, 09",
+          "close": 17.98
+        },
+        {
+          "date": "2009-05-01",
+          "label": "May 1, 09",
+          "close": 18.18
+        },
+        {
+          "date": "2009-05-04",
+          "label": "May 4, 09",
+          "close": 18.87
+        },
+        {
+          "date": "2009-05-05",
+          "label": "May 5, 09",
+          "close": 18.96
+        },
+        {
+          "date": "2009-05-06",
+          "label": "May 6, 09",
+          "close": 18.93
+        },
+        {
+          "date": "2009-05-07",
+          "label": "May 7, 09",
+          "close": 18.44
+        },
+        {
+          "date": "2009-05-08",
+          "label": "May 8, 09",
+          "close": 18.46
+        },
+        {
+          "date": "2009-05-11",
+          "label": "May 11, 09",
+          "close": 18.51
+        },
+        {
+          "date": "2009-05-12",
+          "label": "May 12, 09",
+          "close": 17.77
+        },
+        {
+          "date": "2009-05-13",
+          "label": "May 13, 09",
+          "close": 17.07
+        },
+        {
+          "date": "2009-05-14",
+          "label": "May 14, 09",
+          "close": 17.56
+        },
+        {
+          "date": "2009-05-15",
+          "label": "May 15, 09",
+          "close": 17.49
+        },
+        {
+          "date": "2009-05-18",
+          "label": "May 18, 09",
+          "close": 18.09
+        },
+        {
+          "date": "2009-05-19",
+          "label": "May 19, 09",
+          "close": 18.21
+        },
+        {
+          "date": "2009-05-20",
+          "label": "May 20, 09",
+          "close": 17.98
+        },
+        {
+          "date": "2009-05-21",
+          "label": "May 21, 09",
+          "close": 17.74
+        },
+        {
+          "date": "2009-05-22",
+          "label": "May 22, 09",
+          "close": 17.5
+        },
+        {
+          "date": "2009-05-26",
+          "label": "May 26, 09",
+          "close": 18.68
+        },
+        {
+          "date": "2009-05-27",
+          "label": "May 27, 09",
+          "close": 19.01
+        },
+        {
+          "date": "2009-05-28",
+          "label": "May 28, 09",
+          "close": 19.3
+        },
+        {
+          "date": "2009-05-29",
+          "label": "May 29, 09",
+          "close": 19.4
+        },
+        {
+          "date": "2009-06-01",
+          "label": "Jun 1, 09",
+          "close": 19.91
+        },
+        {
+          "date": "2009-06-02",
+          "label": "Jun 2, 09",
+          "close": 19.93
+        },
+        {
+          "date": "2009-06-03",
+          "label": "Jun 3, 09",
+          "close": 20.14
+        },
+        {
+          "date": "2009-06-04",
+          "label": "Jun 4, 09",
+          "close": 20.53
+        },
+        {
+          "date": "2009-06-05",
+          "label": "Jun 5, 09",
+          "close": 20.67
+        },
+        {
+          "date": "2009-06-08",
+          "label": "Jun 8, 09",
+          "close": 20.55
+        },
+        {
+          "date": "2009-06-09",
+          "label": "Jun 9, 09",
+          "close": 20.39
+        },
+        {
+          "date": "2009-06-10",
+          "label": "Jun 10, 09",
+          "close": 20.04
+        },
+        {
+          "date": "2009-06-11",
+          "label": "Jun 11, 09",
+          "close": 19.99
+        },
+        {
+          "date": "2009-06-12",
+          "label": "Jun 12, 09",
+          "close": 19.57
+        },
+        {
+          "date": "2009-06-15",
+          "label": "Jun 15, 09",
+          "close": 19.44
+        },
+        {
+          "date": "2009-06-16",
+          "label": "Jun 16, 09",
+          "close": 19.48
+        },
+        {
+          "date": "2009-06-17",
+          "label": "Jun 17, 09",
+          "close": 19.37
+        },
+        {
+          "date": "2009-06-18",
+          "label": "Jun 18, 09",
+          "close": 19.41
+        },
+        {
+          "date": "2009-06-19",
+          "label": "Jun 19, 09",
+          "close": 19.93
+        },
+        {
+          "date": "2009-06-22",
+          "label": "Jun 22, 09",
+          "close": 19.62
+        },
+        {
+          "date": "2009-06-23",
+          "label": "Jun 23, 09",
+          "close": 19.14
+        },
+        {
+          "date": "2009-06-24",
+          "label": "Jun 24, 09",
+          "close": 19.46
+        },
+        {
+          "date": "2009-06-25",
+          "label": "Jun 25, 09",
+          "close": 19.98
+        },
+        {
+          "date": "2009-06-26",
+          "label": "Jun 26, 09",
+          "close": 20.35
+        },
+        {
+          "date": "2009-06-29",
+          "label": "Jun 29, 09",
+          "close": 20.28
+        },
+        {
+          "date": "2009-06-30",
+          "label": "Jun 30, 09",
+          "close": 20.35
+        },
+        {
+          "date": "2009-07-01",
+          "label": "Jul 1, 09",
+          "close": 20.4
+        },
+        {
+          "date": "2009-07-02",
+          "label": "Jul 2, 09",
+          "close": 20
+        },
+        {
+          "date": "2009-07-06",
+          "label": "Jul 6, 09",
+          "close": 19.8
+        },
+        {
+          "date": "2009-07-07",
+          "label": "Jul 7, 09",
+          "close": 19.34
+        },
+        {
+          "date": "2009-07-08",
+          "label": "Jul 8, 09",
+          "close": 19.6
+        },
+        {
+          "date": "2009-07-09",
+          "label": "Jul 9, 09",
+          "close": 19.48
+        },
+        {
+          "date": "2009-07-10",
+          "label": "Jul 10, 09",
+          "close": 19.79
+        },
+        {
+          "date": "2009-07-13",
+          "label": "Jul 13, 09",
+          "close": 20.33
+        },
+        {
+          "date": "2009-07-14",
+          "label": "Jul 14, 09",
+          "close": 20.32
+        },
+        {
+          "date": "2009-07-15",
+          "label": "Jul 15, 09",
+          "close": 20.98
+        },
+        {
+          "date": "2009-07-16",
+          "label": "Jul 16, 09",
+          "close": 21.07
+        },
+        {
+          "date": "2009-07-17",
+          "label": "Jul 17, 09",
+          "close": 21.68
+        },
+        {
+          "date": "2009-07-20",
+          "label": "Jul 20, 09",
+          "close": 21.84
+        },
+        {
+          "date": "2009-07-21",
+          "label": "Jul 21, 09",
+          "close": 21.64
+        },
+        {
+          "date": "2009-07-22",
+          "label": "Jul 22, 09",
+          "close": 22.39
+        },
+        {
+          "date": "2009-07-23",
+          "label": "Jul 23, 09",
+          "close": 22.55
+        },
+        {
+          "date": "2009-07-24",
+          "label": "Jul 24, 09",
+          "close": 22.86
+        },
+        {
+          "date": "2009-07-27",
+          "label": "Jul 27, 09",
+          "close": 22.87
+        },
+        {
+          "date": "2009-07-28",
+          "label": "Jul 28, 09",
+          "close": 22.86
+        },
+        {
+          "date": "2009-07-29",
+          "label": "Jul 29, 09",
+          "close": 22.86
+        },
+        {
+          "date": "2009-07-30",
+          "label": "Jul 30, 09",
+          "close": 23.26
+        },
+        {
+          "date": "2009-07-31",
+          "label": "Jul 31, 09",
+          "close": 23.34
+        },
+        {
+          "date": "2009-08-03",
+          "label": "Aug 3, 09",
+          "close": 23.78
+        },
+        {
+          "date": "2009-08-04",
+          "label": "Aug 4, 09",
+          "close": 23.65
+        },
+        {
+          "date": "2009-08-05",
+          "label": "Aug 5, 09",
+          "close": 23.59
+        },
+        {
+          "date": "2009-08-06",
+          "label": "Aug 6, 09",
+          "close": 23.42
+        },
+        {
+          "date": "2009-08-07",
+          "label": "Aug 7, 09",
+          "close": 23.64
+        },
+        {
+          "date": "2009-08-10",
+          "label": "Aug 10, 09",
+          "close": 23.53
+        },
+        {
+          "date": "2009-08-11",
+          "label": "Aug 11, 09",
+          "close": 23.26
+        },
+        {
+          "date": "2009-08-12",
+          "label": "Aug 12, 09",
+          "close": 23.62
+        },
+        {
+          "date": "2009-08-13",
+          "label": "Aug 13, 09",
+          "close": 24.06
+        },
+        {
+          "date": "2009-08-14",
+          "label": "Aug 14, 09",
+          "close": 23.83
+        },
+        {
+          "date": "2009-08-17",
+          "label": "Aug 17, 09",
+          "close": 22.8
+        },
+        {
+          "date": "2009-08-18",
+          "label": "Aug 18, 09",
+          "close": 23.43
+        },
+        {
+          "date": "2009-08-19",
+          "label": "Aug 19, 09",
+          "close": 23.51
+        },
+        {
+          "date": "2009-08-20",
+          "label": "Aug 20, 09",
+          "close": 23.76
+        },
+        {
+          "date": "2009-08-21",
+          "label": "Aug 21, 09",
+          "close": 24.17
+        },
+        {
+          "date": "2009-08-24",
+          "label": "Aug 24, 09",
+          "close": 24.15
+        },
+        {
+          "date": "2009-08-25",
+          "label": "Aug 25, 09",
+          "close": 24.2
+        },
+        {
+          "date": "2009-08-26",
+          "label": "Aug 26, 09",
+          "close": 23.92
+        },
+        {
+          "date": "2009-08-27",
+          "label": "Aug 27, 09",
+          "close": 24.21
+        },
+        {
+          "date": "2009-08-28",
+          "label": "Aug 28, 09",
+          "close": 24.29
+        },
+        {
+          "date": "2009-08-31",
+          "label": "Aug 31, 09",
+          "close": 24.03
+        },
+        {
+          "date": "2009-09-01",
+          "label": "Sep 1, 09",
+          "close": 23.61
+        },
+        {
+          "date": "2009-09-02",
+          "label": "Sep 2, 09",
+          "close": 23.6
+        },
+        {
+          "date": "2009-09-03",
+          "label": "Sep 3, 09",
+          "close": 23.79
+        },
+        {
+          "date": "2009-09-04",
+          "label": "Sep 4, 09",
+          "close": 24.33
+        },
+        {
+          "date": "2009-09-08",
+          "label": "Sep 8, 09",
+          "close": 24.7
+        },
+        {
+          "date": "2009-09-09",
+          "label": "Sep 9, 09",
+          "close": 24.45
+        },
+        {
+          "date": "2009-09-10",
+          "label": "Sep 10, 09",
+          "close": 24.65
+        },
+        {
+          "date": "2009-09-11",
+          "label": "Sep 11, 09",
+          "close": 24.59
+        },
+        {
+          "date": "2009-09-14",
+          "label": "Sep 14, 09",
+          "close": 24.82
+        },
+        {
+          "date": "2009-09-15",
+          "label": "Sep 15, 09",
+          "close": 25.02
+        },
+        {
+          "date": "2009-09-16",
+          "label": "Sep 16, 09",
+          "close": 25.98
+        },
+        {
+          "date": "2009-09-17",
+          "label": "Sep 17, 09",
+          "close": 26.36
+        },
+        {
+          "date": "2009-09-18",
+          "label": "Sep 18, 09",
+          "close": 26.43
+        },
+        {
+          "date": "2009-09-21",
+          "label": "Sep 21, 09",
+          "close": 26.29
+        },
+        {
+          "date": "2009-09-22",
+          "label": "Sep 22, 09",
+          "close": 26.35
+        },
+        {
+          "date": "2009-09-23",
+          "label": "Sep 23, 09",
+          "close": 26.5
+        },
+        {
+          "date": "2009-09-24",
+          "label": "Sep 24, 09",
+          "close": 26.26
+        },
+        {
+          "date": "2009-09-25",
+          "label": "Sep 25, 09",
+          "close": 26.05
+        },
+        {
+          "date": "2009-09-28",
+          "label": "Sep 28, 09",
+          "close": 26.59
+        },
+        {
+          "date": "2009-09-29",
+          "label": "Sep 29, 09",
+          "close": 26.48
+        },
+        {
+          "date": "2009-09-30",
+          "label": "Sep 30, 09",
+          "close": 26.48
+        },
+        {
+          "date": "2009-10-01",
+          "label": "Oct 1, 09",
+          "close": 25.84
+        },
+        {
+          "date": "2009-10-02",
+          "label": "Oct 2, 09",
+          "close": 26.41
+        },
+        {
+          "date": "2009-10-05",
+          "label": "Oct 5, 09",
+          "close": 26.57
+        },
+        {
+          "date": "2009-10-06",
+          "label": "Oct 6, 09",
+          "close": 27.14
+        },
+        {
+          "date": "2009-10-07",
+          "label": "Oct 7, 09",
+          "close": 27.18
+        },
+        {
+          "date": "2009-10-08",
+          "label": "Oct 8, 09",
+          "close": 27.04
+        },
+        {
+          "date": "2009-10-09",
+          "label": "Oct 9, 09",
+          "close": 27.21
+        },
+        {
+          "date": "2009-10-12",
+          "label": "Oct 12, 09",
+          "close": 27.26
+        },
+        {
+          "date": "2009-10-13",
+          "label": "Oct 13, 09",
+          "close": 27.15
+        },
+        {
+          "date": "2009-10-14",
+          "label": "Oct 14, 09",
+          "close": 27.33
+        },
+        {
+          "date": "2009-10-15",
+          "label": "Oct 15, 09",
+          "close": 27.22
+        },
+        {
+          "date": "2009-10-16",
+          "label": "Oct 16, 09",
+          "close": 26.86
+        },
+        {
+          "date": "2009-10-19",
+          "label": "Oct 19, 09",
+          "close": 27.12
+        },
+        {
+          "date": "2009-10-20",
+          "label": "Oct 20, 09",
+          "close": 28.39
+        },
+        {
+          "date": "2009-10-21",
+          "label": "Oct 21, 09",
+          "close": 29.27
+        },
+        {
+          "date": "2009-10-22",
+          "label": "Oct 22, 09",
+          "close": 29.31
+        },
+        {
+          "date": "2009-10-23",
+          "label": "Oct 23, 09",
+          "close": 29.13
+        },
+        {
+          "date": "2009-10-26",
+          "label": "Oct 26, 09",
+          "close": 28.93
+        },
+        {
+          "date": "2009-10-27",
+          "label": "Oct 27, 09",
+          "close": 28.2
+        },
+        {
+          "date": "2009-10-28",
+          "label": "Oct 28, 09",
+          "close": 27.49
+        },
+        {
+          "date": "2009-10-29",
+          "label": "Oct 29, 09",
+          "close": 28.05
+        },
+        {
+          "date": "2009-10-30",
+          "label": "Oct 30, 09",
+          "close": 26.93
+        },
+        {
+          "date": "2009-11-02",
+          "label": "Nov 2, 09",
+          "close": 27.04
+        },
+        {
+          "date": "2009-11-03",
+          "label": "Nov 3, 09",
+          "close": 26.96
+        },
+        {
+          "date": "2009-11-04",
+          "label": "Nov 4, 09",
+          "close": 27.26
+        },
+        {
+          "date": "2009-11-05",
+          "label": "Nov 5, 09",
+          "close": 27.72
+        },
+        {
+          "date": "2009-11-06",
+          "label": "Nov 6, 09",
+          "close": 27.76
+        },
+        {
+          "date": "2009-11-09",
+          "label": "Nov 9, 09",
+          "close": 28.78
+        },
+        {
+          "date": "2009-11-10",
+          "label": "Nov 10, 09",
+          "close": 29
+        },
+        {
+          "date": "2009-11-11",
+          "label": "Nov 11, 09",
+          "close": 29.04
+        },
+        {
+          "date": "2009-11-12",
+          "label": "Nov 12, 09",
+          "close": 28.86
+        },
+        {
+          "date": "2009-11-13",
+          "label": "Nov 13, 09",
+          "close": 29.21
+        },
+        {
+          "date": "2009-11-16",
+          "label": "Nov 16, 09",
+          "close": 29.52
+        },
+        {
+          "date": "2009-11-17",
+          "label": "Nov 17, 09",
+          "close": 29.57
+        },
+        {
+          "date": "2009-11-18",
+          "label": "Nov 18, 09",
+          "close": 29.42
+        },
+        {
+          "date": "2009-11-19",
+          "label": "Nov 19, 09",
+          "close": 28.64
+        },
+        {
+          "date": "2009-11-20",
+          "label": "Nov 20, 09",
+          "close": 28.56
+        },
+        {
+          "date": "2009-11-23",
+          "label": "Nov 23, 09",
+          "close": 29.41
+        },
+        {
+          "date": "2009-11-24",
+          "label": "Nov 24, 09",
+          "close": 29.21
+        },
+        {
+          "date": "2009-11-25",
+          "label": "Nov 25, 09",
+          "close": 29.17
+        },
+        {
+          "date": "2009-11-27",
+          "label": "Nov 27, 09",
+          "close": 28.66
+        },
+        {
+          "date": "2009-11-30",
+          "label": "Nov 30, 09",
+          "close": 28.56
+        },
+        {
+          "date": "2009-12-01",
+          "label": "Dec 1, 09",
+          "close": 28.14
+        },
+        {
+          "date": "2009-12-02",
+          "label": "Dec 2, 09",
+          "close": 28.03
+        },
+        {
+          "date": "2009-12-03",
+          "label": "Dec 3, 09",
+          "close": 28.07
+        },
+        {
+          "date": "2009-12-04",
+          "label": "Dec 4, 09",
+          "close": 27.62
+        },
+        {
+          "date": "2009-12-07",
+          "label": "Dec 7, 09",
+          "close": 26.99
+        },
+        {
+          "date": "2009-12-08",
+          "label": "Dec 8, 09",
+          "close": 27.12
+        },
+        {
+          "date": "2009-12-09",
+          "label": "Dec 9, 09",
+          "close": 28.26
+        },
+        {
+          "date": "2009-12-10",
+          "label": "Dec 10, 09",
+          "close": 28.06
+        },
+        {
+          "date": "2009-12-11",
+          "label": "Dec 11, 09",
+          "close": 27.81
+        },
+        {
+          "date": "2009-12-14",
+          "label": "Dec 14, 09",
+          "close": 28.14
+        },
+        {
+          "date": "2009-12-15",
+          "label": "Dec 15, 09",
+          "close": 27.74
+        },
+        {
+          "date": "2009-12-16",
+          "label": "Dec 16, 09",
+          "close": 27.86
+        },
+        {
+          "date": "2009-12-17",
+          "label": "Dec 17, 09",
+          "close": 27.41
+        },
+        {
+          "date": "2009-12-18",
+          "label": "Dec 18, 09",
+          "close": 27.92
+        },
+        {
+          "date": "2009-12-21",
+          "label": "Dec 21, 09",
+          "close": 28.32
+        },
+        {
+          "date": "2009-12-22",
+          "label": "Dec 22, 09",
+          "close": 28.62
+        },
+        {
+          "date": "2009-12-23",
+          "label": "Dec 23, 09",
+          "close": 28.87
+        },
+        {
+          "date": "2009-12-24",
+          "label": "Dec 24, 09",
+          "close": 29.86
+        },
+        {
+          "date": "2009-12-28",
+          "label": "Dec 28, 09",
+          "close": 30.23
+        },
+        {
+          "date": "2009-12-29",
+          "label": "Dec 29, 09",
+          "close": 29.87
+        },
+        {
+          "date": "2009-12-30",
+          "label": "Dec 30, 09",
+          "close": 30.23
+        },
+        {
+          "date": "2009-12-31",
+          "label": "Dec 31, 09",
+          "close": 30.1
+        },
+        {
+          "date": "2010-01-04",
+          "label": "Jan 4, 10",
+          "close": 30.57
+        },
+        {
+          "date": "2010-01-05",
+          "label": "Jan 5, 10",
+          "close": 30.63
+        },
+        {
+          "date": "2010-01-06",
+          "label": "Jan 6, 10",
+          "close": 30.14
+        },
+        {
+          "date": "2010-01-07",
+          "label": "Jan 7, 10",
+          "close": 30.08
+        },
+        {
+          "date": "2010-01-08",
+          "label": "Jan 8, 10",
+          "close": 30.28
+        },
+        {
+          "date": "2010-01-11",
+          "label": "Jan 11, 10",
+          "close": 30.02
+        },
+        {
+          "date": "2010-01-12",
+          "label": "Jan 12, 10",
+          "close": 29.67
+        },
+        {
+          "date": "2010-01-13",
+          "label": "Jan 13, 10",
+          "close": 30.09
+        },
+        {
+          "date": "2010-01-14",
+          "label": "Jan 14, 10",
+          "close": 29.92
+        },
+        {
+          "date": "2010-01-15",
+          "label": "Jan 15, 10",
+          "close": 29.42
+        },
+        {
+          "date": "2010-01-19",
+          "label": "Jan 19, 10",
+          "close": 30.72
+        },
+        {
+          "date": "2010-01-20",
+          "label": "Jan 20, 10",
+          "close": 30.25
+        },
+        {
+          "date": "2010-01-21",
+          "label": "Jan 21, 10",
+          "close": 29.72
+        },
+        {
+          "date": "2010-01-22",
+          "label": "Jan 22, 10",
+          "close": 28.25
+        },
+        {
+          "date": "2010-01-25",
+          "label": "Jan 25, 10",
+          "close": 29.01
+        },
+        {
+          "date": "2010-01-26",
+          "label": "Jan 26, 10",
+          "close": 29.42
+        },
+        {
+          "date": "2010-01-27",
+          "label": "Jan 27, 10",
+          "close": 29.7
+        },
+        {
+          "date": "2010-01-28",
+          "label": "Jan 28, 10",
+          "close": 28.47
+        },
+        {
+          "date": "2010-01-29",
+          "label": "Jan 29, 10",
+          "close": 27.44
+        },
+        {
+          "date": "2010-02-01",
+          "label": "Feb 1, 10",
+          "close": 27.82
+        },
+        {
+          "date": "2010-02-02",
+          "label": "Feb 2, 10",
+          "close": 27.98
+        },
+        {
+          "date": "2010-02-03",
+          "label": "Feb 3, 10",
+          "close": 28.46
+        },
+        {
+          "date": "2010-02-04",
+          "label": "Feb 4, 10",
+          "close": 27.44
+        },
+        {
+          "date": "2010-02-05",
+          "label": "Feb 5, 10",
+          "close": 27.92
+        },
+        {
+          "date": "2010-02-08",
+          "label": "Feb 8, 10",
+          "close": 27.73
+        },
+        {
+          "date": "2010-02-09",
+          "label": "Feb 9, 10",
+          "close": 28.03
+        },
+        {
+          "date": "2010-02-10",
+          "label": "Feb 10, 10",
+          "close": 27.87
+        },
+        {
+          "date": "2010-02-11",
+          "label": "Feb 11, 10",
+          "close": 28.38
+        },
+        {
+          "date": "2010-02-12",
+          "label": "Feb 12, 10",
+          "close": 28.63
+        },
+        {
+          "date": "2010-02-16",
+          "label": "Feb 16, 10",
+          "close": 29.06
+        },
+        {
+          "date": "2010-02-17",
+          "label": "Feb 17, 10",
+          "close": 28.94
+        },
+        {
+          "date": "2010-02-18",
+          "label": "Feb 18, 10",
+          "close": 28.99
+        },
+        {
+          "date": "2010-02-19",
+          "label": "Feb 19, 10",
+          "close": 28.81
+        },
+        {
+          "date": "2010-02-22",
+          "label": "Feb 22, 10",
+          "close": 28.63
+        },
+        {
+          "date": "2010-02-23",
+          "label": "Feb 23, 10",
+          "close": 28.15
+        },
+        {
+          "date": "2010-02-24",
+          "label": "Feb 24, 10",
+          "close": 28.67
+        },
+        {
+          "date": "2010-02-25",
+          "label": "Feb 25, 10",
+          "close": 28.86
+        },
+        {
+          "date": "2010-02-26",
+          "label": "Feb 26, 10",
+          "close": 29.23
+        },
+        {
+          "date": "2010-03-01",
+          "label": "Mar 1, 10",
+          "close": 29.86
+        },
+        {
+          "date": "2010-03-02",
+          "label": "Mar 2, 10",
+          "close": 29.84
+        },
+        {
+          "date": "2010-03-03",
+          "label": "Mar 3, 10",
+          "close": 29.9
+        },
+        {
+          "date": "2010-03-04",
+          "label": "Mar 4, 10",
+          "close": 30.1
+        },
+        {
+          "date": "2010-03-05",
+          "label": "Mar 5, 10",
+          "close": 31.28
+        },
+        {
+          "date": "2010-03-08",
+          "label": "Mar 8, 10",
+          "close": 31.3
+        },
+        {
+          "date": "2010-03-09",
+          "label": "Mar 9, 10",
+          "close": 31.86
+        },
+        {
+          "date": "2010-03-10",
+          "label": "Mar 10, 10",
+          "close": 32.12
+        },
+        {
+          "date": "2010-03-11",
+          "label": "Mar 11, 10",
+          "close": 32.21
+        },
+        {
+          "date": "2010-03-12",
+          "label": "Mar 12, 10",
+          "close": 32.37
+        },
+        {
+          "date": "2010-03-15",
+          "label": "Mar 15, 10",
+          "close": 31.98
+        },
+        {
+          "date": "2010-03-16",
+          "label": "Mar 16, 10",
+          "close": 32.06
+        },
+        {
+          "date": "2010-03-17",
+          "label": "Mar 17, 10",
+          "close": 32.02
+        },
+        {
+          "date": "2010-03-18",
+          "label": "Mar 18, 10",
+          "close": 32.09
+        },
+        {
+          "date": "2010-03-19",
+          "label": "Mar 19, 10",
+          "close": 31.75
+        },
+        {
+          "date": "2010-03-22",
+          "label": "Mar 22, 10",
+          "close": 32.11
+        },
+        {
+          "date": "2010-03-23",
+          "label": "Mar 23, 10",
+          "close": 32.62
+        },
+        {
+          "date": "2010-03-24",
+          "label": "Mar 24, 10",
+          "close": 32.77
+        },
+        {
+          "date": "2010-03-25",
+          "label": "Mar 25, 10",
+          "close": 32.38
+        },
+        {
+          "date": "2010-03-26",
+          "label": "Mar 26, 10",
+          "close": 32.99
+        },
+        {
+          "date": "2010-03-29",
+          "label": "Mar 29, 10",
+          "close": 33.2
+        },
+        {
+          "date": "2010-03-30",
+          "label": "Mar 30, 10",
+          "close": 33.69
+        },
+        {
+          "date": "2010-03-31",
+          "label": "Mar 31, 10",
+          "close": 33.57
+        },
+        {
+          "date": "2010-04-01",
+          "label": "Apr 1, 10",
+          "close": 33.71
+        },
+        {
+          "date": "2010-04-05",
+          "label": "Apr 5, 10",
+          "close": 34.07
+        },
+        {
+          "date": "2010-04-06",
+          "label": "Apr 6, 10",
+          "close": 34.22
+        },
+        {
+          "date": "2010-04-07",
+          "label": "Apr 7, 10",
+          "close": 34.37
+        },
+        {
+          "date": "2010-04-08",
+          "label": "Apr 8, 10",
+          "close": 34.28
+        },
+        {
+          "date": "2010-04-09",
+          "label": "Apr 9, 10",
+          "close": 34.54
+        },
+        {
+          "date": "2010-04-12",
+          "label": "Apr 12, 10",
+          "close": 34.61
+        },
+        {
+          "date": "2010-04-13",
+          "label": "Apr 13, 10",
+          "close": 34.63
+        },
+        {
+          "date": "2010-04-14",
+          "label": "Apr 14, 10",
+          "close": 35.1
+        },
+        {
+          "date": "2010-04-15",
+          "label": "Apr 15, 10",
+          "close": 35.56
+        },
+        {
+          "date": "2010-04-16",
+          "label": "Apr 16, 10",
+          "close": 35.34
+        },
+        {
+          "date": "2010-04-19",
+          "label": "Apr 19, 10",
+          "close": 35.3
+        },
+        {
+          "date": "2010-04-20",
+          "label": "Apr 20, 10",
+          "close": 34.94
+        },
+        {
+          "date": "2010-04-21",
+          "label": "Apr 21, 10",
+          "close": 37.03
+        },
+        {
+          "date": "2010-04-22",
+          "label": "Apr 22, 10",
+          "close": 38.07
+        },
+        {
+          "date": "2010-04-23",
+          "label": "Apr 23, 10",
+          "close": 38.69
+        },
+        {
+          "date": "2010-04-26",
+          "label": "Apr 26, 10",
+          "close": 38.5
+        },
+        {
+          "date": "2010-04-27",
+          "label": "Apr 27, 10",
+          "close": 37.43
+        },
+        {
+          "date": "2010-04-28",
+          "label": "Apr 28, 10",
+          "close": 37.37
+        },
+        {
+          "date": "2010-04-29",
+          "label": "Apr 29, 10",
+          "close": 38.38
+        },
+        {
+          "date": "2010-04-30",
+          "label": "Apr 30, 10",
+          "close": 37.3
+        },
+        {
+          "date": "2010-05-03",
+          "label": "May 3, 10",
+          "close": 38.05
+        },
+        {
+          "date": "2010-05-04",
+          "label": "May 4, 10",
+          "close": 36.95
+        },
+        {
+          "date": "2010-05-05",
+          "label": "May 5, 10",
+          "close": 36.57
+        },
+        {
+          "date": "2010-05-06",
+          "label": "May 6, 10",
+          "close": 35.18
+        },
+        {
+          "date": "2010-05-07",
+          "label": "May 7, 10",
+          "close": 33.69
+        },
+        {
+          "date": "2010-05-10",
+          "label": "May 10, 10",
+          "close": 36.28
+        },
+        {
+          "date": "2010-05-11",
+          "label": "May 11, 10",
+          "close": 36.65
+        },
+        {
+          "date": "2010-05-12",
+          "label": "May 12, 10",
+          "close": 37.44
+        },
+        {
+          "date": "2010-05-13",
+          "label": "May 13, 10",
+          "close": 36.91
+        },
+        {
+          "date": "2010-05-14",
+          "label": "May 14, 10",
+          "close": 36.26
+        },
+        {
+          "date": "2010-05-17",
+          "label": "May 17, 10",
+          "close": 36.32
+        },
+        {
+          "date": "2010-05-18",
+          "label": "May 18, 10",
+          "close": 36.05
+        },
+        {
+          "date": "2010-05-19",
+          "label": "May 19, 10",
+          "close": 35.48
+        },
+        {
+          "date": "2010-05-20",
+          "label": "May 20, 10",
+          "close": 33.97
+        },
+        {
+          "date": "2010-05-21",
+          "label": "May 21, 10",
+          "close": 34.62
+        },
+        {
+          "date": "2010-05-24",
+          "label": "May 24, 10",
+          "close": 35.25
+        },
+        {
+          "date": "2010-05-25",
+          "label": "May 25, 10",
+          "close": 35.03
+        },
+        {
+          "date": "2010-05-26",
+          "label": "May 26, 10",
+          "close": 34.87
+        },
+        {
+          "date": "2010-05-27",
+          "label": "May 27, 10",
+          "close": 36.19
+        },
+        {
+          "date": "2010-05-28",
+          "label": "May 28, 10",
+          "close": 36.7
+        },
+        {
+          "date": "2010-06-01",
+          "label": "Jun 1, 10",
+          "close": 37.26
+        },
+        {
+          "date": "2010-06-02",
+          "label": "Jun 2, 10",
+          "close": 37.71
+        },
+        {
+          "date": "2010-06-03",
+          "label": "Jun 3, 10",
+          "close": 37.59
+        },
+        {
+          "date": "2010-06-04",
+          "label": "Jun 4, 10",
+          "close": 36.57
+        },
+        {
+          "date": "2010-06-07",
+          "label": "Jun 7, 10",
+          "close": 35.85
+        },
+        {
+          "date": "2010-06-08",
+          "label": "Jun 8, 10",
+          "close": 35.62
+        },
+        {
+          "date": "2010-06-09",
+          "label": "Jun 9, 10",
+          "close": 34.74
+        },
+        {
+          "date": "2010-06-10",
+          "label": "Jun 10, 10",
+          "close": 35.79
+        },
+        {
+          "date": "2010-06-11",
+          "label": "Jun 11, 10",
+          "close": 36.22
+        },
+        {
+          "date": "2010-06-14",
+          "label": "Jun 14, 10",
+          "close": 36.33
+        },
+        {
+          "date": "2010-06-15",
+          "label": "Jun 15, 10",
+          "close": 37.1
+        },
+        {
+          "date": "2010-06-16",
+          "label": "Jun 16, 10",
+          "close": 38.18
+        },
+        {
+          "date": "2010-06-17",
+          "label": "Jun 17, 10",
+          "close": 38.84
+        },
+        {
+          "date": "2010-06-18",
+          "label": "Jun 18, 10",
+          "close": 39.15
+        },
+        {
+          "date": "2010-06-21",
+          "label": "Jun 21, 10",
+          "close": 38.6
+        },
+        {
+          "date": "2010-06-22",
+          "label": "Jun 22, 10",
+          "close": 39.12
+        },
+        {
+          "date": "2010-06-23",
+          "label": "Jun 23, 10",
+          "close": 38.71
+        },
+        {
+          "date": "2010-06-24",
+          "label": "Jun 24, 10",
+          "close": 38.43
+        },
+        {
+          "date": "2010-06-25",
+          "label": "Jun 25, 10",
+          "close": 38.1
+        },
+        {
+          "date": "2010-06-28",
+          "label": "Jun 28, 10",
+          "close": 38.33
+        },
+        {
+          "date": "2010-06-29",
+          "label": "Jun 29, 10",
+          "close": 36.6
+        },
+        {
+          "date": "2010-06-30",
+          "label": "Jun 30, 10",
+          "close": 35.93
+        },
+        {
+          "date": "2010-07-01",
+          "label": "Jul 1, 10",
+          "close": 35.5
+        },
+        {
+          "date": "2010-07-02",
+          "label": "Jul 2, 10",
+          "close": 35.28
+        },
+        {
+          "date": "2010-07-06",
+          "label": "Jul 6, 10",
+          "close": 35.52
+        },
+        {
+          "date": "2010-07-07",
+          "label": "Jul 7, 10",
+          "close": 36.95
+        },
+        {
+          "date": "2010-07-08",
+          "label": "Jul 8, 10",
+          "close": 36.87
+        },
+        {
+          "date": "2010-07-09",
+          "label": "Jul 9, 10",
+          "close": 37.09
+        },
+        {
+          "date": "2010-07-12",
+          "label": "Jul 12, 10",
+          "close": 36.76
+        },
+        {
+          "date": "2010-07-13",
+          "label": "Jul 13, 10",
+          "close": 35.97
+        },
+        {
+          "date": "2010-07-14",
+          "label": "Jul 14, 10",
+          "close": 36.1
+        },
+        {
+          "date": "2010-07-15",
+          "label": "Jul 15, 10",
+          "close": 35.92
+        },
+        {
+          "date": "2010-07-16",
+          "label": "Jul 16, 10",
+          "close": 35.7
+        },
+        {
+          "date": "2010-07-19",
+          "label": "Jul 19, 10",
+          "close": 35.08
+        },
+        {
+          "date": "2010-07-20",
+          "label": "Jul 20, 10",
+          "close": 35.98
+        },
+        {
+          "date": "2010-07-21",
+          "label": "Jul 21, 10",
+          "close": 36.32
+        },
+        {
+          "date": "2010-07-22",
+          "label": "Jul 22, 10",
+          "close": 37
+        },
+        {
+          "date": "2010-07-23",
+          "label": "Jul 23, 10",
+          "close": 37.13
+        },
+        {
+          "date": "2010-07-26",
+          "label": "Jul 26, 10",
+          "close": 37.04
+        },
+        {
+          "date": "2010-07-27",
+          "label": "Jul 27, 10",
+          "close": 37.73
+        },
+        {
+          "date": "2010-07-28",
+          "label": "Jul 28, 10",
+          "close": 37.28
+        },
+        {
+          "date": "2010-07-29",
+          "label": "Jul 29, 10",
+          "close": 36.87
+        },
+        {
+          "date": "2010-07-30",
+          "label": "Jul 30, 10",
+          "close": 36.75
+        },
+        {
+          "date": "2010-08-02",
+          "label": "Aug 2, 10",
+          "close": 37.41
+        },
+        {
+          "date": "2010-08-03",
+          "label": "Aug 3, 10",
+          "close": 37.42
+        },
+        {
+          "date": "2010-08-04",
+          "label": "Aug 4, 10",
+          "close": 37.57
+        },
+        {
+          "date": "2010-08-05",
+          "label": "Aug 5, 10",
+          "close": 37.39
+        },
+        {
+          "date": "2010-08-06",
+          "label": "Aug 6, 10",
+          "close": 37.16
+        },
+        {
+          "date": "2010-08-09",
+          "label": "Aug 9, 10",
+          "close": 37.39
+        },
+        {
+          "date": "2010-08-10",
+          "label": "Aug 10, 10",
+          "close": 37.06
+        },
+        {
+          "date": "2010-08-11",
+          "label": "Aug 11, 10",
+          "close": 35.74
+        },
+        {
+          "date": "2010-08-12",
+          "label": "Aug 12, 10",
+          "close": 35.97
+        },
+        {
+          "date": "2010-08-13",
+          "label": "Aug 13, 10",
+          "close": 35.59
+        },
+        {
+          "date": "2010-08-16",
+          "label": "Aug 16, 10",
+          "close": 35.38
+        },
+        {
+          "date": "2010-08-17",
+          "label": "Aug 17, 10",
+          "close": 36
+        },
+        {
+          "date": "2010-08-18",
+          "label": "Aug 18, 10",
+          "close": 36.15
+        },
+        {
+          "date": "2010-08-19",
+          "label": "Aug 19, 10",
+          "close": 35.7
+        },
+        {
+          "date": "2010-08-20",
+          "label": "Aug 20, 10",
+          "close": 35.66
+        },
+        {
+          "date": "2010-08-23",
+          "label": "Aug 23, 10",
+          "close": 35.11
+        },
+        {
+          "date": "2010-08-24",
+          "label": "Aug 24, 10",
+          "close": 34.28
+        },
+        {
+          "date": "2010-08-25",
+          "label": "Aug 25, 10",
+          "close": 34.7
+        },
+        {
+          "date": "2010-08-26",
+          "label": "Aug 26, 10",
+          "close": 34.33
+        },
+        {
+          "date": "2010-08-27",
+          "label": "Aug 27, 10",
+          "close": 34.52
+        },
+        {
+          "date": "2010-08-30",
+          "label": "Aug 30, 10",
+          "close": 34.64
+        },
+        {
+          "date": "2010-08-31",
+          "label": "Aug 31, 10",
+          "close": 34.73
+        },
+        {
+          "date": "2010-09-01",
+          "label": "Sep 1, 10",
+          "close": 35.76
+        },
+        {
+          "date": "2010-09-02",
+          "label": "Sep 2, 10",
+          "close": 36.02
+        },
+        {
+          "date": "2010-09-03",
+          "label": "Sep 3, 10",
+          "close": 36.97
+        },
+        {
+          "date": "2010-09-07",
+          "label": "Sep 7, 10",
+          "close": 36.83
+        },
+        {
+          "date": "2010-09-08",
+          "label": "Sep 8, 10",
+          "close": 37.56
+        },
+        {
+          "date": "2010-09-09",
+          "label": "Sep 9, 10",
+          "close": 37.58
+        },
+        {
+          "date": "2010-09-10",
+          "label": "Sep 10, 10",
+          "close": 37.63
+        },
+        {
+          "date": "2010-09-13",
+          "label": "Sep 13, 10",
+          "close": 38.15
+        },
+        {
+          "date": "2010-09-14",
+          "label": "Sep 14, 10",
+          "close": 38.29
+        },
+        {
+          "date": "2010-09-15",
+          "label": "Sep 15, 10",
+          "close": 38.6
+        },
+        {
+          "date": "2010-09-16",
+          "label": "Sep 16, 10",
+          "close": 39.51
+        },
+        {
+          "date": "2010-09-17",
+          "label": "Sep 17, 10",
+          "close": 39.34
+        },
+        {
+          "date": "2010-09-20",
+          "label": "Sep 20, 10",
+          "close": 40.46
+        },
+        {
+          "date": "2010-09-21",
+          "label": "Sep 21, 10",
+          "close": 40.54
+        },
+        {
+          "date": "2010-09-22",
+          "label": "Sep 22, 10",
+          "close": 41.11
+        },
+        {
+          "date": "2010-09-23",
+          "label": "Sep 23, 10",
+          "close": 41.27
+        },
+        {
+          "date": "2010-09-24",
+          "label": "Sep 24, 10",
+          "close": 41.76
+        },
+        {
+          "date": "2010-09-27",
+          "label": "Sep 27, 10",
+          "close": 41.59
+        },
+        {
+          "date": "2010-09-28",
+          "label": "Sep 28, 10",
+          "close": 40.98
+        },
+        {
+          "date": "2010-09-29",
+          "label": "Sep 29, 10",
+          "close": 41.05
+        },
+        {
+          "date": "2010-09-30",
+          "label": "Sep 30, 10",
+          "close": 40.54
+        },
+        {
+          "date": "2010-10-01",
+          "label": "Oct 1, 10",
+          "close": 40.36
+        },
+        {
+          "date": "2010-10-04",
+          "label": "Oct 4, 10",
+          "close": 39.81
+        },
+        {
+          "date": "2010-10-05",
+          "label": "Oct 5, 10",
+          "close": 41.28
+        },
+        {
+          "date": "2010-10-06",
+          "label": "Oct 6, 10",
+          "close": 41.31
+        },
+        {
+          "date": "2010-10-07",
+          "label": "Oct 7, 10",
+          "close": 41.32
+        },
+        {
+          "date": "2010-10-08",
+          "label": "Oct 8, 10",
+          "close": 42.01
+        },
+        {
+          "date": "2010-10-11",
+          "label": "Oct 11, 10",
+          "close": 42.19
+        },
+        {
+          "date": "2010-10-12",
+          "label": "Oct 12, 10",
+          "close": 42.65
+        },
+        {
+          "date": "2010-10-13",
+          "label": "Oct 13, 10",
+          "close": 42.88
+        },
+        {
+          "date": "2010-10-14",
+          "label": "Oct 14, 10",
+          "close": 43.19
+        },
+        {
+          "date": "2010-10-15",
+          "label": "Oct 15, 10",
+          "close": 44.96
+        },
+        {
+          "date": "2010-10-18",
+          "label": "Oct 18, 10",
+          "close": 45.43
+        },
+        {
+          "date": "2010-10-19",
+          "label": "Oct 19, 10",
+          "close": 44.21
+        },
+        {
+          "date": "2010-10-20",
+          "label": "Oct 20, 10",
+          "close": 44.36
+        },
+        {
+          "date": "2010-10-21",
+          "label": "Oct 21, 10",
+          "close": 44.22
+        },
+        {
+          "date": "2010-10-22",
+          "label": "Oct 22, 10",
+          "close": 43.92
+        },
+        {
+          "date": "2010-10-25",
+          "label": "Oct 25, 10",
+          "close": 44.12
+        },
+        {
+          "date": "2010-10-26",
+          "label": "Oct 26, 10",
+          "close": 44.01
+        },
+        {
+          "date": "2010-10-27",
+          "label": "Oct 27, 10",
+          "close": 43.98
+        },
+        {
+          "date": "2010-10-28",
+          "label": "Oct 28, 10",
+          "close": 43.61
+        },
+        {
+          "date": "2010-10-29",
+          "label": "Oct 29, 10",
+          "close": 43
+        },
+        {
+          "date": "2010-11-01",
+          "label": "Nov 1, 10",
+          "close": 43.45
+        },
+        {
+          "date": "2010-11-02",
+          "label": "Nov 2, 10",
+          "close": 44.19
+        },
+        {
+          "date": "2010-11-03",
+          "label": "Nov 3, 10",
+          "close": 44.69
+        },
+        {
+          "date": "2010-11-04",
+          "label": "Nov 4, 10",
+          "close": 45.47
+        },
+        {
+          "date": "2010-11-05",
+          "label": "Nov 5, 10",
+          "close": 45.3
+        },
+        {
+          "date": "2010-11-08",
+          "label": "Nov 8, 10",
+          "close": 45.52
+        },
+        {
+          "date": "2010-11-09",
+          "label": "Nov 9, 10",
+          "close": 45.15
+        },
+        {
+          "date": "2010-11-10",
+          "label": "Nov 10, 10",
+          "close": 45.43
+        },
+        {
+          "date": "2010-11-11",
+          "label": "Nov 11, 10",
+          "close": 45.24
+        },
+        {
+          "date": "2010-11-12",
+          "label": "Nov 12, 10",
+          "close": 44
+        },
+        {
+          "date": "2010-11-15",
+          "label": "Nov 15, 10",
+          "close": 43.86
+        },
+        {
+          "date": "2010-11-16",
+          "label": "Nov 16, 10",
+          "close": 43.08
+        },
+        {
+          "date": "2010-11-17",
+          "label": "Nov 17, 10",
+          "close": 42.93
+        },
+        {
+          "date": "2010-11-18",
+          "label": "Nov 18, 10",
+          "close": 44.06
+        },
+        {
+          "date": "2010-11-19",
+          "label": "Nov 19, 10",
+          "close": 43.82
+        },
+        {
+          "date": "2010-11-22",
+          "label": "Nov 22, 10",
+          "close": 44.77
+        },
+        {
+          "date": "2010-11-23",
+          "label": "Nov 23, 10",
+          "close": 44.1
+        },
+        {
+          "date": "2010-11-24",
+          "label": "Nov 24, 10",
+          "close": 44.97
+        },
+        {
+          "date": "2010-11-26",
+          "label": "Nov 26, 10",
+          "close": 45.11
+        },
+        {
+          "date": "2010-11-29",
+          "label": "Nov 29, 10",
+          "close": 45.27
+        },
+        {
+          "date": "2010-11-30",
+          "label": "Nov 30, 10",
+          "close": 44.45
+        },
+        {
+          "date": "2010-12-01",
+          "label": "Dec 1, 10",
+          "close": 45.2
+        },
+        {
+          "date": "2010-12-02",
+          "label": "Dec 2, 10",
+          "close": 45.45
+        },
+        {
+          "date": "2010-12-03",
+          "label": "Dec 3, 10",
+          "close": 45.35
+        },
+        {
+          "date": "2010-12-06",
+          "label": "Dec 6, 10",
+          "close": 45.74
+        },
+        {
+          "date": "2010-12-07",
+          "label": "Dec 7, 10",
+          "close": 45.46
+        },
+        {
+          "date": "2010-12-08",
+          "label": "Dec 8, 10",
+          "close": 45.86
+        },
+        {
+          "date": "2010-12-09",
+          "label": "Dec 9, 10",
+          "close": 45.68
+        },
+        {
+          "date": "2010-12-10",
+          "label": "Dec 10, 10",
+          "close": 45.79
+        },
+        {
+          "date": "2010-12-13",
+          "label": "Dec 13, 10",
+          "close": 45.95
+        },
+        {
+          "date": "2010-12-14",
+          "label": "Dec 14, 10",
+          "close": 45.76
+        },
+        {
+          "date": "2010-12-15",
+          "label": "Dec 15, 10",
+          "close": 45.77
+        },
+        {
+          "date": "2010-12-16",
+          "label": "Dec 16, 10",
+          "close": 45.89
+        },
+        {
+          "date": "2010-12-17",
+          "label": "Dec 17, 10",
+          "close": 45.8
+        },
+        {
+          "date": "2010-12-20",
+          "label": "Dec 20, 10",
+          "close": 46.03
+        },
+        {
+          "date": "2010-12-21",
+          "label": "Dec 21, 10",
+          "close": 46.32
+        },
+        {
+          "date": "2010-12-22",
+          "label": "Dec 22, 10",
+          "close": 46.45
+        },
+        {
+          "date": "2010-12-23",
+          "label": "Dec 23, 10",
+          "close": 46.23
+        },
+        {
+          "date": "2010-12-27",
+          "label": "Dec 27, 10",
+          "close": 46.38
+        },
+        {
+          "date": "2010-12-28",
+          "label": "Dec 28, 10",
+          "close": 46.5
+        },
+        {
+          "date": "2010-12-29",
+          "label": "Dec 29, 10",
+          "close": 46.47
+        },
+        {
+          "date": "2010-12-30",
+          "label": "Dec 30, 10",
+          "close": 46.24
+        },
+        {
+          "date": "2010-12-31",
+          "label": "Dec 31, 10",
+          "close": 46.08
+        },
+        {
+          "date": "2011-01-03",
+          "label": "Jan 3, 11",
+          "close": 47.08
+        },
+        {
+          "date": "2011-01-04",
+          "label": "Jan 4, 11",
+          "close": 47.33
+        },
+        {
+          "date": "2011-01-05",
+          "label": "Jan 5, 11",
+          "close": 47.71
+        },
+        {
+          "date": "2011-01-06",
+          "label": "Jan 6, 11",
+          "close": 47.68
+        },
+        {
+          "date": "2011-01-07",
+          "label": "Jan 7, 11",
+          "close": 48.02
+        },
+        {
+          "date": "2011-01-10",
+          "label": "Jan 10, 11",
+          "close": 48.92
+        },
+        {
+          "date": "2011-01-11",
+          "label": "Jan 11, 11",
+          "close": 48.81
+        },
+        {
+          "date": "2011-01-12",
+          "label": "Jan 12, 11",
+          "close": 49.2
+        },
+        {
+          "date": "2011-01-13",
+          "label": "Jan 13, 11",
+          "close": 49.38
+        },
+        {
+          "date": "2011-01-14",
+          "label": "Jan 14, 11",
+          "close": 49.78
+        },
+        {
+          "date": "2011-01-18",
+          "label": "Jan 18, 11",
+          "close": 48.66
+        },
+        {
+          "date": "2011-01-19",
+          "label": "Jan 19, 11",
+          "close": 48.41
+        },
+        {
+          "date": "2011-01-20",
+          "label": "Jan 20, 11",
+          "close": 47.53
+        },
+        {
+          "date": "2011-01-21",
+          "label": "Jan 21, 11",
+          "close": 46.67
+        },
+        {
+          "date": "2011-01-24",
+          "label": "Jan 24, 11",
+          "close": 48.21
+        },
+        {
+          "date": "2011-01-25",
+          "label": "Jan 25, 11",
+          "close": 48.77
+        },
+        {
+          "date": "2011-01-26",
+          "label": "Jan 26, 11",
+          "close": 49.12
+        },
+        {
+          "date": "2011-01-27",
+          "label": "Jan 27, 11",
+          "close": 49.03
+        },
+        {
+          "date": "2011-01-28",
+          "label": "Jan 28, 11",
+          "close": 48.01
+        },
+        {
+          "date": "2011-01-31",
+          "label": "Jan 31, 11",
+          "close": 48.47
+        },
+        {
+          "date": "2011-02-01",
+          "label": "Feb 1, 11",
+          "close": 49.29
+        },
+        {
+          "date": "2011-02-02",
+          "label": "Feb 2, 11",
+          "close": 49.19
+        },
+        {
+          "date": "2011-02-03",
+          "label": "Feb 3, 11",
+          "close": 49.06
+        },
+        {
+          "date": "2011-02-04",
+          "label": "Feb 4, 11",
+          "close": 49.5
+        },
+        {
+          "date": "2011-02-07",
+          "label": "Feb 7, 11",
+          "close": 50.27
+        },
+        {
+          "date": "2011-02-08",
+          "label": "Feb 8, 11",
+          "close": 50.74
+        },
+        {
+          "date": "2011-02-09",
+          "label": "Feb 9, 11",
+          "close": 51.17
+        },
+        {
+          "date": "2011-02-10",
+          "label": "Feb 10, 11",
+          "close": 50.65
+        },
+        {
+          "date": "2011-02-11",
+          "label": "Feb 11, 11",
+          "close": 50.98
+        },
+        {
+          "date": "2011-02-14",
+          "label": "Feb 14, 11",
+          "close": 51.31
+        },
+        {
+          "date": "2011-02-15",
+          "label": "Feb 15, 11",
+          "close": 51.41
+        },
+        {
+          "date": "2011-02-16",
+          "label": "Feb 16, 11",
+          "close": 51.88
+        },
+        {
+          "date": "2011-02-17",
+          "label": "Feb 17, 11",
+          "close": 51.19
+        },
+        {
+          "date": "2011-02-18",
+          "label": "Feb 18, 11",
+          "close": 50.08
+        },
+        {
+          "date": "2011-02-22",
+          "label": "Feb 22, 11",
+          "close": 48.37
+        },
+        {
+          "date": "2011-02-23",
+          "label": "Feb 23, 11",
+          "close": 48.95
+        },
+        {
+          "date": "2011-02-24",
+          "label": "Feb 24, 11",
+          "close": 48.98
+        },
+        {
+          "date": "2011-02-25",
+          "label": "Feb 25, 11",
+          "close": 49.74
+        },
+        {
+          "date": "2011-02-28",
+          "label": "Feb 28, 11",
+          "close": 50.46
+        },
+        {
+          "date": "2011-03-01",
+          "label": "Mar 1, 11",
+          "close": 49.9
+        },
+        {
+          "date": "2011-03-02",
+          "label": "Mar 2, 11",
+          "close": 50.3
+        },
+        {
+          "date": "2011-03-03",
+          "label": "Mar 3, 11",
+          "close": 51.37
+        },
+        {
+          "date": "2011-03-04",
+          "label": "Mar 4, 11",
+          "close": 51.43
+        },
+        {
+          "date": "2011-03-07",
+          "label": "Mar 7, 11",
+          "close": 50.77
+        },
+        {
+          "date": "2011-03-08",
+          "label": "Mar 8, 11",
+          "close": 50.82
+        },
+        {
+          "date": "2011-03-09",
+          "label": "Mar 9, 11",
+          "close": 50.35
+        },
+        {
+          "date": "2011-03-10",
+          "label": "Mar 10, 11",
+          "close": 49.52
+        },
+        {
+          "date": "2011-03-11",
+          "label": "Mar 11, 11",
+          "close": 50.28
+        },
+        {
+          "date": "2011-03-14",
+          "label": "Mar 14, 11",
+          "close": 50.51
+        },
+        {
+          "date": "2011-03-15",
+          "label": "Mar 15, 11",
+          "close": 49.35
+        },
+        {
+          "date": "2011-03-16",
+          "label": "Mar 16, 11",
+          "close": 47.14
+        },
+        {
+          "date": "2011-03-17",
+          "label": "Mar 17, 11",
+          "close": 47.81
+        },
+        {
+          "date": "2011-03-18",
+          "label": "Mar 18, 11",
+          "close": 47.24
+        },
+        {
+          "date": "2011-03-21",
+          "label": "Mar 21, 11",
+          "close": 48.47
+        },
+        {
+          "date": "2011-03-22",
+          "label": "Mar 22, 11",
+          "close": 48.74
+        },
+        {
+          "date": "2011-03-23",
+          "label": "Mar 23, 11",
+          "close": 48.46
+        },
+        {
+          "date": "2011-03-24",
+          "label": "Mar 24, 11",
+          "close": 49.28
+        },
+        {
+          "date": "2011-03-25",
+          "label": "Mar 25, 11",
+          "close": 50.22
+        },
+        {
+          "date": "2011-03-28",
+          "label": "Mar 28, 11",
+          "close": 50.06
+        },
+        {
+          "date": "2011-03-29",
+          "label": "Mar 29, 11",
+          "close": 50.14
+        },
+        {
+          "date": "2011-03-30",
+          "label": "Mar 30, 11",
+          "close": 49.8
+        },
+        {
+          "date": "2011-03-31",
+          "label": "Mar 31, 11",
+          "close": 49.79
+        },
+        {
+          "date": "2011-04-01",
+          "label": "Apr 1, 11",
+          "close": 49.22
+        },
+        {
+          "date": "2011-04-04",
+          "label": "Apr 4, 11",
+          "close": 48.74
+        },
+        {
+          "date": "2011-04-05",
+          "label": "Apr 5, 11",
+          "close": 48.41
+        },
+        {
+          "date": "2011-04-06",
+          "label": "Apr 6, 11",
+          "close": 48.29
+        },
+        {
+          "date": "2011-04-07",
+          "label": "Apr 7, 11",
+          "close": 48.3
+        },
+        {
+          "date": "2011-04-08",
+          "label": "Apr 8, 11",
+          "close": 47.87
+        },
+        {
+          "date": "2011-04-11",
+          "label": "Apr 11, 11",
+          "close": 47.26
+        },
+        {
+          "date": "2011-04-12",
+          "label": "Apr 12, 11",
+          "close": 47.49
+        },
+        {
+          "date": "2011-04-13",
+          "label": "Apr 13, 11",
+          "close": 48.02
+        },
+        {
+          "date": "2011-04-14",
+          "label": "Apr 14, 11",
+          "close": 47.49
+        },
+        {
+          "date": "2011-04-15",
+          "label": "Apr 15, 11",
+          "close": 46.78
+        },
+        {
+          "date": "2011-04-18",
+          "label": "Apr 18, 11",
+          "close": 47.41
+        },
+        {
+          "date": "2011-04-19",
+          "label": "Apr 19, 11",
+          "close": 48.27
+        },
+        {
+          "date": "2011-04-20",
+          "label": "Apr 20, 11",
+          "close": 48.92
+        },
+        {
+          "date": "2011-04-21",
+          "label": "Apr 21, 11",
+          "close": 50.1
+        },
+        {
+          "date": "2011-04-25",
+          "label": "Apr 25, 11",
+          "close": 50.43
+        },
+        {
+          "date": "2011-04-26",
+          "label": "Apr 26, 11",
+          "close": 50.06
+        },
+        {
+          "date": "2011-04-27",
+          "label": "Apr 27, 11",
+          "close": 50.02
+        },
+        {
+          "date": "2011-04-28",
+          "label": "Apr 28, 11",
+          "close": 49.54
+        },
+        {
+          "date": "2011-04-29",
+          "label": "Apr 29, 11",
+          "close": 50.02
+        },
+        {
+          "date": "2011-05-02",
+          "label": "May 2, 11",
+          "close": 49.47
+        },
+        {
+          "date": "2011-05-03",
+          "label": "May 3, 11",
+          "close": 49.74
+        },
+        {
+          "date": "2011-05-04",
+          "label": "May 4, 11",
+          "close": 49.94
+        },
+        {
+          "date": "2011-05-05",
+          "label": "May 5, 11",
+          "close": 49.54
+        },
+        {
+          "date": "2011-05-06",
+          "label": "May 6, 11",
+          "close": 49.52
+        },
+        {
+          "date": "2011-05-09",
+          "label": "May 9, 11",
+          "close": 49.66
+        },
+        {
+          "date": "2011-05-10",
+          "label": "May 10, 11",
+          "close": 49.92
+        },
+        {
+          "date": "2011-05-11",
+          "label": "May 11, 11",
+          "close": 49.6
+        },
+        {
+          "date": "2011-05-12",
+          "label": "May 12, 11",
+          "close": 49.51
+        },
+        {
+          "date": "2011-05-13",
+          "label": "May 13, 11",
+          "close": 48.64
+        },
+        {
+          "date": "2011-05-16",
+          "label": "May 16, 11",
+          "close": 47.61
+        },
+        {
+          "date": "2011-05-17",
+          "label": "May 17, 11",
+          "close": 48.02
+        },
+        {
+          "date": "2011-05-18",
+          "label": "May 18, 11",
+          "close": 48.55
+        },
+        {
+          "date": "2011-05-19",
+          "label": "May 19, 11",
+          "close": 48.65
+        },
+        {
+          "date": "2011-05-20",
+          "label": "May 20, 11",
+          "close": 47.89
+        },
+        {
+          "date": "2011-05-23",
+          "label": "May 23, 11",
+          "close": 47.77
+        },
+        {
+          "date": "2011-05-24",
+          "label": "May 24, 11",
+          "close": 47.46
+        },
+        {
+          "date": "2011-05-25",
+          "label": "May 25, 11",
+          "close": 48.11
+        },
+        {
+          "date": "2011-05-26",
+          "label": "May 26, 11",
+          "close": 47.86
+        },
+        {
+          "date": "2011-05-27",
+          "label": "May 27, 11",
+          "close": 48.2
+        },
+        {
+          "date": "2011-05-31",
+          "label": "May 31, 11",
+          "close": 49.69
+        },
+        {
+          "date": "2011-06-01",
+          "label": "Jun 1, 11",
+          "close": 49.36
+        },
+        {
+          "date": "2011-06-02",
+          "label": "Jun 2, 11",
+          "close": 49.44
+        },
+        {
+          "date": "2011-06-03",
+          "label": "Jun 3, 11",
+          "close": 49.06
+        },
+        {
+          "date": "2011-06-06",
+          "label": "Jun 6, 11",
+          "close": 48.29
+        },
+        {
+          "date": "2011-06-07",
+          "label": "Jun 7, 11",
+          "close": 47.43
+        },
+        {
+          "date": "2011-06-08",
+          "label": "Jun 8, 11",
+          "close": 47.46
+        },
+        {
+          "date": "2011-06-09",
+          "label": "Jun 9, 11",
+          "close": 47.36
+        },
+        {
+          "date": "2011-06-10",
+          "label": "Jun 10, 11",
+          "close": 46.56
+        },
+        {
+          "date": "2011-06-13",
+          "label": "Jun 13, 11",
+          "close": 46.66
+        },
+        {
+          "date": "2011-06-14",
+          "label": "Jun 14, 11",
+          "close": 47.49
+        },
+        {
+          "date": "2011-06-15",
+          "label": "Jun 15, 11",
+          "close": 46.68
+        },
+        {
+          "date": "2011-06-16",
+          "label": "Jun 16, 11",
+          "close": 46.45
+        },
+        {
+          "date": "2011-06-17",
+          "label": "Jun 17, 11",
+          "close": 45.75
+        },
+        {
+          "date": "2011-06-20",
+          "label": "Jun 20, 11",
+          "close": 45.05
+        },
+        {
+          "date": "2011-06-21",
+          "label": "Jun 21, 11",
+          "close": 46.47
+        },
+        {
+          "date": "2011-06-22",
+          "label": "Jun 22, 11",
+          "close": 46.09
+        },
+        {
+          "date": "2011-06-23",
+          "label": "Jun 23, 11",
+          "close": 47.32
+        },
+        {
+          "date": "2011-06-24",
+          "label": "Jun 24, 11",
+          "close": 46.62
+        },
+        {
+          "date": "2011-06-27",
+          "label": "Jun 27, 11",
+          "close": 47.43
+        },
+        {
+          "date": "2011-06-28",
+          "label": "Jun 28, 11",
+          "close": 47.89
+        },
+        {
+          "date": "2011-06-29",
+          "label": "Jun 29, 11",
+          "close": 47.72
+        },
+        {
+          "date": "2011-06-30",
+          "label": "Jun 30, 11",
+          "close": 47.95
+        },
+        {
+          "date": "2011-07-01",
+          "label": "Jul 1, 11",
+          "close": 49.04
+        },
+        {
+          "date": "2011-07-05",
+          "label": "Jul 5, 11",
+          "close": 49.92
+        },
+        {
+          "date": "2011-07-06",
+          "label": "Jul 6, 11",
+          "close": 50.25
+        },
+        {
+          "date": "2011-07-07",
+          "label": "Jul 7, 11",
+          "close": 51.03
+        },
+        {
+          "date": "2011-07-08",
+          "label": "Jul 8, 11",
+          "close": 51.39
+        },
+        {
+          "date": "2011-07-11",
+          "label": "Jul 11, 11",
+          "close": 50.57
+        },
+        {
+          "date": "2011-07-12",
+          "label": "Jul 12, 11",
+          "close": 50.54
+        },
+        {
+          "date": "2011-07-13",
+          "label": "Jul 13, 11",
+          "close": 51.15
+        },
+        {
+          "date": "2011-07-14",
+          "label": "Jul 14, 11",
+          "close": 51.11
+        },
+        {
+          "date": "2011-07-15",
+          "label": "Jul 15, 11",
+          "close": 52.13
+        },
+        {
+          "date": "2011-07-18",
+          "label": "Jul 18, 11",
+          "close": 53.4
+        },
+        {
+          "date": "2011-07-19",
+          "label": "Jul 19, 11",
+          "close": 53.84
+        },
+        {
+          "date": "2011-07-20",
+          "label": "Jul 20, 11",
+          "close": 55.27
+        },
+        {
+          "date": "2011-07-21",
+          "label": "Jul 21, 11",
+          "close": 55.33
+        },
+        {
+          "date": "2011-07-22",
+          "label": "Jul 22, 11",
+          "close": 56.19
+        },
+        {
+          "date": "2011-07-25",
+          "label": "Jul 25, 11",
+          "close": 56.93
+        },
+        {
+          "date": "2011-07-26",
+          "label": "Jul 26, 11",
+          "close": 57.63
+        },
+        {
+          "date": "2011-07-27",
+          "label": "Jul 27, 11",
+          "close": 56.08
+        },
+        {
+          "date": "2011-07-28",
+          "label": "Jul 28, 11",
+          "close": 55.97
+        },
+        {
+          "date": "2011-07-29",
+          "label": "Jul 29, 11",
+          "close": 55.78
+        },
+        {
+          "date": "2011-08-01",
+          "label": "Aug 1, 11",
+          "close": 56.68
+        },
+        {
+          "date": "2011-08-02",
+          "label": "Aug 2, 11",
+          "close": 55.56
+        },
+        {
+          "date": "2011-08-03",
+          "label": "Aug 3, 11",
+          "close": 56.08
+        },
+        {
+          "date": "2011-08-04",
+          "label": "Aug 4, 11",
+          "close": 53.91
+        },
+        {
+          "date": "2011-08-05",
+          "label": "Aug 5, 11",
+          "close": 53.37
+        },
+        {
+          "date": "2011-08-08",
+          "label": "Aug 8, 11",
+          "close": 50.46
+        },
+        {
+          "date": "2011-08-09",
+          "label": "Aug 9, 11",
+          "close": 53.43
+        },
+        {
+          "date": "2011-08-10",
+          "label": "Aug 10, 11",
+          "close": 51.96
+        },
+        {
+          "date": "2011-08-11",
+          "label": "Aug 11, 11",
+          "close": 53.39
+        },
+        {
+          "date": "2011-08-12",
+          "label": "Aug 12, 11",
+          "close": 53.86
+        },
+        {
+          "date": "2011-08-15",
+          "label": "Aug 15, 11",
+          "close": 54.77
+        },
+        {
+          "date": "2011-08-16",
+          "label": "Aug 16, 11",
+          "close": 54.35
+        },
+        {
+          "date": "2011-08-17",
+          "label": "Aug 17, 11",
+          "close": 54.35
+        },
+        {
+          "date": "2011-08-18",
+          "label": "Aug 18, 11",
+          "close": 52.29
+        },
+        {
+          "date": "2011-08-19",
+          "label": "Aug 19, 11",
+          "close": 50.86
+        },
+        {
+          "date": "2011-08-22",
+          "label": "Aug 22, 11",
+          "close": 50.92
+        },
+        {
+          "date": "2011-08-23",
+          "label": "Aug 23, 11",
+          "close": 53.37
+        },
+        {
+          "date": "2011-08-24",
+          "label": "Aug 24, 11",
+          "close": 53.74
+        },
+        {
+          "date": "2011-08-25",
+          "label": "Aug 25, 11",
+          "close": 53.39
+        },
+        {
+          "date": "2011-08-26",
+          "label": "Aug 26, 11",
+          "close": 54.8
+        },
+        {
+          "date": "2011-08-29",
+          "label": "Aug 29, 11",
+          "close": 55.71
+        },
+        {
+          "date": "2011-08-30",
+          "label": "Aug 30, 11",
+          "close": 55.71
+        },
+        {
+          "date": "2011-08-31",
+          "label": "Aug 31, 11",
+          "close": 54.98
+        },
+        {
+          "date": "2011-09-01",
+          "label": "Sep 1, 11",
+          "close": 54.43
+        },
+        {
+          "date": "2011-09-02",
+          "label": "Sep 2, 11",
+          "close": 53.44
+        },
+        {
+          "date": "2011-09-06",
+          "label": "Sep 6, 11",
+          "close": 54.25
+        },
+        {
+          "date": "2011-09-07",
+          "label": "Sep 7, 11",
+          "close": 54.85
+        },
+        {
+          "date": "2011-09-08",
+          "label": "Sep 8, 11",
+          "close": 54.88
+        },
+        {
+          "date": "2011-09-09",
+          "label": "Sep 9, 11",
+          "close": 53.93
+        },
+        {
+          "date": "2011-09-12",
+          "label": "Sep 12, 11",
+          "close": 54.28
+        },
+        {
+          "date": "2011-09-13",
+          "label": "Sep 13, 11",
+          "close": 54.95
+        },
+        {
+          "date": "2011-09-14",
+          "label": "Sep 14, 11",
+          "close": 55.61
+        },
+        {
+          "date": "2011-09-15",
+          "label": "Sep 15, 11",
+          "close": 56.14
+        },
+        {
+          "date": "2011-09-16",
+          "label": "Sep 16, 11",
+          "close": 57.21
+        },
+        {
+          "date": "2011-09-19",
+          "label": "Sep 19, 11",
+          "close": 58.8
+        },
+        {
+          "date": "2011-09-20",
+          "label": "Sep 20, 11",
+          "close": 59.06
+        },
+        {
+          "date": "2011-09-21",
+          "label": "Sep 21, 11",
+          "close": 58.88
+        },
+        {
+          "date": "2011-09-22",
+          "label": "Sep 22, 11",
+          "close": 57.4
+        },
+        {
+          "date": "2011-09-23",
+          "label": "Sep 23, 11",
+          "close": 57.76
+        },
+        {
+          "date": "2011-09-26",
+          "label": "Sep 26, 11",
+          "close": 57.6
+        },
+        {
+          "date": "2011-09-27",
+          "label": "Sep 27, 11",
+          "close": 57.04
+        },
+        {
+          "date": "2011-09-28",
+          "label": "Sep 28, 11",
+          "close": 56.72
+        },
+        {
+          "date": "2011-09-29",
+          "label": "Sep 29, 11",
+          "close": 55.8
+        },
+        {
+          "date": "2011-09-30",
+          "label": "Sep 30, 11",
+          "close": 54.47
+        },
+        {
+          "date": "2011-10-03",
+          "label": "Oct 3, 11",
+          "close": 53.51
+        },
+        {
+          "date": "2011-10-04",
+          "label": "Oct 4, 11",
+          "close": 53.21
+        },
+        {
+          "date": "2011-10-05",
+          "label": "Oct 5, 11",
+          "close": 54.04
+        },
+        {
+          "date": "2011-10-06",
+          "label": "Oct 6, 11",
+          "close": 53.91
+        },
+        {
+          "date": "2011-10-07",
+          "label": "Oct 7, 11",
+          "close": 52.83
+        },
+        {
+          "date": "2011-10-10",
+          "label": "Oct 10, 11",
+          "close": 55.54
+        },
+        {
+          "date": "2011-10-11",
+          "label": "Oct 11, 11",
+          "close": 57.18
+        },
+        {
+          "date": "2011-10-12",
+          "label": "Oct 12, 11",
+          "close": 57.46
+        },
+        {
+          "date": "2011-10-13",
+          "label": "Oct 13, 11",
+          "close": 58.35
+        },
+        {
+          "date": "2011-10-14",
+          "label": "Oct 14, 11",
+          "close": 60.29
+        },
+        {
+          "date": "2011-10-17",
+          "label": "Oct 17, 11",
+          "close": 60
+        },
+        {
+          "date": "2011-10-18",
+          "label": "Oct 18, 11",
+          "close": 60.32
+        },
+        {
+          "date": "2011-10-19",
+          "label": "Oct 19, 11",
+          "close": 56.95
+        },
+        {
+          "date": "2011-10-20",
+          "label": "Oct 20, 11",
+          "close": 56.47
+        },
+        {
+          "date": "2011-10-21",
+          "label": "Oct 21, 11",
+          "close": 56.12
+        },
+        {
+          "date": "2011-10-24",
+          "label": "Oct 24, 11",
+          "close": 57.97
+        },
+        {
+          "date": "2011-10-25",
+          "label": "Oct 25, 11",
+          "close": 56.82
+        },
+        {
+          "date": "2011-10-26",
+          "label": "Oct 26, 11",
+          "close": 57.23
+        },
+        {
+          "date": "2011-10-27",
+          "label": "Oct 27, 11",
+          "close": 57.81
+        },
+        {
+          "date": "2011-10-28",
+          "label": "Oct 28, 11",
+          "close": 57.86
+        },
+        {
+          "date": "2011-10-31",
+          "label": "Oct 31, 11",
+          "close": 57.83
+        },
+        {
+          "date": "2011-11-01",
+          "label": "Nov 1, 11",
+          "close": 56.64
+        },
+        {
+          "date": "2011-11-02",
+          "label": "Nov 2, 11",
+          "close": 56.77
+        },
+        {
+          "date": "2011-11-03",
+          "label": "Nov 3, 11",
+          "close": 57.58
+        },
+        {
+          "date": "2011-11-04",
+          "label": "Nov 4, 11",
+          "close": 57.18
+        },
+        {
+          "date": "2011-11-07",
+          "label": "Nov 7, 11",
+          "close": 57.1
+        },
+        {
+          "date": "2011-11-08",
+          "label": "Nov 8, 11",
+          "close": 58.03
+        },
+        {
+          "date": "2011-11-09",
+          "label": "Nov 9, 11",
+          "close": 56.47
+        },
+        {
+          "date": "2011-11-10",
+          "label": "Nov 10, 11",
+          "close": 55.03
+        },
+        {
+          "date": "2011-11-11",
+          "label": "Nov 11, 11",
+          "close": 54.95
+        },
+        {
+          "date": "2011-11-14",
+          "label": "Nov 14, 11",
+          "close": 54.18
+        },
+        {
+          "date": "2011-11-15",
+          "label": "Nov 15, 11",
+          "close": 55.55
+        },
+        {
+          "date": "2011-11-16",
+          "label": "Nov 16, 11",
+          "close": 54.97
+        },
+        {
+          "date": "2011-11-17",
+          "label": "Nov 17, 11",
+          "close": 53.92
+        },
+        {
+          "date": "2011-11-18",
+          "label": "Nov 18, 11",
+          "close": 53.56
+        },
+        {
+          "date": "2011-11-21",
+          "label": "Nov 21, 11",
+          "close": 52.72
+        },
+        {
+          "date": "2011-11-22",
+          "label": "Nov 22, 11",
+          "close": 53.79
+        },
+        {
+          "date": "2011-11-23",
+          "label": "Nov 23, 11",
+          "close": 52.43
+        },
+        {
+          "date": "2011-11-25",
+          "label": "Nov 25, 11",
+          "close": 51.94
+        },
+        {
+          "date": "2011-11-28",
+          "label": "Nov 28, 11",
+          "close": 53.73
+        },
+        {
+          "date": "2011-11-29",
+          "label": "Nov 29, 11",
+          "close": 53.31
+        },
+        {
+          "date": "2011-11-30",
+          "label": "Nov 30, 11",
+          "close": 54.6
+        },
+        {
+          "date": "2011-12-01",
+          "label": "Dec 1, 11",
+          "close": 55.42
+        },
+        {
+          "date": "2011-12-02",
+          "label": "Dec 2, 11",
+          "close": 55.67
+        },
+        {
+          "date": "2011-12-05",
+          "label": "Dec 5, 11",
+          "close": 56.14
+        },
+        {
+          "date": "2011-12-06",
+          "label": "Dec 6, 11",
+          "close": 55.85
+        },
+        {
+          "date": "2011-12-07",
+          "label": "Dec 7, 11",
+          "close": 55.58
+        },
+        {
+          "date": "2011-12-08",
+          "label": "Dec 8, 11",
+          "close": 55.81
+        },
+        {
+          "date": "2011-12-09",
+          "label": "Dec 9, 11",
+          "close": 56.23
+        },
+        {
+          "date": "2011-12-12",
+          "label": "Dec 12, 11",
+          "close": 55.98
+        },
+        {
+          "date": "2011-12-13",
+          "label": "Dec 13, 11",
+          "close": 55.54
+        },
+        {
+          "date": "2011-12-14",
+          "label": "Dec 14, 11",
+          "close": 54.31
+        },
+        {
+          "date": "2011-12-15",
+          "label": "Dec 15, 11",
+          "close": 54.13
+        },
+        {
+          "date": "2011-12-16",
+          "label": "Dec 16, 11",
+          "close": 54.43
+        },
+        {
+          "date": "2011-12-19",
+          "label": "Dec 19, 11",
+          "close": 54.6
+        },
+        {
+          "date": "2011-12-20",
+          "label": "Dec 20, 11",
+          "close": 56.56
+        },
+        {
+          "date": "2011-12-21",
+          "label": "Dec 21, 11",
+          "close": 56.64
+        },
+        {
+          "date": "2011-12-22",
+          "label": "Dec 22, 11",
+          "close": 56.94
+        },
+        {
+          "date": "2011-12-23",
+          "label": "Dec 23, 11",
+          "close": 57.62
+        },
+        {
+          "date": "2011-12-27",
+          "label": "Dec 27, 11",
+          "close": 58.08
+        },
+        {
+          "date": "2011-12-28",
+          "label": "Dec 28, 11",
+          "close": 57.52
+        },
+        {
+          "date": "2011-12-29",
+          "label": "Dec 29, 11",
+          "close": 57.87
+        },
+        {
+          "date": "2011-12-30",
+          "label": "Dec 30, 11",
+          "close": 57.86
+        },
+        {
+          "date": "2012-01-03",
+          "label": "Jan 3, 12",
+          "close": 58.75
+        },
+        {
+          "date": "2012-01-04",
+          "label": "Jan 4, 12",
+          "close": 59.06
+        },
+        {
+          "date": "2012-01-05",
+          "label": "Jan 5, 12",
+          "close": 59.72
+        },
+        {
+          "date": "2012-01-06",
+          "label": "Jan 6, 12",
+          "close": 60.34
+        },
+        {
+          "date": "2012-01-09",
+          "label": "Jan 9, 12",
+          "close": 60.25
+        },
+        {
+          "date": "2012-01-10",
+          "label": "Jan 10, 12",
+          "close": 60.46
+        },
+        {
+          "date": "2012-01-11",
+          "label": "Jan 11, 12",
+          "close": 60.36
+        },
+        {
+          "date": "2012-01-12",
+          "label": "Jan 12, 12",
+          "close": 60.2
+        },
+        {
+          "date": "2012-01-13",
+          "label": "Jan 13, 12",
+          "close": 59.97
+        },
+        {
+          "date": "2012-01-17",
+          "label": "Jan 17, 12",
+          "close": 60.67
+        },
+        {
+          "date": "2012-01-18",
+          "label": "Jan 18, 12",
+          "close": 61.3
+        },
+        {
+          "date": "2012-01-19",
+          "label": "Jan 19, 12",
+          "close": 61.11
+        },
+        {
+          "date": "2012-01-20",
+          "label": "Jan 20, 12",
+          "close": 60.04
+        },
+        {
+          "date": "2012-01-23",
+          "label": "Jan 23, 12",
+          "close": 61.06
+        },
+        {
+          "date": "2012-01-24",
+          "label": "Jan 24, 12",
+          "close": 60.06
+        },
+        {
+          "date": "2012-01-25",
+          "label": "Jan 25, 12",
+          "close": 63.81
+        },
+        {
+          "date": "2012-01-26",
+          "label": "Jan 26, 12",
+          "close": 63.52
+        },
+        {
+          "date": "2012-01-27",
+          "label": "Jan 27, 12",
+          "close": 63.9
+        },
+        {
+          "date": "2012-01-30",
+          "label": "Jan 30, 12",
+          "close": 64.72
+        },
+        {
+          "date": "2012-01-31",
+          "label": "Jan 31, 12",
+          "close": 65.21
+        },
+        {
+          "date": "2012-02-01",
+          "label": "Feb 1, 12",
+          "close": 65.17
+        },
+        {
+          "date": "2012-02-02",
+          "label": "Feb 2, 12",
+          "close": 65.02
+        },
+        {
+          "date": "2012-02-03",
+          "label": "Feb 3, 12",
+          "close": 65.67
+        },
+        {
+          "date": "2012-02-06",
+          "label": "Feb 6, 12",
+          "close": 66.28
+        },
+        {
+          "date": "2012-02-07",
+          "label": "Feb 7, 12",
+          "close": 66.98
+        },
+        {
+          "date": "2012-02-08",
+          "label": "Feb 8, 12",
+          "close": 68.1
+        },
+        {
+          "date": "2012-02-09",
+          "label": "Feb 9, 12",
+          "close": 70.45
+        },
+        {
+          "date": "2012-02-10",
+          "label": "Feb 10, 12",
+          "close": 70.49
+        },
+        {
+          "date": "2012-02-13",
+          "label": "Feb 13, 12",
+          "close": 71.8
+        },
+        {
+          "date": "2012-02-14",
+          "label": "Feb 14, 12",
+          "close": 72.78
+        },
+        {
+          "date": "2012-02-15",
+          "label": "Feb 15, 12",
+          "close": 71.1
+        },
+        {
+          "date": "2012-02-16",
+          "label": "Feb 16, 12",
+          "close": 71.74
+        },
+        {
+          "date": "2012-02-17",
+          "label": "Feb 17, 12",
+          "close": 71.73
+        },
+        {
+          "date": "2012-02-21",
+          "label": "Feb 21, 12",
+          "close": 73.55
+        },
+        {
+          "date": "2012-02-22",
+          "label": "Feb 22, 12",
+          "close": 73.29
+        },
+        {
+          "date": "2012-02-23",
+          "label": "Feb 23, 12",
+          "close": 73.77
+        },
+        {
+          "date": "2012-02-24",
+          "label": "Feb 24, 12",
+          "close": 74.63
+        },
+        {
+          "date": "2012-02-27",
+          "label": "Feb 27, 12",
+          "close": 75.11
+        },
+        {
+          "date": "2012-02-28",
+          "label": "Feb 28, 12",
+          "close": 76.49
+        },
+        {
+          "date": "2012-02-29",
+          "label": "Feb 29, 12",
+          "close": 77.49
+        },
+        {
+          "date": "2012-03-01",
+          "label": "Mar 1, 12",
+          "close": 77.78
+        },
+        {
+          "date": "2012-03-02",
+          "label": "Mar 2, 12",
+          "close": 77.88
+        },
+        {
+          "date": "2012-03-05",
+          "label": "Mar 5, 12",
+          "close": 76.17
+        },
+        {
+          "date": "2012-03-06",
+          "label": "Mar 6, 12",
+          "close": 75.75
+        },
+        {
+          "date": "2012-03-07",
+          "label": "Mar 7, 12",
+          "close": 75.81
+        },
+        {
+          "date": "2012-03-08",
+          "label": "Mar 8, 12",
+          "close": 77.43
+        },
+        {
+          "date": "2012-03-09",
+          "label": "Mar 9, 12",
+          "close": 77.88
+        },
+        {
+          "date": "2012-03-12",
+          "label": "Mar 12, 12",
+          "close": 78.86
+        },
+        {
+          "date": "2012-03-13",
+          "label": "Mar 13, 12",
+          "close": 81.16
+        },
+        {
+          "date": "2012-03-14",
+          "label": "Mar 14, 12",
+          "close": 84.23
+        },
+        {
+          "date": "2012-03-15",
+          "label": "Mar 15, 12",
+          "close": 83.65
+        },
+        {
+          "date": "2012-03-16",
+          "label": "Mar 16, 12",
+          "close": 83.65
+        },
+        {
+          "date": "2012-03-19",
+          "label": "Mar 19, 12",
+          "close": 85.87
+        },
+        {
+          "date": "2012-03-20",
+          "label": "Mar 20, 12",
+          "close": 86.57
+        },
+        {
+          "date": "2012-03-21",
+          "label": "Mar 21, 12",
+          "close": 86.07
+        },
+        {
+          "date": "2012-03-22",
+          "label": "Mar 22, 12",
+          "close": 85.62
+        },
+        {
+          "date": "2012-03-23",
+          "label": "Mar 23, 12",
+          "close": 85.15
+        },
+        {
+          "date": "2012-03-26",
+          "label": "Mar 26, 12",
+          "close": 86.71
+        },
+        {
+          "date": "2012-03-27",
+          "label": "Mar 27, 12",
+          "close": 87.78
+        },
+        {
+          "date": "2012-03-28",
+          "label": "Mar 28, 12",
+          "close": 88.23
+        },
+        {
+          "date": "2012-03-29",
+          "label": "Mar 29, 12",
+          "close": 87.12
+        },
+        {
+          "date": "2012-03-30",
+          "label": "Mar 30, 12",
+          "close": 85.65
+        },
+        {
+          "date": "2012-04-02",
+          "label": "Apr 2, 12",
+          "close": 88.38
+        },
+        {
+          "date": "2012-04-03",
+          "label": "Apr 3, 12",
+          "close": 89.9
+        },
+        {
+          "date": "2012-04-04",
+          "label": "Apr 4, 12",
+          "close": 89.19
+        },
+        {
+          "date": "2012-04-05",
+          "label": "Apr 5, 12",
+          "close": 90.53
+        },
+        {
+          "date": "2012-04-09",
+          "label": "Apr 9, 12",
+          "close": 90.89
+        },
+        {
+          "date": "2012-04-10",
+          "label": "Apr 10, 12",
+          "close": 89.78
+        },
+        {
+          "date": "2012-04-11",
+          "label": "Apr 11, 12",
+          "close": 89.46
+        },
+        {
+          "date": "2012-04-12",
+          "label": "Apr 12, 12",
+          "close": 88.97
+        },
+        {
+          "date": "2012-04-13",
+          "label": "Apr 13, 12",
+          "close": 86.46
+        },
+        {
+          "date": "2012-04-16",
+          "label": "Apr 16, 12",
+          "close": 82.88
+        },
+        {
+          "date": "2012-04-17",
+          "label": "Apr 17, 12",
+          "close": 87.1
+        },
+        {
+          "date": "2012-04-18",
+          "label": "Apr 18, 12",
+          "close": 86.91
+        },
+        {
+          "date": "2012-04-19",
+          "label": "Apr 19, 12",
+          "close": 83.92
+        },
+        {
+          "date": "2012-04-20",
+          "label": "Apr 20, 12",
+          "close": 81.85
+        },
+        {
+          "date": "2012-04-23",
+          "label": "Apr 23, 12",
+          "close": 81.67
+        },
+        {
+          "date": "2012-04-24",
+          "label": "Apr 24, 12",
+          "close": 80.04
+        },
+        {
+          "date": "2012-04-25",
+          "label": "Apr 25, 12",
+          "close": 87.14
+        },
+        {
+          "date": "2012-04-26",
+          "label": "Apr 26, 12",
+          "close": 86.81
+        },
+        {
+          "date": "2012-04-27",
+          "label": "Apr 27, 12",
+          "close": 86.14
+        },
+        {
+          "date": "2012-04-30",
+          "label": "Apr 30, 12",
+          "close": 83.43
+        },
+        {
+          "date": "2012-05-01",
+          "label": "May 1, 12",
+          "close": 83.16
+        },
+        {
+          "date": "2012-05-02",
+          "label": "May 2, 12",
+          "close": 83.71
+        },
+        {
+          "date": "2012-05-03",
+          "label": "May 3, 12",
+          "close": 83.12
+        },
+        {
+          "date": "2012-05-04",
+          "label": "May 4, 12",
+          "close": 80.75
+        },
+        {
+          "date": "2012-05-07",
+          "label": "May 7, 12",
+          "close": 81.35
+        },
+        {
+          "date": "2012-05-08",
+          "label": "May 8, 12",
+          "close": 81.17
+        },
+        {
+          "date": "2012-05-09",
+          "label": "May 9, 12",
+          "close": 81.31
+        },
+        {
+          "date": "2012-05-10",
+          "label": "May 10, 12",
+          "close": 81.5
+        },
+        {
+          "date": "2012-05-11",
+          "label": "May 11, 12",
+          "close": 80.96
+        },
+        {
+          "date": "2012-05-14",
+          "label": "May 14, 12",
+          "close": 79.75
+        },
+        {
+          "date": "2012-05-15",
+          "label": "May 15, 12",
+          "close": 79.02
+        },
+        {
+          "date": "2012-05-16",
+          "label": "May 16, 12",
+          "close": 78.01
+        },
+        {
+          "date": "2012-05-17",
+          "label": "May 17, 12",
+          "close": 75.73
+        },
+        {
+          "date": "2012-05-18",
+          "label": "May 18, 12",
+          "close": 75.77
+        },
+        {
+          "date": "2012-05-21",
+          "label": "May 21, 12",
+          "close": 80.18
+        },
+        {
+          "date": "2012-05-22",
+          "label": "May 22, 12",
+          "close": 79.57
+        },
+        {
+          "date": "2012-05-23",
+          "label": "May 23, 12",
+          "close": 81.51
+        },
+        {
+          "date": "2012-05-24",
+          "label": "May 24, 12",
+          "close": 80.76
+        },
+        {
+          "date": "2012-05-25",
+          "label": "May 25, 12",
+          "close": 80.33
+        },
+        {
+          "date": "2012-05-29",
+          "label": "May 29, 12",
+          "close": 81.75
+        },
+        {
+          "date": "2012-05-30",
+          "label": "May 30, 12",
+          "close": 82.74
+        },
+        {
+          "date": "2012-05-31",
+          "label": "May 31, 12",
+          "close": 82.53
+        },
+        {
+          "date": "2012-06-01",
+          "label": "Jun 1, 12",
+          "close": 80.14
+        },
+        {
+          "date": "2012-06-04",
+          "label": "Jun 4, 12",
+          "close": 80.61
+        },
+        {
+          "date": "2012-06-05",
+          "label": "Jun 5, 12",
+          "close": 80.4
+        },
+        {
+          "date": "2012-06-06",
+          "label": "Jun 6, 12",
+          "close": 81.64
+        },
+        {
+          "date": "2012-06-07",
+          "label": "Jun 7, 12",
+          "close": 81.67
+        },
+        {
+          "date": "2012-06-08",
+          "label": "Jun 8, 12",
+          "close": 82.9
+        },
+        {
+          "date": "2012-06-11",
+          "label": "Jun 11, 12",
+          "close": 81.6
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Jun 12, 12",
+          "close": 82.31
+        },
+        {
+          "date": "2012-06-13",
+          "label": "Jun 13, 12",
+          "close": 81.74
+        },
+        {
+          "date": "2012-06-14",
+          "label": "Jun 14, 12",
+          "close": 81.65
+        },
+        {
+          "date": "2012-06-15",
+          "label": "Jun 15, 12",
+          "close": 82.02
+        },
+        {
+          "date": "2012-06-18",
+          "label": "Jun 18, 12",
+          "close": 83.68
+        },
+        {
+          "date": "2012-06-19",
+          "label": "Jun 19, 12",
+          "close": 83.92
+        },
+        {
+          "date": "2012-06-20",
+          "label": "Jun 20, 12",
+          "close": 83.68
+        },
+        {
+          "date": "2012-06-21",
+          "label": "Jun 21, 12",
+          "close": 82.52
+        },
+        {
+          "date": "2012-06-22",
+          "label": "Jun 22, 12",
+          "close": 83.16
+        },
+        {
+          "date": "2012-06-25",
+          "label": "Jun 25, 12",
+          "close": 81.54
+        },
+        {
+          "date": "2012-06-26",
+          "label": "Jun 26, 12",
+          "close": 81.72
+        },
+        {
+          "date": "2012-06-27",
+          "label": "Jun 27, 12",
+          "close": 82.07
+        },
+        {
+          "date": "2012-06-28",
+          "label": "Jun 28, 12",
+          "close": 81.29
+        },
+        {
+          "date": "2012-06-29",
+          "label": "Jun 29, 12",
+          "close": 83.43
+        },
+        {
+          "date": "2012-07-02",
+          "label": "Jul 2, 12",
+          "close": 84.65
+        },
+        {
+          "date": "2012-07-03",
+          "label": "Jul 3, 12",
+          "close": 85.63
+        },
+        {
+          "date": "2012-07-05",
+          "label": "Jul 5, 12",
+          "close": 87.13
+        },
+        {
+          "date": "2012-07-06",
+          "label": "Jul 6, 12",
+          "close": 86.55
+        },
+        {
+          "date": "2012-07-09",
+          "label": "Jul 9, 12",
+          "close": 87.7
+        },
+        {
+          "date": "2012-07-10",
+          "label": "Jul 10, 12",
+          "close": 86.89
+        },
+        {
+          "date": "2012-07-11",
+          "label": "Jul 11, 12",
+          "close": 86.35
+        },
+        {
+          "date": "2012-07-12",
+          "label": "Jul 12, 12",
+          "close": 85.56
+        },
+        {
+          "date": "2012-07-13",
+          "label": "Jul 13, 12",
+          "close": 86.42
+        },
+        {
+          "date": "2012-07-16",
+          "label": "Jul 16, 12",
+          "close": 86.7
+        },
+        {
+          "date": "2012-07-17",
+          "label": "Jul 17, 12",
+          "close": 86.71
+        },
+        {
+          "date": "2012-07-18",
+          "label": "Jul 18, 12",
+          "close": 86.61
+        },
+        {
+          "date": "2012-07-19",
+          "label": "Jul 19, 12",
+          "close": 87.76
+        },
+        {
+          "date": "2012-07-20",
+          "label": "Jul 20, 12",
+          "close": 86.33
+        },
+        {
+          "date": "2012-07-23",
+          "label": "Jul 23, 12",
+          "close": 86.26
+        },
+        {
+          "date": "2012-07-24",
+          "label": "Jul 24, 12",
+          "close": 85.85
+        },
+        {
+          "date": "2012-07-25",
+          "label": "Jul 25, 12",
+          "close": 82.14
+        },
+        {
+          "date": "2012-07-26",
+          "label": "Jul 26, 12",
+          "close": 82.13
+        },
+        {
+          "date": "2012-07-27",
+          "label": "Jul 27, 12",
+          "close": 83.59
+        },
+        {
+          "date": "2012-07-30",
+          "label": "Jul 30, 12",
+          "close": 85
+        },
+        {
+          "date": "2012-07-31",
+          "label": "Jul 31, 12",
+          "close": 87.25
+        },
+        {
+          "date": "2012-08-01",
+          "label": "Aug 1, 12",
+          "close": 86.69
+        },
+        {
+          "date": "2012-08-02",
+          "label": "Aug 2, 12",
+          "close": 86.83
+        },
+        {
+          "date": "2012-08-03",
+          "label": "Aug 3, 12",
+          "close": 87.96
+        },
+        {
+          "date": "2012-08-06",
+          "label": "Aug 6, 12",
+          "close": 88.94
+        },
+        {
+          "date": "2012-08-07",
+          "label": "Aug 7, 12",
+          "close": 88.7
+        },
+        {
+          "date": "2012-08-08",
+          "label": "Aug 8, 12",
+          "close": 88.55
+        },
+        {
+          "date": "2012-08-09",
+          "label": "Aug 9, 12",
+          "close": 88.68
+        },
+        {
+          "date": "2012-08-10",
+          "label": "Aug 10, 12",
+          "close": 88.81
+        },
+        {
+          "date": "2012-08-13",
+          "label": "Aug 13, 12",
+          "close": 90
+        },
+        {
+          "date": "2012-08-14",
+          "label": "Aug 14, 12",
+          "close": 90.24
+        },
+        {
+          "date": "2012-08-15",
+          "label": "Aug 15, 12",
+          "close": 90.12
+        },
+        {
+          "date": "2012-08-16",
+          "label": "Aug 16, 12",
+          "close": 90.91
+        },
+        {
+          "date": "2012-08-17",
+          "label": "Aug 17, 12",
+          "close": 92.59
+        },
+        {
+          "date": "2012-08-20",
+          "label": "Aug 20, 12",
+          "close": 95.02
+        },
+        {
+          "date": "2012-08-21",
+          "label": "Aug 21, 12",
+          "close": 93.72
+        },
+        {
+          "date": "2012-08-22",
+          "label": "Aug 22, 12",
+          "close": 95.55
+        },
+        {
+          "date": "2012-08-23",
+          "label": "Aug 23, 12",
+          "close": 94.66
+        },
+        {
+          "date": "2012-08-24",
+          "label": "Aug 24, 12",
+          "close": 94.75
+        },
+        {
+          "date": "2012-08-27",
+          "label": "Aug 27, 12",
+          "close": 96.53
+        },
+        {
+          "date": "2012-08-28",
+          "label": "Aug 28, 12",
+          "close": 96.4
+        },
+        {
+          "date": "2012-08-29",
+          "label": "Aug 29, 12",
+          "close": 96.21
+        },
+        {
+          "date": "2012-08-30",
+          "label": "Aug 30, 12",
+          "close": 94.84
+        },
+        {
+          "date": "2012-08-31",
+          "label": "Aug 31, 12",
+          "close": 95.03
+        },
+        {
+          "date": "2012-09-04",
+          "label": "Sep 4, 12",
+          "close": 96.42
+        },
+        {
+          "date": "2012-09-05",
+          "label": "Sep 5, 12",
+          "close": 95.75
+        },
+        {
+          "date": "2012-09-06",
+          "label": "Sep 6, 12",
+          "close": 96.61
+        },
+        {
+          "date": "2012-09-07",
+          "label": "Sep 7, 12",
+          "close": 97.21
+        },
+        {
+          "date": "2012-09-10",
+          "label": "Sep 10, 12",
+          "close": 94.68
+        },
+        {
+          "date": "2012-09-11",
+          "label": "Sep 11, 12",
+          "close": 94.37
+        },
+        {
+          "date": "2012-09-12",
+          "label": "Sep 12, 12",
+          "close": 95.68
+        },
+        {
+          "date": "2012-09-13",
+          "label": "Sep 13, 12",
+          "close": 97.57
+        },
+        {
+          "date": "2012-09-14",
+          "label": "Sep 14, 12",
+          "close": 98.75
+        },
+        {
+          "date": "2012-09-17",
+          "label": "Sep 17, 12",
+          "close": 99.97
+        },
+        {
+          "date": "2012-09-18",
+          "label": "Sep 18, 12",
+          "close": 100.27
+        },
+        {
+          "date": "2012-09-19",
+          "label": "Sep 19, 12",
+          "close": 100.3
+        },
+        {
+          "date": "2012-09-20",
+          "label": "Sep 20, 12",
+          "close": 99.81
+        },
+        {
+          "date": "2012-09-21",
+          "label": "Sep 21, 12",
+          "close": 100.01
+        },
+        {
+          "date": "2012-09-24",
+          "label": "Sep 24, 12",
+          "close": 98.68
+        },
+        {
+          "date": "2012-09-25",
+          "label": "Sep 25, 12",
+          "close": 96.22
+        },
+        {
+          "date": "2012-09-26",
+          "label": "Sep 26, 12",
+          "close": 95.03
+        },
+        {
+          "date": "2012-09-27",
+          "label": "Sep 27, 12",
+          "close": 97.33
+        },
+        {
+          "date": "2012-09-28",
+          "label": "Sep 28, 12",
+          "close": 95.3
+        },
+        {
+          "date": "2012-10-01",
+          "label": "Oct 1, 12",
+          "close": 94.2
+        },
+        {
+          "date": "2012-10-02",
+          "label": "Oct 2, 12",
+          "close": 94.47
+        },
+        {
+          "date": "2012-10-03",
+          "label": "Oct 3, 12",
+          "close": 95.92
+        },
+        {
+          "date": "2012-10-04",
+          "label": "Oct 4, 12",
+          "close": 95.26
+        },
+        {
+          "date": "2012-10-05",
+          "label": "Oct 5, 12",
+          "close": 93.23
+        },
+        {
+          "date": "2012-10-08",
+          "label": "Oct 8, 12",
+          "close": 91.17
+        },
+        {
+          "date": "2012-10-09",
+          "label": "Oct 9, 12",
+          "close": 90.84
+        },
+        {
+          "date": "2012-10-10",
+          "label": "Oct 10, 12",
+          "close": 91.56
+        },
+        {
+          "date": "2012-10-11",
+          "label": "Oct 11, 12",
+          "close": 89.73
+        },
+        {
+          "date": "2012-10-12",
+          "label": "Oct 12, 12",
+          "close": 89.96
+        },
+        {
+          "date": "2012-10-15",
+          "label": "Oct 15, 12",
+          "close": 90.68
+        },
+        {
+          "date": "2012-10-16",
+          "label": "Oct 16, 12",
+          "close": 92.83
+        },
+        {
+          "date": "2012-10-17",
+          "label": "Oct 17, 12",
+          "close": 92.09
+        },
+        {
+          "date": "2012-10-18",
+          "label": "Oct 18, 12",
+          "close": 90.38
+        },
+        {
+          "date": "2012-10-19",
+          "label": "Oct 19, 12",
+          "close": 87.12
+        },
+        {
+          "date": "2012-10-22",
+          "label": "Oct 22, 12",
+          "close": 90.58
+        },
+        {
+          "date": "2012-10-23",
+          "label": "Oct 23, 12",
+          "close": 87.62
+        },
+        {
+          "date": "2012-10-24",
+          "label": "Oct 24, 12",
+          "close": 88.12
+        },
+        {
+          "date": "2012-10-25",
+          "label": "Oct 25, 12",
+          "close": 87.08
+        },
+        {
+          "date": "2012-10-26",
+          "label": "Oct 26, 12",
+          "close": 86.29
+        },
+        {
+          "date": "2012-10-31",
+          "label": "Oct 31, 12",
+          "close": 85.05
+        },
+        {
+          "date": "2012-11-01",
+          "label": "Nov 1, 12",
+          "close": 85.22
+        },
+        {
+          "date": "2012-11-02",
+          "label": "Nov 2, 12",
+          "close": 82.4
+        },
+        {
+          "date": "2012-11-05",
+          "label": "Nov 5, 12",
+          "close": 83.52
+        },
+        {
+          "date": "2012-11-06",
+          "label": "Nov 6, 12",
+          "close": 83.26
+        },
+        {
+          "date": "2012-11-07",
+          "label": "Nov 7, 12",
+          "close": 79.71
+        },
+        {
+          "date": "2012-11-08",
+          "label": "Nov 8, 12",
+          "close": 76.82
+        },
+        {
+          "date": "2012-11-09",
+          "label": "Nov 9, 12",
+          "close": 78.15
+        },
+        {
+          "date": "2012-11-12",
+          "label": "Nov 12, 12",
+          "close": 77.55
+        },
+        {
+          "date": "2012-11-13",
+          "label": "Nov 13, 12",
+          "close": 77.56
+        },
+        {
+          "date": "2012-11-14",
+          "label": "Nov 14, 12",
+          "close": 76.7
+        },
+        {
+          "date": "2012-11-15",
+          "label": "Nov 15, 12",
+          "close": 75.09
+        },
+        {
+          "date": "2012-11-16",
+          "label": "Nov 16, 12",
+          "close": 75.38
+        },
+        {
+          "date": "2012-11-19",
+          "label": "Nov 19, 12",
+          "close": 80.82
+        },
+        {
+          "date": "2012-11-20",
+          "label": "Nov 20, 12",
+          "close": 80.13
+        },
+        {
+          "date": "2012-11-21",
+          "label": "Nov 21, 12",
+          "close": 80.24
+        },
+        {
+          "date": "2012-11-23",
+          "label": "Nov 23, 12",
+          "close": 81.64
+        },
+        {
+          "date": "2012-11-26",
+          "label": "Nov 26, 12",
+          "close": 84.22
+        },
+        {
+          "date": "2012-11-27",
+          "label": "Nov 27, 12",
+          "close": 83.54
+        },
+        {
+          "date": "2012-11-28",
+          "label": "Nov 28, 12",
+          "close": 83.28
+        },
+        {
+          "date": "2012-11-29",
+          "label": "Nov 29, 12",
+          "close": 84.19
+        },
+        {
+          "date": "2012-11-30",
+          "label": "Nov 30, 12",
+          "close": 83.61
+        },
+        {
+          "date": "2012-12-03",
+          "label": "Dec 3, 12",
+          "close": 83.74
+        },
+        {
+          "date": "2012-12-04",
+          "label": "Dec 4, 12",
+          "close": 82.26
+        },
+        {
+          "date": "2012-12-05",
+          "label": "Dec 5, 12",
+          "close": 76.97
+        },
+        {
+          "date": "2012-12-06",
+          "label": "Dec 6, 12",
+          "close": 78.18
+        },
+        {
+          "date": "2012-12-07",
+          "label": "Dec 7, 12",
+          "close": 76.18
+        },
+        {
+          "date": "2012-12-10",
+          "label": "Dec 10, 12",
+          "close": 75.69
+        },
+        {
+          "date": "2012-12-11",
+          "label": "Dec 11, 12",
+          "close": 77.34
+        },
+        {
+          "date": "2012-12-12",
+          "label": "Dec 12, 12",
+          "close": 77
+        },
+        {
+          "date": "2012-12-13",
+          "label": "Dec 13, 12",
+          "close": 75.67
+        },
+        {
+          "date": "2012-12-14",
+          "label": "Dec 14, 12",
+          "close": 72.83
+        },
+        {
+          "date": "2012-12-17",
+          "label": "Dec 17, 12",
+          "close": 74.12
+        },
+        {
+          "date": "2012-12-18",
+          "label": "Dec 18, 12",
+          "close": 76.27
+        },
+        {
+          "date": "2012-12-19",
+          "label": "Dec 19, 12",
+          "close": 75.19
+        },
+        {
+          "date": "2012-12-20",
+          "label": "Dec 20, 12",
+          "close": 74.53
+        },
+        {
+          "date": "2012-12-21",
+          "label": "Dec 21, 12",
+          "close": 74.19
+        },
+        {
+          "date": "2012-12-24",
+          "label": "Dec 24, 12",
+          "close": 74.31
+        },
+        {
+          "date": "2012-12-26",
+          "label": "Dec 26, 12",
+          "close": 73.29
+        },
+        {
+          "date": "2012-12-27",
+          "label": "Dec 27, 12",
+          "close": 73.58
+        },
+        {
+          "date": "2012-12-28",
+          "label": "Dec 28, 12",
+          "close": 72.8
+        },
+        {
+          "date": "2012-12-31",
+          "label": "Dec 31, 12",
+          "close": 76.02
+        },
+        {
+          "date": "2013-01-02",
+          "label": "Jan 2, 13",
+          "close": 78.43
+        },
+        {
+          "date": "2013-01-03",
+          "label": "Jan 3, 13",
+          "close": 77.44
+        },
+        {
+          "date": "2013-01-04",
+          "label": "Jan 4, 13",
+          "close": 75.29
+        },
+        {
+          "date": "2013-01-07",
+          "label": "Jan 7, 13",
+          "close": 74.84
+        },
+        {
+          "date": "2013-01-08",
+          "label": "Jan 8, 13",
+          "close": 75.04
+        },
+        {
+          "date": "2013-01-09",
+          "label": "Jan 9, 13",
+          "close": 73.87
+        },
+        {
+          "date": "2013-01-10",
+          "label": "Jan 10, 13",
+          "close": 74.79
+        },
+        {
+          "date": "2013-01-11",
+          "label": "Jan 11, 13",
+          "close": 74.33
+        },
+        {
+          "date": "2013-01-14",
+          "label": "Jan 14, 13",
+          "close": 71.68
+        },
+        {
+          "date": "2013-01-15",
+          "label": "Jan 15, 13",
+          "close": 69.42
+        },
+        {
+          "date": "2013-01-16",
+          "label": "Jan 16, 13",
+          "close": 72.3
+        },
+        {
+          "date": "2013-01-17",
+          "label": "Jan 17, 13",
+          "close": 71.81
+        },
+        {
+          "date": "2013-01-18",
+          "label": "Jan 18, 13",
+          "close": 71.43
+        },
+        {
+          "date": "2013-01-22",
+          "label": "Jan 22, 13",
+          "close": 72.11
+        },
+        {
+          "date": "2013-01-23",
+          "label": "Jan 23, 13",
+          "close": 73.43
+        },
+        {
+          "date": "2013-01-24",
+          "label": "Jan 24, 13",
+          "close": 64.36
+        },
+        {
+          "date": "2013-01-25",
+          "label": "Jan 25, 13",
+          "close": 62.84
+        },
+        {
+          "date": "2013-01-28",
+          "label": "Jan 28, 13",
+          "close": 64.26
+        },
+        {
+          "date": "2013-01-29",
+          "label": "Jan 29, 13",
+          "close": 65.47
+        },
+        {
+          "date": "2013-01-30",
+          "label": "Jan 30, 13",
+          "close": 65.26
+        },
+        {
+          "date": "2013-01-31",
+          "label": "Jan 31, 13",
+          "close": 65.07
+        },
+        {
+          "date": "2013-02-01",
+          "label": "Feb 1, 13",
+          "close": 64.8
+        },
+        {
+          "date": "2013-02-04",
+          "label": "Feb 4, 13",
+          "close": 63.19
+        },
+        {
+          "date": "2013-02-05",
+          "label": "Feb 5, 13",
+          "close": 65.41
+        },
+        {
+          "date": "2013-02-06",
+          "label": "Feb 6, 13",
+          "close": 65.34
+        },
+        {
+          "date": "2013-02-07",
+          "label": "Feb 7, 13",
+          "close": 66.89
+        },
+        {
+          "date": "2013-02-08",
+          "label": "Feb 8, 13",
+          "close": 67.85
+        },
+        {
+          "date": "2013-02-11",
+          "label": "Feb 11, 13",
+          "close": 68.56
+        },
+        {
+          "date": "2013-02-12",
+          "label": "Feb 12, 13",
+          "close": 66.84
+        },
+        {
+          "date": "2013-02-13",
+          "label": "Feb 13, 13",
+          "close": 66.72
+        },
+        {
+          "date": "2013-02-14",
+          "label": "Feb 14, 13",
+          "close": 66.66
+        },
+        {
+          "date": "2013-02-15",
+          "label": "Feb 15, 13",
+          "close": 65.74
+        },
+        {
+          "date": "2013-02-19",
+          "label": "Feb 19, 13",
+          "close": 65.71
+        },
+        {
+          "date": "2013-02-20",
+          "label": "Feb 20, 13",
+          "close": 64.12
+        },
+        {
+          "date": "2013-02-21",
+          "label": "Feb 21, 13",
+          "close": 63.72
+        },
+        {
+          "date": "2013-02-22",
+          "label": "Feb 22, 13",
+          "close": 64.4
+        },
+        {
+          "date": "2013-02-25",
+          "label": "Feb 25, 13",
+          "close": 63.26
+        },
+        {
+          "date": "2013-02-26",
+          "label": "Feb 26, 13",
+          "close": 64.14
+        },
+        {
+          "date": "2013-02-27",
+          "label": "Feb 27, 13",
+          "close": 63.51
+        },
+        {
+          "date": "2013-02-28",
+          "label": "Feb 28, 13",
+          "close": 63.06
+        },
+        {
+          "date": "2013-03-01",
+          "label": "Mar 1, 13",
+          "close": 61.5
+        },
+        {
+          "date": "2013-03-04",
+          "label": "Mar 4, 13",
+          "close": 60.01
+        },
+        {
+          "date": "2013-03-05",
+          "label": "Mar 5, 13",
+          "close": 61.59
+        },
+        {
+          "date": "2013-03-06",
+          "label": "Mar 6, 13",
+          "close": 60.81
+        },
+        {
+          "date": "2013-03-07",
+          "label": "Mar 7, 13",
+          "close": 61.51
+        },
+        {
+          "date": "2013-03-08",
+          "label": "Mar 8, 13",
+          "close": 61.67
+        },
+        {
+          "date": "2013-03-11",
+          "label": "Mar 11, 13",
+          "close": 62.55
+        },
+        {
+          "date": "2013-03-12",
+          "label": "Mar 12, 13",
+          "close": 61.2
+        },
+        {
+          "date": "2013-03-13",
+          "label": "Mar 13, 13",
+          "close": 61.19
+        },
+        {
+          "date": "2013-03-14",
+          "label": "Mar 14, 13",
+          "close": 61.79
+        },
+        {
+          "date": "2013-03-15",
+          "label": "Mar 15, 13",
+          "close": 63.38
+        },
+        {
+          "date": "2013-03-18",
+          "label": "Mar 18, 13",
+          "close": 65.1
+        },
+        {
+          "date": "2013-03-19",
+          "label": "Mar 19, 13",
+          "close": 64.93
+        },
+        {
+          "date": "2013-03-20",
+          "label": "Mar 20, 13",
+          "close": 64.58
+        },
+        {
+          "date": "2013-03-21",
+          "label": "Mar 21, 13",
+          "close": 64.68
+        },
+        {
+          "date": "2013-03-22",
+          "label": "Mar 22, 13",
+          "close": 65.99
+        },
+        {
+          "date": "2013-03-25",
+          "label": "Mar 25, 13",
+          "close": 66.23
+        },
+        {
+          "date": "2013-03-26",
+          "label": "Mar 26, 13",
+          "close": 65.88
+        },
+        {
+          "date": "2013-03-27",
+          "label": "Mar 27, 13",
+          "close": 64.58
+        },
+        {
+          "date": "2013-03-28",
+          "label": "Mar 28, 13",
+          "close": 63.24
+        },
+        {
+          "date": "2013-04-01",
+          "label": "Apr 1, 13",
+          "close": 61.27
+        },
+        {
+          "date": "2013-04-02",
+          "label": "Apr 2, 13",
+          "close": 61.4
+        },
+        {
+          "date": "2013-04-03",
+          "label": "Apr 3, 13",
+          "close": 61.71
+        },
+        {
+          "date": "2013-04-04",
+          "label": "Apr 4, 13",
+          "close": 61.1
+        },
+        {
+          "date": "2013-04-05",
+          "label": "Apr 5, 13",
+          "close": 60.46
+        },
+        {
+          "date": "2013-04-08",
+          "label": "Apr 8, 13",
+          "close": 60.89
+        },
+        {
+          "date": "2013-04-09",
+          "label": "Apr 9, 13",
+          "close": 61
+        },
+        {
+          "date": "2013-04-10",
+          "label": "Apr 10, 13",
+          "close": 62.24
+        },
+        {
+          "date": "2013-04-11",
+          "label": "Apr 11, 13",
+          "close": 62.05
+        },
+        {
+          "date": "2013-04-12",
+          "label": "Apr 12, 13",
+          "close": 61.4
+        },
+        {
+          "date": "2013-04-15",
+          "label": "Apr 15, 13",
+          "close": 59.98
+        },
+        {
+          "date": "2013-04-16",
+          "label": "Apr 16, 13",
+          "close": 60.89
+        },
+        {
+          "date": "2013-04-17",
+          "label": "Apr 17, 13",
+          "close": 57.54
+        },
+        {
+          "date": "2013-04-18",
+          "label": "Apr 18, 13",
+          "close": 56.01
+        },
+        {
+          "date": "2013-04-19",
+          "label": "Apr 19, 13",
+          "close": 55.79
+        },
+        {
+          "date": "2013-04-22",
+          "label": "Apr 22, 13",
+          "close": 56.95
+        },
+        {
+          "date": "2013-04-23",
+          "label": "Apr 23, 13",
+          "close": 58.02
+        },
+        {
+          "date": "2013-04-24",
+          "label": "Apr 24, 13",
+          "close": 57.92
+        },
+        {
+          "date": "2013-04-25",
+          "label": "Apr 25, 13",
+          "close": 58.34
+        },
+        {
+          "date": "2013-04-26",
+          "label": "Apr 26, 13",
+          "close": 59.6
+        },
+        {
+          "date": "2013-04-29",
+          "label": "Apr 29, 13",
+          "close": 61.45
+        },
+        {
+          "date": "2013-04-30",
+          "label": "Apr 30, 13",
+          "close": 63.25
+        },
+        {
+          "date": "2013-05-01",
+          "label": "May 1, 13",
+          "close": 62.76
+        },
+        {
+          "date": "2013-05-02",
+          "label": "May 2, 13",
+          "close": 63.65
+        },
+        {
+          "date": "2013-05-03",
+          "label": "May 3, 13",
+          "close": 64.28
+        },
+        {
+          "date": "2013-05-06",
+          "label": "May 6, 13",
+          "close": 65.82
+        },
+        {
+          "date": "2013-05-07",
+          "label": "May 7, 13",
+          "close": 65.52
+        },
+        {
+          "date": "2013-05-08",
+          "label": "May 8, 13",
+          "close": 66.26
+        },
+        {
+          "date": "2013-05-09",
+          "label": "May 9, 13",
+          "close": 65.25
+        },
+        {
+          "date": "2013-05-10",
+          "label": "May 10, 13",
+          "close": 64.71
+        },
+        {
+          "date": "2013-05-13",
+          "label": "May 13, 13",
+          "close": 64.96
+        },
+        {
+          "date": "2013-05-14",
+          "label": "May 14, 13",
+          "close": 63.41
+        },
+        {
+          "date": "2013-05-15",
+          "label": "May 15, 13",
+          "close": 61.26
+        },
+        {
+          "date": "2013-05-16",
+          "label": "May 16, 13",
+          "close": 62.08
+        },
+        {
+          "date": "2013-05-17",
+          "label": "May 17, 13",
+          "close": 61.89
+        },
+        {
+          "date": "2013-05-20",
+          "label": "May 20, 13",
+          "close": 63.28
+        },
+        {
+          "date": "2013-05-21",
+          "label": "May 21, 13",
+          "close": 62.81
+        },
+        {
+          "date": "2013-05-22",
+          "label": "May 22, 13",
+          "close": 63.05
+        },
+        {
+          "date": "2013-05-23",
+          "label": "May 23, 13",
+          "close": 63.16
+        },
+        {
+          "date": "2013-05-24",
+          "label": "May 24, 13",
+          "close": 63.59
+        },
+        {
+          "date": "2013-05-28",
+          "label": "May 28, 13",
+          "close": 63.06
+        },
+        {
+          "date": "2013-05-29",
+          "label": "May 29, 13",
+          "close": 63.56
+        },
+        {
+          "date": "2013-05-30",
+          "label": "May 30, 13",
+          "close": 64.51
+        },
+        {
+          "date": "2013-05-31",
+          "label": "May 31, 13",
+          "close": 64.25
+        },
+        {
+          "date": "2013-06-03",
+          "label": "Jun 3, 13",
+          "close": 64.39
+        },
+        {
+          "date": "2013-06-04",
+          "label": "Jun 4, 13",
+          "close": 64.19
+        },
+        {
+          "date": "2013-06-05",
+          "label": "Jun 5, 13",
+          "close": 63.59
+        },
+        {
+          "date": "2013-06-06",
+          "label": "Jun 6, 13",
+          "close": 62.64
+        },
+        {
+          "date": "2013-06-07",
+          "label": "Jun 7, 13",
+          "close": 63.12
+        },
+        {
+          "date": "2013-06-10",
+          "label": "Jun 10, 13",
+          "close": 62.7
+        },
+        {
+          "date": "2013-06-11",
+          "label": "Jun 11, 13",
+          "close": 62.51
+        },
+        {
+          "date": "2013-06-12",
+          "label": "Jun 12, 13",
+          "close": 61.74
+        },
+        {
+          "date": "2013-06-13",
+          "label": "Jun 13, 13",
+          "close": 62.28
+        },
+        {
+          "date": "2013-06-14",
+          "label": "Jun 14, 13",
+          "close": 61.44
+        },
+        {
+          "date": "2013-06-17",
+          "label": "Jun 17, 13",
+          "close": 61.71
+        },
+        {
+          "date": "2013-06-18",
+          "label": "Jun 18, 13",
+          "close": 61.68
+        },
+        {
+          "date": "2013-06-19",
+          "label": "Jun 19, 13",
+          "close": 60.43
+        },
+        {
+          "date": "2013-06-20",
+          "label": "Jun 20, 13",
+          "close": 59.55
+        },
+        {
+          "date": "2013-06-21",
+          "label": "Jun 21, 13",
+          "close": 59.07
+        },
+        {
+          "date": "2013-06-24",
+          "label": "Jun 24, 13",
+          "close": 57.51
+        },
+        {
+          "date": "2013-06-25",
+          "label": "Jun 25, 13",
+          "close": 57.52
+        },
+        {
+          "date": "2013-06-26",
+          "label": "Jun 26, 13",
+          "close": 56.87
+        },
+        {
+          "date": "2013-06-27",
+          "label": "Jun 27, 13",
+          "close": 56.25
+        },
+        {
+          "date": "2013-06-28",
+          "label": "Jun 28, 13",
+          "close": 56.65
+        },
+        {
+          "date": "2013-07-01",
+          "label": "Jul 1, 13",
+          "close": 58.46
+        },
+        {
+          "date": "2013-07-02",
+          "label": "Jul 2, 13",
+          "close": 59.78
+        },
+        {
+          "date": "2013-07-03",
+          "label": "Jul 3, 13",
+          "close": 60.11
+        },
+        {
+          "date": "2013-07-05",
+          "label": "Jul 5, 13",
+          "close": 59.63
+        },
+        {
+          "date": "2013-07-08",
+          "label": "Jul 8, 13",
+          "close": 59.29
+        },
+        {
+          "date": "2013-07-09",
+          "label": "Jul 9, 13",
+          "close": 60.34
+        },
+        {
+          "date": "2013-07-10",
+          "label": "Jul 10, 13",
+          "close": 60.1
+        },
+        {
+          "date": "2013-07-11",
+          "label": "Jul 11, 13",
+          "close": 61.04
+        },
+        {
+          "date": "2013-07-12",
+          "label": "Jul 12, 13",
+          "close": 60.93
+        },
+        {
+          "date": "2013-07-15",
+          "label": "Jul 15, 13",
+          "close": 61.06
+        },
+        {
+          "date": "2013-07-16",
+          "label": "Jul 16, 13",
+          "close": 61.46
+        },
+        {
+          "date": "2013-07-17",
+          "label": "Jul 17, 13",
+          "close": 61.47
+        },
+        {
+          "date": "2013-07-18",
+          "label": "Jul 18, 13",
+          "close": 61.68
+        },
+        {
+          "date": "2013-07-19",
+          "label": "Jul 19, 13",
+          "close": 60.71
+        },
+        {
+          "date": "2013-07-22",
+          "label": "Jul 22, 13",
+          "close": 60.9
+        },
+        {
+          "date": "2013-07-23",
+          "label": "Jul 23, 13",
+          "close": 59.86
+        },
+        {
+          "date": "2013-07-24",
+          "label": "Jul 24, 13",
+          "close": 62.93
+        },
+        {
+          "date": "2013-07-25",
+          "label": "Jul 25, 13",
+          "close": 62.64
+        },
+        {
+          "date": "2013-07-26",
+          "label": "Jul 26, 13",
+          "close": 63
+        },
+        {
+          "date": "2013-07-29",
+          "label": "Jul 29, 13",
+          "close": 63.97
+        },
+        {
+          "date": "2013-07-30",
+          "label": "Jul 30, 13",
+          "close": 64.76
+        },
+        {
+          "date": "2013-07-31",
+          "label": "Jul 31, 13",
+          "close": 64.65
+        },
+        {
+          "date": "2013-08-01",
+          "label": "Aug 1, 13",
+          "close": 65.24
+        },
+        {
+          "date": "2013-08-02",
+          "label": "Aug 2, 13",
+          "close": 66.08
+        },
+        {
+          "date": "2013-08-05",
+          "label": "Aug 5, 13",
+          "close": 67.06
+        },
+        {
+          "date": "2013-08-06",
+          "label": "Aug 6, 13",
+          "close": 66.46
+        },
+        {
+          "date": "2013-08-07",
+          "label": "Aug 7, 13",
+          "close": 66.43
+        },
+        {
+          "date": "2013-08-08",
+          "label": "Aug 8, 13",
+          "close": 65.86
+        },
+        {
+          "date": "2013-08-09",
+          "label": "Aug 9, 13",
+          "close": 64.92
+        },
+        {
+          "date": "2013-08-12",
+          "label": "Aug 12, 13",
+          "close": 66.77
+        },
+        {
+          "date": "2013-08-13",
+          "label": "Aug 13, 13",
+          "close": 69.94
+        },
+        {
+          "date": "2013-08-14",
+          "label": "Aug 14, 13",
+          "close": 71.21
+        },
+        {
+          "date": "2013-08-15",
+          "label": "Aug 15, 13",
+          "close": 71.13
+        },
+        {
+          "date": "2013-08-16",
+          "label": "Aug 16, 13",
+          "close": 71.76
+        },
+        {
+          "date": "2013-08-19",
+          "label": "Aug 19, 13",
+          "close": 72.53
+        },
+        {
+          "date": "2013-08-20",
+          "label": "Aug 20, 13",
+          "close": 71.58
+        },
+        {
+          "date": "2013-08-21",
+          "label": "Aug 21, 13",
+          "close": 71.77
+        },
+        {
+          "date": "2013-08-22",
+          "label": "Aug 22, 13",
+          "close": 71.85
+        },
+        {
+          "date": "2013-08-23",
+          "label": "Aug 23, 13",
+          "close": 71.57
+        },
+        {
+          "date": "2013-08-26",
+          "label": "Aug 26, 13",
+          "close": 71.85
+        },
+        {
+          "date": "2013-08-27",
+          "label": "Aug 27, 13",
+          "close": 69.8
+        },
+        {
+          "date": "2013-08-28",
+          "label": "Aug 28, 13",
+          "close": 70.13
+        },
+        {
+          "date": "2013-08-29",
+          "label": "Aug 29, 13",
+          "close": 70.24
+        },
+        {
+          "date": "2013-08-30",
+          "label": "Aug 30, 13",
+          "close": 69.6
+        },
+        {
+          "date": "2013-09-03",
+          "label": "Sep 3, 13",
+          "close": 69.8
+        },
+        {
+          "date": "2013-09-04",
+          "label": "Sep 4, 13",
+          "close": 71.24
+        },
+        {
+          "date": "2013-09-05",
+          "label": "Sep 5, 13",
+          "close": 70.75
+        },
+        {
+          "date": "2013-09-06",
+          "label": "Sep 6, 13",
+          "close": 71.17
+        },
+        {
+          "date": "2013-09-09",
+          "label": "Sep 9, 13",
+          "close": 72.31
+        },
+        {
+          "date": "2013-09-10",
+          "label": "Sep 10, 13",
+          "close": 70.66
+        },
+        {
+          "date": "2013-09-11",
+          "label": "Sep 11, 13",
+          "close": 66.82
+        },
+        {
+          "date": "2013-09-12",
+          "label": "Sep 12, 13",
+          "close": 67.53
+        },
+        {
+          "date": "2013-09-13",
+          "label": "Sep 13, 13",
+          "close": 66.41
+        },
+        {
+          "date": "2013-09-16",
+          "label": "Sep 16, 13",
+          "close": 64.3
+        },
+        {
+          "date": "2013-09-17",
+          "label": "Sep 17, 13",
+          "close": 65.05
+        },
+        {
+          "date": "2013-09-18",
+          "label": "Sep 18, 13",
+          "close": 66.38
+        },
+        {
+          "date": "2013-09-19",
+          "label": "Sep 19, 13",
+          "close": 67.47
+        },
+        {
+          "date": "2013-09-20",
+          "label": "Sep 20, 13",
+          "close": 66.77
+        },
+        {
+          "date": "2013-09-23",
+          "label": "Sep 23, 13",
+          "close": 70.09
+        },
+        {
+          "date": "2013-09-24",
+          "label": "Sep 24, 13",
+          "close": 69.87
+        },
+        {
+          "date": "2013-09-25",
+          "label": "Sep 25, 13",
+          "close": 68.79
+        },
+        {
+          "date": "2013-09-26",
+          "label": "Sep 26, 13",
+          "close": 69.46
+        },
+        {
+          "date": "2013-09-27",
+          "label": "Sep 27, 13",
+          "close": 68.96
+        },
+        {
+          "date": "2013-09-30",
+          "label": "Sep 30, 13",
+          "close": 68.11
+        },
+        {
+          "date": "2013-10-01",
+          "label": "Oct 1, 13",
+          "close": 69.71
+        },
+        {
+          "date": "2013-10-02",
+          "label": "Oct 2, 13",
+          "close": 69.94
+        },
+        {
+          "date": "2013-10-03",
+          "label": "Oct 3, 13",
+          "close": 69.06
+        },
+        {
+          "date": "2013-10-04",
+          "label": "Oct 4, 13",
+          "close": 69
+        },
+        {
+          "date": "2013-10-07",
+          "label": "Oct 7, 13",
+          "close": 69.68
+        },
+        {
+          "date": "2013-10-08",
+          "label": "Oct 8, 13",
+          "close": 68.71
+        },
+        {
+          "date": "2013-10-09",
+          "label": "Oct 9, 13",
+          "close": 69.51
+        },
+        {
+          "date": "2013-10-10",
+          "label": "Oct 10, 13",
+          "close": 69.95
+        },
+        {
+          "date": "2013-10-11",
+          "label": "Oct 11, 13",
+          "close": 70.4
+        },
+        {
+          "date": "2013-10-14",
+          "label": "Oct 14, 13",
+          "close": 70.86
+        },
+        {
+          "date": "2013-10-15",
+          "label": "Oct 15, 13",
+          "close": 71.24
+        },
+        {
+          "date": "2013-10-16",
+          "label": "Oct 16, 13",
+          "close": 71.59
+        },
+        {
+          "date": "2013-10-17",
+          "label": "Oct 17, 13",
+          "close": 72.07
+        },
+        {
+          "date": "2013-10-18",
+          "label": "Oct 18, 13",
+          "close": 72.7
+        },
+        {
+          "date": "2013-10-21",
+          "label": "Oct 21, 13",
+          "close": 74.48
+        },
+        {
+          "date": "2013-10-22",
+          "label": "Oct 22, 13",
+          "close": 74.27
+        },
+        {
+          "date": "2013-10-23",
+          "label": "Oct 23, 13",
+          "close": 74.99
+        },
+        {
+          "date": "2013-10-24",
+          "label": "Oct 24, 13",
+          "close": 75.99
+        },
+        {
+          "date": "2013-10-25",
+          "label": "Oct 25, 13",
+          "close": 75.14
+        },
+        {
+          "date": "2013-10-28",
+          "label": "Oct 28, 13",
+          "close": 75.7
+        },
+        {
+          "date": "2013-10-29",
+          "label": "Oct 29, 13",
+          "close": 73.81
+        },
+        {
+          "date": "2013-10-30",
+          "label": "Oct 30, 13",
+          "close": 74.99
+        },
+        {
+          "date": "2013-10-31",
+          "label": "Oct 31, 13",
+          "close": 74.67
+        },
+        {
+          "date": "2013-11-01",
+          "label": "Nov 1, 13",
+          "close": 74.29
+        },
+        {
+          "date": "2013-11-04",
+          "label": "Nov 4, 13",
+          "close": 75.25
+        },
+        {
+          "date": "2013-11-05",
+          "label": "Nov 5, 13",
+          "close": 75.06
+        },
+        {
+          "date": "2013-11-06",
+          "label": "Nov 6, 13",
+          "close": 74.42
+        },
+        {
+          "date": "2013-11-07",
+          "label": "Nov 7, 13",
+          "close": 73.21
+        },
+        {
+          "date": "2013-11-08",
+          "label": "Nov 8, 13",
+          "close": 74.37
+        },
+        {
+          "date": "2013-11-11",
+          "label": "Nov 11, 13",
+          "close": 74.15
+        },
+        {
+          "date": "2013-11-12",
+          "label": "Nov 12, 13",
+          "close": 74.29
+        },
+        {
+          "date": "2013-11-13",
+          "label": "Nov 13, 13",
+          "close": 74.38
+        },
+        {
+          "date": "2013-11-14",
+          "label": "Nov 14, 13",
+          "close": 75.45
+        },
+        {
+          "date": "2013-11-15",
+          "label": "Nov 15, 13",
+          "close": 75
+        },
+        {
+          "date": "2013-11-18",
+          "label": "Nov 18, 13",
+          "close": 74.09
+        },
+        {
+          "date": "2013-11-19",
+          "label": "Nov 19, 13",
+          "close": 74.22
+        },
+        {
+          "date": "2013-11-20",
+          "label": "Nov 20, 13",
+          "close": 73.57
+        },
+        {
+          "date": "2013-11-21",
+          "label": "Nov 21, 13",
+          "close": 74.45
+        },
+        {
+          "date": "2013-11-22",
+          "label": "Nov 22, 13",
+          "close": 74.26
+        },
+        {
+          "date": "2013-11-25",
+          "label": "Nov 25, 13",
+          "close": 74.82
+        },
+        {
+          "date": "2013-11-26",
+          "label": "Nov 26, 13",
+          "close": 76.2
+        },
+        {
+          "date": "2013-11-27",
+          "label": "Nov 27, 13",
+          "close": 77.99
+        },
+        {
+          "date": "2013-11-29",
+          "label": "Nov 29, 13",
+          "close": 79.44
+        },
+        {
+          "date": "2013-12-02",
+          "label": "Dec 2, 13",
+          "close": 78.75
+        },
+        {
+          "date": "2013-12-03",
+          "label": "Dec 3, 13",
+          "close": 80.9
+        },
+        {
+          "date": "2013-12-04",
+          "label": "Dec 4, 13",
+          "close": 80.71
+        },
+        {
+          "date": "2013-12-05",
+          "label": "Dec 5, 13",
+          "close": 81.13
+        },
+        {
+          "date": "2013-12-06",
+          "label": "Dec 6, 13",
+          "close": 80
+        },
+        {
+          "date": "2013-12-09",
+          "label": "Dec 9, 13",
+          "close": 80.92
+        },
+        {
+          "date": "2013-12-10",
+          "label": "Dec 10, 13",
+          "close": 80.79
+        },
+        {
+          "date": "2013-12-11",
+          "label": "Dec 11, 13",
+          "close": 80.19
+        },
+        {
+          "date": "2013-12-12",
+          "label": "Dec 12, 13",
+          "close": 80.08
+        },
+        {
+          "date": "2013-12-13",
+          "label": "Dec 13, 13",
+          "close": 79.2
+        },
+        {
+          "date": "2013-12-16",
+          "label": "Dec 16, 13",
+          "close": 79.64
+        },
+        {
+          "date": "2013-12-17",
+          "label": "Dec 17, 13",
+          "close": 79.28
+        },
+        {
+          "date": "2013-12-18",
+          "label": "Dec 18, 13",
+          "close": 78.68
+        },
+        {
+          "date": "2013-12-19",
+          "label": "Dec 19, 13",
+          "close": 77.78
+        },
+        {
+          "date": "2013-12-20",
+          "label": "Dec 20, 13",
+          "close": 78.43
+        },
+        {
+          "date": "2013-12-23",
+          "label": "Dec 23, 13",
+          "close": 81.44
+        },
+        {
+          "date": "2013-12-24",
+          "label": "Dec 24, 13",
+          "close": 81.1
+        },
+        {
+          "date": "2013-12-26",
+          "label": "Dec 26, 13",
+          "close": 80.56
+        },
+        {
+          "date": "2013-12-27",
+          "label": "Dec 27, 13",
+          "close": 80.01
+        },
+        {
+          "date": "2013-12-30",
+          "label": "Dec 30, 13",
+          "close": 79.22
+        },
+        {
+          "date": "2013-12-31",
+          "label": "Dec 31, 13",
+          "close": 80.15
+        },
+        {
+          "date": "2014-01-02",
+          "label": "Jan 2, 14",
+          "close": 79.02
+        },
+        {
+          "date": "2014-01-03",
+          "label": "Jan 3, 14",
+          "close": 77.28
+        },
+        {
+          "date": "2014-01-06",
+          "label": "Jan 6, 14",
+          "close": 77.7
+        },
+        {
+          "date": "2014-01-07",
+          "label": "Jan 7, 14",
+          "close": 77.15
+        },
+        {
+          "date": "2014-01-08",
+          "label": "Jan 8, 14",
+          "close": 77.64
+        },
+        {
+          "date": "2014-01-09",
+          "label": "Jan 9, 14",
+          "close": 76.65
+        },
+        {
+          "date": "2014-01-10",
+          "label": "Jan 10, 14",
+          "close": 76.13
+        },
+        {
+          "date": "2014-01-13",
+          "label": "Jan 13, 14",
+          "close": 76.53
+        },
+        {
+          "date": "2014-01-14",
+          "label": "Jan 14, 14",
+          "close": 78.06
+        },
+        {
+          "date": "2014-01-15",
+          "label": "Jan 15, 14",
+          "close": 79.62
+        },
+        {
+          "date": "2014-01-16",
+          "label": "Jan 16, 14",
+          "close": 79.18
+        },
+        {
+          "date": "2014-01-17",
+          "label": "Jan 17, 14",
+          "close": 77.24
+        },
+        {
+          "date": "2014-01-21",
+          "label": "Jan 21, 14",
+          "close": 78.44
+        },
+        {
+          "date": "2014-01-22",
+          "label": "Jan 22, 14",
+          "close": 78.79
+        },
+        {
+          "date": "2014-01-23",
+          "label": "Jan 23, 14",
+          "close": 79.45
+        },
+        {
+          "date": "2014-01-24",
+          "label": "Jan 24, 14",
+          "close": 78.01
+        },
+        {
+          "date": "2014-01-27",
+          "label": "Jan 27, 14",
+          "close": 78.64
+        },
+        {
+          "date": "2014-01-28",
+          "label": "Jan 28, 14",
+          "close": 72.36
+        },
+        {
+          "date": "2014-01-29",
+          "label": "Jan 29, 14",
+          "close": 71.54
+        },
+        {
+          "date": "2014-01-30",
+          "label": "Jan 30, 14",
+          "close": 71.4
+        },
+        {
+          "date": "2014-01-31",
+          "label": "Jan 31, 14",
+          "close": 71.51
+        },
+        {
+          "date": "2014-02-03",
+          "label": "Feb 3, 14",
+          "close": 71.65
+        },
+        {
+          "date": "2014-02-04",
+          "label": "Feb 4, 14",
+          "close": 72.68
+        },
+        {
+          "date": "2014-02-05",
+          "label": "Feb 5, 14",
+          "close": 73.23
+        },
+        {
+          "date": "2014-02-06",
+          "label": "Feb 6, 14",
+          "close": 73.22
+        },
+        {
+          "date": "2014-02-07",
+          "label": "Feb 7, 14",
+          "close": 74.24
+        },
+        {
+          "date": "2014-02-10",
+          "label": "Feb 10, 14",
+          "close": 75.57
+        },
+        {
+          "date": "2014-02-11",
+          "label": "Feb 11, 14",
+          "close": 76.57
+        },
+        {
+          "date": "2014-02-12",
+          "label": "Feb 12, 14",
+          "close": 76.56
+        },
+        {
+          "date": "2014-02-13",
+          "label": "Feb 13, 14",
+          "close": 77.78
+        },
+        {
+          "date": "2014-02-14",
+          "label": "Feb 14, 14",
+          "close": 77.71
+        },
+        {
+          "date": "2014-02-18",
+          "label": "Feb 18, 14",
+          "close": 78
+        },
+        {
+          "date": "2014-02-19",
+          "label": "Feb 19, 14",
+          "close": 76.77
+        },
+        {
+          "date": "2014-02-20",
+          "label": "Feb 20, 14",
+          "close": 75.88
+        },
+        {
+          "date": "2014-02-21",
+          "label": "Feb 21, 14",
+          "close": 75.04
+        },
+        {
+          "date": "2014-02-24",
+          "label": "Feb 24, 14",
+          "close": 75.36
+        },
+        {
+          "date": "2014-02-25",
+          "label": "Feb 25, 14",
+          "close": 74.58
+        },
+        {
+          "date": "2014-02-26",
+          "label": "Feb 26, 14",
+          "close": 73.91
+        },
+        {
+          "date": "2014-02-27",
+          "label": "Feb 27, 14",
+          "close": 75.38
+        },
+        {
+          "date": "2014-02-28",
+          "label": "Feb 28, 14",
+          "close": 75.18
+        },
+        {
+          "date": "2014-03-03",
+          "label": "Mar 3, 14",
+          "close": 75.39
+        },
+        {
+          "date": "2014-03-04",
+          "label": "Mar 4, 14",
+          "close": 75.89
+        },
+        {
+          "date": "2014-03-05",
+          "label": "Mar 5, 14",
+          "close": 76.05
+        },
+        {
+          "date": "2014-03-06",
+          "label": "Mar 6, 14",
+          "close": 75.82
+        },
+        {
+          "date": "2014-03-07",
+          "label": "Mar 7, 14",
+          "close": 75.78
+        },
+        {
+          "date": "2014-03-10",
+          "label": "Mar 10, 14",
+          "close": 75.85
+        },
+        {
+          "date": "2014-03-11",
+          "label": "Mar 11, 14",
+          "close": 76.58
+        },
+        {
+          "date": "2014-03-12",
+          "label": "Mar 12, 14",
+          "close": 76.66
+        },
+        {
+          "date": "2014-03-13",
+          "label": "Mar 13, 14",
+          "close": 75.81
+        },
+        {
+          "date": "2014-03-14",
+          "label": "Mar 14, 14",
+          "close": 74.96
+        },
+        {
+          "date": "2014-03-17",
+          "label": "Mar 17, 14",
+          "close": 75.25
+        },
+        {
+          "date": "2014-03-18",
+          "label": "Mar 18, 14",
+          "close": 75.91
+        },
+        {
+          "date": "2014-03-19",
+          "label": "Mar 19, 14",
+          "close": 75.89
+        },
+        {
+          "date": "2014-03-20",
+          "label": "Mar 20, 14",
+          "close": 75.53
+        },
+        {
+          "date": "2014-03-21",
+          "label": "Mar 21, 14",
+          "close": 76.12
+        },
+        {
+          "date": "2014-03-24",
+          "label": "Mar 24, 14",
+          "close": 77.03
+        },
+        {
+          "date": "2014-03-25",
+          "label": "Mar 25, 14",
+          "close": 77.86
+        },
+        {
+          "date": "2014-03-26",
+          "label": "Mar 26, 14",
+          "close": 77.11
+        },
+        {
+          "date": "2014-03-27",
+          "label": "Mar 27, 14",
+          "close": 76.78
+        },
+        {
+          "date": "2014-03-28",
+          "label": "Mar 28, 14",
+          "close": 76.69
+        },
+        {
+          "date": "2014-03-31",
+          "label": "Mar 31, 14",
+          "close": 76.68
+        },
+        {
+          "date": "2014-04-01",
+          "label": "Apr 1, 14",
+          "close": 77.38
+        },
+        {
+          "date": "2014-04-02",
+          "label": "Apr 2, 14",
+          "close": 77.51
+        },
+        {
+          "date": "2014-04-03",
+          "label": "Apr 3, 14",
+          "close": 76.97
+        },
+        {
+          "date": "2014-04-04",
+          "label": "Apr 4, 14",
+          "close": 75.97
+        },
+        {
+          "date": "2014-04-07",
+          "label": "Apr 7, 14",
+          "close": 74.78
+        },
+        {
+          "date": "2014-04-08",
+          "label": "Apr 8, 14",
+          "close": 74.78
+        },
+        {
+          "date": "2014-04-09",
+          "label": "Apr 9, 14",
+          "close": 75.76
+        },
+        {
+          "date": "2014-04-10",
+          "label": "Apr 10, 14",
+          "close": 74.78
+        },
+        {
+          "date": "2014-04-11",
+          "label": "Apr 11, 14",
+          "close": 74.23
+        },
+        {
+          "date": "2014-04-14",
+          "label": "Apr 14, 14",
+          "close": 74.53
+        },
+        {
+          "date": "2014-04-15",
+          "label": "Apr 15, 14",
+          "close": 73.99
+        },
+        {
+          "date": "2014-04-16",
+          "label": "Apr 16, 14",
+          "close": 74.14
+        },
+        {
+          "date": "2014-04-17",
+          "label": "Apr 17, 14",
+          "close": 74.99
+        },
+        {
+          "date": "2014-04-21",
+          "label": "Apr 21, 14",
+          "close": 75.88
+        },
+        {
+          "date": "2014-04-22",
+          "label": "Apr 22, 14",
+          "close": 75.96
+        },
+        {
+          "date": "2014-04-23",
+          "label": "Apr 23, 14",
+          "close": 74.96
+        },
+        {
+          "date": "2014-04-24",
+          "label": "Apr 24, 14",
+          "close": 81.11
+        },
+        {
+          "date": "2014-04-25",
+          "label": "Apr 25, 14",
+          "close": 81.71
+        },
+        {
+          "date": "2014-04-28",
+          "label": "Apr 28, 14",
+          "close": 84.87
+        },
+        {
+          "date": "2014-04-29",
+          "label": "Apr 29, 14",
+          "close": 84.62
+        },
+        {
+          "date": "2014-04-30",
+          "label": "Apr 30, 14",
+          "close": 84.3
+        },
+        {
+          "date": "2014-05-01",
+          "label": "May 1, 14",
+          "close": 84.5
+        },
+        {
+          "date": "2014-05-02",
+          "label": "May 2, 14",
+          "close": 84.65
+        },
+        {
+          "date": "2014-05-05",
+          "label": "May 5, 14",
+          "close": 85.85
+        },
+        {
+          "date": "2014-05-06",
+          "label": "May 6, 14",
+          "close": 84.92
+        },
+        {
+          "date": "2014-05-07",
+          "label": "May 7, 14",
+          "close": 84.62
+        },
+        {
+          "date": "2014-05-08",
+          "label": "May 8, 14",
+          "close": 84
+        },
+        {
+          "date": "2014-05-09",
+          "label": "May 9, 14",
+          "close": 83.65
+        },
+        {
+          "date": "2014-05-12",
+          "label": "May 12, 14",
+          "close": 84.69
+        },
+        {
+          "date": "2014-05-13",
+          "label": "May 13, 14",
+          "close": 84.82
+        },
+        {
+          "date": "2014-05-14",
+          "label": "May 14, 14",
+          "close": 84.84
+        },
+        {
+          "date": "2014-05-15",
+          "label": "May 15, 14",
+          "close": 84.12
+        },
+        {
+          "date": "2014-05-16",
+          "label": "May 16, 14",
+          "close": 85.36
+        },
+        {
+          "date": "2014-05-19",
+          "label": "May 19, 14",
+          "close": 86.37
+        },
+        {
+          "date": "2014-05-20",
+          "label": "May 20, 14",
+          "close": 86.39
+        },
+        {
+          "date": "2014-05-21",
+          "label": "May 21, 14",
+          "close": 86.62
+        },
+        {
+          "date": "2014-05-22",
+          "label": "May 22, 14",
+          "close": 86.75
+        },
+        {
+          "date": "2014-05-23",
+          "label": "May 23, 14",
+          "close": 87.73
+        },
+        {
+          "date": "2014-05-27",
+          "label": "May 27, 14",
+          "close": 89.38
+        },
+        {
+          "date": "2014-05-28",
+          "label": "May 28, 14",
+          "close": 89.14
+        },
+        {
+          "date": "2014-05-29",
+          "label": "May 29, 14",
+          "close": 90.77
+        },
+        {
+          "date": "2014-05-30",
+          "label": "May 30, 14",
+          "close": 90.43
+        },
+        {
+          "date": "2014-06-02",
+          "label": "Jun 2, 14",
+          "close": 89.81
+        },
+        {
+          "date": "2014-06-03",
+          "label": "Jun 3, 14",
+          "close": 91.08
+        },
+        {
+          "date": "2014-06-04",
+          "label": "Jun 4, 14",
+          "close": 92.12
+        },
+        {
+          "date": "2014-06-05",
+          "label": "Jun 5, 14",
+          "close": 92.48
+        },
+        {
+          "date": "2014-06-06",
+          "label": "Jun 6, 14",
+          "close": 92.22
+        },
+        {
+          "date": "2014-06-09",
+          "label": "Jun 9, 14",
+          "close": 93.7
+        },
+        {
+          "date": "2014-06-10",
+          "label": "Jun 10, 14",
+          "close": 94.25
+        },
+        {
+          "date": "2014-06-11",
+          "label": "Jun 11, 14",
+          "close": 93.86
+        },
+        {
+          "date": "2014-06-12",
+          "label": "Jun 12, 14",
+          "close": 92.29
+        },
+        {
+          "date": "2014-06-13",
+          "label": "Jun 13, 14",
+          "close": 91.28
+        },
+        {
+          "date": "2014-06-16",
+          "label": "Jun 16, 14",
+          "close": 92.2
+        },
+        {
+          "date": "2014-06-17",
+          "label": "Jun 17, 14",
+          "close": 92.08
+        },
+        {
+          "date": "2014-06-18",
+          "label": "Jun 18, 14",
+          "close": 92.18
+        },
+        {
+          "date": "2014-06-19",
+          "label": "Jun 19, 14",
+          "close": 91.86
+        },
+        {
+          "date": "2014-06-20",
+          "label": "Jun 20, 14",
+          "close": 90.91
+        },
+        {
+          "date": "2014-06-23",
+          "label": "Jun 23, 14",
+          "close": 90.83
+        },
+        {
+          "date": "2014-06-24",
+          "label": "Jun 24, 14",
+          "close": 90.28
+        },
+        {
+          "date": "2014-06-25",
+          "label": "Jun 25, 14",
+          "close": 90.36
+        },
+        {
+          "date": "2014-06-26",
+          "label": "Jun 26, 14",
+          "close": 90.9
+        },
+        {
+          "date": "2014-06-27",
+          "label": "Jun 27, 14",
+          "close": 91.98
+        },
+        {
+          "date": "2014-06-30",
+          "label": "Jun 30, 14",
+          "close": 92.93
+        },
+        {
+          "date": "2014-07-01",
+          "label": "Jul 1, 14",
+          "close": 93.52
+        },
+        {
+          "date": "2014-07-02",
+          "label": "Jul 2, 14",
+          "close": 93.48
+        },
+        {
+          "date": "2014-07-03",
+          "label": "Jul 3, 14",
+          "close": 94.03
+        },
+        {
+          "date": "2014-07-07",
+          "label": "Jul 7, 14",
+          "close": 95.97
+        },
+        {
+          "date": "2014-07-08",
+          "label": "Jul 8, 14",
+          "close": 95.35
+        },
+        {
+          "date": "2014-07-09",
+          "label": "Jul 9, 14",
+          "close": 95.39
+        },
+        {
+          "date": "2014-07-10",
+          "label": "Jul 10, 14",
+          "close": 95.04
+        },
+        {
+          "date": "2014-07-11",
+          "label": "Jul 11, 14",
+          "close": 95.22
+        },
+        {
+          "date": "2014-07-14",
+          "label": "Jul 14, 14",
+          "close": 96.45
+        },
+        {
+          "date": "2014-07-15",
+          "label": "Jul 15, 14",
+          "close": 95.32
+        },
+        {
+          "date": "2014-07-16",
+          "label": "Jul 16, 14",
+          "close": 94.78
+        },
+        {
+          "date": "2014-07-17",
+          "label": "Jul 17, 14",
+          "close": 93.09
+        },
+        {
+          "date": "2014-07-18",
+          "label": "Jul 18, 14",
+          "close": 94.43
+        },
+        {
+          "date": "2014-07-21",
+          "label": "Jul 21, 14",
+          "close": 93.94
+        },
+        {
+          "date": "2014-07-22",
+          "label": "Jul 22, 14",
+          "close": 94.72
+        },
+        {
+          "date": "2014-07-23",
+          "label": "Jul 23, 14",
+          "close": 97.19
+        },
+        {
+          "date": "2014-07-24",
+          "label": "Jul 24, 14",
+          "close": 97.03
+        },
+        {
+          "date": "2014-07-25",
+          "label": "Jul 25, 14",
+          "close": 97.67
+        },
+        {
+          "date": "2014-07-28",
+          "label": "Jul 28, 14",
+          "close": 99.02
+        },
+        {
+          "date": "2014-07-29",
+          "label": "Jul 29, 14",
+          "close": 98.38
+        },
+        {
+          "date": "2014-07-30",
+          "label": "Jul 30, 14",
+          "close": 98.15
+        },
+        {
+          "date": "2014-07-31",
+          "label": "Jul 31, 14",
+          "close": 95.6
+        },
+        {
+          "date": "2014-08-01",
+          "label": "Aug 1, 14",
+          "close": 96.13
+        },
+        {
+          "date": "2014-08-04",
+          "label": "Aug 4, 14",
+          "close": 95.59
+        },
+        {
+          "date": "2014-08-05",
+          "label": "Aug 5, 14",
+          "close": 95.12
+        },
+        {
+          "date": "2014-08-06",
+          "label": "Aug 6, 14",
+          "close": 94.96
+        },
+        {
+          "date": "2014-08-07",
+          "label": "Aug 7, 14",
+          "close": 94.48
+        },
+        {
+          "date": "2014-08-08",
+          "label": "Aug 8, 14",
+          "close": 94.74
+        },
+        {
+          "date": "2014-08-11",
+          "label": "Aug 11, 14",
+          "close": 95.99
+        },
+        {
+          "date": "2014-08-12",
+          "label": "Aug 12, 14",
+          "close": 95.97
+        },
+        {
+          "date": "2014-08-13",
+          "label": "Aug 13, 14",
+          "close": 97.24
+        },
+        {
+          "date": "2014-08-14",
+          "label": "Aug 14, 14",
+          "close": 97.5
+        },
+        {
+          "date": "2014-08-15",
+          "label": "Aug 15, 14",
+          "close": 97.98
+        },
+        {
+          "date": "2014-08-18",
+          "label": "Aug 18, 14",
+          "close": 99.16
+        },
+        {
+          "date": "2014-08-19",
+          "label": "Aug 19, 14",
+          "close": 100.53
+        },
+        {
+          "date": "2014-08-20",
+          "label": "Aug 20, 14",
+          "close": 100.57
+        },
+        {
+          "date": "2014-08-21",
+          "label": "Aug 21, 14",
+          "close": 100.58
+        },
+        {
+          "date": "2014-08-22",
+          "label": "Aug 22, 14",
+          "close": 101.32
+        },
+        {
+          "date": "2014-08-25",
+          "label": "Aug 25, 14",
+          "close": 101.54
+        },
+        {
+          "date": "2014-08-26",
+          "label": "Aug 26, 14",
+          "close": 100.89
+        },
+        {
+          "date": "2014-08-27",
+          "label": "Aug 27, 14",
+          "close": 102.13
+        },
+        {
+          "date": "2014-08-28",
+          "label": "Aug 28, 14",
+          "close": 102.25
+        },
+        {
+          "date": "2014-08-29",
+          "label": "Aug 29, 14",
+          "close": 102.5
+        },
+        {
+          "date": "2014-09-02",
+          "label": "Sep 2, 14",
+          "close": 103.3
+        },
+        {
+          "date": "2014-09-03",
+          "label": "Sep 3, 14",
+          "close": 98.94
+        },
+        {
+          "date": "2014-09-04",
+          "label": "Sep 4, 14",
+          "close": 98.12
+        },
+        {
+          "date": "2014-09-05",
+          "label": "Sep 5, 14",
+          "close": 98.97
+        },
+        {
+          "date": "2014-09-08",
+          "label": "Sep 8, 14",
+          "close": 98.36
+        },
+        {
+          "date": "2014-09-09",
+          "label": "Sep 9, 14",
+          "close": 97.99
+        },
+        {
+          "date": "2014-09-10",
+          "label": "Sep 10, 14",
+          "close": 101
+        },
+        {
+          "date": "2014-09-11",
+          "label": "Sep 11, 14",
+          "close": 101.43
+        },
+        {
+          "date": "2014-09-12",
+          "label": "Sep 12, 14",
+          "close": 101.66
+        },
+        {
+          "date": "2014-09-15",
+          "label": "Sep 15, 14",
+          "close": 101.63
+        },
+        {
+          "date": "2014-09-16",
+          "label": "Sep 16, 14",
+          "close": 100.86
+        },
+        {
+          "date": "2014-09-17",
+          "label": "Sep 17, 14",
+          "close": 101.58
+        },
+        {
+          "date": "2014-09-18",
+          "label": "Sep 18, 14",
+          "close": 101.79
+        },
+        {
+          "date": "2014-09-19",
+          "label": "Sep 19, 14",
+          "close": 100.96
+        },
+        {
+          "date": "2014-09-22",
+          "label": "Sep 22, 14",
+          "close": 101.06
+        },
+        {
+          "date": "2014-09-23",
+          "label": "Sep 23, 14",
+          "close": 102.64
+        },
+        {
+          "date": "2014-09-24",
+          "label": "Sep 24, 14",
+          "close": 101.75
+        },
+        {
+          "date": "2014-09-25",
+          "label": "Sep 25, 14",
+          "close": 97.87
+        },
+        {
+          "date": "2014-09-26",
+          "label": "Sep 26, 14",
+          "close": 100.75
+        },
+        {
+          "date": "2014-09-29",
+          "label": "Sep 29, 14",
+          "close": 100.11
+        },
+        {
+          "date": "2014-09-30",
+          "label": "Sep 30, 14",
+          "close": 100.75
+        },
+        {
+          "date": "2014-10-01",
+          "label": "Oct 1, 14",
+          "close": 99.18
+        },
+        {
+          "date": "2014-10-02",
+          "label": "Oct 2, 14",
+          "close": 99.9
+        },
+        {
+          "date": "2014-10-03",
+          "label": "Oct 3, 14",
+          "close": 99.62
+        },
+        {
+          "date": "2014-10-06",
+          "label": "Oct 6, 14",
+          "close": 99.62
+        },
+        {
+          "date": "2014-10-07",
+          "label": "Oct 7, 14",
+          "close": 98.75
+        },
+        {
+          "date": "2014-10-08",
+          "label": "Oct 8, 14",
+          "close": 100.8
+        },
+        {
+          "date": "2014-10-09",
+          "label": "Oct 9, 14",
+          "close": 101.02
+        },
+        {
+          "date": "2014-10-10",
+          "label": "Oct 10, 14",
+          "close": 100.73
+        },
+        {
+          "date": "2014-10-13",
+          "label": "Oct 13, 14",
+          "close": 99.81
+        },
+        {
+          "date": "2014-10-14",
+          "label": "Oct 14, 14",
+          "close": 98.75
+        },
+        {
+          "date": "2014-10-15",
+          "label": "Oct 15, 14",
+          "close": 97.54
+        },
+        {
+          "date": "2014-10-16",
+          "label": "Oct 16, 14",
+          "close": 96.26
+        },
+        {
+          "date": "2014-10-17",
+          "label": "Oct 17, 14",
+          "close": 97.67
+        },
+        {
+          "date": "2014-10-20",
+          "label": "Oct 20, 14",
+          "close": 99.76
+        },
+        {
+          "date": "2014-10-21",
+          "label": "Oct 21, 14",
+          "close": 102.47
+        },
+        {
+          "date": "2014-10-22",
+          "label": "Oct 22, 14",
+          "close": 102.99
+        },
+        {
+          "date": "2014-10-23",
+          "label": "Oct 23, 14",
+          "close": 104.83
+        },
+        {
+          "date": "2014-10-24",
+          "label": "Oct 24, 14",
+          "close": 105.22
+        },
+        {
+          "date": "2014-10-27",
+          "label": "Oct 27, 14",
+          "close": 105.11
+        },
+        {
+          "date": "2014-10-28",
+          "label": "Oct 28, 14",
+          "close": 106.74
+        },
+        {
+          "date": "2014-10-29",
+          "label": "Oct 29, 14",
+          "close": 107.34
+        },
+        {
+          "date": "2014-10-30",
+          "label": "Oct 30, 14",
+          "close": 106.98
+        },
+        {
+          "date": "2014-10-31",
+          "label": "Oct 31, 14",
+          "close": 108
+        },
+        {
+          "date": "2014-11-03",
+          "label": "Nov 3, 14",
+          "close": 109.4
+        },
+        {
+          "date": "2014-11-04",
+          "label": "Nov 4, 14",
+          "close": 108.6
+        },
+        {
+          "date": "2014-11-05",
+          "label": "Nov 5, 14",
+          "close": 108.86
+        },
+        {
+          "date": "2014-11-06",
+          "label": "Nov 6, 14",
+          "close": 108.7
+        },
+        {
+          "date": "2014-11-07",
+          "label": "Nov 7, 14",
+          "close": 109.01
+        },
+        {
+          "date": "2014-11-10",
+          "label": "Nov 10, 14",
+          "close": 108.83
+        },
+        {
+          "date": "2014-11-11",
+          "label": "Nov 11, 14",
+          "close": 109.7
+        },
+        {
+          "date": "2014-11-12",
+          "label": "Nov 12, 14",
+          "close": 111.25
+        },
+        {
+          "date": "2014-11-13",
+          "label": "Nov 13, 14",
+          "close": 112.82
+        },
+        {
+          "date": "2014-11-14",
+          "label": "Nov 14, 14",
+          "close": 114.18
+        },
+        {
+          "date": "2014-11-17",
+          "label": "Nov 17, 14",
+          "close": 113.99
+        },
+        {
+          "date": "2014-11-18",
+          "label": "Nov 18, 14",
+          "close": 115.47
+        },
+        {
+          "date": "2014-11-19",
+          "label": "Nov 19, 14",
+          "close": 114.67
+        },
+        {
+          "date": "2014-11-20",
+          "label": "Nov 20, 14",
+          "close": 116.31
+        },
+        {
+          "date": "2014-11-21",
+          "label": "Nov 21, 14",
+          "close": 116.47
+        },
+        {
+          "date": "2014-11-24",
+          "label": "Nov 24, 14",
+          "close": 118.63
+        },
+        {
+          "date": "2014-11-25",
+          "label": "Nov 25, 14",
+          "close": 117.6
+        },
+        {
+          "date": "2014-11-26",
+          "label": "Nov 26, 14",
+          "close": 119
+        },
+        {
+          "date": "2014-11-28",
+          "label": "Nov 28, 14",
+          "close": 118.93
+        },
+        {
+          "date": "2014-12-01",
+          "label": "Dec 1, 14",
+          "close": 115.07
+        },
+        {
+          "date": "2014-12-02",
+          "label": "Dec 2, 14",
+          "close": 114.63
+        },
+        {
+          "date": "2014-12-03",
+          "label": "Dec 3, 14",
+          "close": 115.93
+        },
+        {
+          "date": "2014-12-04",
+          "label": "Dec 4, 14",
+          "close": 115.49
+        },
+        {
+          "date": "2014-12-05",
+          "label": "Dec 5, 14",
+          "close": 115
+        },
+        {
+          "date": "2014-12-08",
+          "label": "Dec 8, 14",
+          "close": 112.4
+        },
+        {
+          "date": "2014-12-09",
+          "label": "Dec 9, 14",
+          "close": 114.12
+        },
+        {
+          "date": "2014-12-10",
+          "label": "Dec 10, 14",
+          "close": 111.95
+        },
+        {
+          "date": "2014-12-11",
+          "label": "Dec 11, 14",
+          "close": 111.62
+        },
+        {
+          "date": "2014-12-12",
+          "label": "Dec 12, 14",
+          "close": 109.73
+        },
+        {
+          "date": "2014-12-15",
+          "label": "Dec 15, 14",
+          "close": 108.23
+        },
+        {
+          "date": "2014-12-16",
+          "label": "Dec 16, 14",
+          "close": 106.75
+        },
+        {
+          "date": "2014-12-17",
+          "label": "Dec 17, 14",
+          "close": 109.41
+        },
+        {
+          "date": "2014-12-18",
+          "label": "Dec 18, 14",
+          "close": 112.65
+        },
+        {
+          "date": "2014-12-19",
+          "label": "Dec 19, 14",
+          "close": 111.78
+        },
+        {
+          "date": "2014-12-22",
+          "label": "Dec 22, 14",
+          "close": 112.94
+        },
+        {
+          "date": "2014-12-23",
+          "label": "Dec 23, 14",
+          "close": 112.54
+        },
+        {
+          "date": "2014-12-24",
+          "label": "Dec 24, 14",
+          "close": 112.01
+        },
+        {
+          "date": "2014-12-26",
+          "label": "Dec 26, 14",
+          "close": 113.99
+        },
+        {
+          "date": "2014-12-29",
+          "label": "Dec 29, 14",
+          "close": 113.91
+        },
+        {
+          "date": "2014-12-30",
+          "label": "Dec 30, 14",
+          "close": 112.52
+        },
+        {
+          "date": "2014-12-31",
+          "label": "Dec 31, 14",
+          "close": 110.38
+        },
+        {
+          "date": "2015-01-02",
+          "label": "Jan 2, 15",
+          "close": 109.33
+        },
+        {
+          "date": "2015-01-05",
+          "label": "Jan 5, 15",
+          "close": 106.25
+        },
+        {
+          "date": "2015-01-06",
+          "label": "Jan 6, 15",
+          "close": 106.26
+        },
+        {
+          "date": "2015-01-07",
+          "label": "Jan 7, 15",
+          "close": 107.75
+        },
+        {
+          "date": "2015-01-08",
+          "label": "Jan 8, 15",
+          "close": 111.89
+        },
+        {
+          "date": "2015-01-09",
+          "label": "Jan 9, 15",
+          "close": 112.01
+        },
+        {
+          "date": "2015-01-12",
+          "label": "Jan 12, 15",
+          "close": 109.25
+        },
+        {
+          "date": "2015-01-13",
+          "label": "Jan 13, 15",
+          "close": 110.22
+        },
+        {
+          "date": "2015-01-14",
+          "label": "Jan 14, 15",
+          "close": 109.8
+        },
+        {
+          "date": "2015-01-15",
+          "label": "Jan 15, 15",
+          "close": 106.82
+        },
+        {
+          "date": "2015-01-16",
+          "label": "Jan 16, 15",
+          "close": 105.99
+        },
+        {
+          "date": "2015-01-20",
+          "label": "Jan 20, 15",
+          "close": 108.72
+        },
+        {
+          "date": "2015-01-21",
+          "label": "Jan 21, 15",
+          "close": 109.55
+        },
+        {
+          "date": "2015-01-22",
+          "label": "Jan 22, 15",
+          "close": 112.4
+        },
+        {
+          "date": "2015-01-23",
+          "label": "Jan 23, 15",
+          "close": 112.98
+        },
+        {
+          "date": "2015-01-26",
+          "label": "Jan 26, 15",
+          "close": 113.1
+        },
+        {
+          "date": "2015-01-27",
+          "label": "Jan 27, 15",
+          "close": 109.14
+        },
+        {
+          "date": "2015-01-28",
+          "label": "Jan 28, 15",
+          "close": 115.31
+        },
+        {
+          "date": "2015-01-29",
+          "label": "Jan 29, 15",
+          "close": 118.9
+        },
+        {
+          "date": "2015-01-30",
+          "label": "Jan 30, 15",
+          "close": 117.16
+        },
+        {
+          "date": "2015-02-02",
+          "label": "Feb 2, 15",
+          "close": 118.63
+        },
+        {
+          "date": "2015-02-03",
+          "label": "Feb 3, 15",
+          "close": 118.65
+        },
+        {
+          "date": "2015-02-04",
+          "label": "Feb 4, 15",
+          "close": 119.56
+        },
+        {
+          "date": "2015-02-05",
+          "label": "Feb 5, 15",
+          "close": 119.94
+        },
+        {
+          "date": "2015-02-06",
+          "label": "Feb 6, 15",
+          "close": 118.93
+        },
+        {
+          "date": "2015-02-09",
+          "label": "Feb 9, 15",
+          "close": 119.72
+        },
+        {
+          "date": "2015-02-10",
+          "label": "Feb 10, 15",
+          "close": 122.02
+        },
+        {
+          "date": "2015-02-11",
+          "label": "Feb 11, 15",
+          "close": 124.88
+        },
+        {
+          "date": "2015-02-12",
+          "label": "Feb 12, 15",
+          "close": 126.46
+        },
+        {
+          "date": "2015-02-13",
+          "label": "Feb 13, 15",
+          "close": 127.08
+        },
+        {
+          "date": "2015-02-17",
+          "label": "Feb 17, 15",
+          "close": 127.83
+        },
+        {
+          "date": "2015-02-18",
+          "label": "Feb 18, 15",
+          "close": 128.72
+        },
+        {
+          "date": "2015-02-19",
+          "label": "Feb 19, 15",
+          "close": 128.45
+        },
+        {
+          "date": "2015-02-20",
+          "label": "Feb 20, 15",
+          "close": 129.5
+        },
+        {
+          "date": "2015-02-23",
+          "label": "Feb 23, 15",
+          "close": 133
+        },
+        {
+          "date": "2015-02-24",
+          "label": "Feb 24, 15",
+          "close": 132.17
+        },
+        {
+          "date": "2015-02-25",
+          "label": "Feb 25, 15",
+          "close": 128.79
+        },
+        {
+          "date": "2015-02-26",
+          "label": "Feb 26, 15",
+          "close": 130.42
+        },
+        {
+          "date": "2015-02-27",
+          "label": "Feb 27, 15",
+          "close": 128.46
+        },
+        {
+          "date": "2015-03-02",
+          "label": "Mar 2, 15",
+          "close": 129.09
+        },
+        {
+          "date": "2015-03-03",
+          "label": "Mar 3, 15",
+          "close": 129.36
+        },
+        {
+          "date": "2015-03-04",
+          "label": "Mar 4, 15",
+          "close": 128.54
+        },
+        {
+          "date": "2015-03-05",
+          "label": "Mar 5, 15",
+          "close": 126.41
+        },
+        {
+          "date": "2015-03-06",
+          "label": "Mar 6, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-03-09",
+          "label": "Mar 9, 15",
+          "close": 127.14
+        },
+        {
+          "date": "2015-03-10",
+          "label": "Mar 10, 15",
+          "close": 124.51
+        },
+        {
+          "date": "2015-03-11",
+          "label": "Mar 11, 15",
+          "close": 122.24
+        },
+        {
+          "date": "2015-03-12",
+          "label": "Mar 12, 15",
+          "close": 124.45
+        },
+        {
+          "date": "2015-03-13",
+          "label": "Mar 13, 15",
+          "close": 123.59
+        },
+        {
+          "date": "2015-03-16",
+          "label": "Mar 16, 15",
+          "close": 124.95
+        },
+        {
+          "date": "2015-03-17",
+          "label": "Mar 17, 15",
+          "close": 127.04
+        },
+        {
+          "date": "2015-03-18",
+          "label": "Mar 18, 15",
+          "close": 128.47
+        },
+        {
+          "date": "2015-03-19",
+          "label": "Mar 19, 15",
+          "close": 127.5
+        },
+        {
+          "date": "2015-03-20",
+          "label": "Mar 20, 15",
+          "close": 125.9
+        },
+        {
+          "date": "2015-03-23",
+          "label": "Mar 23, 15",
+          "close": 127.21
+        },
+        {
+          "date": "2015-03-24",
+          "label": "Mar 24, 15",
+          "close": 126.69
+        },
+        {
+          "date": "2015-03-25",
+          "label": "Mar 25, 15",
+          "close": 123.38
+        },
+        {
+          "date": "2015-03-26",
+          "label": "Mar 26, 15",
+          "close": 124.24
+        },
+        {
+          "date": "2015-03-27",
+          "label": "Mar 27, 15",
+          "close": 123.25
+        },
+        {
+          "date": "2015-03-30",
+          "label": "Mar 30, 15",
+          "close": 126.37
+        },
+        {
+          "date": "2015-03-31",
+          "label": "Mar 31, 15",
+          "close": 124.43
+        },
+        {
+          "date": "2015-04-01",
+          "label": "Apr 1, 15",
+          "close": 124.25
+        },
+        {
+          "date": "2015-04-02",
+          "label": "Apr 2, 15",
+          "close": 125.32
+        },
+        {
+          "date": "2015-04-06",
+          "label": "Apr 6, 15",
+          "close": 127.35
+        },
+        {
+          "date": "2015-04-07",
+          "label": "Apr 7, 15",
+          "close": 126.01
+        },
+        {
+          "date": "2015-04-08",
+          "label": "Apr 8, 15",
+          "close": 125.6
+        },
+        {
+          "date": "2015-04-09",
+          "label": "Apr 9, 15",
+          "close": 126.56
+        },
+        {
+          "date": "2015-04-10",
+          "label": "Apr 10, 15",
+          "close": 127.1
+        },
+        {
+          "date": "2015-04-13",
+          "label": "Apr 13, 15",
+          "close": 126.85
+        },
+        {
+          "date": "2015-04-14",
+          "label": "Apr 14, 15",
+          "close": 126.3
+        },
+        {
+          "date": "2015-04-15",
+          "label": "Apr 15, 15",
+          "close": 126.78
+        },
+        {
+          "date": "2015-04-16",
+          "label": "Apr 16, 15",
+          "close": 126.17
+        },
+        {
+          "date": "2015-04-17",
+          "label": "Apr 17, 15",
+          "close": 124.75
+        },
+        {
+          "date": "2015-04-20",
+          "label": "Apr 20, 15",
+          "close": 127.6
+        },
+        {
+          "date": "2015-04-21",
+          "label": "Apr 21, 15",
+          "close": 126.91
+        },
+        {
+          "date": "2015-04-22",
+          "label": "Apr 22, 15",
+          "close": 128.62
+        },
+        {
+          "date": "2015-04-23",
+          "label": "Apr 23, 15",
+          "close": 129.67
+        },
+        {
+          "date": "2015-04-24",
+          "label": "Apr 24, 15",
+          "close": 130.28
+        },
+        {
+          "date": "2015-04-27",
+          "label": "Apr 27, 15",
+          "close": 132.65
+        },
+        {
+          "date": "2015-04-28",
+          "label": "Apr 28, 15",
+          "close": 130.56
+        },
+        {
+          "date": "2015-04-29",
+          "label": "Apr 29, 15",
+          "close": 128.64
+        },
+        {
+          "date": "2015-04-30",
+          "label": "Apr 30, 15",
+          "close": 125.15
+        },
+        {
+          "date": "2015-05-01",
+          "label": "May 1, 15",
+          "close": 128.95
+        },
+        {
+          "date": "2015-05-04",
+          "label": "May 4, 15",
+          "close": 128.7
+        },
+        {
+          "date": "2015-05-05",
+          "label": "May 5, 15",
+          "close": 125.8
+        },
+        {
+          "date": "2015-05-06",
+          "label": "May 6, 15",
+          "close": 125.01
+        },
+        {
+          "date": "2015-05-07",
+          "label": "May 7, 15",
+          "close": 125.26
+        },
+        {
+          "date": "2015-05-08",
+          "label": "May 8, 15",
+          "close": 127.62
+        },
+        {
+          "date": "2015-05-11",
+          "label": "May 11, 15",
+          "close": 126.32
+        },
+        {
+          "date": "2015-05-12",
+          "label": "May 12, 15",
+          "close": 125.87
+        },
+        {
+          "date": "2015-05-13",
+          "label": "May 13, 15",
+          "close": 126.01
+        },
+        {
+          "date": "2015-05-14",
+          "label": "May 14, 15",
+          "close": 128.95
+        },
+        {
+          "date": "2015-05-15",
+          "label": "May 15, 15",
+          "close": 128.77
+        },
+        {
+          "date": "2015-05-18",
+          "label": "May 18, 15",
+          "close": 130.19
+        },
+        {
+          "date": "2015-05-19",
+          "label": "May 19, 15",
+          "close": 130.07
+        },
+        {
+          "date": "2015-05-20",
+          "label": "May 20, 15",
+          "close": 130.06
+        },
+        {
+          "date": "2015-05-21",
+          "label": "May 21, 15",
+          "close": 131.39
+        },
+        {
+          "date": "2015-05-22",
+          "label": "May 22, 15",
+          "close": 132.54
+        },
+        {
+          "date": "2015-05-26",
+          "label": "May 26, 15",
+          "close": 129.62
+        },
+        {
+          "date": "2015-05-27",
+          "label": "May 27, 15",
+          "close": 132.04
+        },
+        {
+          "date": "2015-05-28",
+          "label": "May 28, 15",
+          "close": 131.78
+        },
+        {
+          "date": "2015-05-29",
+          "label": "May 29, 15",
+          "close": 130.28
+        },
+        {
+          "date": "2015-06-01",
+          "label": "Jun 1, 15",
+          "close": 130.54
+        },
+        {
+          "date": "2015-06-02",
+          "label": "Jun 2, 15",
+          "close": 129.96
+        },
+        {
+          "date": "2015-06-03",
+          "label": "Jun 3, 15",
+          "close": 130.12
+        },
+        {
+          "date": "2015-06-04",
+          "label": "Jun 4, 15",
+          "close": 129.36
+        },
+        {
+          "date": "2015-06-05",
+          "label": "Jun 5, 15",
+          "close": 128.65
+        },
+        {
+          "date": "2015-06-08",
+          "label": "Jun 8, 15",
+          "close": 127.8
+        },
+        {
+          "date": "2015-06-09",
+          "label": "Jun 9, 15",
+          "close": 127.42
+        },
+        {
+          "date": "2015-06-10",
+          "label": "Jun 10, 15",
+          "close": 128.88
+        },
+        {
+          "date": "2015-06-11",
+          "label": "Jun 11, 15",
+          "close": 128.59
+        },
+        {
+          "date": "2015-06-12",
+          "label": "Jun 12, 15",
+          "close": 127.17
+        },
+        {
+          "date": "2015-06-15",
+          "label": "Jun 15, 15",
+          "close": 126.92
+        },
+        {
+          "date": "2015-06-16",
+          "label": "Jun 16, 15",
+          "close": 127.6
+        },
+        {
+          "date": "2015-06-17",
+          "label": "Jun 17, 15",
+          "close": 127.3
+        },
+        {
+          "date": "2015-06-18",
+          "label": "Jun 18, 15",
+          "close": 127.88
+        },
+        {
+          "date": "2015-06-19",
+          "label": "Jun 19, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-06-22",
+          "label": "Jun 22, 15",
+          "close": 127.61
+        },
+        {
+          "date": "2015-06-23",
+          "label": "Jun 23, 15",
+          "close": 127.03
+        },
+        {
+          "date": "2015-06-24",
+          "label": "Jun 24, 15",
+          "close": 128.11
+        },
+        {
+          "date": "2015-06-25",
+          "label": "Jun 25, 15",
+          "close": 127.5
+        },
+        {
+          "date": "2015-06-26",
+          "label": "Jun 26, 15",
+          "close": 126.75
+        },
+        {
+          "date": "2015-06-29",
+          "label": "Jun 29, 15",
+          "close": 124.53
+        },
+        {
+          "date": "2015-06-30",
+          "label": "Jun 30, 15",
+          "close": 125.43
+        },
+        {
+          "date": "2015-07-01",
+          "label": "Jul 1, 15",
+          "close": 126.6
+        },
+        {
+          "date": "2015-07-02",
+          "label": "Jul 2, 15",
+          "close": 126.44
+        },
+        {
+          "date": "2015-07-06",
+          "label": "Jul 6, 15",
+          "close": 126
+        },
+        {
+          "date": "2015-07-07",
+          "label": "Jul 7, 15",
+          "close": 125.69
+        },
+        {
+          "date": "2015-07-08",
+          "label": "Jul 8, 15",
+          "close": 122.57
+        },
+        {
+          "date": "2015-07-09",
+          "label": "Jul 9, 15",
+          "close": 120.07
+        },
+        {
+          "date": "2015-07-10",
+          "label": "Jul 10, 15",
+          "close": 123.28
+        },
+        {
+          "date": "2015-07-13",
+          "label": "Jul 13, 15",
+          "close": 125.66
+        },
+        {
+          "date": "2015-07-14",
+          "label": "Jul 14, 15",
+          "close": 125.61
+        },
+        {
+          "date": "2015-07-15",
+          "label": "Jul 15, 15",
+          "close": 126.82
+        },
+        {
+          "date": "2015-07-16",
+          "label": "Jul 16, 15",
+          "close": 128.51
+        },
+        {
+          "date": "2015-07-17",
+          "label": "Jul 17, 15",
+          "close": 129.62
+        },
+        {
+          "date": "2015-07-20",
+          "label": "Jul 20, 15",
+          "close": 132.07
+        },
+        {
+          "date": "2015-07-21",
+          "label": "Jul 21, 15",
+          "close": 130.75
+        },
+        {
+          "date": "2015-07-22",
+          "label": "Jul 22, 15",
+          "close": 125.22
+        },
+        {
+          "date": "2015-07-23",
+          "label": "Jul 23, 15",
+          "close": 125.16
+        },
+        {
+          "date": "2015-07-24",
+          "label": "Jul 24, 15",
+          "close": 124.5
+        },
+        {
+          "date": "2015-07-27",
+          "label": "Jul 27, 15",
+          "close": 122.77
+        },
+        {
+          "date": "2015-07-28",
+          "label": "Jul 28, 15",
+          "close": 123.38
+        },
+        {
+          "date": "2015-07-29",
+          "label": "Jul 29, 15",
+          "close": 122.99
+        },
+        {
+          "date": "2015-07-30",
+          "label": "Jul 30, 15",
+          "close": 122.37
+        },
+        {
+          "date": "2015-07-31",
+          "label": "Jul 31, 15",
+          "close": 121.3
+        },
+        {
+          "date": "2015-08-03",
+          "label": "Aug 3, 15",
+          "close": 118.44
+        },
+        {
+          "date": "2015-08-04",
+          "label": "Aug 4, 15",
+          "close": 114.64
+        },
+        {
+          "date": "2015-08-05",
+          "label": "Aug 5, 15",
+          "close": 115.4
+        },
+        {
+          "date": "2015-08-06",
+          "label": "Aug 6, 15",
+          "close": 115.13
+        },
+        {
+          "date": "2015-08-07",
+          "label": "Aug 7, 15",
+          "close": 115.52
+        },
+        {
+          "date": "2015-08-10",
+          "label": "Aug 10, 15",
+          "close": 119.72
+        },
+        {
+          "date": "2015-08-11",
+          "label": "Aug 11, 15",
+          "close": 113.49
+        },
+        {
+          "date": "2015-08-12",
+          "label": "Aug 12, 15",
+          "close": 115.24
+        },
+        {
+          "date": "2015-08-13",
+          "label": "Aug 13, 15",
+          "close": 115.15
+        },
+        {
+          "date": "2015-08-14",
+          "label": "Aug 14, 15",
+          "close": 115.96
+        },
+        {
+          "date": "2015-08-17",
+          "label": "Aug 17, 15",
+          "close": 117.16
+        },
+        {
+          "date": "2015-08-18",
+          "label": "Aug 18, 15",
+          "close": 116.5
+        },
+        {
+          "date": "2015-08-19",
+          "label": "Aug 19, 15",
+          "close": 115.01
+        },
+        {
+          "date": "2015-08-20",
+          "label": "Aug 20, 15",
+          "close": 112.65
+        },
+        {
+          "date": "2015-08-21",
+          "label": "Aug 21, 15",
+          "close": 105.76
+        },
+        {
+          "date": "2015-08-24",
+          "label": "Aug 24, 15",
+          "close": 103.12
+        },
+        {
+          "date": "2015-08-25",
+          "label": "Aug 25, 15",
+          "close": 103.74
+        },
+        {
+          "date": "2015-08-26",
+          "label": "Aug 26, 15",
+          "close": 109.69
+        },
+        {
+          "date": "2015-08-27",
+          "label": "Aug 27, 15",
+          "close": 112.92
+        },
+        {
+          "date": "2015-08-28",
+          "label": "Aug 28, 15",
+          "close": 113.29
+        },
+        {
+          "date": "2015-08-31",
+          "label": "Aug 31, 15",
+          "close": 112.76
+        },
+        {
+          "date": "2015-09-01",
+          "label": "Sep 1, 15",
+          "close": 107.72
+        },
+        {
+          "date": "2015-09-02",
+          "label": "Sep 2, 15",
+          "close": 112.34
+        },
+        {
+          "date": "2015-09-03",
+          "label": "Sep 3, 15",
+          "close": 110.37
+        },
+        {
+          "date": "2015-09-04",
+          "label": "Sep 4, 15",
+          "close": 109.27
+        },
+        {
+          "date": "2015-09-08",
+          "label": "Sep 8, 15",
+          "close": 112.31
+        },
+        {
+          "date": "2015-09-09",
+          "label": "Sep 9, 15",
+          "close": 110.15
+        },
+        {
+          "date": "2015-09-10",
+          "label": "Sep 10, 15",
+          "close": 112.57
+        },
+        {
+          "date": "2015-09-11",
+          "label": "Sep 11, 15",
+          "close": 114.21
+        },
+        {
+          "date": "2015-09-14",
+          "label": "Sep 14, 15",
+          "close": 115.31
+        },
+        {
+          "date": "2015-09-15",
+          "label": "Sep 15, 15",
+          "close": 116.28
+        },
+        {
+          "date": "2015-09-16",
+          "label": "Sep 16, 15",
+          "close": 116.41
+        },
+        {
+          "date": "2015-09-17",
+          "label": "Sep 17, 15",
+          "close": 113.92
+        },
+        {
+          "date": "2015-09-18",
+          "label": "Sep 18, 15",
+          "close": 113.45
+        },
+        {
+          "date": "2015-09-21",
+          "label": "Sep 21, 15",
+          "close": 115.21
+        },
+        {
+          "date": "2015-09-22",
+          "label": "Sep 22, 15",
+          "close": 113.4
+        },
+        {
+          "date": "2015-09-23",
+          "label": "Sep 23, 15",
+          "close": 114.32
+        },
+        {
+          "date": "2015-09-24",
+          "label": "Sep 24, 15",
+          "close": 115
+        },
+        {
+          "date": "2015-09-25",
+          "label": "Sep 25, 15",
+          "close": 114.71
+        },
+        {
+          "date": "2015-09-28",
+          "label": "Sep 28, 15",
+          "close": 112.44
+        },
+        {
+          "date": "2015-09-29",
+          "label": "Sep 29, 15",
+          "close": 109.06
+        },
+        {
+          "date": "2015-09-30",
+          "label": "Sep 30, 15",
+          "close": 110.3
+        },
+        {
+          "date": "2015-10-01",
+          "label": "Oct 1, 15",
+          "close": 109.58
+        },
+        {
+          "date": "2015-10-02",
+          "label": "Oct 2, 15",
+          "close": 110.38
+        },
+        {
+          "date": "2015-10-05",
+          "label": "Oct 5, 15",
+          "close": 110.78
+        },
+        {
+          "date": "2015-10-06",
+          "label": "Oct 6, 15",
+          "close": 111.31
+        },
+        {
+          "date": "2015-10-07",
+          "label": "Oct 7, 15",
+          "close": 110.78
+        },
+        {
+          "date": "2015-10-08",
+          "label": "Oct 8, 15",
+          "close": 109.5
+        },
+        {
+          "date": "2015-10-09",
+          "label": "Oct 9, 15",
+          "close": 112.12
+        },
+        {
+          "date": "2015-10-12",
+          "label": "Oct 12, 15",
+          "close": 111.6
+        },
+        {
+          "date": "2015-10-13",
+          "label": "Oct 13, 15",
+          "close": 111.79
+        },
+        {
+          "date": "2015-10-14",
+          "label": "Oct 14, 15",
+          "close": 110.21
+        },
+        {
+          "date": "2015-10-15",
+          "label": "Oct 15, 15",
+          "close": 111.86
+        },
+        {
+          "date": "2015-10-16",
+          "label": "Oct 16, 15",
+          "close": 111.04
+        },
+        {
+          "date": "2015-10-19",
+          "label": "Oct 19, 15",
+          "close": 111.73
+        },
+        {
+          "date": "2015-10-20",
+          "label": "Oct 20, 15",
+          "close": 113.77
+        },
+        {
+          "date": "2015-10-21",
+          "label": "Oct 21, 15",
+          "close": 113.76
+        },
+        {
+          "date": "2015-10-22",
+          "label": "Oct 22, 15",
+          "close": 115.5
+        },
+        {
+          "date": "2015-10-23",
+          "label": "Oct 23, 15",
+          "close": 119.08
+        },
+        {
+          "date": "2015-10-26",
+          "label": "Oct 26, 15",
+          "close": 115.28
+        },
+        {
+          "date": "2015-10-27",
+          "label": "Oct 27, 15",
+          "close": 114.55
+        },
+        {
+          "date": "2015-10-28",
+          "label": "Oct 28, 15",
+          "close": 119.27
+        },
+        {
+          "date": "2015-10-29",
+          "label": "Oct 29, 15",
+          "close": 120.53
+        },
+        {
+          "date": "2015-10-30",
+          "label": "Oct 30, 15",
+          "close": 119.5
+        },
+        {
+          "date": "2015-11-02",
+          "label": "Nov 2, 15",
+          "close": 121.18
+        },
+        {
+          "date": "2015-11-03",
+          "label": "Nov 3, 15",
+          "close": 122.57
+        },
+        {
+          "date": "2015-11-04",
+          "label": "Nov 4, 15",
+          "close": 122
+        },
+        {
+          "date": "2015-11-05",
+          "label": "Nov 5, 15",
+          "close": 120.92
+        },
+        {
+          "date": "2015-11-06",
+          "label": "Nov 6, 15",
+          "close": 121.06
+        },
+        {
+          "date": "2015-11-09",
+          "label": "Nov 9, 15",
+          "close": 120.57
+        },
+        {
+          "date": "2015-11-10",
+          "label": "Nov 10, 15",
+          "close": 116.77
+        },
+        {
+          "date": "2015-11-11",
+          "label": "Nov 11, 15",
+          "close": 116.11
+        },
+        {
+          "date": "2015-11-12",
+          "label": "Nov 12, 15",
+          "close": 115.72
+        },
+        {
+          "date": "2015-11-13",
+          "label": "Nov 13, 15",
+          "close": 112.34
+        },
+        {
+          "date": "2015-11-16",
+          "label": "Nov 16, 15",
+          "close": 114.18
+        },
+        {
+          "date": "2015-11-17",
+          "label": "Nov 17, 15",
+          "close": 113.69
+        },
+        {
+          "date": "2015-11-18",
+          "label": "Nov 18, 15",
+          "close": 117.29
+        },
+        {
+          "date": "2015-11-19",
+          "label": "Nov 19, 15",
+          "close": 118.78
+        },
+        {
+          "date": "2015-11-20",
+          "label": "Nov 20, 15",
+          "close": 119.3
+        },
+        {
+          "date": "2015-11-23",
+          "label": "Nov 23, 15",
+          "close": 117.75
+        },
+        {
+          "date": "2015-11-24",
+          "label": "Nov 24, 15",
+          "close": 118.88
+        },
+        {
+          "date": "2015-11-25",
+          "label": "Nov 25, 15",
+          "close": 118.03
+        },
+        {
+          "date": "2015-11-27",
+          "label": "Nov 27, 15",
+          "close": 117.81
+        },
+        {
+          "date": "2015-11-30",
+          "label": "Nov 30, 15",
+          "close": 118.3
+        },
+        {
+          "date": "2015-12-01",
+          "label": "Dec 1, 15",
+          "close": 117.34
+        },
+        {
+          "date": "2015-12-02",
+          "label": "Dec 2, 15",
+          "close": 116.28
+        },
+        {
+          "date": "2015-12-03",
+          "label": "Dec 3, 15",
+          "close": 115.2
+        },
+        {
+          "date": "2015-12-04",
+          "label": "Dec 4, 15",
+          "close": 119.03
+        },
+        {
+          "date": "2015-12-07",
+          "label": "Dec 7, 15",
+          "close": 118.28
+        },
+        {
+          "date": "2015-12-08",
+          "label": "Dec 8, 15",
+          "close": 118.23
+        },
+        {
+          "date": "2015-12-09",
+          "label": "Dec 9, 15",
+          "close": 115.62
+        },
+        {
+          "date": "2015-12-10",
+          "label": "Dec 10, 15",
+          "close": 116.17
+        },
+        {
+          "date": "2015-12-11",
+          "label": "Dec 11, 15",
+          "close": 113.18
+        },
+        {
+          "date": "2015-12-14",
+          "label": "Dec 14, 15",
+          "close": 112.48
+        },
+        {
+          "date": "2015-12-15",
+          "label": "Dec 15, 15",
+          "close": 110.49
+        },
+        {
+          "date": "2015-12-16",
+          "label": "Dec 16, 15",
+          "close": 111.34
+        },
+        {
+          "date": "2015-12-17",
+          "label": "Dec 17, 15",
+          "close": 108.98
+        },
+        {
+          "date": "2015-12-18",
+          "label": "Dec 18, 15",
+          "close": 106.03
+        },
+        {
+          "date": "2015-12-21",
+          "label": "Dec 21, 15",
+          "close": 107.33
+        },
+        {
+          "date": "2015-12-22",
+          "label": "Dec 22, 15",
+          "close": 107.23
+        },
+        {
+          "date": "2015-12-23",
+          "label": "Dec 23, 15",
+          "close": 108.61
+        },
+        {
+          "date": "2015-12-24",
+          "label": "Dec 24, 15",
+          "close": 108.03
+        },
+        {
+          "date": "2015-12-28",
+          "label": "Dec 28, 15",
+          "close": 106.82
+        },
+        {
+          "date": "2015-12-29",
+          "label": "Dec 29, 15",
+          "close": 108.74
+        },
+        {
+          "date": "2015-12-30",
+          "label": "Dec 30, 15",
+          "close": 107.32
+        },
+        {
+          "date": "2015-12-31",
+          "label": "Dec 31, 15",
+          "close": 105.26
+        },
+        {
+          "date": "2016-01-04",
+          "label": "Jan 4, 16",
+          "close": 105.35
+        },
+        {
+          "date": "2016-01-05",
+          "label": "Jan 5, 16",
+          "close": 102.71
+        },
+        {
+          "date": "2016-01-06",
+          "label": "Jan 6, 16",
+          "close": 100.7
+        },
+        {
+          "date": "2016-01-07",
+          "label": "Jan 7, 16",
+          "close": 96.45
+        },
+        {
+          "date": "2016-01-08",
+          "label": "Jan 8, 16",
+          "close": 96.96
+        },
+        {
+          "date": "2016-01-11",
+          "label": "Jan 11, 16",
+          "close": 98.53
+        },
+        {
+          "date": "2016-01-12",
+          "label": "Jan 12, 16",
+          "close": 99.96
+        },
+        {
+          "date": "2016-01-13",
+          "label": "Jan 13, 16",
+          "close": 97.39
+        },
+        {
+          "date": "2016-01-14",
+          "label": "Jan 14, 16",
+          "close": 99.52
+        },
+        {
+          "date": "2016-01-15",
+          "label": "Jan 15, 16",
+          "close": 97.13
+        },
+        {
+          "date": "2016-01-19",
+          "label": "Jan 19, 16",
+          "close": 96.66
+        },
+        {
+          "date": "2016-01-20",
+          "label": "Jan 20, 16",
+          "close": 96.79
+        },
+        {
+          "date": "2016-01-21",
+          "label": "Jan 21, 16",
+          "close": 96.3
+        },
+        {
+          "date": "2016-01-22",
+          "label": "Jan 22, 16",
+          "close": 101.42
+        },
+        {
+          "date": "2016-01-25",
+          "label": "Jan 25, 16",
+          "close": 99.44
+        },
+        {
+          "date": "2016-01-26",
+          "label": "Jan 26, 16",
+          "close": 99.99
+        },
+        {
+          "date": "2016-01-27",
+          "label": "Jan 27, 16",
+          "close": 93.42
+        },
+        {
+          "date": "2016-01-28",
+          "label": "Jan 28, 16",
+          "close": 94.09
+        },
+        {
+          "date": "2016-01-29",
+          "label": "Jan 29, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-02-01",
+          "label": "Feb 1, 16",
+          "close": 96.43
+        },
+        {
+          "date": "2016-02-02",
+          "label": "Feb 2, 16",
+          "close": 94.48
+        },
+        {
+          "date": "2016-02-03",
+          "label": "Feb 3, 16",
+          "close": 96.35
+        },
+        {
+          "date": "2016-02-04",
+          "label": "Feb 4, 16",
+          "close": 96.6
+        },
+        {
+          "date": "2016-02-05",
+          "label": "Feb 5, 16",
+          "close": 94.02
+        },
+        {
+          "date": "2016-02-08",
+          "label": "Feb 8, 16",
+          "close": 95.01
+        },
+        {
+          "date": "2016-02-09",
+          "label": "Feb 9, 16",
+          "close": 94.99
+        },
+        {
+          "date": "2016-02-10",
+          "label": "Feb 10, 16",
+          "close": 94.27
+        },
+        {
+          "date": "2016-02-11",
+          "label": "Feb 11, 16",
+          "close": 93.7
+        },
+        {
+          "date": "2016-02-12",
+          "label": "Feb 12, 16",
+          "close": 93.99
+        },
+        {
+          "date": "2016-02-16",
+          "label": "Feb 16, 16",
+          "close": 96.64
+        },
+        {
+          "date": "2016-02-17",
+          "label": "Feb 17, 16",
+          "close": 98.12
+        },
+        {
+          "date": "2016-02-18",
+          "label": "Feb 18, 16",
+          "close": 96.26
+        },
+        {
+          "date": "2016-02-19",
+          "label": "Feb 19, 16",
+          "close": 96.04
+        },
+        {
+          "date": "2016-02-22",
+          "label": "Feb 22, 16",
+          "close": 96.88
+        },
+        {
+          "date": "2016-02-23",
+          "label": "Feb 23, 16",
+          "close": 94.69
+        },
+        {
+          "date": "2016-02-24",
+          "label": "Feb 24, 16",
+          "close": 96.1
+        },
+        {
+          "date": "2016-02-25",
+          "label": "Feb 25, 16",
+          "close": 96.76
+        },
+        {
+          "date": "2016-02-26",
+          "label": "Feb 26, 16",
+          "close": 96.91
+        },
+        {
+          "date": "2016-02-29",
+          "label": "Feb 29, 16",
+          "close": 96.69
+        },
+        {
+          "date": "2016-03-01",
+          "label": "Mar 1, 16",
+          "close": 100.53
+        },
+        {
+          "date": "2016-03-02",
+          "label": "Mar 2, 16",
+          "close": 100.75
+        },
+        {
+          "date": "2016-03-03",
+          "label": "Mar 3, 16",
+          "close": 101.5
+        },
+        {
+          "date": "2016-03-04",
+          "label": "Mar 4, 16",
+          "close": 103.01
+        },
+        {
+          "date": "2016-03-07",
+          "label": "Mar 7, 16",
+          "close": 101.87
+        },
+        {
+          "date": "2016-03-08",
+          "label": "Mar 8, 16",
+          "close": 101.03
+        },
+        {
+          "date": "2016-03-09",
+          "label": "Mar 9, 16",
+          "close": 101.12
+        },
+        {
+          "date": "2016-03-10",
+          "label": "Mar 10, 16",
+          "close": 101.17
+        },
+        {
+          "date": "2016-03-11",
+          "label": "Mar 11, 16",
+          "close": 102.26
+        },
+        {
+          "date": "2016-03-14",
+          "label": "Mar 14, 16",
+          "close": 102.52
+        },
+        {
+          "date": "2016-03-15",
+          "label": "Mar 15, 16",
+          "close": 104.58
+        },
+        {
+          "date": "2016-03-16",
+          "label": "Mar 16, 16",
+          "close": 105.97
+        },
+        {
+          "date": "2016-03-17",
+          "label": "Mar 17, 16",
+          "close": 105.8
+        },
+        {
+          "date": "2016-03-18",
+          "label": "Mar 18, 16",
+          "close": 105.92
+        },
+        {
+          "date": "2016-03-21",
+          "label": "Mar 21, 16",
+          "close": 105.91
+        },
+        {
+          "date": "2016-03-22",
+          "label": "Mar 22, 16",
+          "close": 106.72
+        },
+        {
+          "date": "2016-03-23",
+          "label": "Mar 23, 16",
+          "close": 106.13
+        },
+        {
+          "date": "2016-03-24",
+          "label": "Mar 24, 16",
+          "close": 105.67
+        },
+        {
+          "date": "2016-03-28",
+          "label": "Mar 28, 16",
+          "close": 105.19
+        },
+        {
+          "date": "2016-03-29",
+          "label": "Mar 29, 16",
+          "close": 107.68
+        },
+        {
+          "date": "2016-03-30",
+          "label": "Mar 30, 16",
+          "close": 109.56
+        },
+        {
+          "date": "2016-03-31",
+          "label": "Mar 31, 16",
+          "close": 108.99
+        },
+        {
+          "date": "2016-04-01",
+          "label": "Apr 1, 16",
+          "close": 109.99
+        },
+        {
+          "date": "2016-04-04",
+          "label": "Apr 4, 16",
+          "close": 111.12
+        },
+        {
+          "date": "2016-04-05",
+          "label": "Apr 5, 16",
+          "close": 109.81
+        },
+        {
+          "date": "2016-04-06",
+          "label": "Apr 6, 16",
+          "close": 110.96
+        },
+        {
+          "date": "2016-04-07",
+          "label": "Apr 7, 16",
+          "close": 108.54
+        },
+        {
+          "date": "2016-04-08",
+          "label": "Apr 8, 16",
+          "close": 108.66
+        },
+        {
+          "date": "2016-04-11",
+          "label": "Apr 11, 16",
+          "close": 109.02
+        },
+        {
+          "date": "2016-04-12",
+          "label": "Apr 12, 16",
+          "close": 110.44
+        },
+        {
+          "date": "2016-04-13",
+          "label": "Apr 13, 16",
+          "close": 112.04
+        },
+        {
+          "date": "2016-04-14",
+          "label": "Apr 14, 16",
+          "close": 112.1
+        },
+        {
+          "date": "2016-04-15",
+          "label": "Apr 15, 16",
+          "close": 109.85
+        },
+        {
+          "date": "2016-04-18",
+          "label": "Apr 18, 16",
+          "close": 107.48
+        },
+        {
+          "date": "2016-04-19",
+          "label": "Apr 19, 16",
+          "close": 106.91
+        },
+        {
+          "date": "2016-04-20",
+          "label": "Apr 20, 16",
+          "close": 107.13
+        },
+        {
+          "date": "2016-04-21",
+          "label": "Apr 21, 16",
+          "close": 105.97
+        },
+        {
+          "date": "2016-04-22",
+          "label": "Apr 22, 16",
+          "close": 105.68
+        },
+        {
+          "date": "2016-04-25",
+          "label": "Apr 25, 16",
+          "close": 105.08
+        },
+        {
+          "date": "2016-04-26",
+          "label": "Apr 26, 16",
+          "close": 104.35
+        },
+        {
+          "date": "2016-04-27",
+          "label": "Apr 27, 16",
+          "close": 97.82
+        },
+        {
+          "date": "2016-04-28",
+          "label": "Apr 28, 16",
+          "close": 94.83
+        },
+        {
+          "date": "2016-04-29",
+          "label": "Apr 29, 16",
+          "close": 93.74
+        },
+        {
+          "date": "2016-05-02",
+          "label": "May 2, 16",
+          "close": 93.64
+        },
+        {
+          "date": "2016-05-03",
+          "label": "May 3, 16",
+          "close": 95.18
+        },
+        {
+          "date": "2016-05-04",
+          "label": "May 4, 16",
+          "close": 94.19
+        },
+        {
+          "date": "2016-05-05",
+          "label": "May 5, 16",
+          "close": 93.24
+        },
+        {
+          "date": "2016-05-06",
+          "label": "May 6, 16",
+          "close": 92.72
+        },
+        {
+          "date": "2016-05-09",
+          "label": "May 9, 16",
+          "close": 92.79
+        },
+        {
+          "date": "2016-05-10",
+          "label": "May 10, 16",
+          "close": 93.42
+        },
+        {
+          "date": "2016-05-11",
+          "label": "May 11, 16",
+          "close": 92.51
+        },
+        {
+          "date": "2016-05-12",
+          "label": "May 12, 16",
+          "close": 90.34
+        },
+        {
+          "date": "2016-05-13",
+          "label": "May 13, 16",
+          "close": 90.52
+        },
+        {
+          "date": "2016-05-16",
+          "label": "May 16, 16",
+          "close": 93.88
+        },
+        {
+          "date": "2016-05-17",
+          "label": "May 17, 16",
+          "close": 93.49
+        },
+        {
+          "date": "2016-05-18",
+          "label": "May 18, 16",
+          "close": 94.56
+        },
+        {
+          "date": "2016-05-19",
+          "label": "May 19, 16",
+          "close": 94.2
+        },
+        {
+          "date": "2016-05-20",
+          "label": "May 20, 16",
+          "close": 95.22
+        },
+        {
+          "date": "2016-05-23",
+          "label": "May 23, 16",
+          "close": 96.43
+        },
+        {
+          "date": "2016-05-24",
+          "label": "May 24, 16",
+          "close": 97.9
+        },
+        {
+          "date": "2016-05-25",
+          "label": "May 25, 16",
+          "close": 99.62
+        },
+        {
+          "date": "2016-05-26",
+          "label": "May 26, 16",
+          "close": 100.41
+        },
+        {
+          "date": "2016-05-27",
+          "label": "May 27, 16",
+          "close": 100.35
+        },
+        {
+          "date": "2016-05-31",
+          "label": "May 31, 16",
+          "close": 99.86
+        },
+        {
+          "date": "2016-06-01",
+          "label": "Jun 1, 16",
+          "close": 98.46
+        },
+        {
+          "date": "2016-06-02",
+          "label": "Jun 2, 16",
+          "close": 97.72
+        },
+        {
+          "date": "2016-06-03",
+          "label": "Jun 3, 16",
+          "close": 97.92
+        },
+        {
+          "date": "2016-06-06",
+          "label": "Jun 6, 16",
+          "close": 98.63
+        },
+        {
+          "date": "2016-06-07",
+          "label": "Jun 7, 16",
+          "close": 99.03
+        },
+        {
+          "date": "2016-06-08",
+          "label": "Jun 8, 16",
+          "close": 98.94
+        },
+        {
+          "date": "2016-06-09",
+          "label": "Jun 9, 16",
+          "close": 99.65
+        },
+        {
+          "date": "2016-06-10",
+          "label": "Jun 10, 16",
+          "close": 98.83
+        },
+        {
+          "date": "2016-06-13",
+          "label": "Jun 13, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-06-14",
+          "label": "Jun 14, 16",
+          "close": 97.46
+        },
+        {
+          "date": "2016-06-15",
+          "label": "Jun 15, 16",
+          "close": 97.14
+        },
+        {
+          "date": "2016-06-16",
+          "label": "Jun 16, 16",
+          "close": 97.55
+        },
+        {
+          "date": "2016-06-17",
+          "label": "Jun 17, 16",
+          "close": 95.33
+        },
+        {
+          "date": "2016-06-20",
+          "label": "Jun 20, 16",
+          "close": 95.1
+        },
+        {
+          "date": "2016-06-21",
+          "label": "Jun 21, 16",
+          "close": 95.91
+        },
+        {
+          "date": "2016-06-22",
+          "label": "Jun 22, 16",
+          "close": 95.55
+        },
+        {
+          "date": "2016-06-23",
+          "label": "Jun 23, 16",
+          "close": 96.1
+        },
+        {
+          "date": "2016-06-24",
+          "label": "Jun 24, 16",
+          "close": 93.4
+        },
+        {
+          "date": "2016-06-27",
+          "label": "Jun 27, 16",
+          "close": 92.04
+        },
+        {
+          "date": "2016-06-28",
+          "label": "Jun 28, 16",
+          "close": 93.59
+        },
+        {
+          "date": "2016-06-29",
+          "label": "Jun 29, 16",
+          "close": 94.4
+        },
+        {
+          "date": "2016-06-30",
+          "label": "Jun 30, 16",
+          "close": 95.6
+        },
+        {
+          "date": "2016-07-01",
+          "label": "Jul 1, 16",
+          "close": 95.89
+        },
+        {
+          "date": "2016-07-05",
+          "label": "Jul 5, 16",
+          "close": 94.99
+        },
+        {
+          "date": "2016-07-06",
+          "label": "Jul 6, 16",
+          "close": 95.53
+        },
+        {
+          "date": "2016-07-07",
+          "label": "Jul 7, 16",
+          "close": 95.94
+        },
+        {
+          "date": "2016-07-08",
+          "label": "Jul 8, 16",
+          "close": 96.68
+        },
+        {
+          "date": "2016-07-11",
+          "label": "Jul 11, 16",
+          "close": 96.98
+        },
+        {
+          "date": "2016-07-12",
+          "label": "Jul 12, 16",
+          "close": 97.42
+        },
+        {
+          "date": "2016-07-13",
+          "label": "Jul 13, 16",
+          "close": 96.87
+        },
+        {
+          "date": "2016-07-14",
+          "label": "Jul 14, 16",
+          "close": 98.79
+        },
+        {
+          "date": "2016-07-15",
+          "label": "Jul 15, 16",
+          "close": 98.78
+        },
+        {
+          "date": "2016-07-18",
+          "label": "Jul 18, 16",
+          "close": 99.83
+        },
+        {
+          "date": "2016-07-19",
+          "label": "Jul 19, 16",
+          "close": 99.87
+        },
+        {
+          "date": "2016-07-20",
+          "label": "Jul 20, 16",
+          "close": 99.96
+        },
+        {
+          "date": "2016-07-21",
+          "label": "Jul 21, 16",
+          "close": 99.43
+        },
+        {
+          "date": "2016-07-22",
+          "label": "Jul 22, 16",
+          "close": 98.66
+        },
+        {
+          "date": "2016-07-25",
+          "label": "Jul 25, 16",
+          "close": 97.34
+        },
+        {
+          "date": "2016-07-26",
+          "label": "Jul 26, 16",
+          "close": 96.67
+        },
+        {
+          "date": "2016-07-27",
+          "label": "Jul 27, 16",
+          "close": 102.95
+        },
+        {
+          "date": "2016-07-28",
+          "label": "Jul 28, 16",
+          "close": 104.34
+        },
+        {
+          "date": "2016-07-29",
+          "label": "Jul 29, 16",
+          "close": 104.21
+        },
+        {
+          "date": "2016-08-01",
+          "label": "Aug 1, 16",
+          "close": 106.05
+        },
+        {
+          "date": "2016-08-02",
+          "label": "Aug 2, 16",
+          "close": 104.48
+        },
+        {
+          "date": "2016-08-03",
+          "label": "Aug 3, 16",
+          "close": 105.79
+        },
+        {
+          "date": "2016-08-04",
+          "label": "Aug 4, 16",
+          "close": 105.87
+        },
+        {
+          "date": "2016-08-05",
+          "label": "Aug 5, 16",
+          "close": 107.48
+        },
+        {
+          "date": "2016-08-08",
+          "label": "Aug 8, 16",
+          "close": 108.37
+        },
+        {
+          "date": "2016-08-09",
+          "label": "Aug 9, 16",
+          "close": 108.81
+        },
+        {
+          "date": "2016-08-10",
+          "label": "Aug 10, 16",
+          "close": 108
+        },
+        {
+          "date": "2016-08-11",
+          "label": "Aug 11, 16",
+          "close": 107.93
+        },
+        {
+          "date": "2016-08-12",
+          "label": "Aug 12, 16",
+          "close": 108.18
+        },
+        {
+          "date": "2016-08-15",
+          "label": "Aug 15, 16",
+          "close": 109.48
+        },
+        {
+          "date": "2016-08-16",
+          "label": "Aug 16, 16",
+          "close": 109.38
+        },
+        {
+          "date": "2016-08-17",
+          "label": "Aug 17, 16",
+          "close": 109.22
+        },
+        {
+          "date": "2016-08-18",
+          "label": "Aug 18, 16",
+          "close": 109.08
+        },
+        {
+          "date": "2016-08-19",
+          "label": "Aug 19, 16",
+          "close": 109.36
+        },
+        {
+          "date": "2016-08-22",
+          "label": "Aug 22, 16",
+          "close": 108.51
+        },
+        {
+          "date": "2016-08-23",
+          "label": "Aug 23, 16",
+          "close": 108.85
+        },
+        {
+          "date": "2016-08-24",
+          "label": "Aug 24, 16",
+          "close": 108.03
+        },
+        {
+          "date": "2016-08-25",
+          "label": "Aug 25, 16",
+          "close": 107.57
+        },
+        {
+          "date": "2016-08-26",
+          "label": "Aug 26, 16",
+          "close": 106.94
+        },
+        {
+          "date": "2016-08-29",
+          "label": "Aug 29, 16",
+          "close": 106.82
+        },
+        {
+          "date": "2016-08-30",
+          "label": "Aug 30, 16",
+          "close": 106
+        },
+        {
+          "date": "2016-08-31",
+          "label": "Aug 31, 16",
+          "close": 106.1
+        },
+        {
+          "date": "2016-09-01",
+          "label": "Sep 1, 16",
+          "close": 106.73
+        },
+        {
+          "date": "2016-09-02",
+          "label": "Sep 2, 16",
+          "close": 107.73
+        },
+        {
+          "date": "2016-09-06",
+          "label": "Sep 6, 16",
+          "close": 107.7
+        },
+        {
+          "date": "2016-09-07",
+          "label": "Sep 7, 16",
+          "close": 108.36
+        },
+        {
+          "date": "2016-09-08",
+          "label": "Sep 8, 16",
+          "close": 105.52
+        },
+        {
+          "date": "2016-09-09",
+          "label": "Sep 9, 16",
+          "close": 103.13
+        },
+        {
+          "date": "2016-09-12",
+          "label": "Sep 12, 16",
+          "close": 105.44
+        },
+        {
+          "date": "2016-09-13",
+          "label": "Sep 13, 16",
+          "close": 107.95
+        },
+        {
+          "date": "2016-09-14",
+          "label": "Sep 14, 16",
+          "close": 111.77
+        },
+        {
+          "date": "2016-09-15",
+          "label": "Sep 15, 16",
+          "close": 115.57
+        },
+        {
+          "date": "2016-09-16",
+          "label": "Sep 16, 16",
+          "close": 114.92
+        },
+        {
+          "date": "2016-09-19",
+          "label": "Sep 19, 16",
+          "close": 113.58
+        },
+        {
+          "date": "2016-09-20",
+          "label": "Sep 20, 16",
+          "close": 113.57
+        },
+        {
+          "date": "2016-09-21",
+          "label": "Sep 21, 16",
+          "close": 113.55
+        },
+        {
+          "date": "2016-09-22",
+          "label": "Sep 22, 16",
+          "close": 114.62
+        },
+        {
+          "date": "2016-09-23",
+          "label": "Sep 23, 16",
+          "close": 112.71
+        },
+        {
+          "date": "2016-09-26",
+          "label": "Sep 26, 16",
+          "close": 112.88
+        },
+        {
+          "date": "2016-09-27",
+          "label": "Sep 27, 16",
+          "close": 113.09
+        },
+        {
+          "date": "2016-09-28",
+          "label": "Sep 28, 16",
+          "close": 113.95
+        },
+        {
+          "date": "2016-09-29",
+          "label": "Sep 29, 16",
+          "close": 112.18
+        },
+        {
+          "date": "2016-09-30",
+          "label": "Sep 30, 16",
+          "close": 113.05
+        },
+        {
+          "date": "2016-10-03",
+          "label": "Oct 3, 16",
+          "close": 112.52
+        },
+        {
+          "date": "2016-10-04",
+          "label": "Oct 4, 16",
+          "close": 113
+        },
+        {
+          "date": "2016-10-05",
+          "label": "Oct 5, 16",
+          "close": 113.05
+        },
+        {
+          "date": "2016-10-06",
+          "label": "Oct 6, 16",
+          "close": 113.89
+        },
+        {
+          "date": "2016-10-07",
+          "label": "Oct 7, 16",
+          "close": 114.06
+        },
+        {
+          "date": "2016-10-10",
+          "label": "Oct 10, 16",
+          "close": 116.05
+        },
+        {
+          "date": "2016-10-11",
+          "label": "Oct 11, 16",
+          "close": 116.3
+        },
+        {
+          "date": "2016-10-12",
+          "label": "Oct 12, 16",
+          "close": 117.34
+        },
+        {
+          "date": "2016-10-13",
+          "label": "Oct 13, 16",
+          "close": 116.98
+        },
+        {
+          "date": "2016-10-14",
+          "label": "Oct 14, 16",
+          "close": 117.63
+        },
+        {
+          "date": "2016-10-17",
+          "label": "Oct 17, 16",
+          "close": 117.55
+        },
+        {
+          "date": "2016-10-18",
+          "label": "Oct 18, 16",
+          "close": 117.47
+        },
+        {
+          "date": "2016-10-19",
+          "label": "Oct 19, 16",
+          "close": 117.12
+        },
+        {
+          "date": "2016-10-20",
+          "label": "Oct 20, 16",
+          "close": 117.06
+        },
+        {
+          "date": "2016-10-21",
+          "label": "Oct 21, 16",
+          "close": 116.6
+        },
+        {
+          "date": "2016-10-24",
+          "label": "Oct 24, 16",
+          "close": 117.65
+        },
+        {
+          "date": "2016-10-25",
+          "label": "Oct 25, 16",
+          "close": 118.25
+        },
+        {
+          "date": "2016-10-26",
+          "label": "Oct 26, 16",
+          "close": 115.59
+        },
+        {
+          "date": "2016-10-27",
+          "label": "Oct 27, 16",
+          "close": 114.48
+        },
+        {
+          "date": "2016-10-28",
+          "label": "Oct 28, 16",
+          "close": 113.72
+        },
+        {
+          "date": "2016-10-31",
+          "label": "Oct 31, 16",
+          "close": 113.54
+        },
+        {
+          "date": "2016-11-01",
+          "label": "Nov 1, 16",
+          "close": 111.49
+        },
+        {
+          "date": "2016-11-02",
+          "label": "Nov 2, 16",
+          "close": 111.59
+        },
+        {
+          "date": "2016-11-03",
+          "label": "Nov 3, 16",
+          "close": 109.83
+        },
+        {
+          "date": "2016-11-04",
+          "label": "Nov 4, 16",
+          "close": 108.84
+        },
+        {
+          "date": "2016-11-07",
+          "label": "Nov 7, 16",
+          "close": 110.41
+        },
+        {
+          "date": "2016-11-08",
+          "label": "Nov 8, 16",
+          "close": 111.06
+        },
+        {
+          "date": "2016-11-09",
+          "label": "Nov 9, 16",
+          "close": 110.88
+        },
+        {
+          "date": "2016-11-10",
+          "label": "Nov 10, 16",
+          "close": 107.79
+        },
+        {
+          "date": "2016-11-11",
+          "label": "Nov 11, 16",
+          "close": 108.43
+        },
+        {
+          "date": "2016-11-14",
+          "label": "Nov 14, 16",
+          "close": 105.71
+        },
+        {
+          "date": "2016-11-15",
+          "label": "Nov 15, 16",
+          "close": 107.11
+        },
+        {
+          "date": "2016-11-16",
+          "label": "Nov 16, 16",
+          "close": 109.99
+        },
+        {
+          "date": "2016-11-17",
+          "label": "Nov 17, 16",
+          "close": 109.95
+        },
+        {
+          "date": "2016-11-18",
+          "label": "Nov 18, 16",
+          "close": 110.06
+        },
+        {
+          "date": "2016-11-21",
+          "label": "Nov 21, 16",
+          "close": 111.73
+        },
+        {
+          "date": "2016-11-22",
+          "label": "Nov 22, 16",
+          "close": 111.8
+        },
+        {
+          "date": "2016-11-23",
+          "label": "Nov 23, 16",
+          "close": 111.23
+        },
+        {
+          "date": "2016-11-25",
+          "label": "Nov 25, 16",
+          "close": 111.79
+        },
+        {
+          "date": "2016-11-28",
+          "label": "Nov 28, 16",
+          "close": 111.57
+        },
+        {
+          "date": "2016-11-29",
+          "label": "Nov 29, 16",
+          "close": 111.46
+        },
+        {
+          "date": "2016-11-30",
+          "label": "Nov 30, 16",
+          "close": 110.52
+        },
+        {
+          "date": "2016-12-01",
+          "label": "Dec 1, 16",
+          "close": 109.49
+        },
+        {
+          "date": "2016-12-02",
+          "label": "Dec 2, 16",
+          "close": 109.9
+        },
+        {
+          "date": "2016-12-05",
+          "label": "Dec 5, 16",
+          "close": 109.11
+        },
+        {
+          "date": "2016-12-06",
+          "label": "Dec 6, 16",
+          "close": 109.95
+        },
+        {
+          "date": "2016-12-07",
+          "label": "Dec 7, 16",
+          "close": 111.03
+        },
+        {
+          "date": "2016-12-08",
+          "label": "Dec 8, 16",
+          "close": 112.12
+        },
+        {
+          "date": "2016-12-09",
+          "label": "Dec 9, 16",
+          "close": 113.95
+        },
+        {
+          "date": "2016-12-12",
+          "label": "Dec 12, 16",
+          "close": 113.3
+        },
+        {
+          "date": "2016-12-13",
+          "label": "Dec 13, 16",
+          "close": 115.19
+        },
+        {
+          "date": "2016-12-14",
+          "label": "Dec 14, 16",
+          "close": 115.19
+        },
+        {
+          "date": "2016-12-15",
+          "label": "Dec 15, 16",
+          "close": 115.82
+        },
+        {
+          "date": "2016-12-16",
+          "label": "Dec 16, 16",
+          "close": 115.97
+        },
+        {
+          "date": "2016-12-19",
+          "label": "Dec 19, 16",
+          "close": 116.64
+        },
+        {
+          "date": "2016-12-20",
+          "label": "Dec 20, 16",
+          "close": 116.95
+        },
+        {
+          "date": "2016-12-21",
+          "label": "Dec 21, 16",
+          "close": 117.06
+        },
+        {
+          "date": "2016-12-22",
+          "label": "Dec 22, 16",
+          "close": 116.29
+        },
+        {
+          "date": "2016-12-23",
+          "label": "Dec 23, 16",
+          "close": 116.52
+        },
+        {
+          "date": "2016-12-27",
+          "label": "Dec 27, 16",
+          "close": 117.26
+        },
+        {
+          "date": "2016-12-28",
+          "label": "Dec 28, 16",
+          "close": 116.76
+        },
+        {
+          "date": "2016-12-29",
+          "label": "Dec 29, 16",
+          "close": 116.73
+        },
+        {
+          "date": "2016-12-30",
+          "label": "Dec 30, 16",
+          "close": 115.82
+        },
+        {
+          "date": "2017-01-03",
+          "label": "Jan 3, 17",
+          "close": 116.15
+        },
+        {
+          "date": "2017-01-04",
+          "label": "Jan 4, 17",
+          "close": 116.02
+        },
+        {
+          "date": "2017-01-05",
+          "label": "Jan 5, 17",
+          "close": 116.61
+        },
+        {
+          "date": "2017-01-06",
+          "label": "Jan 6, 17",
+          "close": 117.91
+        },
+        {
+          "date": "2017-01-09",
+          "label": "Jan 9, 17",
+          "close": 118.99
+        },
+        {
+          "date": "2017-01-10",
+          "label": "Jan 10, 17",
+          "close": 119.11
+        },
+        {
+          "date": "2017-01-11",
+          "label": "Jan 11, 17",
+          "close": 119.75
+        },
+        {
+          "date": "2017-01-12",
+          "label": "Jan 12, 17",
+          "close": 119.25
+        },
+        {
+          "date": "2017-01-13",
+          "label": "Jan 13, 17",
+          "close": 119.04
+        },
+        {
+          "date": "2017-01-17",
+          "label": "Jan 17, 17",
+          "close": 120
+        },
+        {
+          "date": "2017-01-18",
+          "label": "Jan 18, 17",
+          "close": 119.99
+        },
+        {
+          "date": "2017-01-19",
+          "label": "Jan 19, 17",
+          "close": 119.78
+        },
+        {
+          "date": "2017-01-20",
+          "label": "Jan 20, 17",
+          "close": 120
+        },
+        {
+          "date": "2017-01-23",
+          "label": "Jan 23, 17",
+          "close": 120.08
+        },
+        {
+          "date": "2017-01-24",
+          "label": "Jan 24, 17",
+          "close": 119.97
+        },
+        {
+          "date": "2017-01-25",
+          "label": "Jan 25, 17",
+          "close": 121.88
+        },
+        {
+          "date": "2017-01-26",
+          "label": "Jan 26, 17",
+          "close": 121.94
+        },
+        {
+          "date": "2017-01-27",
+          "label": "Jan 27, 17",
+          "close": 121.95
+        },
+        {
+          "date": "2017-01-30",
+          "label": "Jan 30, 17",
+          "close": 121.63
+        },
+        {
+          "date": "2017-01-31",
+          "label": "Jan 31, 17",
+          "close": 121.35
+        },
+        {
+          "date": "2017-02-01",
+          "label": "Feb 1, 17",
+          "close": 128.75
+        },
+        {
+          "date": "2017-02-02",
+          "label": "Feb 2, 17",
+          "close": 128.53
+        },
+        {
+          "date": "2017-02-03",
+          "label": "Feb 3, 17",
+          "close": 129.08
+        },
+        {
+          "date": "2017-02-06",
+          "label": "Feb 6, 17",
+          "close": 130.29
+        },
+        {
+          "date": "2017-02-07",
+          "label": "Feb 7, 17",
+          "close": 131.53
+        },
+        {
+          "date": "2017-02-08",
+          "label": "Feb 8, 17",
+          "close": 132.04
+        },
+        {
+          "date": "2017-02-09",
+          "label": "Feb 9, 17",
+          "close": 132.42
+        },
+        {
+          "date": "2017-02-10",
+          "label": "Feb 10, 17",
+          "close": 132.12
+        },
+        {
+          "date": "2017-02-13",
+          "label": "Feb 13, 17",
+          "close": 133.29
+        },
+        {
+          "date": "2017-02-14",
+          "label": "Feb 14, 17",
+          "close": 135.02
+        },
+        {
+          "date": "2017-02-15",
+          "label": "Feb 15, 17",
+          "close": 135.51
+        },
+        {
+          "date": "2017-02-16",
+          "label": "Feb 16, 17",
+          "close": 135.35
+        },
+        {
+          "date": "2017-02-17",
+          "label": "Feb 17, 17",
+          "close": 135.72
+        },
+        {
+          "date": "2017-02-21",
+          "label": "Feb 21, 17",
+          "close": 136.7
+        },
+        {
+          "date": "2017-02-22",
+          "label": "Feb 22, 17",
+          "close": 137.11
+        },
+        {
+          "date": "2017-02-23",
+          "label": "Feb 23, 17",
+          "close": 136.53
+        },
+        {
+          "date": "2017-02-24",
+          "label": "Feb 24, 17",
+          "close": 136.66
+        },
+        {
+          "date": "2017-02-27",
+          "label": "Feb 27, 17",
+          "close": 136.93
+        },
+        {
+          "date": "2017-02-28",
+          "label": "Feb 28, 17",
+          "close": 136.99
+        },
+        {
+          "date": "2017-03-01",
+          "label": "Mar 1, 17",
+          "close": 139.79
+        },
+        {
+          "date": "2017-03-02",
+          "label": "Mar 2, 17",
+          "close": 138.96
+        },
+        {
+          "date": "2017-03-03",
+          "label": "Mar 3, 17",
+          "close": 139.78
+        },
+        {
+          "date": "2017-03-06",
+          "label": "Mar 6, 17",
+          "close": 139.34
+        },
+        {
+          "date": "2017-03-07",
+          "label": "Mar 7, 17",
+          "close": 139.52
+        },
+        {
+          "date": "2017-03-08",
+          "label": "Mar 8, 17",
+          "close": 139
+        },
+        {
+          "date": "2017-03-09",
+          "label": "Mar 9, 17",
+          "close": 138.68
+        },
+        {
+          "date": "2017-03-10",
+          "label": "Mar 10, 17",
+          "close": 139.14
+        },
+        {
+          "date": "2017-03-13",
+          "label": "Mar 13, 17",
+          "close": 139.2
+        },
+        {
+          "date": "2017-03-14",
+          "label": "Mar 14, 17",
+          "close": 138.99
+        },
+        {
+          "date": "2017-03-15",
+          "label": "Mar 15, 17",
+          "close": 140.46
+        },
+        {
+          "date": "2017-03-16",
+          "label": "Mar 16, 17",
+          "close": 140.69
+        },
+        {
+          "date": "2017-03-17",
+          "label": "Mar 17, 17",
+          "close": 139.99
+        },
+        {
+          "date": "2017-03-20",
+          "label": "Mar 20, 17",
+          "close": 141.46
+        },
+        {
+          "date": "2017-03-21",
+          "label": "Mar 21, 17",
+          "close": 139.84
+        },
+        {
+          "date": "2017-03-22",
+          "label": "Mar 22, 17",
+          "close": 141.42
+        },
+        {
+          "date": "2017-03-23",
+          "label": "Mar 23, 17",
+          "close": 140.92
+        },
+        {
+          "date": "2017-03-24",
+          "label": "Mar 24, 17",
+          "close": 140.64
+        },
+        {
+          "date": "2017-03-27",
+          "label": "Mar 27, 17",
+          "close": 140.88
+        },
+        {
+          "date": "2017-03-28",
+          "label": "Mar 28, 17",
+          "close": 143.8
+        },
+        {
+          "date": "2017-03-29",
+          "label": "Mar 29, 17",
+          "close": 144.12
+        },
+        {
+          "date": "2017-03-30",
+          "label": "Mar 30, 17",
+          "close": 143.93
+        },
+        {
+          "date": "2017-03-31",
+          "label": "Mar 31, 17",
+          "close": 143.66
+        },
+        {
+          "date": "2017-04-03",
+          "label": "Apr 3, 17",
+          "close": 143.7
+        },
+        {
+          "date": "2017-04-04",
+          "label": "Apr 4, 17",
+          "close": 144.77
+        },
+        {
+          "date": "2017-04-05",
+          "label": "Apr 5, 17",
+          "close": 144.02
+        },
+        {
+          "date": "2017-04-06",
+          "label": "Apr 6, 17",
+          "close": 143.66
+        },
+        {
+          "date": "2017-04-07",
+          "label": "Apr 7, 17",
+          "close": 143.34
+        },
+        {
+          "date": "2017-04-10",
+          "label": "Apr 10, 17",
+          "close": 143.17
+        },
+        {
+          "date": "2017-04-11",
+          "label": "Apr 11, 17",
+          "close": 141.63
+        },
+        {
+          "date": "2017-04-12",
+          "label": "Apr 12, 17",
+          "close": 141.8
+        },
+        {
+          "date": "2017-04-13",
+          "label": "Apr 13, 17",
+          "close": 141.05
+        },
+        {
+          "date": "2017-04-17",
+          "label": "Apr 17, 17",
+          "close": 141.83
+        },
+        {
+          "date": "2017-04-18",
+          "label": "Apr 18, 17",
+          "close": 141.2
+        },
+        {
+          "date": "2017-04-19",
+          "label": "Apr 19, 17",
+          "close": 140.68
+        },
+        {
+          "date": "2017-04-20",
+          "label": "Apr 20, 17",
+          "close": 142.44
+        },
+        {
+          "date": "2017-04-21",
+          "label": "Apr 21, 17",
+          "close": 142.27
+        },
+        {
+          "date": "2017-04-24",
+          "label": "Apr 24, 17",
+          "close": 143.64
+        },
+        {
+          "date": "2017-04-25",
+          "label": "Apr 25, 17",
+          "close": 144.53
+        },
+        {
+          "date": "2017-04-26",
+          "label": "Apr 26, 17",
+          "close": 143.68
+        },
+        {
+          "date": "2017-04-27",
+          "label": "Apr 27, 17",
+          "close": 143.79
+        },
+        {
+          "date": "2017-04-28",
+          "label": "Apr 28, 17",
+          "close": 143.65
+        },
+        {
+          "date": "2017-05-01",
+          "label": "May 1, 17",
+          "close": 146.58
+        },
+        {
+          "date": "2017-05-02",
+          "label": "May 2, 17",
+          "close": 147.51
+        },
+        {
+          "date": "2017-05-03",
+          "label": "May 3, 17",
+          "close": 147.06
+        },
+        {
+          "date": "2017-05-04",
+          "label": "May 4, 17",
+          "close": 146.53
+        },
+        {
+          "date": "2017-05-05",
+          "label": "May 5, 17",
+          "close": 148.96
+        },
+        {
+          "date": "2017-05-08",
+          "label": "May 8, 17",
+          "close": 153.01
+        },
+        {
+          "date": "2017-05-09",
+          "label": "May 9, 17",
+          "close": 153.99
+        },
+        {
+          "date": "2017-05-10",
+          "label": "May 10, 17",
+          "close": 153.26
+        },
+        {
+          "date": "2017-05-11",
+          "label": "May 11, 17",
+          "close": 153.95
+        },
+        {
+          "date": "2017-05-12",
+          "label": "May 12, 17",
+          "close": 156.1
+        },
+        {
+          "date": "2017-05-15",
+          "label": "May 15, 17",
+          "close": 155.7
+        },
+        {
+          "date": "2017-05-16",
+          "label": "May 16, 17",
+          "close": 155.47
+        },
+        {
+          "date": "2017-05-17",
+          "label": "May 17, 17",
+          "close": 150.25
+        },
+        {
+          "date": "2017-05-18",
+          "label": "May 18, 17",
+          "close": 152.54
+        },
+        {
+          "date": "2017-05-19",
+          "label": "May 19, 17",
+          "close": 153.06
+        },
+        {
+          "date": "2017-05-22",
+          "label": "May 22, 17",
+          "close": 153.99
+        },
+        {
+          "date": "2017-05-23",
+          "label": "May 23, 17",
+          "close": 153.8
+        },
+        {
+          "date": "2017-05-24",
+          "label": "May 24, 17",
+          "close": 153.34
+        },
+        {
+          "date": "2017-05-25",
+          "label": "May 25, 17",
+          "close": 153.87
+        },
+        {
+          "date": "2017-05-26",
+          "label": "May 26, 17",
+          "close": 153.61
+        },
+        {
+          "date": "2017-05-30",
+          "label": "May 30, 17",
+          "close": 153.67
+        },
+        {
+          "date": "2017-05-31",
+          "label": "May 31, 17",
+          "close": 152.76
+        },
+        {
+          "date": "2017-06-01",
+          "label": "Jun 1, 17",
+          "close": 153.18
+        },
+        {
+          "date": "2017-06-02",
+          "label": "Jun 2, 17",
+          "close": 155.45
+        },
+        {
+          "date": "2017-06-05",
+          "label": "Jun 5, 17",
+          "close": 153.93
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Jun 6, 17",
+          "close": 154.45
+        },
+        {
+          "date": "2017-06-07",
+          "label": "Jun 7, 17",
+          "close": 155.37
+        },
+        {
+          "date": "2017-06-08",
+          "label": "Jun 8, 17",
+          "close": 154.99
+        },
+        {
+          "date": "2017-06-09",
+          "label": "Jun 9, 17",
+          "close": 148.98
+        },
+        {
+          "date": "2017-06-12",
+          "label": "Jun 12, 17",
+          "close": 145.42
+        },
+        {
+          "date": "2017-06-13",
+          "label": "Jun 13, 17",
+          "close": 146.59
+        },
+        {
+          "date": "2017-06-14",
+          "label": "Jun 14, 17",
+          "close": 145.16
+        },
+        {
+          "date": "2017-06-15",
+          "label": "Jun 15, 17",
+          "close": 144.29
+        },
+        {
+          "date": "2017-06-16",
+          "label": "Jun 16, 17",
+          "close": 142.27
+        },
+        {
+          "date": "2017-06-19",
+          "label": "Jun 19, 17",
+          "close": 146.34
+        },
+        {
+          "date": "2017-06-20",
+          "label": "Jun 20, 17",
+          "close": 145.01
+        },
+        {
+          "date": "2017-06-21",
+          "label": "Jun 21, 17",
+          "close": 145.87
+        },
+        {
+          "date": "2017-06-22",
+          "label": "Jun 22, 17",
+          "close": 145.63
+        },
+        {
+          "date": "2017-06-23",
+          "label": "Jun 23, 17",
+          "close": 146.28
+        },
+        {
+          "date": "2017-06-26",
+          "label": "Jun 26, 17",
+          "close": 145.82
+        },
+        {
+          "date": "2017-06-27",
+          "label": "Jun 27, 17",
+          "close": 143.73
+        },
+        {
+          "date": "2017-06-28",
+          "label": "Jun 28, 17",
+          "close": 145.83
+        },
+        {
+          "date": "2017-06-29",
+          "label": "Jun 29, 17",
+          "close": 143.68
+        },
+        {
+          "date": "2017-06-30",
+          "label": "Jun 30, 17",
+          "close": 144.02
+        },
+        {
+          "date": "2017-07-03",
+          "label": "Jul 3, 17",
+          "close": 143.5
+        },
+        {
+          "date": "2017-07-05",
+          "label": "Jul 5, 17",
+          "close": 144.09
+        },
+        {
+          "date": "2017-07-06",
+          "label": "Jul 6, 17",
+          "close": 142.73
+        },
+        {
+          "date": "2017-07-07",
+          "label": "Jul 7, 17",
+          "close": 144.18
+        },
+        {
+          "date": "2017-07-10",
+          "label": "Jul 10, 17",
+          "close": 145.06
+        },
+        {
+          "date": "2017-07-11",
+          "label": "Jul 11, 17",
+          "close": 145.53
+        },
+        {
+          "date": "2017-07-12",
+          "label": "Jul 12, 17",
+          "close": 145.74
+        },
+        {
+          "date": "2017-07-13",
+          "label": "Jul 13, 17",
+          "close": 147.77
+        },
+        {
+          "date": "2017-07-14",
+          "label": "Jul 14, 17",
+          "close": 149.04
+        },
+        {
+          "date": "2017-07-17",
+          "label": "Jul 17, 17",
+          "close": 149.56
+        },
+        {
+          "date": "2017-07-18",
+          "label": "Jul 18, 17",
+          "close": 150.08
+        },
+        {
+          "date": "2017-07-19",
+          "label": "Jul 19, 17",
+          "close": 151.02
+        },
+        {
+          "date": "2017-07-20",
+          "label": "Jul 20, 17",
+          "close": 150.34
+        },
+        {
+          "date": "2017-07-21",
+          "label": "Jul 21, 17",
+          "close": 150.27
+        },
+        {
+          "date": "2017-07-24",
+          "label": "Jul 24, 17",
+          "close": 152.09
+        },
+        {
+          "date": "2017-07-25",
+          "label": "Jul 25, 17",
+          "close": 152.74
+        },
+        {
+          "date": "2017-07-26",
+          "label": "Jul 26, 17",
+          "close": 153.46
+        },
+        {
+          "date": "2017-07-27",
+          "label": "Jul 27, 17",
+          "close": 150.56
+        },
+        {
+          "date": "2017-07-28",
+          "label": "Jul 28, 17",
+          "close": 149.5
+        },
+        {
+          "date": "2017-07-31",
+          "label": "Jul 31, 17",
+          "close": 148.73
+        },
+        {
+          "date": "2017-08-01",
+          "label": "Aug 1, 17",
+          "close": 150.05
+        },
+        {
+          "date": "2017-08-02",
+          "label": "Aug 2, 17",
+          "close": 157.14
+        },
+        {
+          "date": "2017-08-03",
+          "label": "Aug 3, 17",
+          "close": 155.57
+        },
+        {
+          "date": "2017-08-04",
+          "label": "Aug 4, 17",
+          "close": 156.39
+        },
+        {
+          "date": "2017-08-07",
+          "label": "Aug 7, 17",
+          "close": 158.81
+        },
+        {
+          "date": "2017-08-08",
+          "label": "Aug 8, 17",
+          "close": 160.08
+        },
+        {
+          "date": "2017-08-09",
+          "label": "Aug 9, 17",
+          "close": 161.06
+        },
+        {
+          "date": "2017-08-10",
+          "label": "Aug 10, 17",
+          "close": 155.32
+        },
+        {
+          "date": "2017-08-11",
+          "label": "Aug 11, 17",
+          "close": 157.48
+        },
+        {
+          "date": "2017-08-14",
+          "label": "Aug 14, 17",
+          "close": 159.85
+        },
+        {
+          "date": "2017-08-15",
+          "label": "Aug 15, 17",
+          "close": 161.6
+        },
+        {
+          "date": "2017-08-16",
+          "label": "Aug 16, 17",
+          "close": 160.95
+        },
+        {
+          "date": "2017-08-17",
+          "label": "Aug 17, 17",
+          "close": 157.86
+        },
+        {
+          "date": "2017-08-18",
+          "label": "Aug 18, 17",
+          "close": 157.5
+        },
+        {
+          "date": "2017-08-21",
+          "label": "Aug 21, 17",
+          "close": 157.21
+        },
+        {
+          "date": "2017-08-22",
+          "label": "Aug 22, 17",
+          "close": 159.78
+        },
+        {
+          "date": "2017-08-23",
+          "label": "Aug 23, 17",
+          "close": 159.98
+        },
+        {
+          "date": "2017-08-24",
+          "label": "Aug 24, 17",
+          "close": 159.27
+        },
+        {
+          "date": "2017-08-25",
+          "label": "Aug 25, 17",
+          "close": 159.86
+        },
+        {
+          "date": "2017-08-28",
+          "label": "Aug 28, 17",
+          "close": 161.47
+        },
+        {
+          "date": "2017-08-29",
+          "label": "Aug 29, 17",
+          "close": 162.91
+        },
+        {
+          "date": "2017-08-30",
+          "label": "Aug 30, 17",
+          "close": 163.35
+        },
+        {
+          "date": "2017-08-31",
+          "label": "Aug 31, 17",
+          "close": 164
+        },
+        {
+          "date": "2017-09-01",
+          "label": "Sep 1, 17",
+          "close": 164.05
+        },
+        {
+          "date": "2017-09-05",
+          "label": "Sep 5, 17",
+          "close": 162.08
+        },
+        {
+          "date": "2017-09-06",
+          "label": "Sep 6, 17",
+          "close": 161.91
+        },
+        {
+          "date": "2017-09-07",
+          "label": "Sep 7, 17",
+          "close": 161.26
+        },
+        {
+          "date": "2017-09-08",
+          "label": "Sep 8, 17",
+          "close": 158.63
+        },
+        {
+          "date": "2017-09-11",
+          "label": "Sep 11, 17",
+          "close": 161.5
+        },
+        {
+          "date": "2017-09-12",
+          "label": "Sep 12, 17",
+          "close": 160.86
+        },
+        {
+          "date": "2017-09-13",
+          "label": "Sep 13, 17",
+          "close": 159.65
+        },
+        {
+          "date": "2017-09-14",
+          "label": "Sep 14, 17",
+          "close": 158.28
+        },
+        {
+          "date": "2017-09-15",
+          "label": "Sep 15, 17",
+          "close": 159.88
+        },
+        {
+          "date": "2017-09-18",
+          "label": "Sep 18, 17",
+          "close": 158.67
+        },
+        {
+          "date": "2017-09-19",
+          "label": "Sep 19, 17",
+          "close": 158.73
+        },
+        {
+          "date": "2017-09-20",
+          "label": "Sep 20, 17",
+          "close": 156.07
+        },
+        {
+          "date": "2017-09-21",
+          "label": "Sep 21, 17",
+          "close": 153.39
+        },
+        {
+          "date": "2017-09-22",
+          "label": "Sep 22, 17",
+          "close": 151.89
+        },
+        {
+          "date": "2017-09-25",
+          "label": "Sep 25, 17",
+          "close": 150.55
+        },
+        {
+          "date": "2017-09-26",
+          "label": "Sep 26, 17",
+          "close": 153.14
+        },
+        {
+          "date": "2017-09-27",
+          "label": "Sep 27, 17",
+          "close": 154.23
+        },
+        {
+          "date": "2017-09-28",
+          "label": "Sep 28, 17",
+          "close": 153.28
+        },
+        {
+          "date": "2017-09-29",
+          "label": "Sep 29, 17",
+          "close": 154.12
+        },
+        {
+          "date": "2017-10-02",
+          "label": "Oct 2, 17",
+          "close": 153.81
+        },
+        {
+          "date": "2017-10-03",
+          "label": "Oct 3, 17",
+          "close": 154.48
+        },
+        {
+          "date": "2017-10-04",
+          "label": "Oct 4, 17",
+          "close": 153.48
+        },
+        {
+          "date": "2017-10-05",
+          "label": "Oct 5, 17",
+          "close": 155.39
+        },
+        {
+          "date": "2017-10-06",
+          "label": "Oct 6, 17",
+          "close": 155.3
+        },
+        {
+          "date": "2017-10-09",
+          "label": "Oct 9, 17",
+          "close": 155.84
+        },
+        {
+          "date": "2017-10-10",
+          "label": "Oct 10, 17",
+          "close": 155.9
+        },
+        {
+          "date": "2017-10-11",
+          "label": "Oct 11, 17",
+          "close": 156.55
+        },
+        {
+          "date": "2017-10-12",
+          "label": "Oct 12, 17",
+          "close": 156
+        },
+        {
+          "date": "2017-10-13",
+          "label": "Oct 13, 17",
+          "close": 156.99
+        },
+        {
+          "date": "2017-10-16",
+          "label": "Oct 16, 17",
+          "close": 159.88
+        },
+        {
+          "date": "2017-10-17",
+          "label": "Oct 17, 17",
+          "close": 160.47
+        },
+        {
+          "date": "2017-10-18",
+          "label": "Oct 18, 17",
+          "close": 159.76
+        },
+        {
+          "date": "2017-10-19",
+          "label": "Oct 19, 17",
+          "close": 155.98
+        },
+        {
+          "date": "2017-10-20",
+          "label": "Oct 20, 17",
+          "close": 156.25
+        },
+        {
+          "date": "2017-10-23",
+          "label": "Oct 23, 17",
+          "close": 156.17
+        },
+        {
+          "date": "2017-10-24",
+          "label": "Oct 24, 17",
+          "close": 157.1
+        },
+        {
+          "date": "2017-10-25",
+          "label": "Oct 25, 17",
+          "close": 156.41
+        },
+        {
+          "date": "2017-10-26",
+          "label": "Oct 26, 17",
+          "close": 157.41
+        },
+        {
+          "date": "2017-10-27",
+          "label": "Oct 27, 17",
+          "close": 163.05
+        },
+        {
+          "date": "2017-10-30",
+          "label": "Oct 30, 17",
+          "close": 166.72
+        },
+        {
+          "date": "2017-10-31",
+          "label": "Oct 31, 17",
+          "close": 169.04
+        },
+        {
+          "date": "2017-11-01",
+          "label": "Nov 1, 17",
+          "close": 166.89
+        },
+        {
+          "date": "2017-11-02",
+          "label": "Nov 2, 17",
+          "close": 168.11
+        },
+        {
+          "date": "2017-11-03",
+          "label": "Nov 3, 17",
+          "close": 172.5
+        },
+        {
+          "date": "2017-11-06",
+          "label": "Nov 6, 17",
+          "close": 174.25
+        },
+        {
+          "date": "2017-11-07",
+          "label": "Nov 7, 17",
+          "close": 174.81
+        },
+        {
+          "date": "2017-11-08",
+          "label": "Nov 8, 17",
+          "close": 176.24
+        },
+        {
+          "date": "2017-11-09",
+          "label": "Nov 9, 17",
+          "close": 175.88
+        },
+        {
+          "date": "2017-11-10",
+          "label": "Nov 10, 17",
+          "close": 174.67
+        },
+        {
+          "date": "2017-11-13",
+          "label": "Nov 13, 17",
+          "close": 173.97
+        },
+        {
+          "date": "2017-11-14",
+          "label": "Nov 14, 17",
+          "close": 171.34
+        },
+        {
+          "date": "2017-11-15",
+          "label": "Nov 15, 17",
+          "close": 169.08
+        },
+        {
+          "date": "2017-11-16",
+          "label": "Nov 16, 17",
+          "close": 171.1
+        },
+        {
+          "date": "2017-11-17",
+          "label": "Nov 17, 17",
+          "close": 170.15
+        },
+        {
+          "date": "2017-11-20",
+          "label": "Nov 20, 17",
+          "close": 169.98
+        },
+        {
+          "date": "2017-11-21",
+          "label": "Nov 21, 17",
+          "close": 173.14
+        },
+        {
+          "date": "2017-11-22",
+          "label": "Nov 22, 17",
+          "close": 174.96
+        },
+        {
+          "date": "2017-11-24",
+          "label": "Nov 24, 17",
+          "close": 174.97
+        },
+        {
+          "date": "2017-11-27",
+          "label": "Nov 27, 17",
+          "close": 174.09
+        },
+        {
+          "date": "2017-11-28",
+          "label": "Nov 28, 17",
+          "close": 173.07
+        },
+        {
+          "date": "2017-11-29",
+          "label": "Nov 29, 17",
+          "close": 169.48
+        },
+        {
+          "date": "2017-11-30",
+          "label": "Nov 30, 17",
+          "close": 171.85
+        },
+        {
+          "date": "2017-12-01",
+          "label": "Dec 1, 17",
+          "close": 171.05
+        },
+        {
+          "date": "2017-12-04",
+          "label": "Dec 4, 17",
+          "close": 169.8
+        },
+        {
+          "date": "2017-12-05",
+          "label": "Dec 5, 17",
+          "close": 169.64
+        },
+        {
+          "date": "2017-12-06",
+          "label": "Dec 6, 17",
+          "close": 169.01
+        },
+        {
+          "date": "2017-12-07",
+          "label": "Dec 7, 17",
+          "close": 169.32
+        },
+        {
+          "date": "2017-12-08",
+          "label": "Dec 8, 17",
+          "close": 169.37
+        },
+        {
+          "date": "2017-12-11",
+          "label": "Dec 11, 17",
+          "close": 172.67
+        },
+        {
+          "date": "2017-12-12",
+          "label": "Dec 12, 17",
+          "close": 171.7
+        },
+        {
+          "date": "2017-12-13",
+          "label": "Dec 13, 17",
+          "close": 172.27
+        },
+        {
+          "date": "2017-12-14",
+          "label": "Dec 14, 17",
+          "close": 172.22
+        },
+        {
+          "date": "2017-12-15",
+          "label": "Dec 15, 17",
+          "close": 173.97
+        },
+        {
+          "date": "2017-12-18",
+          "label": "Dec 18, 17",
+          "close": 176.42
+        },
+        {
+          "date": "2017-12-19",
+          "label": "Dec 19, 17",
+          "close": 174.54
+        },
+        {
+          "date": "2017-12-20",
+          "label": "Dec 20, 17",
+          "close": 174.35
+        },
+        {
+          "date": "2017-12-21",
+          "label": "Dec 21, 17",
+          "close": 175.01
+        },
+        {
+          "date": "2017-12-22",
+          "label": "Dec 22, 17",
+          "close": 175.01
+        },
+        {
+          "date": "2017-12-26",
+          "label": "Dec 26, 17",
+          "close": 170.57
+        },
+        {
+          "date": "2017-12-27",
+          "label": "Dec 27, 17",
+          "close": 170.6
+        },
+        {
+          "date": "2017-12-28",
+          "label": "Dec 28, 17",
+          "close": 171.08
+        },
+        {
+          "date": "2017-12-29",
+          "label": "Dec 29, 17",
+          "close": 169.23
+        },
+        {
+          "date": "2018-01-02",
+          "label": "Jan 2, 18",
+          "close": 172.26
+        },
+        {
+          "date": "2018-01-03",
+          "label": "Jan 3, 18",
+          "close": 172.23
+        },
+        {
+          "date": "2018-01-04",
+          "label": "Jan 4, 18",
+          "close": 173.03
+        },
+        {
+          "date": "2018-01-05",
+          "label": "Jan 5, 18",
+          "close": 175
+        },
+        {
+          "date": "2018-01-08",
+          "label": "Jan 8, 18",
+          "close": 174.35
+        },
+        {
+          "date": "2018-01-09",
+          "label": "Jan 9, 18",
+          "close": 174.33
+        },
+        {
+          "date": "2018-01-10",
+          "label": "Jan 10, 18",
+          "close": 174.29
+        },
+        {
+          "date": "2018-01-11",
+          "label": "Jan 11, 18",
+          "close": 175.28
+        },
+        {
+          "date": "2018-01-12",
+          "label": "Jan 12, 18",
+          "close": 177.09
+        },
+        {
+          "date": "2018-01-16",
+          "label": "Jan 16, 18",
+          "close": 176.19
+        },
+        {
+          "date": "2018-01-17",
+          "label": "Jan 17, 18",
+          "close": 179.1
+        },
+        {
+          "date": "2018-01-18",
+          "label": "Jan 18, 18",
+          "close": 179.26
+        },
+        {
+          "date": "2018-01-19",
+          "label": "Jan 19, 18",
+          "close": 178.46
+        },
+        {
+          "date": "2018-01-22",
+          "label": "Jan 22, 18",
+          "close": 177
+        },
+        {
+          "date": "2018-01-23",
+          "label": "Jan 23, 18",
+          "close": 177.04
+        },
+        {
+          "date": "2018-01-24",
+          "label": "Jan 24, 18",
+          "close": 174.22
+        },
+        {
+          "date": "2018-01-25",
+          "label": "Jan 25, 18",
+          "close": 171.11
+        },
+        {
+          "date": "2018-01-26",
+          "label": "Jan 26, 18",
+          "close": 171.51
+        },
+        {
+          "date": "2018-01-29",
+          "label": "Jan 29, 18",
+          "close": 167.96
+        },
+        {
+          "date": "2018-01-30",
+          "label": "Jan 30, 18",
+          "close": 166.97
+        },
+        {
+          "date": "2018-01-31",
+          "label": "Jan 31, 18",
+          "close": 167.43
+        },
+        {
+          "date": "2018-02-01",
+          "label": "Feb 1, 18",
+          "close": 167.78
+        },
+        {
+          "date": "2018-02-02",
+          "label": "Feb 2, 18",
+          "close": 160.5
+        },
+        {
+          "date": "2018-02-05",
+          "label": "Feb 5, 18",
+          "close": 156.49
+        },
+        {
+          "date": "2018-02-06",
+          "label": "Feb 6, 18",
+          "close": 163.03
+        },
+        {
+          "date": "2018-02-07",
+          "label": "Feb 7, 18",
+          "close": 159.54
+        },
+        {
+          "date": "2018-02-08",
+          "label": "Feb 8, 18",
+          "close": 155.15
+        },
+        {
+          "date": "2018-02-09",
+          "label": "Feb 9, 18",
+          "close": 156.41
+        },
+        {
+          "date": "2018-02-12",
+          "label": "Feb 12, 18",
+          "close": 162.71
+        },
+        {
+          "date": "2018-02-13",
+          "label": "Feb 13, 18",
+          "close": 164.34
+        },
+        {
+          "date": "2018-02-14",
+          "label": "Feb 14, 18",
+          "close": 167.37
+        },
+        {
+          "date": "2018-02-15",
+          "label": "Feb 15, 18",
+          "close": 172.99
+        },
+        {
+          "date": "2018-02-16",
+          "label": "Feb 16, 18",
+          "close": 172.43
+        },
+        {
+          "date": "2018-02-20",
+          "label": "Feb 20, 18",
+          "close": 171.85
+        },
+        {
+          "date": "2018-02-21",
+          "label": "Feb 21, 18",
+          "close": 171.07
+        },
+        {
+          "date": "2018-02-22",
+          "label": "Feb 22, 18",
+          "close": 172.5
+        },
+        {
+          "date": "2018-02-23",
+          "label": "Feb 23, 18",
+          "close": 175.5
+        },
+        {
+          "date": "2018-02-26",
+          "label": "Feb 26, 18",
+          "close": 178.97
+        },
+        {
+          "date": "2018-02-27",
+          "label": "Feb 27, 18",
+          "close": 178.39
+        },
+        {
+          "date": "2018-02-28",
+          "label": "Feb 28, 18",
+          "close": 178.12
+        },
+        {
+          "date": "2018-03-01",
+          "label": "Mar 1, 18",
+          "close": 175
+        },
+        {
+          "date": "2018-03-02",
+          "label": "Mar 2, 18",
+          "close": 176.21
+        },
+        {
+          "date": "2018-03-05",
+          "label": "Mar 5, 18",
+          "close": 176.82
+        },
+        {
+          "date": "2018-03-06",
+          "label": "Mar 6, 18",
+          "close": 176.67
+        },
+        {
+          "date": "2018-03-07",
+          "label": "Mar 7, 18",
+          "close": 175.03
+        },
+        {
+          "date": "2018-03-08",
+          "label": "Mar 8, 18",
+          "close": 176.94
+        },
+        {
+          "date": "2018-03-09",
+          "label": "Mar 9, 18",
+          "close": 179.98
+        },
+        {
+          "date": "2018-03-12",
+          "label": "Mar 12, 18",
+          "close": 181.72
+        },
+        {
+          "date": "2018-03-13",
+          "label": "Mar 13, 18",
+          "close": 179.97
+        },
+        {
+          "date": "2018-03-14",
+          "label": "Mar 14, 18",
+          "close": 178.44
+        },
+        {
+          "date": "2018-03-15",
+          "label": "Mar 15, 18",
+          "close": 178.65
+        },
+        {
+          "date": "2018-03-16",
+          "label": "Mar 16, 18",
+          "close": 178.02
+        },
+        {
+          "date": "2018-03-19",
+          "label": "Mar 19, 18",
+          "close": 175.3
+        },
+        {
+          "date": "2018-03-20",
+          "label": "Mar 20, 18",
+          "close": 175.24
+        },
+        {
+          "date": "2018-03-21",
+          "label": "Mar 21, 18",
+          "close": 171.27
+        },
+        {
+          "date": "2018-03-22",
+          "label": "Mar 22, 18",
+          "close": 168.85
+        },
+        {
+          "date": "2018-03-23",
+          "label": "Mar 23, 18",
+          "close": 164.94
+        },
+        {
+          "date": "2018-03-26",
+          "label": "Mar 26, 18",
+          "close": 172.77
+        },
+        {
+          "date": "2018-03-27",
+          "label": "Mar 27, 18",
+          "close": 168.34
+        },
+        {
+          "date": "2018-03-28",
+          "label": "Mar 28, 18",
+          "close": 166.48
+        },
+        {
+          "date": "2018-03-29",
+          "label": "Mar 29, 18",
+          "close": 167.78
+        },
+        {
+          "date": "2018-04-02",
+          "label": "Apr 2, 18",
+          "close": 166.68
+        },
+        {
+          "date": "2018-04-03",
+          "label": "Apr 3, 18",
+          "close": 168.39
+        },
+        {
+          "date": "2018-04-04",
+          "label": "Apr 4, 18",
+          "close": 171.61
+        },
+        {
+          "date": "2018-04-05",
+          "label": "Apr 5, 18",
+          "close": 172.8
+        },
+        {
+          "date": "2018-04-06",
+          "label": "Apr 6, 18",
+          "close": 168.38
+        },
+        {
+          "date": "2018-04-09",
+          "label": "Apr 9, 18",
+          "close": 170.05
+        },
+        {
+          "date": "2018-04-10",
+          "label": "Apr 10, 18",
+          "close": 173.25
+        },
+        {
+          "date": "2018-04-11",
+          "label": "Apr 11, 18",
+          "close": 172.44
+        },
+        {
+          "date": "2018-04-12",
+          "label": "Apr 12, 18",
+          "close": 174.14
+        },
+        {
+          "date": "2018-04-13",
+          "label": "Apr 13, 18",
+          "close": 174.73
+        },
+        {
+          "date": "2018-04-16",
+          "label": "Apr 16, 18",
+          "close": 175.82
+        },
+        {
+          "date": "2018-04-17",
+          "label": "Apr 17, 18",
+          "close": 178.24
+        },
+        {
+          "date": "2018-04-18",
+          "label": "Apr 18, 18",
+          "close": 177.84
+        },
+        {
+          "date": "2018-04-19",
+          "label": "Apr 19, 18",
+          "close": 172.8
+        },
+        {
+          "date": "2018-04-20",
+          "label": "Apr 20, 18",
+          "close": 165.72
+        },
+        {
+          "date": "2018-04-23",
+          "label": "Apr 23, 18",
+          "close": 165.24
+        },
+        {
+          "date": "2018-04-24",
+          "label": "Apr 24, 18",
+          "close": 162.94
+        },
+        {
+          "date": "2018-04-25",
+          "label": "Apr 25, 18",
+          "close": 163.65
+        },
+        {
+          "date": "2018-04-26",
+          "label": "Apr 26, 18",
+          "close": 164.22
+        },
+        {
+          "date": "2018-04-27",
+          "label": "Apr 27, 18",
+          "close": 162.32
+        },
+        {
+          "date": "2018-04-30",
+          "label": "Apr 30, 18",
+          "close": 165.26
+        },
+        {
+          "date": "2018-05-01",
+          "label": "May 1, 18",
+          "close": 169.1
+        },
+        {
+          "date": "2018-05-02",
+          "label": "May 2, 18",
+          "close": 176.57
+        },
+        {
+          "date": "2018-05-03",
+          "label": "May 3, 18",
+          "close": 176.89
+        },
+        {
+          "date": "2018-05-04",
+          "label": "May 4, 18",
+          "close": 183.83
+        },
+        {
+          "date": "2018-05-07",
+          "label": "May 7, 18",
+          "close": 185.16
+        },
+        {
+          "date": "2018-05-08",
+          "label": "May 8, 18",
+          "close": 186.05
+        },
+        {
+          "date": "2018-05-09",
+          "label": "May 9, 18",
+          "close": 187.36
+        },
+        {
+          "date": "2018-05-10",
+          "label": "May 10, 18",
+          "close": 190.04
+        },
+        {
+          "date": "2018-05-11",
+          "label": "May 11, 18",
+          "close": 188.59
+        },
+        {
+          "date": "2018-05-14",
+          "label": "May 14, 18",
+          "close": 188.15
+        },
+        {
+          "date": "2018-05-15",
+          "label": "May 15, 18",
+          "close": 186.44
+        },
+        {
+          "date": "2018-05-16",
+          "label": "May 16, 18",
+          "close": 188.18
+        },
+        {
+          "date": "2018-05-17",
+          "label": "May 17, 18",
+          "close": 186.99
+        },
+        {
+          "date": "2018-05-18",
+          "label": "May 18, 18",
+          "close": 186.31
+        },
+        {
+          "date": "2018-05-21",
+          "label": "May 21, 18",
+          "close": 187.63
+        },
+        {
+          "date": "2018-05-22",
+          "label": "May 22, 18",
+          "close": 187.16
+        },
+        {
+          "date": "2018-05-23",
+          "label": "May 23, 18",
+          "close": 188.36
+        },
+        {
+          "date": "2018-05-24",
+          "label": "May 24, 18",
+          "close": 188.15
+        },
+        {
+          "date": "2018-05-25",
+          "label": "May 25, 18",
+          "close": 188.58
+        },
+        {
+          "date": "2018-05-29",
+          "label": "May 29, 18",
+          "close": 187.9
+        },
+        {
+          "date": "2018-05-30",
+          "label": "May 30, 18",
+          "close": 187.5
+        },
+        {
+          "date": "2018-05-31",
+          "label": "May 31, 18",
+          "close": 186.87
+        },
+        {
+          "date": "2018-06-01",
+          "label": "Jun 1, 18",
+          "close": 190.24
+        },
+        {
+          "date": "2018-06-04",
+          "label": "Jun 4, 18",
+          "close": 191.83
+        },
+        {
+          "date": "2018-06-05",
+          "label": "Jun 5, 18",
+          "close": 193.31
+        },
+        {
+          "date": "2018-06-06",
+          "label": "Jun 6, 18",
+          "close": 193.98
+        },
+        {
+          "date": "2018-06-07",
+          "label": "Jun 7, 18",
+          "close": 193.46
+        },
+        {
+          "date": "2018-06-08",
+          "label": "Jun 8, 18",
+          "close": 191.7
+        },
+        {
+          "date": "2018-06-11",
+          "label": "Jun 11, 18",
+          "close": 191.23
+        },
+        {
+          "date": "2018-06-12",
+          "label": "Jun 12, 18",
+          "close": 192.28
+        },
+        {
+          "date": "2018-06-13",
+          "label": "Jun 13, 18",
+          "close": 190.7
+        },
+        {
+          "date": "2018-06-14",
+          "label": "Jun 14, 18",
+          "close": 190.8
+        },
+        {
+          "date": "2018-06-15",
+          "label": "Jun 15, 18",
+          "close": 188.84
+        },
+        {
+          "date": "2018-06-18",
+          "label": "Jun 18, 18",
+          "close": 188.74
+        },
+        {
+          "date": "2018-06-19",
+          "label": "Jun 19, 18",
+          "close": 185.69
+        },
+        {
+          "date": "2018-06-20",
+          "label": "Jun 20, 18",
+          "close": 186.5
+        },
+        {
+          "date": "2018-06-21",
+          "label": "Jun 21, 18",
+          "close": 185.46
+        },
+        {
+          "date": "2018-06-22",
+          "label": "Jun 22, 18",
+          "close": 184.92
+        },
+        {
+          "date": "2018-06-25",
+          "label": "Jun 25, 18",
+          "close": 182.17
+        },
+        {
+          "date": "2018-06-26",
+          "label": "Jun 26, 18",
+          "close": 184.43
+        },
+        {
+          "date": "2018-06-27",
+          "label": "Jun 27, 18",
+          "close": 184.16
+        },
+        {
+          "date": "2018-06-28",
+          "label": "Jun 28, 18",
+          "close": 185.5
+        },
+        {
+          "date": "2018-06-29",
+          "label": "Jun 29, 18",
+          "close": 185.11
+        },
+        {
+          "date": "2018-07-02",
+          "label": "Jul 2, 18",
+          "close": 187.18
+        },
+        {
+          "date": "2018-07-03",
+          "label": "Jul 3, 18",
+          "close": 183.92
+        },
+        {
+          "date": "2018-07-05",
+          "label": "Jul 5, 18",
+          "close": 185.4
+        },
+        {
+          "date": "2018-07-06",
+          "label": "Jul 6, 18",
+          "close": 187.97
+        },
+        {
+          "date": "2018-07-09",
+          "label": "Jul 9, 18",
+          "close": 190.58
+        },
+        {
+          "date": "2018-07-10",
+          "label": "Jul 10, 18",
+          "close": 190.35
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Jul 11, 18",
+          "close": 187.88
+        },
+        {
+          "date": "2018-07-12",
+          "label": "Jul 12, 18",
+          "close": 191.03
+        },
+        {
+          "date": "2018-07-13",
+          "label": "Jul 13, 18",
+          "close": 191.33
+        },
+        {
+          "date": "2018-07-16",
+          "label": "Jul 16, 18",
+          "close": 190.91
+        },
+        {
+          "date": "2018-07-17",
+          "label": "Jul 17, 18",
+          "close": 191.45
+        },
+        {
+          "date": "2018-07-18",
+          "label": "Jul 18, 18",
+          "close": 190.4
+        },
+        {
+          "date": "2018-07-19",
+          "label": "Jul 19, 18",
+          "close": 191.88
+        },
+        {
+          "date": "2018-07-20",
+          "label": "Jul 20, 18",
+          "close": 191.44
+        },
+        {
+          "date": "2018-07-23",
+          "label": "Jul 23, 18",
+          "close": 191.61
+        },
+        {
+          "date": "2018-07-24",
+          "label": "Jul 24, 18",
+          "close": 193
+        },
+        {
+          "date": "2018-07-25",
+          "label": "Jul 25, 18",
+          "close": 194.82
+        },
+        {
+          "date": "2018-07-26",
+          "label": "Jul 26, 18",
+          "close": 194.21
+        },
+        {
+          "date": "2018-07-27",
+          "label": "Jul 27, 18",
+          "close": 190.98
+        },
+        {
+          "date": "2018-07-30",
+          "label": "Jul 30, 18",
+          "close": 189.91
+        },
+        {
+          "date": "2018-07-31",
+          "label": "Jul 31, 18",
+          "close": 190.29
+        },
+        {
+          "date": "2018-08-01",
+          "label": "Aug 1, 18",
+          "close": 201.5
+        },
+        {
+          "date": "2018-08-02",
+          "label": "Aug 2, 18",
+          "close": 207.39
+        },
+        {
+          "date": "2018-08-03",
+          "label": "Aug 3, 18",
+          "close": 207.99
+        },
+        {
+          "date": "2018-08-06",
+          "label": "Aug 6, 18",
+          "close": 209.07
+        },
+        {
+          "date": "2018-08-07",
+          "label": "Aug 7, 18",
+          "close": 207.11
+        },
+        {
+          "date": "2018-08-08",
+          "label": "Aug 8, 18",
+          "close": 207.25
+        },
+        {
+          "date": "2018-08-09",
+          "label": "Aug 9, 18",
+          "close": 208.88
+        },
+        {
+          "date": "2018-08-10",
+          "label": "Aug 10, 18",
+          "close": 207.53
+        },
+        {
+          "date": "2018-08-13",
+          "label": "Aug 13, 18",
+          "close": 208.87
+        },
+        {
+          "date": "2018-08-14",
+          "label": "Aug 14, 18",
+          "close": 209.75
+        },
+        {
+          "date": "2018-08-15",
+          "label": "Aug 15, 18",
+          "close": 210.24
+        },
+        {
+          "date": "2018-08-16",
+          "label": "Aug 16, 18",
+          "close": 213.32
+        },
+        {
+          "date": "2018-08-17",
+          "label": "Aug 17, 18",
+          "close": 217.58
+        },
+        {
+          "date": "2018-08-20",
+          "label": "Aug 20, 18",
+          "close": 215.46
+        },
+        {
+          "date": "2018-08-21",
+          "label": "Aug 21, 18",
+          "close": 215.04
+        },
+        {
+          "date": "2018-08-22",
+          "label": "Aug 22, 18",
+          "close": 215.05
+        },
+        {
+          "date": "2018-08-23",
+          "label": "Aug 23, 18",
+          "close": 215.49
+        },
+        {
+          "date": "2018-08-24",
+          "label": "Aug 24, 18",
+          "close": 216.16
+        },
+        {
+          "date": "2018-08-27",
+          "label": "Aug 27, 18",
+          "close": 217.94
+        },
+        {
+          "date": "2018-08-28",
+          "label": "Aug 28, 18",
+          "close": 219.7
+        },
+        {
+          "date": "2018-08-29",
+          "label": "Aug 29, 18",
+          "close": 222.98
+        },
+        {
+          "date": "2018-08-30",
+          "label": "Aug 30, 18",
+          "close": 225.03
+        },
+        {
+          "date": "2018-08-31",
+          "label": "Aug 31, 18",
+          "close": 227.63
+        },
+        {
+          "date": "2018-09-04",
+          "label": "Sep 4, 18",
+          "close": 228.36
+        },
+        {
+          "date": "2018-09-05",
+          "label": "Sep 5, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-09-06",
+          "label": "Sep 6, 18",
+          "close": 223.1
+        },
+        {
+          "date": "2018-09-07",
+          "label": "Sep 7, 18",
+          "close": 221.3
+        },
+        {
+          "date": "2018-09-10",
+          "label": "Sep 10, 18",
+          "close": 218.33
+        },
+        {
+          "date": "2018-09-11",
+          "label": "Sep 11, 18",
+          "close": 223.85
+        },
+        {
+          "date": "2018-09-12",
+          "label": "Sep 12, 18",
+          "close": 221.07
+        },
+        {
+          "date": "2018-09-13",
+          "label": "Sep 13, 18",
+          "close": 226.41
+        },
+        {
+          "date": "2018-09-14",
+          "label": "Sep 14, 18",
+          "close": 223.84
+        },
+        {
+          "date": "2018-09-17",
+          "label": "Sep 17, 18",
+          "close": 217.88
+        },
+        {
+          "date": "2018-09-18",
+          "label": "Sep 18, 18",
+          "close": 218.24
+        },
+        {
+          "date": "2018-09-19",
+          "label": "Sep 19, 18",
+          "close": 218.37
+        },
+        {
+          "date": "2018-09-20",
+          "label": "Sep 20, 18",
+          "close": 220.03
+        },
+        {
+          "date": "2018-09-21",
+          "label": "Sep 21, 18",
+          "close": 217.66
+        },
+        {
+          "date": "2018-09-24",
+          "label": "Sep 24, 18",
+          "close": 220.79
+        },
+        {
+          "date": "2018-09-25",
+          "label": "Sep 25, 18",
+          "close": 222.19
+        },
+        {
+          "date": "2018-09-26",
+          "label": "Sep 26, 18",
+          "close": 220.42
+        },
+        {
+          "date": "2018-09-27",
+          "label": "Sep 27, 18",
+          "close": 224.95
+        },
+        {
+          "date": "2018-09-28",
+          "label": "Sep 28, 18",
+          "close": 225.74
+        },
+        {
+          "date": "2018-10-01",
+          "label": "Oct 1, 18",
+          "close": 227.26
+        },
+        {
+          "date": "2018-10-02",
+          "label": "Oct 2, 18",
+          "close": 229.28
+        },
+        {
+          "date": "2018-10-03",
+          "label": "Oct 3, 18",
+          "close": 232.07
+        },
+        {
+          "date": "2018-10-04",
+          "label": "Oct 4, 18",
+          "close": 227.99
+        },
+        {
+          "date": "2018-10-05",
+          "label": "Oct 5, 18",
+          "close": 224.29
+        },
+        {
+          "date": "2018-10-08",
+          "label": "Oct 8, 18",
+          "close": 223.77
+        },
+        {
+          "date": "2018-10-09",
+          "label": "Oct 9, 18",
+          "close": 226.87
+        },
+        {
+          "date": "2018-10-10",
+          "label": "Oct 10, 18",
+          "close": 216.36
+        },
+        {
+          "date": "2018-10-11",
+          "label": "Oct 11, 18",
+          "close": 214.45
+        },
+        {
+          "date": "2018-10-12",
+          "label": "Oct 12, 18",
+          "close": 222.11
+        },
+        {
+          "date": "2018-10-15",
+          "label": "Oct 15, 18",
+          "close": 217.36
+        },
+        {
+          "date": "2018-10-16",
+          "label": "Oct 16, 18",
+          "close": 222.15
+        },
+        {
+          "date": "2018-10-17",
+          "label": "Oct 17, 18",
+          "close": 221.19
+        },
+        {
+          "date": "2018-10-18",
+          "label": "Oct 18, 18",
+          "close": 216.02
+        },
+        {
+          "date": "2018-10-19",
+          "label": "Oct 19, 18",
+          "close": 219.31
+        },
+        {
+          "date": "2018-10-22",
+          "label": "Oct 22, 18",
+          "close": 220.65
+        },
+        {
+          "date": "2018-10-23",
+          "label": "Oct 23, 18",
+          "close": 222.73
+        },
+        {
+          "date": "2018-10-24",
+          "label": "Oct 24, 18",
+          "close": 215.09
+        },
+        {
+          "date": "2018-10-25",
+          "label": "Oct 25, 18",
+          "close": 219.8
+        },
+        {
+          "date": "2018-10-26",
+          "label": "Oct 26, 18",
+          "close": 216.3
+        },
+        {
+          "date": "2018-10-29",
+          "label": "Oct 29, 18",
+          "close": 212.24
+        },
+        {
+          "date": "2018-10-30",
+          "label": "Oct 30, 18",
+          "close": 213.3
+        },
+        {
+          "date": "2018-10-31",
+          "label": "Oct 31, 18",
+          "close": 218.86
+        },
+        {
+          "date": "2018-11-01",
+          "label": "Nov 1, 18",
+          "close": 222.22
+        },
+        {
+          "date": "2018-11-02",
+          "label": "Nov 2, 18",
+          "close": 207.48
+        },
+        {
+          "date": "2018-11-05",
+          "label": "Nov 5, 18",
+          "close": 201.59
+        },
+        {
+          "date": "2018-11-06",
+          "label": "Nov 6, 18",
+          "close": 203.77
+        },
+        {
+          "date": "2018-11-07",
+          "label": "Nov 7, 18",
+          "close": 209.95
+        },
+        {
+          "date": "2018-11-08",
+          "label": "Nov 8, 18",
+          "close": 208.49
+        },
+        {
+          "date": "2018-11-09",
+          "label": "Nov 9, 18",
+          "close": 204.47
+        },
+        {
+          "date": "2018-11-12",
+          "label": "Nov 12, 18",
+          "close": 194.17
+        },
+        {
+          "date": "2018-11-13",
+          "label": "Nov 13, 18",
+          "close": 192.23
+        },
+        {
+          "date": "2018-11-14",
+          "label": "Nov 14, 18",
+          "close": 186.8
+        },
+        {
+          "date": "2018-11-15",
+          "label": "Nov 15, 18",
+          "close": 191.41
+        },
+        {
+          "date": "2018-11-16",
+          "label": "Nov 16, 18",
+          "close": 193.53
+        },
+        {
+          "date": "2018-11-19",
+          "label": "Nov 19, 18",
+          "close": 185.86
+        },
+        {
+          "date": "2018-11-20",
+          "label": "Nov 20, 18",
+          "close": 176.98
+        },
+        {
+          "date": "2018-11-21",
+          "label": "Nov 21, 18",
+          "close": 176.78
+        },
+        {
+          "date": "2018-11-23",
+          "label": "Nov 23, 18",
+          "close": 172.29
+        },
+        {
+          "date": "2018-11-26",
+          "label": "Nov 26, 18",
+          "close": 174.62
+        },
+        {
+          "date": "2018-11-27",
+          "label": "Nov 27, 18",
+          "close": 174.24
+        },
+        {
+          "date": "2018-11-28",
+          "label": "Nov 28, 18",
+          "close": 180.94
+        },
+        {
+          "date": "2018-11-29",
+          "label": "Nov 29, 18",
+          "close": 179.55
+        },
+        {
+          "date": "2018-11-30",
+          "label": "Nov 30, 18",
+          "close": 178.58
+        },
+        {
+          "date": "2018-12-03",
+          "label": "Dec 3, 18",
+          "close": 184.82
+        },
+        {
+          "date": "2018-12-04",
+          "label": "Dec 4, 18",
+          "close": 176.69
+        },
+        {
+          "date": "2018-12-06",
+          "label": "Dec 6, 18",
+          "close": 174.72
+        },
+        {
+          "date": "2018-12-07",
+          "label": "Dec 7, 18",
+          "close": 168.49
+        },
+        {
+          "date": "2018-12-10",
+          "label": "Dec 10, 18",
+          "close": 169.6
+        },
+        {
+          "date": "2018-12-11",
+          "label": "Dec 11, 18",
+          "close": 168.63
+        },
+        {
+          "date": "2018-12-12",
+          "label": "Dec 12, 18",
+          "close": 169.1
+        },
+        {
+          "date": "2018-12-13",
+          "label": "Dec 13, 18",
+          "close": 170.95
+        },
+        {
+          "date": "2018-12-14",
+          "label": "Dec 14, 18",
+          "close": 165.48
+        },
+        {
+          "date": "2018-12-17",
+          "label": "Dec 17, 18",
+          "close": 163.94
+        },
+        {
+          "date": "2018-12-18",
+          "label": "Dec 18, 18",
+          "close": 166.07
+        },
+        {
+          "date": "2018-12-19",
+          "label": "Dec 19, 18",
+          "close": 160.89
+        },
+        {
+          "date": "2018-12-20",
+          "label": "Dec 20, 18",
+          "close": 156.83
+        },
+        {
+          "date": "2018-12-21",
+          "label": "Dec 21, 18",
+          "close": 150.73
+        },
+        {
+          "date": "2018-12-24",
+          "label": "Dec 24, 18",
+          "close": 146.83
+        },
+        {
+          "date": "2018-12-26",
+          "label": "Dec 26, 18",
+          "close": 157.17
+        },
+        {
+          "date": "2018-12-27",
+          "label": "Dec 27, 18",
+          "close": 156.15
+        },
+        {
+          "date": "2018-12-28",
+          "label": "Dec 28, 18",
+          "close": 156.23
+        },
+        {
+          "date": "2018-12-31",
+          "label": "Dec 31, 18",
+          "close": 157.74
+        },
+        {
+          "date": "2019-01-02",
+          "label": "Jan 2, 19",
+          "close": 157.92
+        },
+        {
+          "date": "2019-01-03",
+          "label": "Jan 3, 19",
+          "close": 142.19
+        },
+        {
+          "date": "2019-01-04",
+          "label": "Jan 4, 19",
+          "close": 148.26
+        },
+        {
+          "date": "2019-01-07",
+          "label": "Jan 7, 19",
+          "close": 147.93
+        },
+        {
+          "date": "2019-01-08",
+          "label": "Jan 8, 19",
+          "close": 150.75
+        },
+        {
+          "date": "2019-01-09",
+          "label": "Jan 9, 19",
+          "close": 153.31
+        },
+        {
+          "date": "2019-01-10",
+          "label": "Jan 10, 19",
+          "close": 153.8
+        },
+        {
+          "date": "2019-01-11",
+          "label": "Jan 11, 19",
+          "close": 152.29
+        },
+        {
+          "date": "2019-01-14",
+          "label": "Jan 14, 19",
+          "close": 150
+        },
+        {
+          "date": "2019-01-15",
+          "label": "Jan 15, 19",
+          "close": 153.07
+        },
+        {
+          "date": "2019-01-16",
+          "label": "Jan 16, 19",
+          "close": 154.94
+        },
+        {
+          "date": "2019-01-17",
+          "label": "Jan 17, 19",
+          "close": 155.86
+        },
+        {
+          "date": "2019-01-18",
+          "label": "Jan 18, 19",
+          "close": 156.82
+        },
+        {
+          "date": "2019-01-22",
+          "label": "Jan 22, 19",
+          "close": 153.3
+        },
+        {
+          "date": "2019-01-23",
+          "label": "Jan 23, 19",
+          "close": 153.92
+        },
+        {
+          "date": "2019-01-24",
+          "label": "Jan 24, 19",
+          "close": 152.7
+        },
+        {
+          "date": "2019-01-25",
+          "label": "Jan 25, 19",
+          "close": 157.76
+        },
+        {
+          "date": "2019-01-28",
+          "label": "Jan 28, 19",
+          "close": 156.3
+        },
+        {
+          "date": "2019-01-29",
+          "label": "Jan 29, 19",
+          "close": 154.68
+        },
+        {
+          "date": "2019-01-30",
+          "label": "Jan 30, 19",
+          "close": 165.25
+        },
+        {
+          "date": "2019-01-31",
+          "label": "Jan 31, 19",
+          "close": 166.44
+        },
+        {
+          "date": "2019-02-01",
+          "label": "Feb 1, 19",
+          "close": 166.52
+        },
+        {
+          "date": "2019-02-04",
+          "label": "Feb 4, 19",
+          "close": 171.25
+        },
+        {
+          "date": "2019-02-05",
+          "label": "Feb 5, 19",
+          "close": 174.18
+        },
+        {
+          "date": "2019-02-06",
+          "label": "Feb 6, 19",
+          "close": 174.24
+        },
+        {
+          "date": "2019-02-07",
+          "label": "Feb 7, 19",
+          "close": 170.94
+        },
+        {
+          "date": "2019-02-08",
+          "label": "Feb 8, 19",
+          "close": 170.41
+        },
+        {
+          "date": "2019-02-11",
+          "label": "Feb 11, 19",
+          "close": 169.43
+        },
+        {
+          "date": "2019-02-12",
+          "label": "Feb 12, 19",
+          "close": 170.89
+        },
+        {
+          "date": "2019-02-13",
+          "label": "Feb 13, 19",
+          "close": 170.18
+        },
+        {
+          "date": "2019-02-14",
+          "label": "Feb 14, 19",
+          "close": 170.8
+        },
+        {
+          "date": "2019-02-15",
+          "label": "Feb 15, 19",
+          "close": 170.42
+        },
+        {
+          "date": "2019-02-19",
+          "label": "Feb 19, 19",
+          "close": 170.93
+        },
+        {
+          "date": "2019-02-20",
+          "label": "Feb 20, 19",
+          "close": 172.03
+        },
+        {
+          "date": "2019-02-21",
+          "label": "Feb 21, 19",
+          "close": 171.06
+        },
+        {
+          "date": "2019-02-22",
+          "label": "Feb 22, 19",
+          "close": 172.97
+        },
+        {
+          "date": "2019-02-25",
+          "label": "Feb 25, 19",
+          "close": 174.23
+        },
+        {
+          "date": "2019-02-26",
+          "label": "Feb 26, 19",
+          "close": 174.33
+        },
+        {
+          "date": "2019-02-27",
+          "label": "Feb 27, 19",
+          "close": 174.87
+        },
+        {
+          "date": "2019-02-28",
+          "label": "Feb 28, 19",
+          "close": 173.15
+        },
+        {
+          "date": "2019-03-01",
+          "label": "Mar 1, 19",
+          "close": 174.97
+        },
+        {
+          "date": "2019-03-04",
+          "label": "Mar 4, 19",
+          "close": 175.85
+        },
+        {
+          "date": "2019-03-05",
+          "label": "Mar 5, 19",
+          "close": 175.53
+        },
+        {
+          "date": "2019-03-06",
+          "label": "Mar 6, 19",
+          "close": 174.52
+        },
+        {
+          "date": "2019-03-07",
+          "label": "Mar 7, 19",
+          "close": 172.5
+        },
+        {
+          "date": "2019-03-08",
+          "label": "Mar 8, 19",
+          "close": 172.91
+        },
+        {
+          "date": "2019-03-11",
+          "label": "Mar 11, 19",
+          "close": 178.9
+        },
+        {
+          "date": "2019-03-12",
+          "label": "Mar 12, 19",
+          "close": 180.91
+        },
+        {
+          "date": "2019-03-13",
+          "label": "Mar 13, 19",
+          "close": 181.71
+        },
+        {
+          "date": "2019-03-14",
+          "label": "Mar 14, 19",
+          "close": 183.73
+        },
+        {
+          "date": "2019-03-15",
+          "label": "Mar 15, 19",
+          "close": 186.12
+        },
+        {
+          "date": "2019-03-18",
+          "label": "Mar 18, 19",
+          "close": 188.02
+        },
+        {
+          "date": "2019-03-19",
+          "label": "Mar 19, 19",
+          "close": 186.53
+        },
+        {
+          "date": "2019-03-20",
+          "label": "Mar 20, 19",
+          "close": 188.16
+        },
+        {
+          "date": "2019-03-21",
+          "label": "Mar 21, 19",
+          "close": 195.09
+        },
+        {
+          "date": "2019-03-22",
+          "label": "Mar 22, 19",
+          "close": 191.05
+        },
+        {
+          "date": "2019-03-25",
+          "label": "Mar 25, 19",
+          "close": 188.74
+        },
+        {
+          "date": "2019-03-26",
+          "label": "Mar 26, 19",
+          "close": 186.79
+        },
+        {
+          "date": "2019-03-27",
+          "label": "Mar 27, 19",
+          "close": 188.47
+        },
+        {
+          "date": "2019-03-28",
+          "label": "Mar 28, 19",
+          "close": 188.72
+        },
+        {
+          "date": "2019-03-29",
+          "label": "Mar 29, 19",
+          "close": 189.95
+        },
+        {
+          "date": "2019-04-01",
+          "label": "Apr 1, 19",
+          "close": 191.24
+        },
+        {
+          "date": "2019-04-02",
+          "label": "Apr 2, 19",
+          "close": 194.02
+        },
+        {
+          "date": "2019-04-03",
+          "label": "Apr 3, 19",
+          "close": 195.35
+        },
+        {
+          "date": "2019-04-04",
+          "label": "Apr 4, 19",
+          "close": 195.69
+        },
+        {
+          "date": "2019-04-05",
+          "label": "Apr 5, 19",
+          "close": 197
+        },
+        {
+          "date": "2019-04-08",
+          "label": "Apr 8, 19",
+          "close": 200.1
+        },
+        {
+          "date": "2019-04-09",
+          "label": "Apr 9, 19",
+          "close": 199.5
+        },
+        {
+          "date": "2019-04-10",
+          "label": "Apr 10, 19",
+          "close": 200.62
+        },
+        {
+          "date": "2019-04-11",
+          "label": "Apr 11, 19",
+          "close": 198.95
+        },
+        {
+          "date": "2019-04-12",
+          "label": "Apr 12, 19",
+          "close": 198.87
+        },
+        {
+          "date": "2019-04-15",
+          "label": "Apr 15, 19",
+          "close": 199.23
+        },
+        {
+          "date": "2019-04-16",
+          "label": "Apr 16, 19",
+          "close": 199.25
+        },
+        {
+          "date": "2019-04-17",
+          "label": "Apr 17, 19",
+          "close": 203.13
+        },
+        {
+          "date": "2019-04-18",
+          "label": "Apr 18, 19",
+          "close": 203.86
+        },
+        {
+          "date": "2019-04-22",
+          "label": "Apr 22, 19",
+          "close": 204.53
+        },
+        {
+          "date": "2019-04-23",
+          "label": "Apr 23, 19",
+          "close": 207.48
+        },
+        {
+          "date": "2019-04-24",
+          "label": "Apr 24, 19",
+          "close": 207.16
+        },
+        {
+          "date": "2019-04-25",
+          "label": "Apr 25, 19",
+          "close": 205.28
+        },
+        {
+          "date": "2019-04-26",
+          "label": "Apr 26, 19",
+          "close": 204.3
+        },
+        {
+          "date": "2019-04-29",
+          "label": "Apr 29, 19",
+          "close": 204.61
+        },
+        {
+          "date": "2019-04-30",
+          "label": "Apr 30, 19",
+          "close": 200.67
+        },
+        {
+          "date": "2019-05-01",
+          "label": "May 1, 19",
+          "close": 210.52
+        },
+        {
+          "date": "2019-05-02",
+          "label": "May 2, 19",
+          "close": 209.15
+        },
+        {
+          "date": "2019-05-03",
+          "label": "May 3, 19",
+          "close": 211.75
+        },
+        {
+          "date": "2019-05-06",
+          "label": "May 6, 19",
+          "close": 208.48
+        },
+        {
+          "date": "2019-05-07",
+          "label": "May 7, 19",
+          "close": 202.86
+        },
+        {
+          "date": "2019-05-08",
+          "label": "May 8, 19",
+          "close": 202.9
+        },
+        {
+          "date": "2019-05-09",
+          "label": "May 9, 19",
+          "close": 200.72
+        },
+        {
+          "date": "2019-05-10",
+          "label": "May 10, 19",
+          "close": 197.18
+        },
+        {
+          "date": "2019-05-13",
+          "label": "May 13, 19",
+          "close": 185.72
+        },
+        {
+          "date": "2019-05-14",
+          "label": "May 14, 19",
+          "close": 188.66
+        },
+        {
+          "date": "2019-05-15",
+          "label": "May 15, 19",
+          "close": 190.92
+        },
+        {
+          "date": "2019-05-16",
+          "label": "May 16, 19",
+          "close": 190.08
+        },
+        {
+          "date": "2019-05-17",
+          "label": "May 17, 19",
+          "close": 189
+        },
+        {
+          "date": "2019-05-20",
+          "label": "May 20, 19",
+          "close": 183.09
+        },
+        {
+          "date": "2019-05-21",
+          "label": "May 21, 19",
+          "close": 186.6
+        },
+        {
+          "date": "2019-05-22",
+          "label": "May 22, 19",
+          "close": 182.78
+        },
+        {
+          "date": "2019-05-23",
+          "label": "May 23, 19",
+          "close": 179.66
+        },
+        {
+          "date": "2019-05-24",
+          "label": "May 24, 19",
+          "close": 178.97
+        },
+        {
+          "date": "2019-05-28",
+          "label": "May 28, 19",
+          "close": 178.23
+        },
+        {
+          "date": "2019-05-29",
+          "label": "May 29, 19",
+          "close": 177.38
+        },
+        {
+          "date": "2019-05-30",
+          "label": "May 30, 19",
+          "close": 178.3
+        },
+        {
+          "date": "2019-05-31",
+          "label": "May 31, 19",
+          "close": 175.07
+        },
+        {
+          "date": "2019-06-03",
+          "label": "Jun 3, 19",
+          "close": 173.3
+        },
+        {
+          "date": "2019-06-04",
+          "label": "Jun 4, 19",
+          "close": 179.64
+        },
+        {
+          "date": "2019-06-05",
+          "label": "Jun 5, 19",
+          "close": 182.54
+        },
+        {
+          "date": "2019-06-06",
+          "label": "Jun 6, 19",
+          "close": 185.22
+        },
+        {
+          "date": "2019-06-07",
+          "label": "Jun 7, 19",
+          "close": 190.15
+        },
+        {
+          "date": "2019-06-10",
+          "label": "Jun 10, 19",
+          "close": 192.58
+        },
+        {
+          "date": "2019-06-11",
+          "label": "Jun 11, 19",
+          "close": 194.81
+        },
+        {
+          "date": "2019-06-12",
+          "label": "Jun 12, 19",
+          "close": 194.19
+        },
+        {
+          "date": "2019-06-13",
+          "label": "Jun 13, 19",
+          "close": 194.15
+        },
+        {
+          "date": "2019-06-14",
+          "label": "Jun 14, 19",
+          "close": 192.74
+        },
+        {
+          "date": "2019-06-17",
+          "label": "Jun 17, 19",
+          "close": 193.89
+        },
+        {
+          "date": "2019-06-18",
+          "label": "Jun 18, 19",
+          "close": 198.45
+        },
+        {
+          "date": "2019-06-19",
+          "label": "Jun 19, 19",
+          "close": 197.87
+        },
+        {
+          "date": "2019-06-20",
+          "label": "Jun 20, 19",
+          "close": 199.46
+        },
+        {
+          "date": "2019-06-21",
+          "label": "Jun 21, 19",
+          "close": 198.78
+        },
+        {
+          "date": "2019-06-24",
+          "label": "Jun 24, 19",
+          "close": 198.58
+        }
+      ]
+    }
   }
 });

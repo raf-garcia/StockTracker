@@ -1,9 +1,14 @@
 import { connect } from 'react-redux';
 import Chart from './chart';
-import { selectChartDataDay } from '../../util/selectors';
+import { selectChartDataDay, selectChartDataFiveDay, selectChartDataOneMonth, selectChartDataYear } from '../../util/selectors';
 
 const mapStateToProps = ({ quotes }) => ({
-    data: selectChartDataDay(quotes.chartDataDay)
-})
+    oneDayData: selectChartDataDay(quotes.chartDataDay),
+    fiveDayData: selectChartDataFiveDay(quotes.chartData.fiveDay),
+    oneMonthData: selectChartDataOneMonth(quotes.chartData.oneMonth),
+    oneYearData: selectChartDataYear(quotes.chartData.oneYear),
+    fiveYearData: selectChartDataYear(quotes.chartData.fiveYear),
+    maxData: selectChartDataYear(quotes.chartData.max)
+});
 
 export default connect(mapStateToProps, null)(Chart);

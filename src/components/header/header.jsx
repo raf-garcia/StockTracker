@@ -6,7 +6,6 @@ import SearchPriceLayout from '../search/searchPriceLayout';
 import './header.css'
 
 const Header = ({latestPrice, change, changePercent, exchange, sector, lastUpdate}) => {
-console.log();
     return (
         <div className="header-wrapper">
             <LogoTabsLayout/>
