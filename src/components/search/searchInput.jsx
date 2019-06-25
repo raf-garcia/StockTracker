@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react';
 
-export const SearchInput = ({ searchAction }) => {
+const SearchInput = ({ searchAction }) => {
   const [searchText, setSearchText] = useState('');
 
   const handleSubmit = useCallback(event => {
