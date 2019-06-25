@@ -5,7 +5,7 @@ import SearchPriceLayout from './searchPriceLayout';
 
 import './header.css'
 
-const header = ({latestPrice, change, changePercent, exchange, sector}) => {
+const Header = ({latestPrice, change, changePercent, exchange, sector}) => {
 
     return (
         <div className="header-wrapper">
@@ -16,4 +16,4 @@ const header = ({latestPrice, change, changePercent, exchange, sector}) => {
     );
 }
 
-export default header;
+export default Header;
