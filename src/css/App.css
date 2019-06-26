@@ -164,11 +164,7 @@ body {
   font-weight: 100;
 }
 
-
 /* Company Information Styles */
-.section-companyinfo {
-  /* margin: 1rem 0 2rem 0; */
-}
 
 .section-companyinfo__name {
   padding-bottom: 0.7rem;
@@ -187,11 +183,12 @@ body {
 
 .section-companyinfo__description {
   padding-top: 0.7rem;
+  line-height: 1.5;
 }
 
 /* Top Peers Styles */
 .section-topPeers {
-  margin-top: var(--margin-component-top);
+  margin-top: 3rem;
 }
 .section-topPeers__peer:not(:last-child){
   margin-right: 1rem;
