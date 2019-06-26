@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import SearchListContainer from '../searchList/searchListContainer';
 
-const SearchInput = ({ searchAction }) => {
+const SearchInput = ({ searchAction, symbol, companyName }) => {
   const [searchText, setSearchText] = useState('');
 
   const handleSubmit = () => {
@@ -17,7 +17,7 @@ const SearchInput = ({ searchAction }) => {
   return (
     <>
       <form onSubmit={handleSubmit}>
-        <input type="text" value={searchText} onChange={input => setSearchText(input.target.value)} size="100%" />
+        <input type="text" value={searchText} onChange={input => setSearchText(input.target.value)} placeholder={(companyName != null) ? `${companyName} (${symbol})` : 'Search' }/>
       </form>
       <SearchListContainer searchText={searchText} searchAction={handleSubmit}/>
     </>
