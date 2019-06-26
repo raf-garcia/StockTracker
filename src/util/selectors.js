@@ -52,7 +52,7 @@ export const selectCompanyStats = (companyData) => {
             name: "Earnings Per Share"
         },
         {
-            value: changeToPercent(companyData.dividendYield),
+            value: Number(changeToPercent(companyData.dividendYield))+'%',
             name: "Dividend & Yield"
         }
     ]

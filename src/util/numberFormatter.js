@@ -25,8 +25,6 @@ export const addCommasToNumber = (number) => {
 }
 
 export const changeToPercent = (number) => {
-    if (isNaN(number) || number == null) return null;
-
-    number = (number*100).toFixed(2);
-    return String(number)+'%';
+    return (isNaN(number) || number == null) ? 
+        null : (number*100).toFixed(2);
 }
