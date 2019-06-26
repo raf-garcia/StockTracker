@@ -95,7 +95,7 @@ ul.header__search-list{
 
     list-style: none;
     overflow: auto;
-    height: 20rem;
+    height: auto;
     width: 50%;
     background-color: var(--color-secondary);
 

@@ -6,17 +6,19 @@ const Chart = (props) => {
   const [chartData, setChartData] = useState(oneDayData)
 
   return (
-    <div>
-      <button onClick={ () => setChartData(oneDayData) }>  1D  </button>
-      <button onClick={ () => setChartData(fiveDayData)}>  5D  </button>
-      <button onClick={ () => setChartData(oneMonthData)}>  1M  </button>
-      <button onClick={() => setChartData(oneYearData)}>  1Y  </button>
-      <button onClick={() => setChartData(fiveYearData)}>  5Y  </button>
-      <button onClick={() => setChartData(maxData)}>  MAX  </button>
+    <div className = 'chart'>
+      <div className = 'chart__select'>
+        <a href="#" onClick={ () => setChartData(oneDayData) }>  1D  </a>
+        <a href="#" onClick={ () => setChartData(fiveDayData)}>  5D  </a>
+        <a href="#" onClick={ () => setChartData(oneMonthData)}>  1M  </a>
+        <a href="#" onClick={() => setChartData(oneYearData)}>  1Y  </a>
+        <a href="#" onClick={() => setChartData(fiveYearData)}>  5Y  </a>
+        <a href="#" onClick={() => setChartData(maxData)}>  MAX  </a>
+      </div>
 
-      <ResponsiveContainer width="70%" aspect={0.9} minWidth={360} maxHeight={800}>
+      <ResponsiveContainer width="100%" aspect={1.8}>
         <AreaChart data={chartData} margin={{
-            top: 10, right: 30, left: 0, bottom: 0,
+            top: 0, right: 0, left: 0, bottom: 0,
           }} >
 
           <defs>
