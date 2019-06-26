@@ -4,7 +4,8 @@ import {
   newsFilters,
   quoteFilters,
   statsFilters,
-  companyInfoFilters
+  companyInfoFilters,
+  chartDataFilters
 } from '../util/apiUtil';
 
 const setCompanyInfo = companyInfo => ({
@@ -48,6 +49,11 @@ const setChartData = (chartData, timeFrame) => ({
     timeFrame
 });
 
+const setCompanyNames = companyNames =>({
+  type: actions.SET_COMPANY_NAMES,
+  companyNames
+});
+
 const makeUrl = (service, symbol, params) => `https://cloud.iexapis.com/stable/stock/${symbol}/${service}/?token=${API_KEY}&${params}`;
 const createAction = (service, symbol, success, params = '') => ({
   type: actions.API,
@@ -63,8 +69,16 @@ export const fetchCompanyEPS = symbol => createAction('earnings/1/actualEPS', sy
 export const fetchDividendYield = symbol => createAction('stats', symbol, setDividendYield, statsFilters);
 export const fetchCompanyNews = symbol => createAction('news/last/5', symbol, setCompanyNews, newsFilters);
 export const fetchTopPeers = symbol => createAction('peers', symbol, setTopPeers);
-export const fetchChartDataDay = symbol => createAction('chart/1d', symbol, setChartDataDay);
-export const fetchChartData = (symbol, timeFrame) => createAction(`chart/${timeFrame}`, symbol, (chartData) => setChartData(chartData, timeFrame));
+export const fetchChartDataDay = symbol => createAction('chart/1d', symbol, setChartDataDay, chartDataFilters);
+export const fetchChartData = (symbol, timeFrame) => createAction(`chart/${timeFrame}`, symbol, (chartData) => setChartData(chartData, timeFrame), chartDataFilters);
+
+export const fetchCompanyNames = () => ({
+  type: actions.API,
+  payload: {
+    url: `https://api.iextrading.com/1.0/ref-data/symbols?filter=symbol,name`,
+    success: setCompanyNames
+  }
+});
 
 export const searchAction = symbol => ({
   type: actions.SEARCH,

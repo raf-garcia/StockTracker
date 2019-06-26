@@ -1,28 +1,24 @@
-import React, { Component } from 'react';
+import React, { useCallback, useState } from 'react';
+import SearchListContainer from '../searchList/searchListContainer';
 
-export default class SearchInput extends Component {
-  constructor(props) {
-    super(props);
-    this.state = { searchText: "" };
-  }
+const SearchInput = ({ searchAction }) => {
+  const [searchText, setSearchText] = useState('');
 
-  handleSubmit = (e) => {
-    const { searchAction } = this.props;
-    const { searchText } = this.state;
-    e.preventDefault();
+  const handleSubmit = useCallback(event => {
+    event.preventDefault();
     searchAction(searchText);
-  }
+  },
+    [searchAction, searchText]
+  );
 
-  update = (e) => {
-    this.setState({ searchText: e.target.value });
-  }
-
-  render() {
-    return (
-      <form onSubmit={ this.handleSubmit }>
-        <input type="text" value={ this.state.body } onChange={ this.update }/>
-        <button onClick={ this.handleSubmit }>Search</button>
+  return (
+    <>
+      <form onSubmit={handleSubmit}>
+        <input type="text" value={searchText} onChange={input => setSearchText(input.target.value)} size="100%" />
       </form>
-    );
-  }
+      <SearchListContainer searchText={searchText} searchAction={searchAction}/>
+    </>
+  );
 }
+
+export default SearchInput;

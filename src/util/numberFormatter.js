@@ -2,7 +2,7 @@ export const addCommasToNumber = (number) => {
     let subNumberArray = [];
     let decimal = '';
 
-    if (isNaN(number)) return NaN;
+    if (isNaN(number)) return null;
 
     if (typeof number == 'number')
         number = String(number);
@@ -25,7 +25,7 @@ export const addCommasToNumber = (number) => {
 }
 
 export const changeToPercent = (number) => {
-    if (isNaN(number)) return NaN;
+    if (isNaN(number) || number == null) return null;
 
     number = (number*100).toFixed(2);
     return String(number)+'%';

@@ -1,16 +1,18 @@
 import { SET_CHART_DATA } from '../../constants/actionTypes';
+import { timeFrameFormatter } from '../../util/timeFrameFormatter';
 
 const defaultState = {
-  "5DM": [],
-  "1M": [],
-  "5Y": [],
-  "MAX": []
+  "fiveDay": [],
+  "oneMonth": [],
+  "oneYear": [],
+  "fiveYear": [],
+  "max": []
 };
 
 const chartDataReducer = (state = defaultState, action) => {
   switch (action.type) {
     case SET_CHART_DATA:
-      return Object.assign({}, state, { [action.timeFrame]: action.chartData });
+      return Object.assign({}, state, { [timeFrameFormatter(action.timeFrame)]: action.chartData });
 
     default:
       return state;

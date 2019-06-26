@@ -1,5 +1,6 @@
 import {connect} from 'react-redux';
 import Header from './header';
+import {changeToPercent } from '../../util/numberFormatter';
 
 const mapStateToProps = state => {
     const {companyStats, companyInfo} = state.quotes;
@@ -9,7 +10,8 @@ const mapStateToProps = state => {
         sector: companyInfo.sector,
         latestPrice: companyStats.latestPrice,
         change: companyStats.change,
-        changePercent: companyStats.changePercent
+        changePercent: changeToPercent(companyStats.changePercent),
+        lastUpdate: state.lastUpdate
     };
 };
 
