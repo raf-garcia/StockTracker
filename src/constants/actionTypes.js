@@ -10,3 +10,4 @@ export const SET_CHART_DATA_DAY = 'SET_CHART_DATA_DAY';
 export const SET_CHART_DATA = 'SET_CHART_DATA';
 export const SET_UPDATE_TIME = 'SET_UPDATE_TIME';
 export const SET_COMPANY_NAMES = 'SET_COMPANY_NAMES';
+export const ERROR = 'ERROR';

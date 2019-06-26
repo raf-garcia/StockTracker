@@ -36,6 +36,14 @@
     background-color: var(--color-highlight);
 }
 
+.error{
+    display: block;
+    color:red;
+    text-align:center;
+    text-transform:uppercase;
+    font-size: 1.5rem;
+}
+
 /*SEARCH LAYOUT*/
 
 .header__search-layout{
