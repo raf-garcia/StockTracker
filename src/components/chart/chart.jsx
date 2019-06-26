@@ -48,8 +48,8 @@ export default class chart extends Component {
             </defs>
 
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="dateTime" />
-            <YAxis orientation="right" domain={['dataMin', 'auto']} />
+            <XAxis dataKey="dateTime" interval={"preserveStart"} tick={{stroke: '#f4f6f9', strokeWidth: 0.1}}/>
+            <YAxis orientation="right" domain={['dataMin', 'auto']} tick={{stroke: '#f4f6f9', strokeWidth: 0.1}} />
             <Tooltip cursor={{ stroke: 'red', strokeWidth: 2 }} labelStyle={{ color: 'black' }} />
             <Area type="monotone" dataKey="price" stroke="#8884d8" fill="url(#colorPrice)" fillOpacity={0.3} />
           </AreaChart>
