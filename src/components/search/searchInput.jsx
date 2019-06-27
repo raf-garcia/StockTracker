@@ -1,25 +1,32 @@
-import React, { useState } from 'react';
-import SearchListContainer from '../searchList/searchListContainer';
+import React, { useState, useEffect } from 'react';
+import SearchList from '../searchList/searchList';
+import {filterSearchList, validateSearch} from './filterSearchList';
 
-const SearchInput = ({ searchAction, symbol, companyName }) => {
+const SearchInput = ({ searchAction, symbol, companyName, companyNames, fetchCompanyNames }) => {
   const [searchText, setSearchText] = useState('');
 
-  const handleSubmit = () => {
+  useEffect(() => {
+    fetchCompanyNames();
+}, []);
 
+  const handleSubmit = () => {
     //reset the searchText on the input field
     let search = searchText;
-    setSearchText('');
 
-    searchAction(search);
+    if(validateSearch(companyNames, search)) {
+      setSearchText('');
+      searchAction(search);
+    }
     
   };
 
   return (
     <>
       <form onSubmit={handleSubmit}>
+      <i className="fas fa-search"></i>
         <input type="text" value={searchText} onChange={input => setSearchText(input.target.value)} placeholder={(companyName != null) ? `${companyName} (${symbol})` : 'Search' }/>
       </form>
-      <SearchListContainer searchText={searchText} searchAction={handleSubmit}/>
+      <SearchList searchText={searchText} searchAction={handleSubmit} companyNames={companyNames} filterSearchList={filterSearchList}/>
     </>
   );
 }
