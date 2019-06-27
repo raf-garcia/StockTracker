@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer} from 'recharts';
 
-export default class chart extends Component {
+export default class Chart extends Component {
   constructor(props) {
     super(props);
     this.state = { chartData: [] };
