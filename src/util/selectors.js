@@ -66,7 +66,7 @@ export const selectChartDataFiveDay = fiveDayDataArray => fiveDayDataArray.filte
 export const selectChartDataOneMonth = oneMonthDataArray => oneMonthDataArray.filter(data => data.close).map(data => ({ dateTime: data.label, price: data.close }));
 
 const yearDateFormatter = date => {
-    // 'Jun 19, 62'
+    
     const dateYear = date.split(' ')[2].toString();
     const dateNow = new Date();
     let dateYearNow = dateNow.toDateString().split(' ')[3].slice(2);
