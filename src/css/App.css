@@ -23,7 +23,7 @@ html {
 body, html {
   height: auto;
   min-height:100vh;
-  width: auto;
+  min-width: 70rem;
 }
 
 body {
