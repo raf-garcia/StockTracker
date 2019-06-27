@@ -1,7 +1,6 @@
 import React from 'react';
 import SearchInputContainer from '../search/searchInputContainer';
 import PriceOutput from './priceOutput';
-
 import './header.css'
 
 const SearchPriceLayout = ({latestPrice, change, changePercent}) => {
