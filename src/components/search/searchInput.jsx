@@ -7,7 +7,7 @@ const SearchInput = ({ searchAction, symbol, companyName, companyNames, fetchCom
 
   useEffect(() => {
     fetchCompanyNames();
-}, []);
+  }, []);
 
   const handleSubmit = () => {
     //reset the searchText on the input field
@@ -17,7 +17,6 @@ const SearchInput = ({ searchAction, symbol, companyName, companyNames, fetchCom
       setSearchText('');
       searchAction(search);
     }
-    
   };
 
   return (
