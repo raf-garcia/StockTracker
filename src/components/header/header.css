@@ -91,16 +91,21 @@
 
 .header__search-layout input{
     background-color:transparent;
+    display:inline-block;
     border:none;
     color:inherit;
     font-size: var(--font-size-large);
     font-weight: 200;
-    width: 100%;
+    width: 80%;
 }
 
 .header__search-layout input::placeholder{
     color: #6989af;
     
+}
+
+.header__search-layout .fas{
+    padding-right: 0.5rem;
 }
 
 /*HEADER BOTTOM*/
