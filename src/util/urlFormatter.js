@@ -1,1 +1,1 @@
-export const urlFormatter = (url) => url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+export const urlFormatter = (url) => (url == null)? null : url.replace(/^https?:\/\//, '').replace(/\/$/, '');

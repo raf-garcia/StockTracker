@@ -3,9 +3,9 @@ import React from 'react'
 const HeaderTabs = () => {
     return(
     <div className="header-tabs">
-        <a href="localhost:3000">QUOTES</a>
-        <a href="localhost:3000">MARKETS</a>
-        <a href="localhost:3000">WATCHLISTS</a>
+        <a href="#">QUOTES</a>
+        <a href="#">MARKETS</a>
+        <a href="#">WATCHLISTS</a>
     </div>
     );
 }

@@ -1,12 +1,7 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import SearchListItem from './searchListItem';
-import {filterSearchList} from './filterSearchList';
 
-const SearchList = ({searchText, companyNames, fetchCompanyNames, searchAction}) => {
-
-    useEffect(() => {
-        fetchCompanyNames();
-    }, []);
+const SearchList = ({searchText, companyNames, fetchCompanyNames, searchAction, filterSearchList}) => {
 
     const searchSuggestions = filterSearchList(companyNames, searchText);
     return (

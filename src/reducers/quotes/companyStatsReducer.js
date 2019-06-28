@@ -15,7 +15,11 @@ const companyStatsReducer = (state = defaultState, action) => {
       return Object.assign({}, state, action.companyStats);
       
     case SET_COMPANY_EPS:
-      return Object.assign({}, state, { "actualEPS": action.earningsPerShare});
+      if (typeof action.earningsPerShare === 'object') {
+        return Object.assign({}, state, { "actualEPS": action.earningsPerShare.earnings[0].actualEPS });
+      } else {
+        return Object.assign({}, state, { "actualEPS": action.earningsPerShare});
+      }
       
     case SET_DIVIDENDYIELD:
       return Object.assign({}, state, {"dividendYield": action.dividendYield});

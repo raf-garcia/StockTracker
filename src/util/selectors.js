@@ -52,7 +52,7 @@ export const selectCompanyStats = (companyData) => {
             name: "Earnings Per Share"
         },
         {
-            value: changeToPercent(companyData.dividendYield),
+            value: Number(changeToPercent(companyData.dividendYield))+'%',
             name: "Dividend & Yield"
         }
     ]
@@ -66,10 +66,11 @@ export const selectChartDataFiveDay = fiveDayDataArray => fiveDayDataArray.filte
 export const selectChartDataOneMonth = oneMonthDataArray => oneMonthDataArray.filter(data => data.close).map(data => ({ dateTime: data.label, price: data.close }));
 
 const yearDateFormatter = date => {
-    // 'Jun 19, 62'
-    const dateYear = date.split(' ')[2].toString();
-    const dateNow = new Date();
-    let dateYearNow = dateNow.toDateString().split(' ')[3].slice(2);
+
+    const dateYearNow = new Date().getFullYear();
+    
+    var dateYear = date.split(' ')[2];
+    dateYear = (dateYear) ? dateYear.toString() : String(dateYearNow).slice(2);
 
     if (dateYear > dateYearNow) {
         return '19' + dateYear;

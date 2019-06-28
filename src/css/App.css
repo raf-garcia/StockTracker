@@ -23,7 +23,7 @@ html {
 body, html {
   height: auto;
   min-height:100vh;
-  width: auto;
+  min-width: 70rem;
 }
 
 body {
@@ -38,13 +38,14 @@ body {
 
   color: var(--color-white);
   font-family: 'Lato', sans-serif;
-  padding: 0 2rem;
+  padding: 0 5rem;
 }
 
 .section-data {
   position:relative;
   width: 100%;
   margin-top:1.5rem;
+  padding-bottom: 3rem;
 }
 
 /* section heading style */
@@ -73,14 +74,14 @@ body {
   text-align:right;
 }
 
-.chart__select a{
+.chart__select a {
   margin: 0rem 0rem 1rem 0.5rem;
   display:inline-block;
   color:inherit;
   text-decoration: none;
   font-weight: 100;
 }
-.chart__select a:visited, .chart__select a:hover{
+.chart__select a:target, .chart__select a:hover{
   font-weight: 300;
   color: var(--color-white);
 }
@@ -164,11 +165,7 @@ body {
   font-weight: 100;
 }
 
-
 /* Company Information Styles */
-.section-companyinfo {
-  /* margin: 1rem 0 2rem 0; */
-}
 
 .section-companyinfo__name {
   padding-bottom: 0.7rem;
@@ -187,11 +184,12 @@ body {
 
 .section-companyinfo__description {
   padding-top: 0.7rem;
+  line-height: 1.5;
 }
 
 /* Top Peers Styles */
 .section-topPeers {
-  margin-top: var(--margin-component-top);
+  margin-top: 3rem;
 }
 .section-topPeers__peer:not(:last-child){
   margin-right: 1rem;

@@ -4,12 +4,12 @@ import ChartContainer from '../chart/chartContainer';
 import NewsList from './newsList';
 
 const ChartStatsLayout = ({ newsList}) => {
-    return(
-        <div className = "section-chart-news">
-            <ChartContainer />
-            <NewsList newsList={newsList}/>
-        </div>
-    );
+  return (
+    <div className = "section-chart-news">
+      <ChartContainer />
+      <NewsList newsList={newsList}/>
+    </div>
+  );
 }
 
 const mapStateToProps = state => ({

@@ -5,6 +5,7 @@ const CompanyTags = ({exchange, sector}) =>{
         <div className='company-tags'>
             <span>{exchange}</span>
             <span>{sector}</span>
+            <span>USD</span>
         </div>
     );
 }

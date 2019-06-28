@@ -7,6 +7,7 @@
     --font-size-large: 1.75rem;
     --color-dimmed: #6989af;
     --tags-color: #476088;
+    --color-green: #00CD82;
 }
 
 .header-wrapper{
@@ -36,7 +37,21 @@
     background-color: var(--color-highlight);
 }
 
+.error{
+    display: block;
+    color:red;
+    text-align:center;
+    text-transform:uppercase;
+    font-size: 1.5rem;
+}
+
 /*SEARCH LAYOUT*/
+.header__price.negative {
+    color: var(--color-red);
+}
+.header__price.positive {
+    color: var(--color-green);
+}
 
 .header__search-layout{
     font-size: var(--font-size-large);
@@ -50,28 +65,47 @@
 
 .header__price--change{
     display:inline-block;
-    color: var(--color-red);
 }
 
 .header__price--change span{
     padding-left: 0.8rem;
 }
+.header__price .icon--small{
+    padding: 0;
+    font-size: 0.65em;
+    display:inline-block;
+    transform:translateY(-30%);
+}
 .header__price--change span:not(:last-child){
     border-right: solid rgba(178, 37, 46, 0.45) 2px;
     padding-right: 0.8rem;
 }
+.header__price.positive .header__price--change span:not(:last-child){
+    border-right: solid rgba(37, 178, 112, 0.45) 2px;
+}
+
+
+.header__search-layout form{
+    width: var(--width-left-side);
+}
 
 .header__search-layout input{
     background-color:transparent;
+    display:inline-block;
     border:none;
     color:inherit;
     font-size: var(--font-size-large);
     font-weight: 200;
+    width: 80%;
 }
 
 .header__search-layout input::placeholder{
     color: #6989af;
     
+}
+
+.header__search-layout .fas{
+    padding-right: 0.5rem;
 }
 
 /*HEADER BOTTOM*/
